@@ -1,0 +1,4466 @@
+{
+  "title": "lecture_15_vision",
+  "slideCount": 83,
+  "pageDimensions": {
+    "width": 720,
+    "height": 405,
+    "unit": "pt"
+  },
+  "slides": [
+    {
+      "slideNumber": 1,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 117.55905511811024,
+            "top": 78.36970590551181,
+            "width": 578.5275590551181,
+            "height": 72.04724409448819,
+            "rotation": 0
+          },
+          "plainText": "Bioorganic Chemistry",
+          "textRuns": [
+            {
+              "text": "Bioorganic Chemistry\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 496.35779527559055,
+            "top": 287.35498326771653,
+            "width": 163.2755905511811,
+            "height": 24.73228346456693,
+            "rotation": 0
+          },
+          "plainText": "Tymchyshyn V.B.",
+          "textRuns": [
+            {
+              "text": "Tymchyshyn V.B.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 137.4035433070866,
+            "top": 175.2204724409449,
+            "width": 528.7795275590552,
+            "height": 63.54330708661417,
+            "rotation": 0
+          },
+          "plainText": "Lecture 15: Biochemistry of Vision",
+          "textRuns": [
+            {
+              "text": "Lecture 15: Biochemistry of Vision\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 2,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Vision",
+          "textRuns": [
+            {
+              "text": "Vision\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 113.75294685039371,
+            "top": 84.90033602362205,
+            "width": 578.5275590551181,
+            "height": 267.5196850393701,
+            "rotation": 0
+          },
+          "plainText": "Most information about the environment we get from visual stimulæ\nMore than 50% of the cerebral cortex is involved in visual processing\nVision is highly contextual, brain integrates previous experience to build a model of the world\nWe rather see with brain than eyes\nSaccadic masking: the brain selectively blocks visual processing during eye movements in such a way that neither the motion of the eye (and subsequent motion blur of the image) nor the gap in visual perception is noticeable to the viewer.",
+          "textRuns": [
+            {
+              "text": "Most information about the environment we get from visual stimulæ\nMore than 50% of the cerebral cortex is involved in visual processing\nVision is highly contextual, brain integrates previous experience to build a model of the world\nWe rather see with brain than eyes\nSaccadic masking: the brain selectively blocks visual processing during eye movements in such a way that neither the motion of the eye (and subsequent motion blur of the image) nor the gap in visual perception is noticeable to the viewer.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 3,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Ames Window",
+          "textRuns": [
+            {
+              "text": "Ames Window\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 138.81490039370078,
+            "top": 74.51062952755905,
+            "width": 532.3019842519685,
+            "height": 299.42032677165355,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=uREz5GNr5AM"
+        }
+      ]
+    },
+    {
+      "slideNumber": 4,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Ames Window",
+          "textRuns": [
+            {
+              "text": "Ames Window\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 166.81946476377954,
+            "top": 82.27773326771653,
+            "width": 519.228220472441,
+            "height": 292.06629921259844,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=7SN_Ga36xuM"
+        }
+      ]
+    },
+    {
+      "slideNumber": 5,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 115.77165393700788,
+            "top": 32.561023622047244,
+            "width": 604.2283464566929,
+            "height": 339.8779488188976,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=e4qsX4XDtYY"
+        }
+      ]
+    },
+    {
+      "slideNumber": 6,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.81889763779527,
+            "top": 71.70662874015748,
+            "width": 595.1593228346456,
+            "height": 290.3031277559055,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_6_img_1.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 153.44405728346456,
+            "top": 323.52040374015746,
+            "width": 567.8267716535433,
+            "height": 28.937007874015748,
+            "rotation": 0
+          },
+          "plainText": "vitreous chamber",
+          "textRuns": [
+            {
+              "text": "vitreous chamber\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 141.21259842519686,
+            "top": 0,
+            "width": 218.78740157480314,
+            "height": 125.43307086614173,
+            "rotation": 0
+          },
+          "plainText": "● Air, n = 1.00029\n● Thin film of tears, n = 1.33\n● Cornea, n = 1.376\n● Aqueous humor, n = 1.336\n● Lens, n = 1.386\n● Vitreous body, n = 1.336",
+          "textRuns": [
+            {
+              "text": "● Air, n = 1.00029\n● Thin film of tears, n = 1.33\n● Cornea, n = 1.376\n● Aqueous humor, n = 1.336\n● Lens, n = 1.386\n● Vitreous body, n = 1.336\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 7,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Model",
+          "textRuns": [
+            {
+              "text": "Model\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 147.83279803149608,
+            "top": 89.83235748031495,
+            "width": 514.2661417322835,
+            "height": 289.2755196850394,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=ZapmK0uft8U"
+        }
+      ]
+    },
+    {
+      "slideNumber": 8,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Refocus",
+          "textRuns": [
+            {
+              "text": "Refocus\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 136.03006102362204,
+            "top": 75.71241003937008,
+            "width": 537.8710551181103,
+            "height": 302.55282283464567,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=N1k4Vh2zgvc"
+        }
+      ]
+    },
+    {
+      "slideNumber": 9,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 162.90239940944883,
+            "top": 10.884658464566929,
+            "width": 491.57605688976383,
+            "height": 383.2306122047244,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_9_img_2.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 139.01995157480314,
+            "top": 260.27296732283463,
+            "width": 157.58267716535434,
+            "height": 133.84251968503938,
+            "rotation": 0
+          },
+          "plainText": "Note: lite should pass few layers of cells before reaching photoreceptors",
+          "textRuns": [
+            {
+              "text": "Note: lite should pass few layers of cells before reaching photoreceptors\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 10,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 155.7082690944882,
+            "top": 0,
+            "width": 503.00028366141737,
+            "height": 405.0000354330708,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_10_img_3.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 11,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 280.8340157480315,
+            "top": 0,
+            "width": 293.88587204724405,
+            "height": 208.11123779527557,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_11_img_4.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 359.2062992125984,
+            "top": 203.76594862204723,
+            "width": 132.90425984251968,
+            "height": 194.61255314960633,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_11_img_5.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 492.1107917322834,
+            "top": 232.35750492125985,
+            "width": 109.78934881889761,
+            "height": 163.655562992126,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_11_img_6.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 124.08944881889764,
+            "top": 19.59238523622047,
+            "width": 169.8188976377953,
+            "height": 433.46456692913387,
+            "rotation": 0
+          },
+          "plainText": "In the central retina, relatively few photoreceptors feed information to a ganglion cell; in the peripheral retina, many photoreceptors provide input. This arrangement makes the peripheral retina better at detecting dim light but the central retina better for high-resolution vision.",
+          "textRuns": [
+            {
+              "text": "In the central retina, relatively few photoreceptors feed information to a ganglion cell; in the peripheral retina, many photoreceptors provide input. This arrangement makes the peripheral retina better at detecting dim light but the central retina better for high-resolution vision.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 594.3231496062991,
+            "top": 6.530795078740158,
+            "width": 117.54330708661418,
+            "height": 225.82677165354332,
+            "rotation": 0
+          },
+          "plainText": "At a more peripheral location on the retina, the cone inner segments are larger and appear as islands in a sea of smaller rod inner segments.",
+          "textRuns": [
+            {
+              "text": "At a more peripheral location on the retina, the cone inner segments are larger and appear as islands in a sea of smaller rod inner segments.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 12,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Blind Spot. Close right eye, look at the cross",
+          "textRuns": [
+            {
+              "text": "Blind Spot. Close right eye, look at the cross\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 32.65511811023622,
+            "top": 124.85646003937008,
+            "width": 687.2506291338583,
+            "height": 182.0909149606299,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_12_img_7.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 13,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 135.67540393700787,
+            "top": 6.324803543307087,
+            "width": 548.3561062992126,
+            "height": 291.00790767716535,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_13_img_8.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 135.67511811023624,
+            "top": 288.8745338582677,
+            "width": 509.40944881889754,
+            "height": 116.1259842519685,
+            "rotation": 0
+          },
+          "plainText": "The outer segment consists of a stack of membranous discs that contain the light-absorbing photopigments. In both types of cells these discs are formed by infolding of the plasma membrane. In rods, however, the folds pinch off from the membrane so that the discs are free floating within the outer segment, whereas in cones the discs remain part of the plasma membrane",
+          "textRuns": [
+            {
+              "text": "The outer segment consists of a stack of membranous discs that contain the light-absorbing photopigments. In both types of cells these discs are formed by infolding of the plasma membrane. In rods, however, the folds pinch off from the membrane so that the discs are free floating within the outer segment, whereas in cones the discs remain part of the plasma membrane\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 14,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120.15944881889764,
+            "top": 12.374015748031496,
+            "width": 308.25,
+            "height": 380.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_14_img_9.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 440.40944881889766,
+            "top": 12,
+            "width": 267.5905982283465,
+            "height": 176.94631850393702,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_14_img_10.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 440.40944881889766,
+            "top": 200.94631850393702,
+            "width": 250.0997891732284,
+            "height": 192.05370629921262,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_14_img_11.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 482.4685039370079,
+            "top": 364.75,
+            "width": 104.40944881889764,
+            "height": 27.874015748031496,
+            "rotation": 0
+          },
+          "plainText": "Lys tail is shown !",
+          "textRuns": [
+            {
+              "text": "Lys tail is shown !\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 15,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 348.75,
+            "top": 0,
+            "width": 371.25,
+            "height": 194.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_15_img_12.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 122.97047244094489,
+            "top": 26.223425196850393,
+            "width": 225.7795275590551,
+            "height": 141.8031496062992,
+            "rotation": 0
+          },
+          "plainText": "Retinal–lysine linkage.\nRetinal is linked to lysine 296 in opsin by a Schiff-base linkage. In the resting state of\nrhodopsin, this Schiff base is protonated.",
+          "textRuns": [
+            {
+              "text": "Retinal–lysine linkage.\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Retinal is linked to lysine 296 in opsin by a Schiff-base linkage. In the resting state of\nrhodopsin, this Schiff base is protonated.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 122.97046929133857,
+            "top": 223.67455984251967,
+            "width": 597.0296125984253,
+            "height": 162.0970724409449,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_15_img_13.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 16,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Natural Pigments (see what’s common?)",
+          "textRuns": [
+            {
+              "text": "Natural Pigments (see what’s common?)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.08944881889764,
+            "top": 84.90033602362205,
+            "width": 468.9058677165355,
+            "height": 302.01070078740156,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_16_img_14.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 17,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 0,
+            "top": 0,
+            "width": 378.7861606299212,
+            "height": 199.5234590551181,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_17_img_15.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 463.7026771653543,
+            "top": 115.21453818897638,
+            "width": 254.70097480314962,
+            "height": 172.14048503937008,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_17_img_16.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 0,
+            "top": 200.4234157480315,
+            "width": 378.78611929133854,
+            "height": 204.35728740157478,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_17_img_17.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 18,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 137.12578346456692,
+            "top": 19.59238523622047,
+            "width": 457.1813102362205,
+            "height": 104.05560118110236,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_18.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133.57743188976377,
+            "top": 125.73066102362205,
+            "width": 512.976033464567,
+            "height": 187.74747874015753,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_19.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 516.7993850393701,
+            "top": 320.00895866141735,
+            "width": 77.52105472440942,
+            "height": 59.16284291338582,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_20.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 19,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.56904704724408,
+            "top": 5.605170669291338,
+            "width": 300.46799527559057,
+            "height": 353.58857893700787,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_19_img_21.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 431.04755905511814,
+            "top": 33.553887992125986,
+            "width": 284.29522618110235,
+            "height": 306.0475,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_19_img_22.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 20,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 126.17047677165354,
+            "top": 57.96804763779527,
+            "width": 240.73952480314964,
+            "height": 347.03193937007876,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_20_img_23.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 455.1589212598425,
+            "top": 0.03213976377952756,
+            "width": 264.8314600393701,
+            "height": 404.93504330708663,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_20_img_24.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 168.64960059055116,
+            "top": 17.875983267716535,
+            "width": 59.89174763779529,
+            "height": 57.40351141732284,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_20_img_25.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 330.03911102362207,
+            "top": 93.31692755905512,
+            "width": 110.69907401574807,
+            "height": 70.47243444881892,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_20_img_26.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 21,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.46062992125985,
+            "top": 147.09448818897638,
+            "width": 438.1594917322834,
+            "height": 237.11026771653545,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_21_img_27.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.46062992125985,
+            "top": 7.562992125984252,
+            "width": 554.9341387795275,
+            "height": 123.09448169291339,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_21_img_28.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 455.248031496063,
+            "top": 285.79330708661416,
+            "width": 231.14173228346456,
+            "height": 78.77952755905511,
+            "rotation": 0
+          },
+          "plainText": "Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.",
+          "textRuns": [
+            {
+              "text": "Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 22,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 19.59238523622047,
+            "width": 338.5728,
+            "height": 354.46270866141737,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_22_img_29.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 489.8267716535433,
+            "top": 52.24636062992126,
+            "width": 209.00787401574803,
+            "height": 300.4251968503937,
+            "rotation": 0
+          },
+          "plainText": "- Rhodopsin is highly sensitive to light, with a quantum efficiency of 67% [21], meaning that for every three photons absorbed by rhodopsin, two of them will result in isomerization of retinal from the 11-cis to the all-trans conformation\n\n- model 1f88",
+          "textRuns": [
+            {
+              "text": "- Rhodopsin is highly sensitive to light, with a quantum efficiency of 67% [21], meaning that for every three photons absorbed by rhodopsin, two of them will result in isomerization of retinal from the 11-cis to the all-trans conformation\n\n- model 1f88\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 23,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 128.07087933070866,
+            "top": 0,
+            "width": 591.9291732283465,
+            "height": 227.93698169291338,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_23_img_30.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 118.45669291338582,
+            "top": 227.93698169291338,
+            "width": 323.13300000000004,
+            "height": 153.063,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_23_img_31.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 537.0843866141732,
+            "top": 232.69103602362205,
+            "width": 182.9153273622047,
+            "height": 172.3090885826772,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_23_img_32.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 24,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Color Vision",
+          "textRuns": [
+            {
+              "text": "Color Vision\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 97.70480826771653,
+            "width": 578.5275590551181,
+            "height": 234.85039370078738,
+            "rotation": 0
+          },
+          "plainText": "Most Mammals – 2 colors\nHuman, Primates – 3 colors\nMantis shrimp – 16\nEach of the four visual opsins binds the same chromophore, 11-cis-retinal, as a protonated Schiff base\nOpsin is a seven-a-helix-transmembrane protein, and is a member of the G-protein coupled receptor (GPCR) family",
+          "textRuns": [
+            {
+              "text": "Most Mammals – 2 colors\nHuman, Primates – 3 colors\nMantis shrimp – 16\nEach of the four visual opsins binds the same chromophore, 11-cis-retinal, as a protonated Schiff base\nOpsin is a seven-a-helix-transmembrane protein, and is a member of the G-protein coupled receptor (GPCR) family\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 25,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Rhodopsin",
+          "textRuns": [
+            {
+              "text": "Rhodopsin\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 159.70134783464567,
+            "top": 61.155496456692916,
+            "width": 490.52951141732274,
+            "height": 298.6424533464567,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_25_img_33.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 150.26961122047243,
+            "top": 344.46551476377954,
+            "width": 509.4094488188976,
+            "height": 85.22834645669292,
+            "rotation": 0
+          },
+          "plainText": "Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, and retinal, a small molecule derived from vitamin A.",
+          "textRuns": [
+            {
+              "text": "Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, and retinal, a small molecule derived from vitamin A.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 26,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.08944881889764,
+            "top": 6.530795078740158,
+            "width": 594.3023547244094,
+            "height": 225.5694803149606,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_26_img_34.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 261.23180295275586,
+            "width": 529.0157480314961,
+            "height": 97.86614173228347,
+            "rotation": 0
+          },
+          "plainText": "The L and M opsins are most closely related, with 96% identity in their amino acid sequences. They are thought to derive from a gene-duplication event approximately 30 million years ago, after Old World monkeys, which have three pigments, separated from New World monkeys, which generally have only two.",
+          "textRuns": [
+            {
+              "text": "The L and M opsins are most closely related, with 96% identity in their amino acid sequences. They are thought to derive from a gene-duplication event approximately 30 million years ago, after Old World monkeys, which have three pigments, separated from New World monkeys, which generally have only two.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 27,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 0,
+            "width": 589.3142574803151,
+            "height": 186.6162277559055,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_27_img_35.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.62007874015748,
+            "top": 189.3937541338583,
+            "width": 529.0157480314961,
+            "height": 186.61417322834646,
+            "rotation": 0
+          },
+          "plainText": "Wavelength regulation mechanisms. \n\nA: Rotation along the single bond C6-C7 or twisting along double bond C11=C12 could alter the degree of conjugation for 11-cis-retinal. The whole retinal could be divided into three planes: one composed of the first double bond C5=C6 in the ionone ring; one composed of C7=C8-C9=C10-C11; one composed of C12-C13=C14-C15=N. The three planes are not planar due to steric hindrance of C5-CH3 and C8-H, and C10-H and C13-CH3.",
+          "textRuns": [
+            {
+              "text": "Wavelength regulation mechanisms. \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "A:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Rotation along the single bond C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "6",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "7",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " or twisting along double bond C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "11",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "12",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " could alter the degree of conjugation for 11-cis-retinal. The whole retinal could be divided into three planes: one composed of the first double bond C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "5",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "6",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " in the ionone ring; one composed of C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "7",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "8",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "9",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "10",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "11",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "; one composed of C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "12",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "13",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "14",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "15",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=N. The three planes are not planar due to steric hindrance of C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "5",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-CH",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "3",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " and C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "8",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-H, and C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "10",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-H and C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "13",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-CH",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "3",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 28,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 0,
+            "width": 589.3142574803151,
+            "height": 186.6162277559055,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_28_img_36.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 189.39305708661416,
+            "width": 529.0157480314961,
+            "height": 170.97637795275594,
+            "rotation": 0
+          },
+          "plainText": "Wavelength regulation mechanisms. \n\nB: Resonance of the positive charge along the polyene provides the opportunity for interactions at different locations to stabilize and/or extend the delocalization of the positive charge. It has been hypothesized that different opsins could alter the wavelength of absorption through electrostatic interactions with the polyene at different locations.",
+          "textRuns": [
+            {
+              "text": "Wavelength regulation mechanisms. \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "B:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Resonance of the positive charge along the polyene provides the opportunity for interactions at different locations to stabilize and/or extend the delocalization of the positive charge. It has been hypothesized that different opsins could alter the wavelength of absorption through electrostatic interactions with the polyene at different locations. \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 29,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 0,
+            "width": 589.3142574803151,
+            "height": 186.6162277559055,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_29_img_37.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.62047244094487,
+            "top": 189.39066673228348,
+            "width": 529.0157480314961,
+            "height": 205.13385826771656,
+            "rotation": 0
+          },
+          "plainText": "Wavelength regulation mechanisms.  \n\nC: The two different C6/C7 rotomeric configurations for all-trans-retinal. Obtained in a gas phase, probably not present in the eye.\n\nSince the 6-s-cis rotamer is highly twisted because of steric repulsion between the gemdimethyl group and C8H, the first double bond is significantly less conjugated with the polyene. This results in a large blue shift (absorbing at 530 nm) compared to the 6-s-trans rotamer,\nwhich absorbs at 610 nm.",
+          "textRuns": [
+            {
+              "text": "Wavelength regulation mechanisms.  \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "C:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The two different C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "6",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "/C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "7",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " rotomeric configurations for all-trans-retinal. Obtained in a gas phase, probably not present in the eye.\n\nSince the 6-s-cis rotamer is highly twisted because of steric repulsion between the gemdimethyl group and C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "8",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "H, the first double bond is significantly less conjugated with the polyene. This results in a large blue shift (absorbing at 530 nm) compared to the 6-s-trans rotamer,\nwhich absorbs at 610 nm.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 30,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 150.1791338582677,
+            "top": 12,
+            "width": 569.8201102362204,
+            "height": 381.0000029527559,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_30_img_38.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 31,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 125.38582421259842,
+            "top": -0.000984251968503937,
+            "width": 594.6141732283464,
+            "height": 355.35236062992124,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_31_img_39.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 114.56889763779527,
+            "top": 349.31692913385825,
+            "width": 606.496062992126,
+            "height": 53.31496062992126,
+            "rotation": 0
+          },
+          "plainText": "How female capuchins see the world: sympatric primates (Ateles geoffroyi), ripe dietary fruits (Ficus ovalis) and predators (Puma concolor).",
+          "textRuns": [
+            {
+              "text": "How female ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "capuchins ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "see the world: sympatric primates (Ateles geoffroyi), ripe dietary fruits (Ficus ovalis) and predators (Puma concolor).\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 32,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.9744094488189,
+            "top": 0,
+            "width": 540.8031496062993,
+            "height": 58.181102362204726,
+            "rotation": 0
+          },
+          "plainText": "X Chromosome, normally first 2 genes are expressed due to shared locus control region, LCR",
+          "textRuns": [
+            {
+              "text": "X Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", normally first 2 genes are expressed due to shared locus control region, LCR\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 116.97441496062993,
+            "top": 53.135934645669295,
+            "width": 577.8071486220472,
+            "height": 82.15353169291338,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_40.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 116.97441318897638,
+            "top": 180.67322834645668,
+            "width": 609.0532346456692,
+            "height": 96.27363582677168,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_41.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.9744094488189,
+            "top": 144.3188976377953,
+            "width": 540.8031496062993,
+            "height": 36.354330708661415,
+            "rotation": 0
+          },
+          "plainText": "7-th Chromosome, OPN1SW",
+          "textRuns": [
+            {
+              "text": "7-th Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "OPN1SW\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 116.97440866141733,
+            "top": 311.6043307086614,
+            "width": 609.0531468503937,
+            "height": 93.39481437007875,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_42.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.22539370078741,
+            "top": 283.2204724409449,
+            "width": 600.496062992126,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "3-th Chromosome, RHO",
+          "textRuns": [
+            {
+              "text": "3-th Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", RHO\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 33,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 375.47487244094486,
+            "top": 12.01771653543307,
+            "width": 123.73228346456693,
+            "height": 35.62204724409449,
+            "rotation": 0
+          },
+          "plainText": "Cell",
+          "textRuns": [
+            {
+              "text": "Cell\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 238.60442500000002,
+            "top": 75.74524389763779,
+            "width": 123.73228346456693,
+            "height": 35.62204724409449,
+            "rotation": 0
+          },
+          "plainText": "Rode",
+          "textRuns": [
+            {
+              "text": "Rode\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 499.19905039370076,
+            "top": 75.74524389763779,
+            "width": 123.73228346456693,
+            "height": 35.62204724409449,
+            "rotation": 0
+          },
+          "plainText": "Cone",
+          "textRuns": [
+            {
+              "text": "Cone\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 192.68307086614172,
+            "top": 16.11728287401575,
+            "width": 159.35433070866142,
+            "height": 27.40157480314961,
+            "rotation": 0
+          },
+          "plainText": "NRL → NR2E3 → RHO",
+          "textRuns": [
+            {
+              "text": "NRL → NR2E3 → RHO",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 547.9148696850394,
+            "top": 24.53905098425197,
+            "width": 75,
+            "height": 27.401574803149604,
+            "rotation": 0
+          },
+          "plainText": "No NRL",
+          "textRuns": [
+            {
+              "text": "No NRL",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 238.60450964566928,
+            "top": 176.15215885826774,
+            "width": 123.73228346456696,
+            "height": 35.62204724409449,
+            "rotation": 0
+          },
+          "plainText": "OPN1SW",
+          "textRuns": [
+            {
+              "text": "OPN1SW",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 377.86626318897635,
+            "top": 55.75,
+            "width": 105.80314960629921,
+            "height": 75.61417322834646,
+            "rotation": 0
+          },
+          "plainText": "Low THRB (thyroid hormone receptor β)",
+          "textRuns": [
+            {
+              "text": "Low THRB (thyroid hormone receptor β)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 499.19905039370076,
+            "top": 162.80344881889764,
+            "width": 123.73228346456693,
+            "height": 35.62204724409449,
+            "rotation": 0
+          },
+          "plainText": "L/M",
+          "textRuns": [
+            {
+              "text": "L/M",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 604.4783464566929,
+            "top": 121.77854330708661,
+            "width": 92.95275590551181,
+            "height": 30.614173228346456,
+            "rotation": 0
+          },
+          "plainText": "High THRB",
+          "textRuns": [
+            {
+              "text": "High THRB",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120.9980311023622,
+            "top": 276.55708700787403,
+            "width": 302.72467401574806,
+            "height": 75.61417322834646,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_33_img_43.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 455.7421307086614,
+            "top": 263.0275570866142,
+            "width": 259.3455370078741,
+            "height": 91.66138582677165,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_33_img_44.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 145.41535433070865,
+            "top": 141.86122047244095,
+            "width": 181.86614173228347,
+            "height": 36.354330708661415,
+            "rotation": 0
+          },
+          "plainText": "7-th Chromosome",
+          "textRuns": [
+            {
+              "text": "7-th Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 112.96653543307086,
+            "top": 43.51968503937008,
+            "width": 169.251968503937,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "3-th Chromosome",
+          "textRuns": [
+            {
+              "text": "3-th Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 388.56102362204723,
+            "top": 231.94291338582678,
+            "width": 159.35433070866142,
+            "height": 36.354330708661415,
+            "rotation": 0
+          },
+          "plainText": "X Chromosome",
+          "textRuns": [
+            {
+              "text": "X Chromosome",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 34,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 360,
+            "top": 0,
+            "width": 358.7795007874017,
+            "height": 380.9999834645669,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_34_img_45.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.39566929133858,
+            "top": 253.16141732283464,
+            "width": 215.38581259842522,
+            "height": 62.37991496062991,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_34_img_46.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.39566929133858,
+            "top": 333.29810944881893,
+            "width": 215.3858220472441,
+            "height": 57.396771259842495,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_34_img_47.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 125.38582677165354,
+            "top": 14.021653543307087,
+            "width": 234.61417322834646,
+            "height": 227.85826771653544,
+            "rotation": 0
+          },
+          "plainText": "A. Arrangement of L- and M-pigment genes in color-normal males. The base of each arrow corresponds to the 5′ end of the gene, and the tip corresponds to the 3′ end. Males with normal color vision can have one, two, or three copies of the gene for the M pigment on each X chromosome.",
+          "textRuns": [
+            {
+              "text": "A.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Arrangement of L- and M-pigment genes in color-normal males. The base of each arrow corresponds to the 5′ end of the gene, and the tip corresponds to the 3′ end. Males with normal color vision can have one, two, or three copies of the gene for the M pigment on each X chromosome.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 499.248031496063,
+            "top": 225.53346456692913,
+            "width": 205.11023622047244,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "recombination",
+          "textRuns": [
+            {
+              "text": "recombination\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 35,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 406.60236692913384,
+            "top": 39.65944881889764,
+            "width": 313.3976503937008,
+            "height": 221.99018976377957,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_35_img_48.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 105.96426318897637,
+            "top": 39.65944881889764,
+            "width": 300.63813897637795,
+            "height": 221.99018700787406,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_35_img_49.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 137.4035433070866,
+            "top": 297.6417322834646,
+            "width": 582.5905511811023,
+            "height": 56.48031496062992,
+            "rotation": 0
+          },
+          "plainText": "Comparison of RGB-cones in retina and Bayer filter for CCd matrix in photo cameras",
+          "textRuns": [
+            {
+              "text": "Comparison of RGB-cones in retina and Bayer filter for CCd matrix in photo cameras\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 36,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 137.15149606299215,
+            "top": 8.304908661417324,
+            "width": 521.8209007874016,
+            "height": 265.98844862204726,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_50.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 143.68251968503938,
+            "top": 300.08232007874017,
+            "width": 509.4094488188976,
+            "height": 85.22834645669292,
+            "rotation": 0
+          },
+          "plainText": "Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, and retinal, a small molecule derived from vitamin A.",
+          "textRuns": [
+            {
+              "text": "Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, and retinal, a small molecule derived from vitamin A.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 37,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 315.4959846456693,
+            "top": 0,
+            "width": 404.5040003937008,
+            "height": 404.99997145669295,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_37_img_51.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 125.38582677165354,
+            "top": 39.25787401574803,
+            "width": 190.11023622047244,
+            "height": 324.8031496062992,
+            "rotation": 0
+          },
+          "plainText": "Light transduction and G-proteins. G-protein-coupled receptors and photoreceptors use similar mechanisms. \n(a) At a G-protein-coupled receptor, the binding\nof neurotransmitter activates G-proteins and effector enzymes. \n(b) In a photoreceptor, light begins a similar process using the G-protein transducin.",
+          "textRuns": [
+            {
+              "text": "Light transduction and G-proteins. ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "G-protein-coupled receptors and photoreceptors use similar mechanisms. \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(a)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " At a G-protein-coupled receptor, the binding\nof neurotransmitter activates G-proteins and effector enzymes. \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(b)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " In a photoreceptor, light begins a similar process using the G-protein transducin.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 38,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 297.5570866141732,
+            "top": -0.09448818897637795,
+            "width": 423.5235590551181,
+            "height": 223.87596397637793,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_38_img_52.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 112.16535433070867,
+            "top": 217.13385826771653,
+            "width": 608.9055118110236,
+            "height": 187.86614173228347,
+            "rotation": 0
+          },
+          "plainText": "GPCRs provide signal specificity, and their interaction with G proteins provides signal amplification. Heterotrimeric G proteins activate effector enzymes: adenylyl cyclase (AC) and phosphodiesterases (PDEs) that degrade cAMP or cGMP. Changes in concentration of the second messengers (cAMP, cGMP) result in alterations in enzymatic activities via phosphorylation or alterations in the permeability (P) of surface membranes to Ca2+, Na+, and K+. The resulting depolarization or hyperpolarization of the sensory cell (the signal) passes through relay neurons to sensory centers in the brain. In the best-studied cases, desensitization includes phosphorylation of the receptor and binding of a protein (arrestin) that interrupts receptor–G protein interactions. (The path of odorant detection by production of IP3 and increase in intracellular [Ca2+], mentioned in the text, is not shown here.) VR is the vasopressin receptor; β-AR, the β-adrenergic receptor; Rh, rhodopsin; OR, olfactory receptor; SR, sweet-taste receptor.",
+          "textRuns": [
+            {
+              "text": "GPCRs provide signal specificity, and their interaction with G proteins provides signal amplification. Heterotrimeric G proteins activate effector enzymes: adenylyl cyclase (AC) and phosphodiesterases (PDEs) that degrade cAMP or cGMP. Changes in concentration of the second messengers (cAMP, cGMP) result in alterations in enzymatic activities via phosphorylation or alterations in the permeability (P) of surface membranes to Ca",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "2+",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", Na",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "+",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", and K",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "+",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". The resulting depolarization or hyperpolarization of the sensory cell (the signal) passes through relay neurons to sensory centers in the brain. In the best-studied cases, desensitization includes phosphorylation of the receptor and binding of a protein (arrestin) that interrupts receptor–G protein interactions. (The path of odorant detection by production of IP3 and increase in intracellular [Ca",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "2+",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "], mentioned in the text, is not shown here.) VR is the vasopressin receptor; β-AR, the β-adrenergic receptor; Rh, rhodopsin; OR, olfactory receptor; SR, sweet-taste receptor.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 121.38188976377953,
+            "top": 70.90551181102362,
+            "width": 181.86614173228347,
+            "height": 77.5748031496063,
+            "rotation": 0
+          },
+          "plainText": "Common features of signaling systems that detect hormones, light, smells, and tastes.",
+          "textRuns": [
+            {
+              "text": "Common features of signaling systems that detect hormones, light, smells, and tastes.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 39,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 105.31918405511811,
+            "top": 6.530795078740158,
+            "width": 600.0103795275592,
+            "height": 261.3089976377953,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_39_img_53.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 117.55910748031495,
+            "top": 274.29330708661416,
+            "width": 587.7637795275591,
+            "height": 121.46456692913385,
+            "rotation": 0
+          },
+          "plainText": "(a) In the dark, cGMP gates a sodium channel, causing an inward Na current and depolarization of the cell. \n\n(b) The activation of rhodopsin by light energy causes the G-protein (transducin) to exchange guanosine diphosphate for guanosine triphosphate, which in turn activates the enzyme phosphodiesterase (PDE). PDE breaks down cGMP and shuts off the dark current.",
+          "textRuns": [
+            {
+              "text": "(a) ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "In the dark, cGMP gates a sodium channel, causing an inward Na current and depolarization of the cell. \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(b) ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "The activation of rhodopsin by light energy causes the G-protein (transducin) to exchange guanosine diphosphate for guanosine triphosphate, which in turn activates the enzyme phosphodiesterase (PDE). PDE breaks down cGMP and shuts off the dark current.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 40,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 137.15149606299215,
+            "top": 5.0137994094488185,
+            "width": 525.00911496063,
+            "height": 399.94701259842515,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_40_img_54.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 41,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 229.6157281496063,
+            "top": 0,
+            "width": 403.9767637795275,
+            "height": 404.99995748031495,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_41_img_55.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 42,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 227.15551476377954,
+            "top": 0,
+            "width": 404.9999411417322,
+            "height": 404.9999411417322,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_42_img_56.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 43,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Points to Notice",
+          "textRuns": [
+            {
+              "text": "Points to Notice\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 97.70480826771653,
+            "width": 578.5275590551181,
+            "height": 234.85039370078738,
+            "rotation": 0
+          },
+          "plainText": "50 rhodopsins or 203 cone opsins have to be activated to fire up the neurons and lead to vision\nThe entire process takes only a few milliseconds\nSubsequently, all trans-retinal dissociates and converts to 11-cis-retinal in the retinal pigment epithelium cells, which are adjacent to the photoreceptors\nNewly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-retinal bound opsins",
+          "textRuns": [
+            {
+              "text": "50 rhodopsins or 203 cone opsins have to be activated to fire up the neurons and lead to vision\nThe entire process takes only a few milliseconds\nSubsequently, all trans-retinal dissociates and converts to 11-cis-retinal in the retinal pigment epithelium cells, which are adjacent to the photoreceptors\nNewly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-retinal bound opsins\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 44,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 155.7082690944882,
+            "top": 0,
+            "width": 503.00028366141737,
+            "height": 405.0000354330708,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_44_img_57.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 45,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 134.55451417322834,
+            "top": 15.427075,
+            "width": 276.8902720472442,
+            "height": 381.66585885826765,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_45_img_58.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 417.9863911417323,
+            "top": 26.124015748031496,
+            "width": 302.007874015748,
+            "height": 314.92913385826773,
+            "rotation": 0
+          },
+          "plainText": "1. With one exception (intrinsically photosensitive retinal ganglion cells, ipRGCs), the only light-sensitive cells in the retina are the rod and cone photoreceptors.\n\n2. The ganglion cells are the only source of output from the retina. No other retinal cell type projects an axon through the optic nerve.\n\n3. Ganglion cells are the only retinal neurons that fire action potentials. All other retinal cells depolarize or hyperpolarize, with a rate of neurotransmitter release that is proportional to the membrane potential, but they do not fire action potentials.",
+          "textRuns": [
+            {
+              "text": "1.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " With one exception (intrinsically photosensitive retinal ganglion cells, ipRGCs), the only light-sensitive cells in the retina are the rod and cone photoreceptors.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "2.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The ganglion cells are the only source of output from the retina. No other retinal cell type projects an axon through the optic nerve.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "3.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Ganglion cells are the only retinal neurons that fire action potentials. All other retinal cells depolarize or hyperpolarize, with a rate of neurotransmitter release that is proportional to the membrane potential, but they do not fire action potentials.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 46,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 224.39567303149607,
+            "top": 0,
+            "width": 495.60438503936996,
+            "height": 366.14169921259844,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_46_img_59.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.9744094488189,
+            "top": 0,
+            "width": 130.98425196850394,
+            "height": 344.1968503937008,
+            "rotation": 0
+          },
+          "plainText": "A. Red arrows indicate sign-preserving connections through electrical or glutamatergic synapses. Gray arrows represent sign-inverting connections through GABAergic, glycinergic, or glutamatergic synapses.",
+          "textRuns": [
+            {
+              "text": "A.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Red arrows",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " indicate sign-preserving connections through electrical or glutamatergic synapses. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Gray arrows",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " represent sign-inverting connections through GABAergic, glycinergic, or glutamatergic synapses.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 368.1437007874016,
+            "top": 283.2204724409449,
+            "width": 237.54330708661416,
+            "height": 111.49606299212599,
+            "rotation": 0
+          },
+          "plainText": "B. Rod signals feed into the cone circuitry through the AII amacrine cell, which serves to split the ON and OFF pathways.",
+          "textRuns": [
+            {
+              "text": "B.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Rod signals feed into the cone circuitry through the AII amacrine cell, which serves to split the ON and OFF pathways.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 47,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 126.05473267716535,
+            "top": 9.045551181102363,
+            "width": 574.415766535433,
+            "height": 311.6233070866142,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_47_img_60.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.14193070866142,
+            "top": 327.95747322834643,
+            "width": 570.3543307086615,
+            "height": 62.125984251968504,
+            "rotation": 0
+          },
+          "plainText": "Receptive field. Bipolar cells can be ON and OFF. Quite similar,so consider ON only.",
+          "textRuns": [
+            {
+              "text": "Receptive field. ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Bipolar cells can be ON and OFF. Quite similar,so consider ON only.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 48,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.15829429133859,
+            "top": 34.53147185039371,
+            "width": 576.0085039370078,
+            "height": 335.93700590551185,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_48_img_61.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 409.02463877952755,
+            "top": 356.1690224409449,
+            "width": 112.06299212598431,
+            "height": 48.826771653543304,
+            "rotation": 0
+          },
+          "plainText": "rebound\nexcitation",
+          "textRuns": [
+            {
+              "text": "rebound\nexcitation\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 49,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 224.667938976378,
+            "top": 119.03739468503939,
+            "width": 201.03226023622045,
+            "height": 370.8929503937008,
+            "rotation": 270
+          },
+          "localImagePath": "images/slide_49_img_62.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 510.63083877952755,
+            "top": 297.99787933070866,
+            "width": 196.0866141732283,
+            "height": 32.574803149606296,
+            "rotation": 0
+          },
+          "plainText": "Center (C)",
+          "textRuns": [
+            {
+              "text": "Center (C)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 510.63083877952755,
+            "top": 209.23148996062994,
+            "width": 134.3622047244094,
+            "height": 41.05511811023622,
+            "rotation": 0
+          },
+          "plainText": "Periphery (P)",
+          "textRuns": [
+            {
+              "text": "Periphery (P)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 50,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Cornsweet illusion",
+          "textRuns": [
+            {
+              "text": "Cornsweet illusion\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120.64394822834645,
+            "top": 89.06564625984251,
+            "width": 245.0848405511811,
+            "height": 311.4983389763779,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_50_img_63.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 51,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 533.1247446850394,
+            "top": 0,
+            "width": 186.87529429133858,
+            "height": 405,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_51_img_64.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 153.1807001968504,
+            "top": -6.025590551181103,
+            "width": 370.9039622047244,
+            "height": 411.0256035433071,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_51_img_65.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 52,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 317.67126082677163,
+            "top": 0,
+            "width": 402.32872736220463,
+            "height": 247.96453110236223,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_52_img_66.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.9744094488189,
+            "top": 13.429133858267717,
+            "width": 207.89763779527559,
+            "height": 189.0708661417323,
+            "rotation": 0
+          },
+          "plainText": "A. A neuron in the primary visual cortex responds selectively to line segments that fit the orientation of its receptive field. This selectivity is the !rst step in the brain’s analysis of an object’s form.",
+          "textRuns": [
+            {
+              "text": "A.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " A neuron in the primary visual cortex responds selectively to line segments that fit the orientation of its receptive field. This selectivity is the !rst step in the brain’s analysis of an object’s form.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 118.1751968503937,
+            "top": 254.3759842519685,
+            "width": 601.8188976377953,
+            "height": 150.61417322834646,
+            "rotation": 0
+          },
+          "plainText": "B. The orientation of the receptive field is thought to result from the alignment of the circular center-surround receptive fields of several presynaptic cells in the lateral geniculate nucleus. In the monkey, neurons in layer IVCβ of V1 have unoriented receptive fields. However, the projections of neighboring IVCβ cells onto a neuron in layer IIIB create a receptive field with a specific orientation.",
+          "textRuns": [
+            {
+              "text": "B.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The orientation of the receptive field is thought to result from the alignment of the circular center-surround receptive fields of several presynaptic cells in the lateral geniculate nucleus. In the monkey, neurons in layer IVCβ of V1 have unoriented receptive fields. However, the projections of neighboring IVCβ cells onto a neuron in layer IIIB create a receptive field with a specific orientation.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 53,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 226.33464566929135,
+            "top": 0,
+            "width": 493.66530000000006,
+            "height": 283.75985196850394,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_67.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.77165354330708,
+            "top": 276.00984251968504,
+            "width": 605.2913385826772,
+            "height": 130.88976377952756,
+            "rotation": 0
+          },
+          "plainText": "End-inhibited receptive fields. Some receptive fields have a central excitatory region flanked by inhibitory regions that have the same orientation selectivity. Thus a short line segment or a long curved line will activate the neuron (A and C) but a long straight line will not (B). A neuron with a receptive field that displays only one\ninhibitory region in addition to the excitatory region can signal the presence of\ncorners (D).",
+          "textRuns": [
+            {
+              "text": "End-inhibited receptive fields. Some receptive fields have a central excitatory region flanked by inhibitory regions that have the same orientation selectivity. Thus a short line segment or a long curved line will activate the neuron (A and C) but a long straight line will not (B). A neuron with a receptive field that displays only one\ninhibitory region in addition to the excitatory region can signal the presence of\ncorners (D).\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 54,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Convolution used in artificial NNs",
+          "textRuns": [
+            {
+              "text": "Convolution used in artificial NNs\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 284.1712649606299,
+            "top": 140.20867322834644,
+            "width": 410.0709118110236,
+            "height": 166.4645279527559,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_54_img_68.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669330708662,
+            "top": 119.17720098425197,
+            "width": 182.84255433070865,
+            "height": 213.3149244094488,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_54_img_69.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 55,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 123.76574803149606,
+            "top": 0,
+            "width": 257.5984598425197,
+            "height": 187.1948832677165,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_70.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 481.11220236220475,
+            "top": 5.372047244094488,
+            "width": 232.89568602362203,
+            "height": 208.57874724409447,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_71.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 123.76572755905512,
+            "top": 187.19488208661417,
+            "width": 232.89566929133858,
+            "height": 212.80093287401576,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_72.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 372.9527559055118,
+            "top": 214.71850393700788,
+            "width": 348.11811023622045,
+            "height": 111.49606299212599,
+            "rotation": 0
+          },
+          "plainText": "SC - superior colliculus\nPPRF - Paramedian Pontine Reticular Formation\nFEF - frontal eye field\nLGN - lateral geniculate nucleus",
+          "textRuns": [
+            {
+              "text": "SC ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "- ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "superior colliculus\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "PPRF ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "- ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Paramedian Pontine Reticular Formation\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "FEF ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "- frontal eye field\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "LGN ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "- lateral geniculate nucleus\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 56,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 159.74291988188978,
+            "top": 0,
+            "width": 537.4224858267717,
+            "height": 405.0000387795276,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_56_img_73.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 57,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 139.3551498031496,
+            "top": 0,
+            "width": 540.9853564960629,
+            "height": 404.9999663385827,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_57_img_74.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 58,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120.53936732283465,
+            "top": 0,
+            "width": 599.4606696850393,
+            "height": 257.98229921259843,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_58_img_75.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 136.20078740157481,
+            "top": 273.6062992125984,
+            "width": 584.8582677165355,
+            "height": 92.10236220472441,
+            "rotation": 0
+          },
+          "plainText": "The visual pathway that mediates conscious visual perception. \n(a) A side view of the brain with the retinogeniculocortical pathway shown inside (blue). \n(b) A horizontal section through the brain exposing the same pathway.",
+          "textRuns": [
+            {
+              "text": "The visual pathway that mediates conscious visual perception.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(a)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " A side view of the brain with the retinogeniculocortical pathway shown inside (blue). \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(b)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " A horizontal section through the brain exposing the same pathway.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 59,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 149.001968503937,
+            "top": 0,
+            "width": 464.5207003937008,
+            "height": 202.49997106299213,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_59_img_76.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 297.85947303149607,
+            "top": 202.50000196850394,
+            "width": 211.28025,
+            "height": 208.50783937007878,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_59_img_77.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 60,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.19291338582678,
+            "top": -0.0000011811023622047244,
+            "width": 589.807168503937,
+            "height": 340.3543413385827,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_60_img_78.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 122.98228346456693,
+            "top": 262.78937007874015,
+            "width": 391.7716535433071,
+            "height": 130.88976377952756,
+            "rotation": 0
+          },
+          "plainText": "The retinotopic map in the striate cortex. (a) Neighboring locations on the retina project to neighboring locations in the LGN. This retinotopic representation is preserved in the LGN projection to V1. (b) The lower portion of V1 represents the top half of visual space, and the upper portion of V1 represents the bottom half of visual space. Notice also that the map is distorted, with more tissue devoted to analysis of the central visual field. Similar maps are found in the superior colliculus, LGN, and other visual cortical areas.",
+          "textRuns": [
+            {
+              "text": "The retinotopic map in the striate cortex. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(a)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Neighboring locations on the retina project to neighboring locations in the LGN. This retinotopic representation is preserved in the LGN projection to V1. ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(b)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The lower portion of V1 represents the top half of visual space, and the upper portion of V1 represents the bottom half of visual space. Notice also that the map is distorted, with more tissue devoted to analysis of the central visual field. Similar maps are found in the superior colliculus, LGN, and other visual cortical areas.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 61,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 162.5299224409449,
+            "top": 0,
+            "width": 373.0009622047245,
+            "height": 391.89913937007873,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_61_img_79.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 529.9957096456692,
+            "top": 170.0763594488189,
+            "width": 182.85826771653544,
+            "height": 210.0472440944882,
+            "rotation": 0
+          },
+          "plainText": "center seems ok for 5-6, because representation of foveal stimuli is projected to both hemispheres (with various degrees of overlap)",
+          "textRuns": [
+            {
+              "text": "center seems ok for 5-6, because representation of foveal stimuli is projected to both hemispheres (with various degrees of overlap)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 62,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 264.63344271653546,
+            "top": 0,
+            "width": 455.36661023622054,
+            "height": 404.9999566929134,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_62_img_80.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 113.36811023622047,
+            "top": 18.828740157480315,
+            "width": 163.44094488188978,
+            "height": 266.6456692913386,
+            "rotation": 0
+          },
+          "plainText": "The LGN of the macaque monkey. The tissue has been stained to show cell\nbodies, which appear as purple dots. Notice particularly the six principal layers\nand the larger size of the cells in the two ventral layers (layers 1 and 2).",
+          "textRuns": [
+            {
+              "text": "The ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "LGN ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "of the macaque monkey. The tissue has been stained to show cell\nbodies, which appear as purple dots. Notice particularly the six principal layers\nand the larger size of the cells in the two ventral layers (layers 1 and 2).\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 63,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 303.2500098425197,
+            "top": 57.91929803149607,
+            "width": 416.74999921259837,
+            "height": 347.0807622047244,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_63_img_81.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 109.78147125984252,
+            "top": 0,
+            "width": 374.9547826771654,
+            "height": 191.88381692913387,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_63_img_82.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 64,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133.24212598425197,
+            "top": 0,
+            "width": 586.7586212598425,
+            "height": 381.00008188976375,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_83.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 65,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 193.88778838582675,
+            "top": 0,
+            "width": 526.1121112204725,
+            "height": 219.04525098425196,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_65_img_84.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 114.56889232283466,
+            "top": 185.95472401574804,
+            "width": 185.3922797244094,
+            "height": 219.0452598425197,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_65_img_85.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 311.96117204724413,
+            "top": 231.04525098425196,
+            "width": 201.51619409448818,
+            "height": 161.95473267716537,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_65_img_86.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 525.4773661417322,
+            "top": 231.04525098425196,
+            "width": 182.52261023622054,
+            "height": 148.65835236220474,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_65_img_87.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 66,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 149.6942460629921,
+            "top": 0,
+            "width": 570.3056728346456,
+            "height": 405.00000866141727,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_66_img_88.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 67,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133.67911062992127,
+            "top": 0,
+            "width": 586.3208700787401,
+            "height": 398.59060984251965,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_67_img_89.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 68,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 121.05118110236221,
+            "top": 0,
+            "width": 598.9495503937009,
+            "height": 380.999988976378,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_68_img_90.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 334.496062992126,
+            "top": 0,
+            "width": 54.07086614173228,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "V1",
+          "textRuns": [
+            {
+              "text": "V1\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 139.80708661417322,
+            "top": 45.267716535433074,
+            "width": 38.45669291338583,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "V2",
+          "textRuns": [
+            {
+              "text": "V2\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 463.0866141732283,
+            "top": 332.29133858267716,
+            "width": 161.03149606299212,
+            "height": 72.70866141732283,
+            "rotation": 0
+          },
+          "plainText": "Cytochrome oxidase visualized (ETC, complex IV)",
+          "textRuns": [
+            {
+              "text": "Cytochrome oxidase visualized (ETC, complex IV)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 69,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 291.81299212598424,
+            "top": 0,
+            "width": 417.64562362204725,
+            "height": 290.4310598425197,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_69_img_91.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 121.78149606299213,
+            "top": 118.96062992125984,
+            "width": 254.78740157480314,
+            "height": 286.03937007874015,
+            "rotation": 0
+          },
+          "plainText": "AIP - anterior intraparietal area; \nFEF - frontal eye field; \nIT - inferior temporal cortex; \nLIP - lateral intraparietal area; \nMIP - medial intraparietal area; \nMT - middle temporal area; \nPF - prefrontal cortex; \nPMd - dorsal premotor cortex; \nPMv - ventral premotor cortex; \nV1 - primary visual cortex; \nV2 - secondary visual area; \nV3 - third visual area;\nV4 - fourth visual area;\nVIP - ventral intraparietal area.",
+          "textRuns": [
+            {
+              "text": "AIP",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " - anterior intraparietal area; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "FEF -",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " frontal eye field; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "IT - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inferior temporal cortex; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "LIP - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "lateral intraparietal area; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "MIP - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "medial intraparietal area; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "MT - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "middle temporal area; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "PF - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "prefrontal cortex; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "PMd -",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " dorsal premotor cortex; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "PMv -",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ventral premotor cortex; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "V1 -",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " primary visual cortex; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "V2 - ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "secondary visual area; \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "V3",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " - ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "third visual area;",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "V4 -",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " fourth visual area;\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "VIP",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " - ventral intraparietal area.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 483.51574803149606,
+            "top": 306.0531496062992,
+            "width": 237.54330708661416,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Red arrows - object recognition",
+          "textRuns": [
+            {
+              "text": "Red arrows - object recognition\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 70,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 179.55224409448817,
+            "top": 0,
+            "width": 540.4477511811023,
+            "height": 404.9999535433071,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_70_img_92.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 374.06397637795277,
+            "top": 168.5551181102362,
+            "width": 134.5984251968504,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Masked features",
+          "textRuns": [
+            {
+              "text": "Masked features\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 656.5728346456693,
+            "top": 188.2775590551181,
+            "width": 72,
+            "height": 53.31496062992126,
+            "rotation": 0
+          },
+          "plainText": "Not face",
+          "textRuns": [
+            {
+              "text": "Not face\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 257.56496062992125,
+            "top": 188.2775590551181,
+            "width": 72,
+            "height": 53.31496062992126,
+            "rotation": 0
+          },
+          "plainText": "Not face",
+          "textRuns": [
+            {
+              "text": "Not face\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 71,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 112.2440938976378,
+            "top": 37.25590551181102,
+            "width": 607.7558584645669,
+            "height": 284.42125157480314,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_71_img_93.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 72,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 234.71264665354332,
+            "top": 0,
+            "width": 361.23226535433065,
+            "height": 404.99996811023624,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_72_img_94.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 73,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 221.5295275590551,
+            "top": 0,
+            "width": 381.4155177165354,
+            "height": 405.0000043307087,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_73_img_95.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 74,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 114.1515748031496,
+            "top": 18.007874015748033,
+            "width": 308.5331322834646,
+            "height": 380.999988976378,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_74_img_96.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 474.3441559055118,
+            "top": 18.007874015748033,
+            "width": 236.4265246062992,
+            "height": 380.9999856299213,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_74_img_97.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 91.87957125984252,
+            "top": 18.007874015748033,
+            "width": 119.38779035433069,
+            "height": 108.2716346456693,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_74_img_98.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 398.2303149606299,
+            "top": 283.5166978346457,
+            "width": 119.3878015748031,
+            "height": 121.48232440944882,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_74_img_99.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 75,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.4271218503937,
+            "width": 578.5275590551181,
+            "height": 34.653543307086615,
+            "rotation": 0
+          },
+          "plainText": "Associative visual agnosia (see O.Sachs, “The Man Who Mistook His Wife for a Hat”)",
+          "textRuns": [
+            {
+              "text": "Associative visual agnosia ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(see O.Sachs, “The Man Who Mistook His Wife for a Hat”)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 57.28543582677165,
+            "width": 578.5275590551181,
+            "height": 326.88188976377955,
+            "rotation": 0
+          },
+          "plainText": "Probable diagnosis: Posterior cortical atrophy (PCA).\n\nDr P. was a musician of distinction, well-known for many years as a singer, and then, at the local School of Music, as a teacher.\n\nI had taken off his left shoe and scratched the sole of his foot with a key—a frivolous-seeming but essential test of a reflex—and then, excusing myself to screw my\nophthalmoscope together, left him to put on the shoe himself. To my surprise, a minute later, he had not done this.\n‘Can I help?’ I asked.\n‘Help what? Help whom?’\n‘Help you put on your shoe.’\n‘Ach,’ he said, ‘I had forgotten the shoe,’ adding, sotto voce, ‘The shoe? The shoe?’ He seemed baffled.\n‘Your shoe,’ I repeated. ‘Perhaps you’d put it on.’\nHe continued to look downwards, though not at the shoe, with an intense but misplaced concentration. Finally his gaze settled on his foot: ‘That is my shoe, yes?’\nDid I mis-hear? Did he mis-see?\n‘My eyes,’ he explained, and put a hand to his foot. ‘This is my shoe, no?’\n‘No, it is not. That is your foot. There is your shoe.’\n‘Ah! I thought that was my foot.’",
+          "textRuns": [
+            {
+              "text": "Probable diagnosis: Posterior cortical atrophy (PCA).\n\nDr P. was a musician of distinction, well-known for many years as a singer, and then, at the local School of Music, as a teacher.\n\nI had taken off his left shoe and scratched the sole of his foot with a key—a frivolous-seeming but essential test of a reflex—and then, excusing myself to screw my\nophthalmoscope together, left him to put on the shoe himself. To my surprise, a minute later, he had not done this.\n‘Can I help?’ I asked.\n‘Help what? Help whom?’\n‘Help you put on your shoe.’\n‘Ach,’ he said, ‘I had forgotten the shoe,’ adding, sotto voce, ‘The shoe? The shoe?’ He seemed baffled.\n‘Your shoe,’ I repeated. ‘Perhaps you’d put it on.’\nHe continued to look downwards, though not at the shoe, with an intense but misplaced concentration. Finally his gaze settled on his foot: ‘That is my shoe, yes?’\nDid I mis-hear? Did he mis-see?\n‘My eyes,’ he explained, and put a hand to his foot. ‘This is my shoe, no?’\n‘No, it is not. That is your foot. There is your shoe.’\n‘Ah! I thought that was my foot.’\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 76,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 9.214572637795277,
+            "width": 578.5275590551181,
+            "height": 382.15748031496065,
+            "rotation": 0
+          },
+          "plainText": "‘What is this?’ I asked, drawing out the first one.\n‘A cube, of course.’\n‘Now this?’ I asked, brandishing another.\nHe asked if he might examine it, which he did swiftly and systematically: ‘A dodecahedron, of course. And don’t bother with the others—I’ll get the icosahedron, too.’\n…………\nI had stopped at a florist on my way to his apartment and bought myself an extravagant red rose for my buttonhole. Now I removed this and handed it to him. He took it like a botanist or morphologist given a\nspecimen, not like a person given a flower.\nAbout six inches in length,’ he commented. ‘A convoluted red form with a linear green attachment.’\n‘Yes,’ I said encouragingly, ‘and what do you think it is, Dr P.?’\n‘Not easy to say.’ He seemed perplexed. ‘It lacks the simplesymmetry of the Platonic solids, although it may have a higher symmetry of its own. ... I think this could be an inflorescence or\nflower.’\n‘Could be?’ I queried.\n‘Could be,’ he confirmed.\n‘Smell it,’ I suggested, and he again looked somewhat puzzled, as if I had asked him to smell a higher symmetry. But he complied courteously, and took it to his nose. Now, suddenly, he came to life.\n‘Beautiful!’ he exclaimed. ‘An early rose. What a heavenly smell!’ He started to hum ‘Die Rose, die Lillie ...’ Reality, it seemed, might be conveyed by smell, not by sight.",
+          "textRuns": [
+            {
+              "text": "‘What is this?’ I asked, drawing out the first one.\n‘A cube, of course.’\n‘Now this?’ I asked, brandishing another.\nHe asked if he might examine it, which he did swiftly and systematically: ‘A dodecahedron, of course. And don’t bother with the others—I’ll get the icosahedron, too.’\n…………\nI had stopped at a florist on my way to his apartment and bought myself an extravagant red rose for my buttonhole. Now I removed this and handed it to him. He took it like a botanist or morphologist given a\nspecimen, not like a person given a flower.\nAbout six inches in length,’ he commented. ‘A convoluted red form with a linear green attachment.’\n‘Yes,’ I said encouragingly, ‘and what do you think it is, Dr P.?’\n‘Not easy to say.’ He seemed perplexed. ‘It lacks the simplesymmetry of the Platonic solids, although it may have a higher symmetry of its own. ... I think this could be an inflorescence or\nflower.’\n‘Could be?’ I queried.\n‘Could be,’ he confirmed.\n‘Smell it,’ I suggested, and he again looked somewhat puzzled, as if I had asked him to smell a higher symmetry. But he complied courteously, and took it to his nose. Now, suddenly, he came to life.\n‘Beautiful!’ he exclaimed. ‘An early rose. What a heavenly smell!’ He started to hum ‘",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Die Rose, die Lillie ...",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "’ Reality, it seemed, might be conveyed by smell, not by sight.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 77,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 29.643700787401574,
+            "width": 578.5275590551181,
+            "height": 361.7244094488189,
+            "rotation": 0
+          },
+          "plainText": "‘What is this?’ I asked, holding up a glove.\n‘May I examine it?’ he asked, and, taking it from me, he proceeded to examine it as he had examined the geometrical shapes.\n‘A continuous surface,’ he announced at last, ‘infolded on itself. It appears to have’—he hesitated—’five outpouchings, if this is the word.’\n‘Yes,’ I said cautiously. You have given me a description. Now tell me what it is.’\n‘A container of some sort?’\nYes,’ I said, ‘and what would it contain?’\n‘It would contain its contents!’ said Dr P., with a laugh. ‘There are many possibilities. It could be a change purse, for example, for coins of five sizes. It could ...’\nI interrupted the barmy flow. ‘Does it not look familiar? Do you think it might contain, might fit, a part of your body?’\nNo light of recognition dawned on his face.(Later, by accident, he got it on, and exclaimed, ‘My God, it’s a glove!’ This was reminiscent of Kurt Goldstein’s patient ‘Lanuti’, who could only recognize objects by trying to use them in action.)",
+          "textRuns": [
+            {
+              "text": "‘What is this?’ I asked, holding up a glove.\n‘May I examine it?’ he asked, and, taking it from me, he proceeded to examine it as he had examined the geometrical shapes.\n‘A continuous surface,’ he announced at last, ‘infolded on itself. It appears to have’—he hesitated—’five outpouchings, if this is the word.’\n‘Yes,’ I said cautiously. You have given me a description. Now tell me what it is.’\n‘A container of some sort?’\nYes,’ I said, ‘and what would it contain?’\n‘It would contain its contents!’ said Dr P., with a laugh. ‘There are many possibilities. It could be a change purse, for example, for coins of five sizes. It could ...’\nI interrupted the barmy flow. ‘Does it not look familiar? Do you think it might contain, might fit, a part of your body?’\nNo light of recognition dawned on his face.(Later, by accident, he got it on, and exclaimed, ‘My God, it’s a glove!’ This was reminiscent of Kurt Goldstein’s patient ‘Lanuti’, who could only recognize objects by trying to use them in action.)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 78,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.81537913385827,
+            "top": 157.4546340551181,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "HOMEWORK",
+          "textRuns": [
+            {
+              "text": "HOMEWORK\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 79,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.427129921259843,
+            "width": 578.5275590551181,
+            "height": 40.653543307086615,
+            "rotation": 0
+          },
+          "plainText": "Problem 1. Blind Spot",
+          "textRuns": [
+            {
+              "text": "Problem 1. Blind Spot\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 56.08070984251968,
+            "width": 578.5275590551181,
+            "height": 181.46456692913387,
+            "rotation": 0
+          },
+          "plainText": "Two small objects are drawn on a sheet of white paper, separated by 4 cm in the horizontal direction. Close your right eye and fixate the right object with your left eye. Starting with the paper approximately 30 cm from your eye, slowly move it toward you. You will notice that at a certain distance the left object disappears from view, and as you move the paper even closer, it reappears.\nExplain why the left object disappears and then reappears.\nMeasure the distance of disappearance and estimate the angular displacement of the optic nerve (blind spot) from the fovea. Assume small angles and neglect eye rotation.",
+          "textRuns": [
+            {
+              "text": "Two small objects are drawn on a sheet of white paper, separated by 4 cm in the horizontal direction. Close your right eye and fixate the right object with your left eye. Starting with the paper approximately 30 cm from your eye, slowly move it toward you. You will notice that at a certain distance the left object disappears from view, and as you move the paper even closer, it reappears.\nExplain why the left object disappears and then reappears.\nMeasure the distance of disappearance and estimate the angular displacement of the optic nerve (blind spot) from the fovea. Assume small angles and neglect eye rotation.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 212.00793543307086,
+            "top": 275.7068297244095,
+            "width": 507.99222992125993,
+            "height": 134.59446929133856,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_79_img_100.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 424.0236220472441,
+            "top": 306.95669291338584,
+            "width": 139.41732283464566,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Should be 4 cm",
+          "textRuns": [
+            {
+              "text": "Should be 4 cm\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 335.6988188976378,
+            "top": 363.74015748031496,
+            "width": 336.09448818897636,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "any small objects can be drawn, be creative",
+          "textRuns": [
+            {
+              "text": "any small objects can be drawn, be creative",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 131.39370078740157,
+            "top": 257.98228346456693,
+            "width": 589.6771653543307,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "HINT: for small x, tan(x)≈x; neglect size of the eye (consider it a point).",
+          "textRuns": [
+            {
+              "text": "HINT: for small x, tan(x)≈x; neglect size of the eye (consider it a point).\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 80,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": -0.000046850393700787405,
+            "width": 578.5275590551181,
+            "height": 32.24409448818898,
+            "rotation": 0
+          },
+          "plainText": "Problem 2. Color vision",
+          "textRuns": [
+            {
+              "text": "Problem 2.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Color vision\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": -0.000011023622047244094,
+            "top": 42.80126535433071,
+            "width": 359.1218387795276,
+            "height": 362.1987700787402,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_80_img_101.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 359.1217937007874,
+            "top": 42.80126535433071,
+            "width": 360.87812598425194,
+            "height": 362.1984118110236,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_80_img_102.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 0,
+            "top": 42.80118110236221,
+            "width": 713.8582677165355,
+            "height": 53.31496062992126,
+            "rotation": 0
+          },
+          "plainText": "Open the slide full-screen; Fixate on the cross in the left image (green) for 1 minute without looking at the right image (gray); look at the right image and write down what color it appears to be.",
+          "textRuns": [
+            {
+              "text": "Open the slide full-screen; Fixate on the cross in the left image (green) for 1 minute without looking at the right image (gray); look at the right image and write down what color it appears to be.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 81,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.427158267716536,
+            "width": 578.5275590551181,
+            "height": 34.653543307086615,
+            "rotation": 0
+          },
+          "plainText": "Problem 3. Starry night",
+          "textRuns": [
+            {
+              "text": "Problem 3.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Starry night",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 82.27755511811023,
+            "width": 578.5275590551181,
+            "height": 83.17322834645668,
+            "rotation": 0
+          },
+          "plainText": "You are observing a clear, starry night and notice a very dim star in the periphery of your visual field. When you look directly at the star, it disappears, but when you shift your gaze slightly away from it, the star becomes visible again. Explain this effect.",
+          "textRuns": [
+            {
+              "text": "You are observing a clear, starry night and notice a very dim star in the periphery of your visual field. When you look directly at the star, it disappears, but when you shift your gaze slightly away from it, the star becomes visible again. Explain this effect.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 343.3261417322835,
+            "top": 176.45669291338584,
+            "width": 293.88587204724405,
+            "height": 208.1112377952756,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_81_img_103.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 267.1968503937008,
+            "top": 263.5403543307087,
+            "width": 61.2992125984252,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "HINT:",
+          "textRuns": [
+            {
+              "text": "HINT:\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 82,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 114.61417322834646,
+            "top": 30.844488188976378,
+            "width": 605.3858267716536,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Problem 4 (NOT graded). Let’s make our course better",
+          "textRuns": [
+            {
+              "text": "Problem 4",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "(NOT graded)",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ". Let’s make our course better\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 114.61417322834646,
+            "top": 80.1240157480315,
+            "width": 599.4330708661417,
+            "height": 113.36220472440945,
+            "rotation": 0
+          },
+          "plainText": "I have created a simple anonymous feedback form (link). Please, share your thoughts and ideas how to improve the next run on the course. You can do it after the exam.",
+          "textRuns": [
+            {
+              "text": "I have created a simple anonymous feedback form (",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "link",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "). Please, share your thoughts and ideas how to improve the next run on the course. You can do it after the exam.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 83,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.81537913385827,
+            "top": 157.4546340551181,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "FINALE",
+          "textRuns": [
+            {
+              "text": "FINALE\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4013 @@
+{
+  "title": "lecture_1_this_quantum_world",
+  "slideCount": 74,
+  "pageDimensions": {
+    "width": 720,
+    "height": 405,
+    "unit": "pt"
+  },
+  "slides": [
+    {
+      "slideNumber": 1,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 117.55905511811024,
+            "top": 78.36970590551181,
+            "width": 578.5275590551181,
+            "height": 72.04724409448819,
+            "rotation": 0
+          },
+          "plainText": "Bioorganic Chemistry",
+          "textRuns": [
+            {
+              "text": "Bioorganic Chemistry\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 496.35779527559055,
+            "top": 287.35498326771653,
+            "width": 163.2755905511811,
+            "height": 24.73228346456693,
+            "rotation": 0
+          },
+          "plainText": "Tymchyshyn V.B.",
+          "textRuns": [
+            {
+              "text": "Tymchyshyn V.B.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 186.5708661417323,
+            "top": 175.2204724409449,
+            "width": 453.9685039370079,
+            "height": 56.196850393700785,
+            "rotation": 0
+          },
+          "plainText": "Lecture 1: This strange quantum world",
+          "textRuns": [
+            {
+              "text": "Lecture 1: This strange quantum world\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 2,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 129.0728346456693,
+            "top": 237.62990472440944,
+            "width": 578.5275590551181,
+            "height": 55.98425196850397,
+            "rotation": 0
+          },
+          "plainText": "Before Quantum Mechanics",
+          "textRuns": [
+            {
+              "text": "Before Quantum Mechanics\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 293.61418425196854,
+            "width": 578.5275590551181,
+            "height": 81.70866141732283,
+            "rotation": 0
+          },
+          "plainText": "Light = waves in ether\nParticles = tiny balls that respect Newton’s laws",
+          "textRuns": [
+            {
+              "text": "Light = waves in ether\nParticles = tiny balls that respect Newton’s laws\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 18.190944881889763,
+            "width": 548.0314960629921,
+            "height": 198.92125984251967,
+            "rotation": 0
+          },
+          "plainText": "Why QM?\n\nChemical bond is a quantum mechanical effect\nSolid bodies cannot exists in classical world (system of charges is unstable due to Earnshaw's theorem)\nTunneling effects observed for enzyme catalysis (https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0037)",
+          "textRuns": [
+            {
+              "text": "Why QM?\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Chemical bond is a quantum mechanical effect\nSolid bodies cannot exists in classical world (system of charges is unstable due to Earnshaw's theorem)\nTunneling effects observed for enzyme catalysis (https://royalsocietypublishing.org/doi/10.1098/rspa.2018.0037)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 3,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 154.0255905511811,
+            "top": 91.43897637795276,
+            "width": 505.38582677165357,
+            "height": 284.2795275590551,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=NtYMyqBqq2w"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 167.86417322834646,
+            "top": 19.492125984251967,
+            "width": 461.59842519685037,
+            "height": 49.93700787401575,
+            "rotation": 0
+          },
+          "plainText": "Charge electroscope, negative charge",
+          "textRuns": [
+            {
+              "text": "Charge electroscope, negative charge\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 4,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Shine Light. High intensity,  but low energy for each photon.",
+          "textRuns": [
+            {
+              "text": "Shine Light. High intensity,  but low energy for each photon.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 131.83661417322836,
+            "top": 99.82489724409449,
+            "width": 489.84844094488193,
+            "height": 275.5393582677165,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=BdIwajDk1Iw"
+        }
+      ]
+    },
+    {
+      "slideNumber": 5,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Shine Light. Low intensity,  but high energy for each photon.",
+          "textRuns": [
+            {
+              "text": "Shine Light. Low intensity,  but high energy for each photon.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 132.9448818897638,
+            "top": 102.04537125984253,
+            "width": 494.2893858267717,
+            "height": 278.0373897637795,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=APycpbCzpWU"
+        }
+      ]
+    },
+    {
+      "slideNumber": 6,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Charge electroscope, positive charge",
+          "textRuns": [
+            {
+              "text": "Charge electroscope, positive charge\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 128.50787401574803,
+            "top": 89.84066062992126,
+            "width": 530.9035590551181,
+            "height": 298.63385433070863,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=IMcJiHSV5wU"
+        }
+      ]
+    },
+    {
+      "slideNumber": 7,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Shine Light. Low intensity,  but high energy for each photon.",
+          "textRuns": [
+            {
+              "text": "Shine Light. Low intensity,  but high energy for each photon.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 134.5708661417323,
+            "top": 93.16742421259843,
+            "width": 509.3070866141732,
+            "height": 286.4842440944882,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=INOKaUrSqWA"
+        }
+      ]
+    },
+    {
+      "slideNumber": 8,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 217.374368503937,
+            "top": 77.56496062992126,
+            "width": 90.992125984252,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Particles",
+          "textRuns": [
+            {
+              "text": "Particles\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 147.37007874015748,
+            "top": 155.3050277559055,
+            "width": 231,
+            "height": 189.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_8_img_1.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 470.73425196850394,
+            "top": 156.0550277559055,
+            "width": 223.5,
+            "height": 188.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_8_img_2.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 482.98622047244095,
+            "top": 92.25787401574803,
+            "width": 223.51181102362204,
+            "height": 52.15748031496063,
+            "rotation": 0
+          },
+          "plainText": "Waves? Wave-particles?",
+          "textRuns": [
+            {
+              "text": "Waves? Wave-particles?\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 174.52165354330708,
+            "top": 20.60236220472441,
+            "width": 505.98425196850394,
+            "height": 52.15748031496063,
+            "rotation": 0
+          },
+          "plainText": "Particles have certain wave properties",
+          "textRuns": [
+            {
+              "text": "Particles have certain wave properties\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 9,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 141.82480354330707,
+            "top": 76.07086633858268,
+            "width": 224.12400748031493,
+            "height": 161.60437618110234,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_9_img_3.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 435.0787401574803,
+            "top": 55.681102362204726,
+            "width": 190.62206614173226,
+            "height": 180.8583,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_9_img_4.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 56.125984251968504,
+            "top": 20.005905511811022,
+            "width": 627.5669291338583,
+            "height": 43.62992125984252,
+            "rotation": 0
+          },
+          "plainText": "The Davisson–Germer experiment was an experiment in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern. This confirmed the hypothesis of wave-particle duality.",
+          "textRuns": [
+            {
+              "text": "The ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Davisson–Germer experiment",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " was an experiment in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern. This confirmed the hypothesis of wave-particle duality.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 138.90944881889763,
+            "top": 249.67524251968504,
+            "width": 218.69540944881885,
+            "height": 135.37003149606298,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_9_img_5.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 446.06104251968503,
+            "top": 241.55708661417322,
+            "width": 153.68107086614174,
+            "height": 155.4890834645669,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_9_img_6.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 10,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120,
+            "top": 98.54724409448819,
+            "width": 600,
+            "height": 270,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_10_img_7.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 196.71259842519686,
+            "top": 27.25984251968504,
+            "width": 395.00787401574803,
+            "height": 39.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Electrons hitting the screen",
+          "textRuns": [
+            {
+              "text": "Electrons hitting the screen\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 11,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 128.50885826771653,
+            "top": 223.41141732283464,
+            "width": 287.9019842519685,
+            "height": 161.9448661417323,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=B5IPU19nMks"
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 428.09448818897636,
+            "top": 12,
+            "width": 287.9035590551182,
+            "height": 161.94575196850394,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=MBnNhsRlMK8"
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 128.50787401574803,
+            "top": 12,
+            "width": 287.90355905511814,
+            "height": 161.9448661417323,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=62hyKVwuoXk"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 451.03740157480314,
+            "top": 211.65748031496062,
+            "width": 241.13385826771653,
+            "height": 165.33070866141733,
+            "rotation": 0
+          },
+          "plainText": "We describe particle with a wave-function. Absolute values squared defines the probability to find the particle somewhere. Wave-function may have nodes where particle cannot be found.",
+          "textRuns": [
+            {
+              "text": "We describe particle with a wave-function. Absolute values squared defines the probability to find the particle somewhere. Wave-function may have nodes where particle cannot be found.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 12,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 443,
+            "top": 0,
+            "width": 272.28543307086613,
+            "height": 254.13384251968503,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_12_img_8.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 222,
+            "top": 267,
+            "width": 418.99999685039376,
+            "height": 132.01369763779527,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_12_img_9.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 128.28545098425198,
+            "top": 0,
+            "width": 301.7147464566929,
+            "height": 274.3129188976378,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_12_img_10.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 13,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.427325196850393,
+            "width": 578.5275590551181,
+            "height": 187.06299212598427,
+            "rotation": 0
+          },
+          "plainText": "Key messages:\n\nWave-particle duality\nUnlike classical mechanics we describe particle not with 3 numbers (position),  but with a function defined everywhere in the space.\n|𝛹|2 is the probability to find the particle \n𝛹-function oscillates\nThese oscillations may interfere constructively or destructively,  thus increasing or decreasing the probability to find the particle somewhere.",
+          "textRuns": [
+            {
+              "text": "Key messages:\n\nWave-particle duality\nUnlike classical mechanics we describe particle not with 3 numbers (position),  but with a function defined everywhere in the space.\n|𝛹|",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "2",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " is the probability to find the particle \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "𝛹",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "-function oscillates\nThese oscillations may interfere constructively or destructively,  thus increasing or decreasing the probability to find the particle somewhere.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 164.9704724409449,
+            "top": 203.60949862204725,
+            "width": 480,
+            "height": 160.50000000000003,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_13_img_11.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 14,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 212.83661417322836,
+            "top": 19.125,
+            "width": 498,
+            "height": 366.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_14_img_12.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 134.5748031496063,
+            "top": 127.12204724409449,
+            "width": 206.38582677165354,
+            "height": 287.38582677165357,
+            "rotation": 0
+          },
+          "plainText": "Mach-Zehnder interferometer\n\nNote: phase change 90 degrees on reflection, crucial for beam splitters",
+          "textRuns": [
+            {
+              "text": "Mach-Zehnder interferometer\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\nNote: phase change 90 degrees on reflection, crucial for beam splitters\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 15,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "No matter how strange it seems,  but modern lenses use anti-reflective coating based on the same principle. Notice the violet-bluish tint.",
+          "textRuns": [
+            {
+              "text": "No matter how strange it seems,  but modern lenses use anti-reflective coating based on the same principle. Notice the violet-bluish tint.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 213.9448818897638,
+            "top": 90.9487285433071,
+            "width": 354.5443612204724,
+            "height": 298.72248307086613,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_15_img_13.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 16,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 219.75,
+            "top": 15.328740157480315,
+            "width": 500.25,
+            "height": 363.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_16_img_14.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 17,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Elitzur–Vaidman bomb tester",
+          "textRuns": [
+            {
+              "text": "Elitzur–Vaidman bomb tester\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 216.16535433070865,
+            "top": 97.60620885826772,
+            "width": 402.2169094488189,
+            "height": 298.7225,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_17_img_15.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 18,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 128.76194311023622,
+            "top": 11.041338582677165,
+            "width": 571.0629921259842,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "The Stern–Gerlach experiment demonstrated that the spatial orientation of angular momentum is quantized.",
+          "textRuns": [
+            {
+              "text": "The ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Stern–Gerlach experiment",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " demonstrated that the spatial orientation of angular momentum is quantized.",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 459.25295275590554,
+            "top": 87.0994094488189,
+            "width": 232.81490905511808,
+            "height": 151.29133228346458,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_16.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 459.8118051181102,
+            "top": 242.66830728346457,
+            "width": 232.2561344488189,
+            "height": 151.29131692913387,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_17.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 31.197834645669293,
+            "top": 99.21789842519685,
+            "width": 421.6023326771654,
+            "height": 275.5255748031496,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_18_img_18.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 99.89665354330708,
+            "top": 145.03248031496062,
+            "width": 35.173228346456696,
+            "height": 33.94488188976378,
+            "rotation": 0
+          },
+          "plainText": "Ag",
+          "textRuns": [
+            {
+              "text": "Ag\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 86.38484251968504,
+            "top": 155.6938976377953,
+            "width": 32.196850393700785,
+            "height": 25.440944881889763,
+            "rotation": 0
+          },
+          "plainText": "47",
+          "textRuns": [
+            {
+              "text": "47\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 19,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Magnetic moment is clearly quantized\nRotating S-G device rotates the image: wave function collapses during measurement",
+          "textRuns": [
+            {
+              "text": "Magnetic moment is clearly quantized\nRotating S-G device rotates the image: wave function collapses during measurement\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 127.10638326771654,
+            "top": 126.01377814960631,
+            "width": 592.8937385826771,
+            "height": 262.34251968503935,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_19_img_19.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 20,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.427098818897637,
+            "width": 578.5275590551181,
+            "height": 264.8267716535433,
+            "rotation": 0
+          },
+          "plainText": "Key messages:\n\nParticles have certain internal property called “spin”\nSpin is quantized\nParticles can be divided into bosons (integer spin, example: photon) and fermions (half-integer spin, example: electron, proton, neutron)\nQuantum measurement reduces wave function into an eigenstate of measurement operator, eigenvalues is the result of the measurement\nWe will deal almost exclusively with electrons: these are fermions, have spins +½ and -½ also called “spin up” and “spin down”.",
+          "textRuns": [
+            {
+              "text": "Key messages:\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\nParticles have certain internal property called “spin”\nSpin is quantized\nParticles can be divided into bosons (integer spin, example: photon) and fermions (half-integer spin, example: electron, proton, neutron)\nQuantum measurement reduces wave function into an eigenstate of measurement operator, eigenvalues is the result of the measurement\nWe will deal almost exclusively with electrons: these are fermions, have spins +½ and -½ also called “spin up” and “spin down”.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 21,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 130,
+            "top": 35,
+            "width": 573.4527874015748,
+            "height": 322.56694488188975,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=fX2sZzBUH_Y"
+        }
+      ]
+    },
+    {
+      "slideNumber": 22,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 119.88188976377953,
+            "top": 22,
+            "width": 600.1181102362204,
+            "height": 337.5669330708662,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=kPi7Uv2HphQ"
+        }
+      ]
+    },
+    {
+      "slideNumber": 23,
+      "elements": [
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 138.28543307086613,
+            "top": 41.661416929133864,
+            "width": 570.5019842519686,
+            "height": 320.9055236220472,
+            "rotation": 0
+          },
+          "videoUrl": "http://www.youtube.com/watch?v=zTioGdT80y4"
+        }
+      ]
+    },
+    {
+      "slideNumber": 24,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.28543307086613,
+            "top": 94.9724344488189,
+            "width": 588.7144940944883,
+            "height": 231.30511889763775,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_24_img_20.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 25,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 120.14608779527559,
+            "top": 154.1258938976378,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "ATOM",
+          "textRuns": [
+            {
+              "text": "ATOM\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 26,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Hydrogen Atom Model",
+          "textRuns": [
+            {
+              "text": "Hydrogen Atom Model\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 75.9232283464567,
+            "width": 366.685088976378,
+            "height": 174.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_26_img_21.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 297.5806887795275,
+            "width": 316.9763464566929,
+            "height": 99.87009291338582,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_26_img_22.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 448.9566946850394,
+            "top": 75.9232283464567,
+            "width": 271.0431244094488,
+            "height": 246.4272696850394,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_26_img_23.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 27,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Energy levels,  hydrogen (and hydrogen-like) atom",
+          "textRuns": [
+            {
+              "text": "Energy levels,  hydrogen (and hydrogen-like) atom\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 134.0531496062992,
+            "top": 95.38573641732285,
+            "width": 321.3693007874015,
+            "height": 298.72247086614175,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_27_img_24.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 499.63188976377955,
+            "top": 112.69685039370079,
+            "width": 166.44094488188978,
+            "height": 245.2204724409449,
+            "rotation": 0
+          },
+          "plainText": "The principal quantum number, n\nDifferent values for n divide orbitals into groups of similar energies called shells. Numerical values for n are used in ordinary speech.",
+          "textRuns": [
+            {
+              "text": "The principal quantum number, n\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Different values for n divide orbitals into groups of similar energies called shells. Numerical values for n are used in ordinary speech.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 28,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 352.40354330708664,
+            "top": 14.655511811023622,
+            "width": 401.74085019685043,
+            "height": 381.00002066929136,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_28_img_25.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 15.98228346456693,
+            "top": 24.61023622047244,
+            "width": 328.40352696850397,
+            "height": 204.21731929133858,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_28_img_26.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 25.704721259842522,
+            "top": 244.02558799212596,
+            "width": 274.35437047244096,
+            "height": 142.4212818897638,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_28_img_27.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 29,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70668681102362,
+            "top": 15.427212401574803,
+            "width": 586.9842519685039,
+            "height": 101.71653543307086,
+            "rotation": 0
+          },
+          "plainText": "The orbital angular momentum quantum number, l, determines the angular\nmomentum of the electron as it moves in its orbital. This quantum number tells us the shape of the orbital, spherical or whatever. The values that l can take depend on the value of n: l can have any value from 0 up to n – 1. The different possible values of l are given\nletters rather than numbers and they are called s, p, d, and f.",
+          "textRuns": [
+            {
+              "text": "T",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "he orbital angular momentum quantum number",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", l, determines the angular\nmomentum of the electron as it moves in its orbital. This quantum number tells us the shape of the orbital, spherical or whatever. The values that l can take depend on the value of n: l can have any value from 0 up to n – 1. The different possible values of l are given\nletters rather than numbers and they are called s, p, d, and f.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.71259842519684,
+            "top": 99.82668129921261,
+            "width": 442.5,
+            "height": 87.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_29_img_28.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 242.85030334645668,
+            "width": 291.75,
+            "height": 123.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_29_img_29.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.71259842519684,
+            "top": 187.57677165354332,
+            "width": 575.8818897637796,
+            "height": 65.33858267716535,
+            "rotation": 0
+          },
+          "plainText": "The magnetic quantum number, ml, determines the spatial orientation of the angular momentum. Its value depends on the value of l, varying from –l to +l. The different possible values of ml are given suffixes on the letters.",
+          "textRuns": [
+            {
+              "text": "The ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "magnetic quantum number",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", ml, determines the spatial orientation of the angular momentum. Its value depends on the value of l, varying from –l to +l. The different possible values of ml are given suffixes on the letters.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 449.6988188976378,
+            "top": 275.8031496062992,
+            "width": 230.78740157480314,
+            "height": 74.33858267716535,
+            "rotation": 0
+          },
+          "plainText": "Organic chemists are concerned mostly with s and p orbitals",
+          "textRuns": [
+            {
+              "text": "Organic chemists are concerned mostly with s and p orbitals\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 30,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 298.2538960629921,
+            "top": 3.313976377952756,
+            "width": 340.9606236220473,
+            "height": 142.1023842519685,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_30_img_30.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 286.51377952755905,
+            "top": 202.49999940944883,
+            "width": 433.48561023622045,
+            "height": 202.5000283464567,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_30_img_31.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 338.9507874015748,
+            "top": 145.41633858267716,
+            "width": 235.39180000000002,
+            "height": 99.56494488188976,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_30_img_32.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 133.46653543307087,
+            "top": 212.56102362204723,
+            "width": 147.56692913385828,
+            "height": 183.09448818897638,
+            "rotation": 0
+          },
+          "plainText": "Link:\nhttps://www.chemtube3d.com/a-level-orbitals-all/",
+          "textRuns": [
+            {
+              "text": "Link:\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "https://www.chemtube3d.com/a-level-orbitals-all/",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 31,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 129.02207204724408,
+            "top": 0.00008385826771653543,
+            "width": 578.5275590551181,
+            "height": 234.8503937007874,
+            "rotation": 0
+          },
+          "plainText": "Aufbau principle / Madelung rule\nThe lowest-energy orbitals fill up first, according to the order 1s -> 2s -> 2p ->\n3s -> 3p -> 4s -> 3d. Note that the 4s orbital lies between the 3p and 3d orbitals in energy. (Note: energy grows with n+l and with n if n+l are equal, e.g. 3s = 3+0=3 and 2p=2+1=3, but 2p is lower because 2<3)\n\nPauli exclusion principle\nOnly two electrons can occupy an orbital, and they must be of opposite spin.\n\nHund’s rule\nIf two or more empty orbitals of equal energy are available, one electron occu-\npies each with spins parallel until all orbitals are half-full",
+          "textRuns": [
+            {
+              "text": "Aufbau principle / ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Madelung rule",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "The lowest-energy orbitals fill up first, according to the order 1s -> 2s -> 2p ->\n3s -> 3p -> 4s -> 3d. Note that the 4s orbital lies between the 3p and 3d orbitals in energy. (Note: energy grows with n+l and with n if n+l are equal, e.g. 3s = 3+0=3 and 2p=2+1=3, but 2p is lower because 2<3)\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Pauli exclusion principle",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Only two electrons can occupy an orbital, and they must be of opposite spin.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Hund’s rule",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "If two or more empty orbitals of equal energy are available, one electron occu-\npies each with spins parallel until all orbitals are half-full\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 150.6968503937008,
+            "top": 246.85244606299213,
+            "width": 467.6785133858269,
+            "height": 146.1495354330709,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_31_img_33.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 32,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 109.87992125984252,
+            "top": 5.549212598425197,
+            "width": 395.2991403543307,
+            "height": 162.70867421259842,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_34.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 507.29133858267716,
+            "top": 10.778543307086615,
+            "width": 212.70868740157476,
+            "height": 152.2499940944882,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_35.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.06889763779527,
+            "top": 183.58662696850394,
+            "width": 258.5341066929134,
+            "height": 212.74208779527564,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_36.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 451.19158700787403,
+            "top": 183.58662696850394,
+            "width": 222.12776279527563,
+            "height": 212.74208267716534,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_32_img_37.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 33,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 153.34448818897638,
+            "top": 19.02952755905512,
+            "width": 452.0314960629921,
+            "height": 347.5275590551181,
+            "rotation": 0
+          },
+          "plainText": "Periodic table link: Ptable\n\nBiogenic elements: \nC – carbon\nH – hydrogen\nO – oxygen\nN – nitrogen\nP – phosphorus\nS – sulfur\n\nCofactors, Signaling: Na, K, Ca, Mg, Cl\n\nMicroelements: Fe, Zn, Cu, Mn, Mo, Co, I, Se\n\nValence electrons are electrons in the outermost shell of an atom, and that can participate in the formation of a chemical bond if the outermost shell is not closed.",
+          "textRuns": [
+            {
+              "text": "Periodic table link",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ":",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Ptable",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Biogenic elements:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " \nC – carbon\nH – hydrogen\nO – oxygen\nN – nitrogen\nP – phosphorus\nS – sulfur\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Cofactors, Signaling: ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Na, K, Ca, Mg, Cl\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Microelements:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Fe, Zn, Cu, Mn, Mo, Co, I, Se\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "Valence electrons",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " are electrons in the outermost shell of an atom, and that can participate in the formation of a chemical bond if the outermost shell is not closed.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 34,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 120.14608779527559,
+            "top": 154.1258938976378,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "MOLECULE",
+          "textRuns": [
+            {
+              "text": "MOLECULE\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 35,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Keywords to take a note",
+          "textRuns": [
+            {
+              "text": "Keywords to take a note\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 97.70480826771653,
+            "width": 578.5275590551181,
+            "height": 234.85039370078738,
+            "rotation": 0
+          },
+          "plainText": "Valence shell electron pair repulsion (VSEPR) theory is a model used in chemistry to predict the geometry of individual molecules from the number of electron pairs surrounding their central atoms. The premise of VSEPR is that the valence electron pairs surrounding an atom tend to repel each other. The greater the repulsion, the higher in energy (less stable) the molecule is. NOTE: this is approximation as many other theories, don’t expect it to explain everything.\nA linear combination of atomic orbitals or LCAO is a quantum superposition of atomic orbitals and a technique for calculating molecular orbitals in quantum chemistry.",
+          "textRuns": [
+            {
+              "text": "Valence shell electron pair repulsion",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " (",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "VSEPR",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ") ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "theory",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "is a model used in chemistry to predict the geometry of individual molecules from the number of electron pairs surrounding their central atoms. The premise of VSEPR is that the valence electron pairs surrounding an atom tend to ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "repel",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " each other. The greater the repulsion, the higher in energy (less stable) the molecule is. NOTE: this is approximation as many other theories, don’t expect it to explain everything.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "A linear combination of atomic orbitals",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " or ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "LCAO ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "is a quantum superposition of atomic orbitals and a technique for calculating molecular orbitals in quantum chemistry.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 36,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 76.56102362204724,
+            "top": 13.316929133858268,
+            "width": 378.7861606299212,
+            "height": 199.5234590551181,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_38.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 465.2991338582677,
+            "top": -0.00002874015748031496,
+            "width": 254.70097480314962,
+            "height": 172.14048503937008,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_39.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 92.01771653543307,
+            "top": 229.27739606299212,
+            "width": 321.242843503937,
+            "height": 168.1596112204724,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_40.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 437.2605600393701,
+            "top": 241.58743543307085,
+            "width": 282.7393921259842,
+            "height": 155.84961102362206,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_41.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 470.13263641732283,
+            "top": 164.70472440944883,
+            "width": 200.705987007874,
+            "height": 75.59056653543306,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_36_img_42.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 37,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 152.91929133858267,
+            "top": 213.26020078740157,
+            "width": 485.2674448818897,
+            "height": 191.73981968503938,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_37_img_43.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 135.16338582677164,
+            "top": 13.240157480314961,
+            "width": 249.09086692913385,
+            "height": 189.26021751968503,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_37_img_44.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 423.06889763779526,
+            "top": 27.25984251968504,
+            "width": 275.1732283464567,
+            "height": 186,
+            "rotation": 0
+          },
+          "plainText": "There is an optimum distance between nuclei that leads to maximum stability. Called the bond length, this distance is 74 pm in the H2 molecule. Every covalent bond has both a characteristic bond strength and bond length.",
+          "textRuns": [
+            {
+              "text": "There is an optimum distance between nuclei that leads to maximum stability. Called the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "bond length",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": ", this distance is 74 pm in the H2 molecule. Every covalent bond has both a characteristic bond strength and bond length.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 38,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 119.33839291338582,
+            "top": 0,
+            "width": 333.01964803149605,
+            "height": 118.63448582677164,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_38_img_45.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 470.32092027559054,
+            "top": 0,
+            "width": 249.67911417322838,
+            "height": 163.5649812992126,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_38_img_46.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.06692913385827,
+            "top": 173.34647736220472,
+            "width": 586.927626968504,
+            "height": 217.43501574803147,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_38_img_47.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 39,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133.5,
+            "top": 12.75,
+            "width": 586.5,
+            "height": 379.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_39_img_48.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 40,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 275.74015748031496,
+            "top": 12,
+            "width": 444.260370472441,
+            "height": 380.9999940944882,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_40_img_49.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 130.13779527559055,
+            "top": 37.246062992125985,
+            "width": 128.71653543307087,
+            "height": 355.748031496063,
+            "rotation": 0
+          },
+          "plainText": "An inductive effect is simply the shifting of electrons in a\nsigma bond in response to the electronegativity of nearby atoms.",
+          "textRuns": [
+            {
+              "text": "An ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "inductive effect",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " is simply the shifting of electrons in a\nsigma bond in response to the electronegativity of nearby atoms.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 41,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.42724842519685,
+            "width": 578.5275590551181,
+            "height": 125.45669291338582,
+            "rotation": 0
+          },
+          "plainText": "Molecular orbitals are created from atomic orbitals. Think of them as a new coordinate system that allows expressing any quantum state. If you choose this system carefully, electrons would like to remain in a pure state (on coordinate axis),  not in a mixture of states.",
+          "textRuns": [
+            {
+              "text": "Molecular orbitals are created from atomic orbitals. Think of them as a new coordinate system that allows expressing any quantum state. If you choose this system carefully, electrons would like to remain in a pure state (on coordinate axis),  not in a mixture of states.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 223.1515748031496,
+            "top": 140.88179940944883,
+            "width": 378,
+            "height": 224.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_41_img_50.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 42,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Only orbitals with close energy levels can effectively interact.",
+          "textRuns": [
+            {
+              "text": "Only orbitals with close energy levels can effectively interact. \n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 459.1358651574803,
+            "top": 68.31298877952756,
+            "width": 189.38650393700783,
+            "height": 336.68711811023627,
+            "rotation": 0
+          },
+          "videoUrl": null
+        },
+        {
+          "type": "VIDEO",
+          "transform": {
+            "left": 128.50590551181102,
+            "top": 68.31286791338583,
+            "width": 189.38579527559054,
+            "height": 336.6856062992126,
+            "rotation": 0
+          },
+          "videoUrl": null
+        }
+      ]
+    },
+    {
+      "slideNumber": 43,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Electronegativity. The more electronegative an atom is, the more it\nattracts electrons. This can be understood in terms of energies of the AOs.",
+          "textRuns": [
+            {
+              "text": "Electronegativity.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " The more electronegative an atom is, the more it\nattracts electrons. This can be understood in terms of energies of the AOs.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 88.73029862204724,
+            "width": 370.6082913385827,
+            "height": 244.8149519685039,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_43_img_51.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 498.3149842519685,
+            "top": 94.27746870078741,
+            "width": 209.68507637795267,
+            "height": 228.25497244094484,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_43_img_52.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 44,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 164.9015748031496,
+            "top": 0,
+            "width": 563.7165862204724,
+            "height": 208.12205787401575,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_44_img_53.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 577.3031496062993,
+            "top": 244.73818897637796,
+            "width": 137.5984251968504,
+            "height": 154.22834645669292,
+            "rotation": 0
+          },
+          "plainText": "Compound exists as ions",
+          "textRuns": [
+            {
+              "text": "Compound exists as ions\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 372.0275590551181,
+            "top": 212.56102362204723,
+            "width": 149.78740157480314,
+            "height": 163.11023622047244,
+            "rotation": 0
+          },
+          "plainText": "Easiest to break in two ions A+ and B-,  but radicals are also possible",
+          "textRuns": [
+            {
+              "text": "Easiest to break in two ions A+ and B-,  but radicals are also possible\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 161.20669291338584,
+            "top": 215.88976377952756,
+            "width": 167.5511811023622,
+            "height": 159.7795275590551,
+            "rotation": 0
+          },
+          "plainText": "Easiest to break into two radicals. Heterolytic fission also possible, can give A+ and B-, but also A- and B+",
+          "textRuns": [
+            {
+              "text": "Easiest to break into two radicals. Heterolytic fission also possible, can give A+ and B-, but also A- and B+\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 45,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 15.427276968503937,
+            "width": 578.5275590551181,
+            "height": 149.40944881889763,
+            "rotation": 0
+          },
+          "plainText": "The continuum in bonding from covalent to ionic is a result of an unequal distribution of bonding electrons between atoms. The symbol “lowercase Greek delta” means partial charge, either partial positive for the electron-poor atom or partial negative for the electron-rich atom.",
+          "textRuns": [
+            {
+              "text": "The continuum in bonding from covalent to ionic is a result of an unequal distribution of bonding electrons between atoms. The symbol “lowercase Greek delta” means partial charge, either partial positive for the electron-poor atom or partial negative for the electron-rich atom.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 134.81496062992127,
+            "top": 169.8849061023622,
+            "width": 578.5275118110237,
+            "height": 211.70753149606298,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_45_img_54.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 46,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 137.12578346456692,
+            "top": 19.59238523622047,
+            "width": 457.1813102362205,
+            "height": 104.05560118110236,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_46_img_55.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133.57686082677165,
+            "top": 125.73036161417322,
+            "width": 443.72632834645674,
+            "height": 162.40155118110238,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_46_img_56.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 611.1143456692914,
+            "top": 172.91840748031498,
+            "width": 77.52105472440942,
+            "height": 59.16284291338582,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_46_img_57.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 134.57677165354332,
+            "top": 292.4507874015748,
+            "width": 564.7795275590552,
+            "height": 104.05511811023622,
+            "rotation": 0
+          },
+          "plainText": "This C-O π bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a C=O double bond much stronger than a C=C double bond (bond strength for C=O, about 725–760 kJ/mol; for C=C, 600–625 kJ/mol: compare also a C–O single bond, 350–380 kJ/mol with a C–C single bond, 340–350 kJ/mol).",
+          "textRuns": [
+            {
+              "text": "This C-O π bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "O double bond much stronger than a C",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "=",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "C double bond (bond strength for C=O, about 725–760 kJ/mol; for C=C, 600–625 kJ/mol: compare also a C–O single bond, 350–380 kJ/mol with a C–C single bond, 340–350 kJ/mol). \n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 47,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Having similar energies is not the only criterion for good interaction between two atomic orbitals. It also matters how the orbitals overlap.",
+          "textRuns": [
+            {
+              "text": "Having similar energies is not the only criterion for good interaction between two atomic orbitals. It also matters how the orbitals overlap.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 253.50787401574803,
+            "top": 86.61317106299212,
+            "width": 302.925231496063,
+            "height": 143.04722952755904,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_47_img_58.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 172.01771653543307,
+            "top": 233.99603051181103,
+            "width": 465.9057511811023,
+            "height": 155.67523897637795,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_47_img_59.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 48,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Hybridization of atomic orbitals",
+          "textRuns": [
+            {
+              "text": "Hybridization of atomic orbitals\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 254.40551181102362,
+            "top": 100.03149606299213,
+            "width": 356.27957244094495,
+            "height": 286.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_48_img_60.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 49,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 132.2779775590551,
+            "top": 222.23416161417325,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Link: https://www.chemtube3d.com/orbitalshybrid/",
+          "textRuns": [
+            {
+              "text": "Link:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "https://www.chemtube3d.com/orbitalshybrid/",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 119.68835492125984,
+            "top": 12.925197834645669,
+            "width": 580.077312992126,
+            "height": 202.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_49_img_61.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 50,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 351.5551442913386,
+            "top": 0,
+            "width": 368.4448818897638,
+            "height": 404.9999450787402,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_50_img_62.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 163.36220472440945,
+            "top": 0,
+            "width": 168.75,
+            "height": 123,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_50_img_63.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 160.73622047244095,
+            "top": 129.33070866141733,
+            "width": 174,
+            "height": 121.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_50_img_64.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 174.35629921259843,
+            "top": 264.1998031496063,
+            "width": 171,
+            "height": 119.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_50_img_65.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 521.6929133858267,
+            "top": 60.54330708661417,
+            "width": 198.30708661417322,
+            "height": 62.45669291338583,
+            "rotation": 0
+          },
+          "plainText": "Build models here:\n https://app.molview.com/",
+          "textRuns": [
+            {
+              "text": "Build models here:\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "https://app.molview.com/",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 51,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 122.96062992125984,
+            "top": 7.561023622047244,
+            "width": 381.75,
+            "height": 241.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_51_img_66.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 135.16535433070865,
+            "top": 279.6003938976378,
+            "width": 552.2400811023622,
+            "height": 125.39961417322837,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_51_img_67.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 512.2716535433071,
+            "top": 7.561023622047244,
+            "width": 188.25,
+            "height": 122.25,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_51_img_68.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 529.5905511811023,
+            "top": 149.31496062992127,
+            "width": 170.9291338582677,
+            "height": 122.24409448818898,
+            "rotation": 0
+          },
+          "plainText": "Link: https://www.chemtube3d.com/orbitalsethene/",
+          "textRuns": [
+            {
+              "text": "Link: ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "https://www.chemtube3d.com/orbitalsethene/",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 52,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 140.71062992125985,
+            "top": 164.4448866141732,
+            "width": 295.6732,
+            "height": 248.52753287401578,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_52_img_69.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.61023622047244,
+            "top": 23.635817125984254,
+            "width": 484.0886391732284,
+            "height": 146.3563181102362,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_52_img_70.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 476.3287401574803,
+            "top": 195.91732283464566,
+            "width": 204.16535433070865,
+            "height": 190.84251968503938,
+            "rotation": 0
+          },
+          "plainText": "Link: https://www.chemtube3d.com/orbitalsacetylene/",
+          "textRuns": [
+            {
+              "text": "Link: ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "https://www.chemtube3d.com/orbitalsacetylene/",
+              "bold": false,
+              "italic": false,
+              "underline": true
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 53,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 119.5,
+            "top": 4.600393307086614,
+            "width": 329.7184472440945,
+            "height": 123.8366275590551,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_71.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 119.5,
+            "top": 128.43700551181104,
+            "width": 254.74802559055118,
+            "height": 138.2401775590551,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_72.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 475.90944881889766,
+            "top": 13.600394488188977,
+            "width": 244.0905118110236,
+            "height": 114.83660551181103,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_73.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 394.751968503937,
+            "top": 136.3996027559055,
+            "width": 290.36417165354334,
+            "height": 135.22048799212598,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_74.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 128.5017779527559,
+            "top": 285.50787401574803,
+            "width": 214.24096259842517,
+            "height": 119.49214251968502,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_75.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 347.96062992125985,
+            "top": 287.6003907480315,
+            "width": 372.03942047244107,
+            "height": 117.3996161417323,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_53_img_76.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 148.38385826771653,
+            "top": 298.43897637795277,
+            "width": 35.43307086614173,
+            "height": 26.669291338582678,
+            "rotation": 0
+          },
+          "plainText": "2",
+          "textRuns": [
+            {
+              "text": "2\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 144.60236220472441,
+            "top": 312.75984251968504,
+            "width": 29.74015748031496,
+            "height": 29.078740157480315,
+            "rotation": 0
+          },
+          "plainText": "3",
+          "textRuns": [
+            {
+              "text": "3\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 54,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 321.6588716535433,
+            "top": 0.00002480314960629921,
+            "width": 398.3412834645669,
+            "height": 404.99995748031495,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_54_img_77.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 160.68503937007873,
+            "top": 175.1249096456693,
+            "width": 103.5,
+            "height": 54.75,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_54_img_78.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 55,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 6.551090748031496,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Why do we care about orbitals?",
+          "textRuns": [
+            {
+              "text": "Why do we care about orbitals?",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 115.70669291338582,
+            "top": 58.77156318897637,
+            "width": 201.75,
+            "height": 160.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_79.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 302.11417322834643,
+            "top": 276.55896476377956,
+            "width": 417.8856844488189,
+            "height": 128.44105452755906,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_80.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 309.8917322834646,
+            "top": 67.20472440944881,
+            "width": 289.6062992125984,
+            "height": 75.44881889763779,
+            "rotation": 0
+          },
+          "plainText": "This collision creates a new bond",
+          "textRuns": [
+            {
+              "text": "This collision creates a new bond\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 443.8891224409449,
+            "top": 109.36607834645669,
+            "width": 264.7683842519685,
+            "height": 139.06492972440944,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_55_img_81.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 135.68503937007873,
+            "top": 251.39566929133858,
+            "width": 128.71653543307087,
+            "height": 58.818897637795274,
+            "rotation": 0
+          },
+          "plainText": "These collisions do not",
+          "textRuns": [
+            {
+              "text": "These collisions do not\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 56,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 144.56102362204723,
+            "top": 98.04527559055119,
+            "width": 563.2322472440945,
+            "height": 128.70274921259843,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_56_img_82.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 165.48411043307087,
+            "top": 251.00018759842519,
+            "width": 542.3093244094488,
+            "height": 154.00002559055122,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_56_img_83.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 152.32874015748033,
+            "top": 25.03937007874016,
+            "width": 513.7322834645669,
+            "height": 56.59842519685039,
+            "rotation": 0
+          },
+          "plainText": "In the future we will study mechanisms of reactions",
+          "textRuns": [
+            {
+              "text": "In the future we will study mechanisms of reactions\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 57,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.57888956692912,
+            "top": 51.41225728346457,
+            "width": 300.46799527559057,
+            "height": 353.58857893700787,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_57_img_84.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 431.04755905511814,
+            "top": 98.95152578740156,
+            "width": 284.29522618110235,
+            "height": 306.0475,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_57_img_85.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.81496062992126,
+            "top": -0.0000265748031496063,
+            "width": 578.5275590551181,
+            "height": 51.40157480314961,
+            "rotation": 0
+          },
+          "plainText": "Conjugated bonds",
+          "textRuns": [
+            {
+              "text": "Conjugated bonds\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 58,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.08944881889764,
+            "top": 31.754062598425197,
+            "width": 240.73952480314958,
+            "height": 347.03193937007876,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_58_img_86.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 378.79937007874014,
+            "top": 0,
+            "width": 264.8314600393701,
+            "height": 404.93504330708663,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_58_img_87.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 59,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Natural Pigments (see what’s common?)",
+          "textRuns": [
+            {
+              "text": "Natural Pigments (see what’s common?)\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 124.08944881889764,
+            "top": 84.90033602362205,
+            "width": 468.9058677165355,
+            "height": 302.01070078740156,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_59_img_88.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 60,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.46062992125985,
+            "top": 147.09448818897638,
+            "width": 438.1594917322834,
+            "height": 237.11026771653545,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_60_img_89.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 131.46062992125985,
+            "top": 7.562992125984252,
+            "width": 554.9341387795275,
+            "height": 123.09448169291339,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_60_img_90.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 455.248031496063,
+            "top": 285.79330708661416,
+            "width": 231.14173228346456,
+            "height": 78.77952755905511,
+            "rotation": 0
+          },
+          "plainText": "Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.",
+          "textRuns": [
+            {
+              "text": "Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.\n\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 61,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": -0.000025393700787401574,
+            "top": 141.34251968503938,
+            "width": 443.8248169291339,
+            "height": 263.65748031496065,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_61_img_91.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 455.28543307086613,
+            "top": 0,
+            "width": 264.7145374015748,
+            "height": 214.60435433070865,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_61_img_92.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 137.90551181102362,
+            "top": 22.820866141732285,
+            "width": 290.7165354330709,
+            "height": 118.51181102362204,
+            "rotation": 0
+          },
+          "plainText": "Source: Goro YABUTA et al, Structure of Green Pigment Formed by the Reaction of Caffeic Acid Esters (or Chlorogenic acid) with a Primary Amino Compound",
+          "textRuns": [
+            {
+              "text": "Source: Goro YABUTA et al, Structure of Green Pigment Formed by the Reaction of Caffeic Acid Esters (or Chlorogenic acid) with a Primary Amino Compound\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 490.753937007874,
+            "top": 268.03937007874015,
+            "width": 201.9448818897638,
+            "height": 118.51181102362204,
+            "rotation": 0
+          },
+          "plainText": "Link: https://www.tandfonline.com/doi/pdf/10.1271/bbb.65.2121",
+          "textRuns": [
+            {
+              "text": "Link:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " https://www.tandfonline.com/doi/pdf/10.1271/bbb.65.2121\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 62,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 504.73254625984254,
+            "top": 339.427148031496,
+            "width": 215.26771653543307,
+            "height": 54,
+            "rotation": 0
+          },
+          "plainText": "Source: my FB account",
+          "textRuns": [
+            {
+              "text": "Source: my FB account\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 310.12795275590554,
+            "top": 46.400500196850395,
+            "width": 398.29649133858265,
+            "height": 298.722368503937,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_62_img_93.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 126.47824409448818,
+            "top": 8.031496062992126,
+            "width": 145.80314468503937,
+            "height": 156.82085905511812,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_62_img_94.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 134.6935905511811,
+            "top": 156.6237086614173,
+            "width": 175.43504724409448,
+            "height": 106.81102204724411,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_62_img_95.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 190.64370078740157,
+            "top": 263.43503937007875,
+            "width": 50.71260059055117,
+            "height": 137.88778582677168,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_62_img_96.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 63,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Aromaticity",
+          "textRuns": [
+            {
+              "text": "Aromaticity\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 147.37007874015748,
+            "top": 73.93110433070865,
+            "width": 442.13774153543307,
+            "height": 317.958625,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_63_img_97.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 107.94488188976378,
+            "top": 331.28740157480314,
+            "width": 116.50393700787401,
+            "height": 40.039370078740156,
+            "rotation": 0
+          },
+          "plainText": "96 kJ/mol",
+          "textRuns": [
+            {
+              "text": "96 kJ/mol\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 306.3011811023622,
+            "top": 174.20275590551182,
+            "width": 124.2755905511811,
+            "height": 40.039370078740156,
+            "rotation": 0
+          },
+          "plainText": "410 kJ/mol",
+          "textRuns": [
+            {
+              "text": "410 kJ/mol\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 305.76377952755905,
+            "top": 325.8228346456693,
+            "width": 108.4724409448819,
+            "height": 33.28346456692913,
+            "rotation": 0
+          },
+          "plainText": "120 kJ/mol",
+          "textRuns": [
+            {
+              "text": "120 kJ/mol\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 499.63188976377955,
+            "top": 323.6023622047244,
+            "width": 108.4724409448819,
+            "height": 25.511811023622048,
+            "rotation": 0
+          },
+          "plainText": "208 kJ/mol",
+          "textRuns": [
+            {
+              "text": "208 kJ/mol\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 563.9389763779527,
+            "top": 218.55905511811022,
+            "width": 134.69291338582678,
+            "height": 87.30708661417323,
+            "rotation": 0
+          },
+          "plainText": "heat of hydrogenation",
+          "textRuns": [
+            {
+              "text": "heat of hydrogenation\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 64,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 100.98031496062993,
+            "top": 295.36614173228344,
+            "width": 214.58856318897637,
+            "height": 109.63387086614176,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_98.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 309.36614173228344,
+            "top": 209.23228346456693,
+            "width": 371.48231496062994,
+            "height": 104.11226161417324,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_99.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 309.36614173228344,
+            "top": 102.9232283464567,
+            "width": 371.4822978346457,
+            "height": 92.99408897637795,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_100.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 109.41338582677166,
+            "top": 5.64369842519685,
+            "width": 291.9586803149606,
+            "height": 104.11219173228348,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_101.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 119.39862204724409,
+            "top": 127.36614173228347,
+            "width": 177.75,
+            "height": 168,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_64_img_102.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 440.5531496062992,
+            "top": 14.974409448818898,
+            "width": 225.8031496062992,
+            "height": 55.653543307086615,
+            "rotation": 0
+          },
+          "plainText": "Benzene has six π molecular orbitals",
+          "textRuns": [
+            {
+              "text": "Benzene has six π molecular orbitals\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 65,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 148.47834645669292,
+            "top": 17.54724409448819,
+            "width": 561.041202559055,
+            "height": 381.0000177165354,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_65_img_103.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 66,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 123.04569409448818,
+            "top": 135.6495159448819,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Note: planarity matters. 10=2 x 4 +2, 18 = 2 x 8 + 2",
+          "textRuns": [
+            {
+              "text": "Note:",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " planarity matters. 10=2 x 4 +2, 18 = 2 x 8 + 2\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 116.82283464566929,
+            "top": -0.000009251968503937008,
+            "width": 590.9724669291338,
+            "height": 127.8878031496063,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_66_img_104.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 168.45275590551182,
+            "top": 202.4999096456693,
+            "width": 114.75,
+            "height": 121.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_66_img_105.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 514.5767716535433,
+            "top": 196.1122035433071,
+            "width": 122.97441889763779,
+            "height": 127.88778405511809,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_66_img_106.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 146.78149606299212,
+            "top": 323.5196850393701,
+            "width": 299.59842519685037,
+            "height": 81.4724409448819,
+            "rotation": 0
+          },
+          "plainText": "Not planar -> not aromatic.\nReason: in plane angles would be 144, not 120",
+          "textRuns": [
+            {
+              "text": "Not planar -> not aromatic.\nReason: in plane angles would be 144, not 120\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 520.7125984251968,
+            "top": 323.5196850393701,
+            "width": 168.66141732283464,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Planar, Aromatic",
+          "textRuns": [
+            {
+              "text": "Planar, Aromatic\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 283.20276456692915,
+            "top": 210.26236456692914,
+            "width": 122.97444921259843,
+            "height": 79.17466417322831,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_66_img_107.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 67,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Aromaticity matters",
+          "textRuns": [
+            {
+              "text": "Aromaticity matters\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 79.1515748031496,
+            "top": 123.5285466535433,
+            "width": 358.4035730314961,
+            "height": 269.5374177165354,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_67_img_108.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 429.6752125984252,
+            "top": 88.83169291338582,
+            "width": 290.3248413385827,
+            "height": 123.68109842519684,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_67_img_109.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 524.2500297244095,
+            "top": 212.5118070866142,
+            "width": 195.75,
+            "height": 174.00000000000003,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_67_img_110.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 348.61811023622045,
+            "top": 90.80905511811024,
+            "width": 162.89763779527559,
+            "height": 24.188976377952756,
+            "rotation": 0
+          },
+          "plainText": "2 electrons from H",
+          "textRuns": [
+            {
+              "text": "2 electrons from H\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 68,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Heterocyclic aromatic compounds",
+          "textRuns": [
+            {
+              "text": "Heterocyclic aromatic compounds\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 122.95866141732283,
+            "top": 68.7992092519685,
+            "width": 519.75,
+            "height": 133.70077460629923,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_68_img_111.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 178.24409448818898,
+            "top": 216.20078779527557,
+            "width": 453.4527440944882,
+            "height": 172.36222145669294,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_68_img_112.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 69,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Heterocyclic aromatic compounds",
+          "textRuns": [
+            {
+              "text": "Heterocyclic aromatic compounds\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 133,
+            "top": 67.47637716535434,
+            "width": 543.9410181102362,
+            "height": 186.71654822834643,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_69_img_113.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 261.65748031496065,
+            "top": 262.86408287401576,
+            "width": 322.36277716535426,
+            "height": 130.13589685039372,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_69_img_114.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 70,
+      "elements": [
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 159.2529527559055,
+            "top": -0.00009035433070866142,
+            "width": 504.75,
+            "height": 91.5,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_70_img_115.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 120.14566929133858,
+            "top": 82.79132618110236,
+            "width": 361.5394122047244,
+            "height": 161.04329881889765,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_70_img_116.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 493.685081496063,
+            "top": 103.49990964566929,
+            "width": 200.71377952755907,
+            "height": 289.5001102362205,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_70_img_117.png"
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 130.7263779527559,
+            "top": 255.834625,
+            "width": 158.07847401574804,
+            "height": 137.16536850393706,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_70_img_118.png"
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 314.3287401574803,
+            "top": 245.8484251968504,
+            "width": 130.93700787401573,
+            "height": 142.01574803149606,
+            "rotation": 0
+          },
+          "plainText": "Heracleum sosnowskyi, or Sosnowsky's hogweed. Invasive in Ukraine. May damage skin!",
+          "textRuns": [
+            {
+              "text": "Heracleum sosnowskyi, or Sosnowsky's hogweed. Invasive in Ukraine. May damage skin!\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 71,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.81537913385827,
+            "top": 157.4546340551181,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "HOMEWORK",
+          "textRuns": [
+            {
+              "text": "HOMEWORK\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slideNumber": 72,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 15.427075,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Problem 1. Draw the ground state electron configuration of the oxygen. I expect you to draw energy levels and populate them with electrons. Refer to Hund’s rule, aufbau principle, etc as needed.",
+          "textRuns": [
+            {
+              "text": "Problem 1.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Draw the ground state electron configuration of the ",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "oxygen. ",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": "I expect you to draw energy levels and populate them with electrons. Refer to Hund’s rule, aufbau principle, etc as needed.\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 94.27746870078741,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Problem 2. Write hybridizations for all carbon atoms in vitamin C",
+          "textRuns": [
+            {
+              "text": "Problem 2.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Write hybridizations for all carbon atoms in vitamin C\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 278.34561318897636,
+            "top": 155.12794940944883,
+            "width": 253.24996850393694,
+            "height": 231.8720019685039,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_72_img_119.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 73,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 115.70711141732284,
+            "top": 14.277468700787402,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "Problem 3. Fill in any nonbonding valence electrons that are missing in acetate ion",
+          "textRuns": [
+            {
+              "text": "Problem 3.",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            },
+            {
+              "text": " Fill in any nonbonding valence electrons that are missing in acetate ion\n",
+              "bold": false,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        },
+        {
+          "type": "IMAGE",
+          "transform": {
+            "left": 297.8986220472441,
+            "top": 81.1278624015748,
+            "width": 136.28541102362203,
+            "height": 141.43473385826772,
+            "rotation": 0
+          },
+          "localImagePath": "images/slide_73_img_120.png"
+        }
+      ]
+    },
+    {
+      "slideNumber": 74,
+      "elements": [
+        {
+          "type": "SHAPE",
+          "transform": {
+            "left": 116.81537913385827,
+            "top": 157.4546340551181,
+            "width": 578.5275590551181,
+            "height": 66.85039370078741,
+            "rotation": 0
+          },
+          "plainText": "FINALE",
+          "textRuns": [
+            {
+              "text": "FINALE\n",
+              "bold": true,
+              "italic": false,
+              "underline": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
