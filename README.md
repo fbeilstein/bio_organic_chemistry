@@ -1,6 +1,5 @@
 # Bioorganic Chemistry Lectures
 
-Below is the complete index of lectures, linking to the legacy Google Slides presentations alongside the newly converted, high-fidelity Markdown presentation engine format.
 
 ### 1. This Strange Quantum World
 * Lecture
