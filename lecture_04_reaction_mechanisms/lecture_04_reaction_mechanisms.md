@@ -42,7 +42,7 @@ Carbonyl group
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_3_img_1.png) {left=30.14 top=67.33 width=69.86 height=32.67}
+![](./lecture_04_reaction_mechanisms/images/slide_3_img_1.png) {left=30.14 top=67.33 width=69.86 height=32.67}
 
 <div style="position: absolute; left: 15.73%; top: 27.01%; width: 29.10%; height: 53.74%;">
 
@@ -50,7 +50,7 @@ The energy released in forming the C=O bond (bond strength 720 kJ/mol) more than
 
 </div>
 
-![](images/slide_3_img_2.png) {left=44.83 top=22.78 width=55.17 height=25.63}
+![](./lecture_04_reaction_mechanisms/images/slide_3_img_2.png) {left=44.83 top=22.78 width=55.17 height=25.63}
 
 <div style="position: absolute; left: 48.70%; top: 50.00%; width: 49.01%; height: 18.15%;">
 
@@ -76,9 +76,9 @@ IUPAC defines a **leaving group** to be any group of atoms that detaches from th
 
 </div>
 
-![](images/slide_4_img_3.png) {left=16.07 top=31.02 width=19.17 height=37.96}
+![](./lecture_04_reaction_mechanisms/images/slide_4_img_3.png) {left=16.07 top=31.02 width=19.17 height=37.96}
 
-![](images/slide_4_img_4.png) {left=38.57 top=28.81 width=61.43 height=42.39}
+![](./lecture_04_reaction_mechanisms/images/slide_4_img_4.png) {left=38.57 top=28.81 width=61.43 height=42.39}
 
 </div>
 
@@ -86,7 +86,7 @@ IUPAC defines a **leaving group** to be any group of atoms that detaches from th
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_5.png) {left=24.65 top=1.65 width=68.89 height=40.93}
+![](./lecture_04_reaction_mechanisms/images/slide_5_img_5.png) {left=24.65 top=1.65 width=68.89 height=40.93}
 
 <div style="position: absolute; left: 20.11%; top: 40.93%; width: 77.97%; height: 22.44%;">
 
@@ -94,7 +94,7 @@ Once the nucleophile has added to the carbonyl compound, the stability of the pr
 
 </div>
 
-![](images/slide_5_img_6.png) {left=30.65 top=65.34 width=56.90 height=30.70}
+![](./lecture_04_reaction_mechanisms/images/slide_5_img_6.png) {left=30.65 top=65.34 width=56.90 height=30.70}
 
 </div>
 
@@ -108,15 +108,15 @@ Once the nucleophile has added to the carbonyl compound, the stability of the pr
 
 </div>
 
-![](images/slide_6_img_7.png) {left=16.70 top=42.40 width=61.88 height=17.22}
+![](./lecture_04_reaction_mechanisms/images/slide_6_img_7.png) {left=16.70 top=42.40 width=61.88 height=17.22}
 
-![](images/slide_6_img_8.png) {left=80.31 top=39.53 width=20.31 height=22.96}
+![](./lecture_04_reaction_mechanisms/images/slide_6_img_8.png) {left=80.31 top=39.53 width=20.31 height=22.96}
 
-![](images/slide_6_img_9.png) {left=16.07 top=74.13 width=63.12 height=18.15}
+![](./lecture_04_reaction_mechanisms/images/slide_6_img_9.png) {left=16.07 top=74.13 width=63.12 height=18.15}
 
-![](images/slide_6_img_10.png) {left=81.07 top=71.13 width=18.50 height=21.24}
+![](./lecture_04_reaction_mechanisms/images/slide_6_img_10.png) {left=81.07 top=71.13 width=18.50 height=21.24}
 
-![](images/slide_6_img_11.png) {left=16.07 top=17.50 width=83.65 height=22.04}
+![](./lecture_04_reaction_mechanisms/images/slide_6_img_11.png) {left=16.07 top=17.50 width=83.65 height=22.04}
 
 </div>
 
@@ -124,11 +124,11 @@ Once the nucleophile has added to the carbonyl compound, the stability of the pr
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_12.png) {left=18.49 top=0.00 width=63.02 height=33.10}
+![](./lecture_04_reaction_mechanisms/images/slide_7_img_12.png) {left=18.49 top=0.00 width=63.02 height=33.10}
 
-![](images/slide_7_img_13.png) {left=17.30 top=71.62 width=76.15 height=28.33}
+![](./lecture_04_reaction_mechanisms/images/slide_7_img_13.png) {left=17.30 top=71.62 width=76.15 height=28.33}
 
-![](images/slide_7_img_14.png) {left=63.57 top=19.58 width=33.65 height=52.04}
+![](./lecture_04_reaction_mechanisms/images/slide_7_img_14.png) {left=63.57 top=19.58 width=33.65 height=52.04}
 
 <div style="position: absolute; left: 18.49%; top: 58.42%; width: 41.96%; height: 13.20%;">
 
@@ -142,13 +142,13 @@ Amines react with acyl chlorides to give amides
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_15.png) {left=39.87 top=9.79 width=58.77 height=26.37}
+![](./lecture_04_reaction_mechanisms/images/slide_8_img_15.png) {left=39.87 top=9.79 width=58.77 height=26.37}
 
-![](images/slide_8_img_16.png) {left=32.67 top=40.69 width=38.12 height=25.18}
+![](./lecture_04_reaction_mechanisms/images/slide_8_img_16.png) {left=32.67 top=40.69 width=38.12 height=25.18}
 
-![](images/slide_8_img_17.png) {left=61.88 top=40.78 width=38.12 height=25.01}
+![](./lecture_04_reaction_mechanisms/images/slide_8_img_17.png) {left=61.88 top=40.78 width=38.12 height=25.01}
 
-![](images/slide_8_img_18.png) {left=32.92 top=70.40 width=59.76 height=29.60}
+![](./lecture_04_reaction_mechanisms/images/slide_8_img_18.png) {left=32.92 top=70.40 width=59.76 height=29.60}
 
 <div style="position: absolute; left: 17.02%; top: 1.21%; width: 79.21%; height: 8.58%;">
 
@@ -162,9 +162,9 @@ Acid chlorides and acid anhydrides react with alcohols to make esters
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_19.png) {left=29.83 top=8.25 width=56.87 height=41.75}
+![](./lecture_04_reaction_mechanisms/images/slide_9_img_19.png) {left=29.83 top=8.25 width=56.87 height=41.75}
 
-![](images/slide_9_img_20.png) {left=29.83 top=53.42 width=56.87 height=16.67}
+![](./lecture_04_reaction_mechanisms/images/slide_9_img_20.png) {left=29.83 top=53.42 width=56.87 height=16.67}
 
 <div style="position: absolute; left: 19.93%; top: 77.40%; width: 76.67%; height: 13.91%;">
 
@@ -184,13 +184,13 @@ Delocalization and the electrophilicity of carbonyl compounds. Electrophilicity 
 
 </div>
 
-![](images/slide_10_img_21.png) {left=47.33 top=50.00 width=52.67 height=42.30}
+![](./lecture_04_reaction_mechanisms/images/slide_10_img_21.png) {left=47.33 top=50.00 width=52.67 height=42.30}
 
-![](images/slide_10_img_22.png) {left=17.57 top=20.77 width=40.10 height=28.70}
+![](./lecture_04_reaction_mechanisms/images/slide_10_img_22.png) {left=17.57 top=20.77 width=40.10 height=28.70}
 
-![](images/slide_10_img_23.png) {left=58.95 top=22.64 width=41.05 height=24.95}
+![](./lecture_04_reaction_mechanisms/images/slide_10_img_23.png) {left=58.95 top=22.64 width=41.05 height=24.95}
 
-![](images/slide_10_img_24.png) {left=17.57 top=51.64 width=28.78 height=44.07}
+![](./lecture_04_reaction_mechanisms/images/slide_10_img_24.png) {left=17.57 top=51.64 width=28.78 height=44.07}
 
 </div>
 
@@ -204,11 +204,11 @@ Delocalization and the electrophilicity of carbonyl compounds. Electrophilicity 
 
 </div>
 
-![](images/slide_11_img_25.png) {left=16.07 top=25.59 width=39.58 height=16.11}
+![](./lecture_04_reaction_mechanisms/images/slide_11_img_25.png) {left=16.07 top=25.59 width=39.58 height=16.11}
 
-![](images/slide_11_img_26.png) {left=16.07 top=41.70 width=44.69 height=29.44}
+![](./lecture_04_reaction_mechanisms/images/slide_11_img_26.png) {left=16.07 top=41.70 width=44.69 height=29.44}
 
-![](images/slide_11_img_27.png) {left=16.07 top=71.14 width=52.92 height=19.07}
+![](./lecture_04_reaction_mechanisms/images/slide_11_img_27.png) {left=16.07 top=71.14 width=52.92 height=19.07}
 
 <div style="position: absolute; left: 68.99%; top: 23.32%; width: 29.65%; height: 68.98%;">
 
@@ -233,9 +233,9 @@ In the presence of acid (but not base!) hemiacetals can undergo an elimination r
 
 </div>
 
-![](images/slide_12_img_28.png) {left=16.79 top=73.43 width=82.26 height=26.57}
+![](./lecture_04_reaction_mechanisms/images/slide_12_img_28.png) {left=16.79 top=73.43 width=82.26 height=26.57}
 
-![](images/slide_12_img_29.png) {left=18.69 top=-0.00 width=70.44 height=26.57}
+![](./lecture_04_reaction_mechanisms/images/slide_12_img_29.png) {left=18.69 top=-0.00 width=70.44 height=26.57}
 
 <div style="position: absolute; left: 64.73%; top: 63.59%; width: 35.27%; height: 11.88%;">
 
@@ -267,25 +267,13 @@ Nucleophilic substitution 1 order
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_30.png) {left=16.50 top=1.64 width=42.31 height=46.38}
+![](./lecture_04_reaction_mechanisms/images/slide_14_img_30.png) {left=16.50 top=1.64 width=42.31 height=46.38}
 
-![](images/slide_14_img_31.png) {left=58.82 top=0.00 width=41.18 height=45.73}
+![](./lecture_04_reaction_mechanisms/images/slide_14_img_31.png) {left=58.82 top=0.00 width=41.18 height=45.73}
 
-![](images/slide_14_img_32.png) {left=20.22 top=46.87 width=56.33 height=27.64}
+![](./lecture_04_reaction_mechanisms/images/slide_14_img_32.png) {left=20.22 top=46.87 width=56.33 height=27.64}
 
-![](images/slide_14_img_33.png) {left=50.00 top=75.66 width=50.00 height=24.72}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_15_img_34.png) {left=54.19 top=0.00 width=45.81 height=100.00}
-
-![](images/slide_15_img_35.png) {left=17.94 top=54.89 width=36.24 height=45.11}
-
-![](images/slide_15_img_36.png) {left=18.83 top=0.00 width=34.47 height=55.62}
+![](./lecture_04_reaction_mechanisms/images/slide_14_img_33.png) {left=50.00 top=75.66 width=50.00 height=24.72}
 
 </div>
 
@@ -293,9 +281,21 @@ Nucleophilic substitution 1 order
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_16_img_37.png) {left=48.41 top=54.07 width=51.59 height=45.93}
+![](./lecture_04_reaction_mechanisms/images/slide_15_img_34.png) {left=54.19 top=0.00 width=45.81 height=100.00}
 
-![](images/slide_16_img_38.png) {left=32.40 top=0.00 width=67.60 height=47.41}
+![](./lecture_04_reaction_mechanisms/images/slide_15_img_35.png) {left=17.94 top=54.89 width=36.24 height=45.11}
+
+![](./lecture_04_reaction_mechanisms/images/slide_15_img_36.png) {left=18.83 top=0.00 width=34.47 height=55.62}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_04_reaction_mechanisms/images/slide_16_img_37.png) {left=48.41 top=54.07 width=51.59 height=45.93}
+
+![](./lecture_04_reaction_mechanisms/images/slide_16_img_38.png) {left=32.40 top=0.00 width=67.60 height=47.41}
 
 <div style="position: absolute; left: 18.44%; top: 64.58%; width: 28.40%; height: 30.03%;">
 
@@ -310,13 +310,13 @@ SN1 and SN2 example:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_39.png) {left=0.00 top=0.00 width=21.56 height=79.63}
+![](./lecture_04_reaction_mechanisms/images/slide_17_img_39.png) {left=0.00 top=0.00 width=21.56 height=79.63}
 
-![](images/slide_17_img_40.png) {left=22.49 top=0.00 width=22.71 height=73.89}
+![](./lecture_04_reaction_mechanisms/images/slide_17_img_40.png) {left=22.49 top=0.00 width=22.71 height=73.89}
 
-![](images/slide_17_img_41.png) {left=47.89 top=0.09 width=27.71 height=79.44}
+![](./lecture_04_reaction_mechanisms/images/slide_17_img_41.png) {left=47.89 top=0.09 width=27.71 height=79.44}
 
-![](images/slide_17_img_42.png) {left=75.60 top=0.00 width=25.31 height=84.63}
+![](./lecture_04_reaction_mechanisms/images/slide_17_img_42.png) {left=75.60 top=0.00 width=25.31 height=84.63}
 
 <div style="position: absolute; left: 53.88%; top: 79.54%; width: 24.34%; height: 20.46%;">
 
@@ -336,9 +336,9 @@ More stable carbocation -> more SN1 reactive
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_43.png) {left=16.67 top=0.00 width=83.33 height=35.00}
+![](./lecture_04_reaction_mechanisms/images/slide_18_img_43.png) {left=16.67 top=0.00 width=83.33 height=35.00}
 
-![](images/slide_18_img_44.png) {left=56.04 top=35.00 width=43.96 height=52.04}
+![](./lecture_04_reaction_mechanisms/images/slide_18_img_44.png) {left=56.04 top=35.00 width=43.96 height=52.04}
 
 <div style="position: absolute; left: 17.88%; top: 38.83%; width: 37.13%; height: 58.09%;">
 
@@ -359,9 +359,9 @@ The stereochemistry of SN1 reaction
 
 </div>
 
-![](images/slide_19_img_45.png) {left=16.07 top=16.39 width=83.23 height=29.07}
+![](./lecture_04_reaction_mechanisms/images/slide_19_img_45.png) {left=16.07 top=16.39 width=83.23 height=29.07}
 
-![](images/slide_19_img_46.png) {left=16.07 top=59.97 width=72.50 height=34.63}
+![](./lecture_04_reaction_mechanisms/images/slide_19_img_46.png) {left=16.07 top=59.97 width=72.50 height=34.63}
 
 <div style="position: absolute; left: 18.25%; top: 48.40%; width: 44.92%; height: 8.44%;">
 
@@ -375,7 +375,7 @@ mechanism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_47.png) {left=21.67 top=19.44 width=78.33 height=61.11}
+![](./lecture_04_reaction_mechanisms/images/slide_20_img_47.png) {left=21.67 top=19.44 width=78.33 height=61.11}
 
 </div>
 
@@ -383,7 +383,7 @@ mechanism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_48.png) {left=21.41 top=16.02 width=78.59 height=67.95}
+![](./lecture_04_reaction_mechanisms/images/slide_21_img_48.png) {left=21.41 top=16.02 width=78.59 height=67.95}
 
 </div>
 
@@ -397,21 +397,9 @@ One more example of Stereochemistry and substitution
 
 </div>
 
-![](images/slide_22_img_49.png) {left=16.07 top=18.33 width=58.85 height=24.07}
+![](./lecture_04_reaction_mechanisms/images/slide_22_img_49.png) {left=16.07 top=18.33 width=58.85 height=24.07}
 
-![](images/slide_22_img_50.png) {left=16.98 top=46.36 width=66.04 height=36.85}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_23_img_51.png) {left=25.12 top=0.00 width=74.88 height=30.12}
-
-![](images/slide_23_img_52.png) {left=26.55 top=31.03 width=65.17 height=32.46}
-
-![](images/slide_23_img_53.png) {left=23.88 top=67.16 width=76.12 height=34.82}
+![](./lecture_04_reaction_mechanisms/images/slide_22_img_50.png) {left=16.98 top=46.36 width=66.04 height=36.85}
 
 </div>
 
@@ -419,7 +407,19 @@ One more example of Stereochemistry and substitution
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_54.png) {left=18.25 top=15.60 width=81.00 height=84.40}
+![](./lecture_04_reaction_mechanisms/images/slide_23_img_51.png) {left=25.12 top=0.00 width=74.88 height=30.12}
+
+![](./lecture_04_reaction_mechanisms/images/slide_23_img_52.png) {left=26.55 top=31.03 width=65.17 height=32.46}
+
+![](./lecture_04_reaction_mechanisms/images/slide_23_img_53.png) {left=23.88 top=67.16 width=76.12 height=34.82}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_04_reaction_mechanisms/images/slide_24_img_54.png) {left=18.25 top=15.60 width=81.00 height=84.40}
 
 <div style="position: absolute; left: 20.11%; top: 1.21%; width: 77.79%; height: 14.38%;">
 
@@ -451,11 +451,11 @@ Nucleophilic substitution 2 order
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_55.png) {left=50.00 top=0.00 width=50.00 height=97.11}
+![](./lecture_04_reaction_mechanisms/images/slide_26_img_55.png) {left=50.00 top=0.00 width=50.00 height=97.11}
 
-![](images/slide_26_img_56.png) {left=16.35 top=-0.00 width=33.65 height=49.24}
+![](./lecture_04_reaction_mechanisms/images/slide_26_img_56.png) {left=16.35 top=-0.00 width=33.65 height=49.24}
 
-![](images/slide_26_img_57.png) {left=16.35 top=58.27 width=33.65 height=38.84}
+![](./lecture_04_reaction_mechanisms/images/slide_26_img_57.png) {left=16.35 top=58.27 width=33.65 height=38.84}
 
 </div>
 
@@ -471,7 +471,7 @@ SN2 example:
 
 </div>
 
-![](images/slide_27_img_58.png) {left=16.03 top=-0.00 width=53.75 height=26.48}
+![](./lecture_04_reaction_mechanisms/images/slide_27_img_58.png) {left=16.03 top=-0.00 width=53.75 height=26.48}
 
 <div style="position: absolute; left: 20.11%; top: 29.92%; width: 75.57%; height: 12.25%;">
 
@@ -479,11 +479,11 @@ Substitution reactions at other elements
 
 </div>
 
-![](images/slide_27_img_59.png) {left=21.17 top=36.12 width=53.96 height=21.11}
+![](./lecture_04_reaction_mechanisms/images/slide_27_img_59.png) {left=21.17 top=36.12 width=53.96 height=21.11}
 
-![](images/slide_27_img_60.png) {left=21.17 top=63.52 width=48.23 height=18.15}
+![](./lecture_04_reaction_mechanisms/images/slide_27_img_60.png) {left=21.17 top=63.52 width=48.23 height=18.15}
 
-![](images/slide_27_img_61.png) {left=21.17 top=81.67 width=76.46 height=18.33}
+![](./lecture_04_reaction_mechanisms/images/slide_27_img_61.png) {left=21.17 top=81.67 width=76.46 height=18.33}
 
 <div style="position: absolute; left: 76.65%; top: 46.91%; width: 20.98%; height: 30.03%;">
 
@@ -499,13 +499,13 @@ Few more examples of SN2:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_62.png) {left=20.44 top=-0.55 width=62.26 height=54.00}
+![](./lecture_04_reaction_mechanisms/images/slide_28_img_62.png) {left=20.44 top=-0.55 width=62.26 height=54.00}
 
-![](images/slide_28_img_63.png) {left=22.11 top=53.46 width=67.50 height=23.33}
+![](./lecture_04_reaction_mechanisms/images/slide_28_img_63.png) {left=22.11 top=53.46 width=67.50 height=23.33}
 
-![](images/slide_28_img_64.png) {left=16.78 top=71.12 width=69.58 height=28.33}
+![](./lecture_04_reaction_mechanisms/images/slide_28_img_64.png) {left=16.78 top=71.12 width=69.58 height=28.33}
 
-![](images/slide_28_img_65.png) {left=78.64 top=6.06 width=20.85 height=27.80}
+![](./lecture_04_reaction_mechanisms/images/slide_28_img_65.png) {left=78.64 top=6.06 width=20.85 height=27.80}
 
 </div>
 
@@ -519,19 +519,9 @@ Both mechanisms are possible in certain cases
 
 </div>
 
-![](images/slide_29_img_66.png) {left=42.48 top=56.83 width=57.52 height=43.17}
+![](./lecture_04_reaction_mechanisms/images/slide_29_img_66.png) {left=42.48 top=56.83 width=57.52 height=43.17}
 
-![](images/slide_29_img_67.png) {left=37.93 top=12.76 width=62.07 height=41.43}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_30_img_68.png) {left=30.38 top=-1.98 width=69.62 height=42.69}
-
-![](images/slide_30_img_69.png) {left=27.28 top=42.69 width=72.72 height=57.31}
+![](./lecture_04_reaction_mechanisms/images/slide_29_img_67.png) {left=37.93 top=12.76 width=62.07 height=41.43}
 
 </div>
 
@@ -539,9 +529,19 @@ Both mechanisms are possible in certain cases
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_70.png) {left=28.65 top=0.00 width=71.35 height=36.11}
+![](./lecture_04_reaction_mechanisms/images/slide_30_img_68.png) {left=30.38 top=-1.98 width=69.62 height=42.69}
 
-![](images/slide_31_img_71.png) {left=54.13 top=36.11 width=45.87 height=57.96}
+![](./lecture_04_reaction_mechanisms/images/slide_30_img_69.png) {left=27.28 top=42.69 width=72.72 height=57.31}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_04_reaction_mechanisms/images/slide_31_img_70.png) {left=28.65 top=0.00 width=71.35 height=36.11}
+
+![](./lecture_04_reaction_mechanisms/images/slide_31_img_71.png) {left=54.13 top=36.11 width=45.87 height=57.96}
 
 <div style="position: absolute; left: 17.88%; top: 39.49%; width: 34.16%; height: 57.96%;">
 
@@ -575,9 +575,9 @@ SN2
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_72.png) {left=17.51 top=13.42 width=81.17 height=27.61}
+![](./lecture_04_reaction_mechanisms/images/slide_32_img_72.png) {left=17.51 top=13.42 width=81.17 height=27.61}
 
-![](images/slide_32_img_73.png) {left=16.60 top=63.86 width=81.17 height=31.29}
+![](./lecture_04_reaction_mechanisms/images/slide_32_img_73.png) {left=16.60 top=63.86 width=81.17 height=31.29}
 
 <div style="position: absolute; left: 17.51%; top: 1.87%; width: 81.17%; height: 11.55%;">
 
@@ -597,7 +597,7 @@ The benzyl group acts in much the same way using the π system of the benzene ri
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_74.png) {left=32.29 top=28.93 width=67.71 height=37.96}
+![](./lecture_04_reaction_mechanisms/images/slide_33_img_74.png) {left=32.29 top=28.93 width=67.71 height=37.96}
 
 <div style="position: absolute; left: 18.44%; top: 1.87%; width: 81.56%; height: 30.69%;">
 
@@ -605,7 +605,7 @@ With α-bromo carbonyl compounds, substitution leads to two electrophilic groups
 
 </div>
 
-![](images/slide_33_img_75.png) {left=36.93 top=72.82 width=63.07 height=27.18}
+![](./lecture_04_reaction_mechanisms/images/slide_33_img_75.png) {left=36.93 top=72.82 width=63.07 height=27.18}
 
 </div>
 
@@ -613,7 +613,7 @@ With α-bromo carbonyl compounds, substitution leads to two electrophilic groups
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_76.png) {left=22.71 top=19.18 width=77.29 height=20.97}
+![](./lecture_04_reaction_mechanisms/images/slide_34_img_76.png) {left=22.71 top=19.18 width=77.29 height=20.97}
 
 <div style="position: absolute; left: 22.71%; top: 40.15%; width: 77.29%; height: 22.44%;">
 
@@ -621,7 +621,7 @@ Choline is important in the transmission of nerve impulses, adrenaline causes bl
 
 </div>
 
-![](images/slide_34_img_77.png) {left=22.71 top=64.86 width=77.29 height=35.14}
+![](./lecture_04_reaction_mechanisms/images/slide_34_img_77.png) {left=22.71 top=64.86 width=77.29 height=35.14}
 
 <div style="position: absolute; left: 24.94%; top: 3.85%; width: 73.70%; height: 15.33%;">
 
@@ -635,7 +635,7 @@ Choline is important in the transmission of nerve impulses, adrenaline causes bl
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_78.png) {left=19.00 top=21.78 width=81.00 height=44.76}
+![](./lecture_04_reaction_mechanisms/images/slide_35_img_78.png) {left=19.00 top=21.78 width=81.00 height=44.76}
 
 <div style="position: absolute; left: 21.04%; top: 75.80%; width: 75.19%; height: 18.15%;">
 
@@ -667,7 +667,7 @@ Nucleophilic Addition
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_79.png) {left=39.31 top=0.00 width=60.69 height=94.07}
+![](./lecture_04_reaction_mechanisms/images/slide_37_img_79.png) {left=39.31 top=0.00 width=60.69 height=94.07}
 
 <div style="position: absolute; left: 17.14%; top: 2.86%; width: 21.16%; height: 94.07%;">
 
@@ -694,9 +694,9 @@ Note: same product, but different mechanisms and catalysts
 
 </div>
 
-![](images/slide_38_img_80.png) {left=20.46 top=29.26 width=78.29 height=29.24}
+![](./lecture_04_reaction_mechanisms/images/slide_38_img_80.png) {left=20.46 top=29.26 width=78.29 height=29.24}
 
-![](images/slide_38_img_81.png) {left=19.30 top=62.79 width=80.60 height=25.67}
+![](./lecture_04_reaction_mechanisms/images/slide_38_img_81.png) {left=19.30 top=62.79 width=80.60 height=25.67}
 
 </div>
 
@@ -710,7 +710,7 @@ Note: same product, but different mechanisms and catalysts
 
 </div>
 
-![](images/slide_39_img_82.png) {left=16.15 top=24.42 width=83.85 height=27.78}
+![](./lecture_04_reaction_mechanisms/images/slide_39_img_82.png) {left=16.15 top=24.42 width=83.85 height=27.78}
 
 <div style="position: absolute; left: 21.10%; top: 54.02%; width: 31.37%; height: 8.58%;">
 
@@ -742,7 +742,7 @@ The overall process left to right can be seen as substitution -OH for -OMe
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_83.png) {left=17.79 top=24.31 width=82.21 height=59.49}
+![](./lecture_04_reaction_mechanisms/images/slide_40_img_83.png) {left=17.79 top=24.31 width=82.21 height=59.49}
 
 <div style="position: absolute; left: 18.25%; top: 3.85%; width: 81.75%; height: 15.18%;">
 
@@ -774,11 +774,11 @@ Elimination happens when the nucleophile attacks hydrogen instead of carbon
 
 </div>
 
-![](images/slide_42_img_84.png) {left=16.07 top=18.04 width=52.92 height=25.36}
+![](./lecture_04_reaction_mechanisms/images/slide_42_img_84.png) {left=16.07 top=18.04 width=52.92 height=25.36}
 
-![](images/slide_42_img_85.png) {left=39.13 top=38.45 width=50.97 height=29.76}
+![](./lecture_04_reaction_mechanisms/images/slide_42_img_85.png) {left=39.13 top=38.45 width=50.97 height=29.76}
 
-![](images/slide_42_img_86.png) {left=16.93 top=74.54 width=66.15 height=23.15}
+![](./lecture_04_reaction_mechanisms/images/slide_42_img_86.png) {left=16.93 top=74.54 width=66.15 height=23.15}
 
 </div>
 
@@ -792,17 +792,17 @@ How the nucleophile affects elimination versus substitution
 
 </div>
 
-![](images/slide_43_img_87.png) {left=15.26 top=37.61 width=27.09 height=33.00}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_87.png) {left=15.26 top=37.61 width=27.09 height=33.00}
 
-![](images/slide_43_img_88.png) {left=44.65 top=35.94 width=20.61 height=36.34}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_88.png) {left=44.65 top=35.94 width=20.61 height=36.34}
 
-![](images/slide_43_img_89.png) {left=16.07 top=75.68 width=41.85 height=24.12}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_89.png) {left=16.07 top=75.68 width=41.85 height=24.12}
 
-![](images/slide_43_img_90.png) {left=58.15 top=75.47 width=41.85 height=24.53}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_90.png) {left=58.15 top=75.47 width=41.85 height=24.53}
 
-![](images/slide_43_img_91.png) {left=15.66 top=10.12 width=56.77 height=22.43}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_91.png) {left=15.66 top=10.12 width=56.77 height=22.43}
 
-![](images/slide_43_img_92.png) {left=57.19 top=27.06 width=12.74 height=3.51}
+![](./lecture_04_reaction_mechanisms/images/slide_43_img_92.png) {left=57.19 top=27.06 width=12.74 height=3.51}
 
 <div style="position: absolute; left: 71.80%; top: 10.12%; width: 28.20%; height: 63.20%;">
 
@@ -816,7 +816,7 @@ In an SN2 substitution, the carbon centre is a soft electrophile—it is essenti
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_93.png) {left=17.57 top=8.95 width=39.06 height=23.94}
+![](./lecture_04_reaction_mechanisms/images/slide_44_img_93.png) {left=17.57 top=8.95 width=39.06 height=23.94}
 
 <div style="position: absolute; left: 56.63%; top: 9.90%; width: 41.65%; height: 22.04%;">
 
@@ -824,7 +824,7 @@ In an SN2 substitution, the carbon centre is a soft electrophile—it is essenti
 
 </div>
 
-![](images/slide_44_img_94.png) {left=17.57 top=36.44 width=39.06 height=22.04}
+![](./lecture_04_reaction_mechanisms/images/slide_44_img_94.png) {left=17.57 top=36.44 width=39.06 height=22.04}
 
 <div style="position: absolute; left: 56.63%; top: 39.73%; width: 42.65%; height: 27.15%;">
 
@@ -832,7 +832,7 @@ In an SN2 substitution, the carbon centre is a soft electrophile—it is essenti
 
 </div>
 
-![](images/slide_44_img_95.png) {left=17.57 top=69.85 width=39.06 height=25.20}
+![](./lecture_04_reaction_mechanisms/images/slide_44_img_95.png) {left=17.57 top=69.85 width=39.06 height=25.20}
 
 <div style="position: absolute; left: 57.80%; top: 68.87%; width: 41.65%; height: 29.37%;">
 
@@ -846,11 +846,11 @@ In an SN2 substitution, the carbon centre is a soft electrophile—it is essenti
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_96.png) {left=23.70 top=64.37 width=69.72 height=35.63}
+![](./lecture_04_reaction_mechanisms/images/slide_45_img_96.png) {left=23.70 top=64.37 width=69.72 height=35.63}
 
-![](images/slide_45_img_97.png) {left=23.70 top=35.32 width=57.48 height=27.28}
+![](./lecture_04_reaction_mechanisms/images/slide_45_img_97.png) {left=23.70 top=35.32 width=57.48 height=27.28}
 
-![](images/slide_45_img_98.png) {left=23.70 top=20.35 width=76.88 height=17.65}
+![](./lecture_04_reaction_mechanisms/images/slide_45_img_98.png) {left=23.70 top=20.35 width=76.88 height=17.65}
 
 <div style="position: absolute; left: 20.98%; top: 0.00%; width: 79.02%; height: 20.35%;">
 
@@ -873,7 +873,7 @@ The rate of an E1 reaction is not even affected by what base is present—so E1 
 
 </div>
 
-![](images/slide_46_img_99.png) {left=29.87 top=41.17 width=54.49 height=58.83}
+![](./lecture_04_reaction_mechanisms/images/slide_46_img_99.png) {left=29.87 top=41.17 width=54.49 height=58.83}
 
 </div>
 
@@ -905,7 +905,7 @@ First-order* unimolecular reactions
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_100.png) {left=26.77 top=10.74 width=73.23 height=89.26}
+![](./lecture_04_reaction_mechanisms/images/slide_48_img_100.png) {left=26.77 top=10.74 width=73.23 height=89.26}
 
 <div style="position: absolute; left: 20.30%; top: 3.19%; width: 43.25%; height: 20.46%;">
 
@@ -919,7 +919,7 @@ Mechanism of the E1 reaction. Two steps are involved, the first of which is rate
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_101.png) {left=48.71 top=2.96 width=51.29 height=94.07}
+![](./lecture_04_reaction_mechanisms/images/slide_49_img_101.png) {left=48.71 top=2.96 width=51.29 height=94.07}
 
 <div style="position: absolute; left: 17.70%; top: 0.00%; width: 31.01%; height: 97.04%;">
 
@@ -938,13 +938,13 @@ remember that any of these substrates, under the appropriate conditions (in the 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_50_img_102.png) {left=0.00 top=0.00 width=21.56 height=79.63}
+![](./lecture_04_reaction_mechanisms/images/slide_50_img_102.png) {left=0.00 top=0.00 width=21.56 height=79.63}
 
-![](images/slide_50_img_103.png) {left=22.49 top=0.00 width=22.71 height=73.89}
+![](./lecture_04_reaction_mechanisms/images/slide_50_img_103.png) {left=22.49 top=0.00 width=22.71 height=73.89}
 
-![](images/slide_50_img_104.png) {left=47.89 top=0.09 width=27.71 height=79.44}
+![](./lecture_04_reaction_mechanisms/images/slide_50_img_104.png) {left=47.89 top=0.09 width=27.71 height=79.44}
 
-![](images/slide_50_img_105.png) {left=75.60 top=0.00 width=25.31 height=84.63}
+![](./lecture_04_reaction_mechanisms/images/slide_50_img_105.png) {left=75.60 top=0.00 width=25.31 height=84.63}
 
 <div style="position: absolute; left: 18.52%; top: 84.63%; width: 73.89%; height: 13.53%;">
 
@@ -958,9 +958,9 @@ remember that any of these substrates, under the appropriate conditions (in the 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_106.png) {left=47.95 top=0.00 width=52.05 height=26.95}
+![](./lecture_04_reaction_mechanisms/images/slide_51_img_106.png) {left=47.95 top=0.00 width=52.05 height=26.95}
 
-![](images/slide_51_img_107.png) {left=47.95 top=36.09 width=51.11 height=58.29}
+![](./lecture_04_reaction_mechanisms/images/slide_51_img_107.png) {left=47.95 top=36.09 width=51.11 height=58.29}
 
 <div style="position: absolute; left: 18.25%; top: 54.95%; width: 27.46%; height: 26.95%;">
 
@@ -976,7 +976,7 @@ Simple example:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_108.png) {left=29.89 top=12.81 width=70.11 height=86.69}
+![](./lecture_04_reaction_mechanisms/images/slide_52_img_108.png) {left=29.89 top=12.81 width=70.11 height=86.69}
 
 <div style="position: absolute; left: 16.96%; top: 5.03%; width: 82.05%; height: 7.78%;">
 
@@ -990,7 +990,7 @@ Simple example:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_109.png) {left=26.65 top=2.42 width=73.35 height=97.58}
+![](./lecture_04_reaction_mechanisms/images/slide_53_img_109.png) {left=26.65 top=2.42 width=73.35 height=97.58}
 
 <div style="position: absolute; left: 47.22%; top: 67.22%; width: 38.24%; height: 27.53%;">
 
@@ -1012,13 +1012,13 @@ cis/trans through single bond rotation in carbocation
 
 </div>
 
-![](images/slide_54_img_110.png) {left=16.33 top=11.40 width=43.56 height=20.33}
+![](./lecture_04_reaction_mechanisms/images/slide_54_img_110.png) {left=16.33 top=11.40 width=43.56 height=20.33}
 
-![](images/slide_54_img_111.png) {left=16.33 top=41.09 width=43.56 height=46.53}
+![](./lecture_04_reaction_mechanisms/images/slide_54_img_111.png) {left=16.33 top=41.09 width=43.56 height=46.53}
 
-![](images/slide_54_img_112.png) {left=16.33 top=31.73 width=37.54 height=7.78}
+![](./lecture_04_reaction_mechanisms/images/slide_54_img_112.png) {left=16.33 top=31.73 width=37.54 height=7.78}
 
-![](images/slide_54_img_113.png) {left=59.74 top=55.30 width=40.26 height=43.90}
+![](./lecture_04_reaction_mechanisms/images/slide_54_img_113.png) {left=59.74 top=55.30 width=40.26 height=43.90}
 
 <div style="position: absolute; left: 62.81%; top: 11.40%; width: 37.19%; height: 43.90%;">
 
@@ -1032,9 +1032,9 @@ carbocation is stabilized when its empty p orbital can interact with the filled 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_114.png) {left=36.67 top=8.53 width=63.33 height=82.89}
+![](./lecture_04_reaction_mechanisms/images/slide_55_img_114.png) {left=36.67 top=8.53 width=63.33 height=82.89}
 
-![](images/slide_55_img_115.png) {left=16.68 top=44.32 width=18.06 height=55.68}
+![](./lecture_04_reaction_mechanisms/images/slide_55_img_115.png) {left=16.68 top=44.32 width=18.06 height=55.68}
 
 <div style="position: absolute; left: 14.76%; top: 0.00%; width: 21.91%; height: 56.33%;">
 
@@ -1048,7 +1048,7 @@ Removal of the proton on the right (brown arrow) leads to a transition state in 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_56_img_116.png) {left=31.08 top=33.89 width=68.02 height=66.11}
+![](./lecture_04_reaction_mechanisms/images/slide_56_img_116.png) {left=31.08 top=33.89 width=68.02 height=66.11}
 
 <div style="position: absolute; left: 15.87%; top: 0.00%; width: 81.18%; height: 34.41%;">
 
@@ -1088,7 +1088,7 @@ Second-order* bimolecular reaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_117.png) {left=21.28 top=11.54 width=71.98 height=86.48}
+![](./lecture_04_reaction_mechanisms/images/slide_58_img_117.png) {left=21.28 top=11.54 width=71.98 height=86.48}
 
 <div style="position: absolute; left: 22.71%; top: 2.53%; width: 70.54%; height: 12.54%;">
 
@@ -1102,7 +1102,7 @@ E2 mechanism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_118.png) {left=31.63 top=22.11 width=51.84 height=33.72}
+![](./lecture_04_reaction_mechanisms/images/slide_59_img_118.png) {left=31.63 top=22.11 width=51.84 height=33.72}
 
 <div style="position: absolute; left: 22.71%; top: 58.58%; width: 74.09%; height: 30.52%;">
 
@@ -1122,9 +1122,9 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_60_img_119.png) {left=37.40 top=38.08 width=63.34 height=49.93}
+![](./lecture_04_reaction_mechanisms/images/slide_60_img_119.png) {left=37.40 top=38.08 width=63.34 height=49.93}
 
-![](images/slide_60_img_120.png) {left=42.46 top=-0.00 width=57.54 height=31.02}
+![](./lecture_04_reaction_mechanisms/images/slide_60_img_120.png) {left=42.46 top=-0.00 width=57.54 height=31.02}
 
 <div style="position: absolute; left: 19.15%; top: 38.08%; width: 18.25%; height: 49.93%;">
 
@@ -1144,9 +1144,9 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 </div>
 
-![](images/slide_61_img_121.png) {left=14.10 top=12.94 width=77.59 height=53.91}
+![](./lecture_04_reaction_mechanisms/images/slide_61_img_121.png) {left=14.10 top=12.94 width=77.59 height=53.91}
 
-![](images/slide_61_img_122.png) {left=16.09 top=67.46 width=48.20 height=30.00}
+![](./lecture_04_reaction_mechanisms/images/slide_61_img_122.png) {left=16.09 top=67.46 width=48.20 height=30.00}
 
 <div style="position: absolute; left: 66.15%; top: 72.50%; width: 32.74%; height: 23.21%;">
 
@@ -1160,7 +1160,7 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_123.png) {left=23.34 top=17.44 width=68.24 height=43.83}
+![](./lecture_04_reaction_mechanisms/images/slide_62_img_123.png) {left=23.34 top=17.44 width=68.24 height=43.83}
 
 <div style="position: absolute; left: 34.98%; top: 4.16%; width: 48.25%; height: 7.78%;">
 
@@ -1174,7 +1174,7 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 </div>
 
-![](images/slide_62_img_124.png) {left=20.50 top=66.78 width=48.25 height=29.08}
+![](./lecture_04_reaction_mechanisms/images/slide_62_img_124.png) {left=20.50 top=66.78 width=48.25 height=29.08}
 
 </div>
 
@@ -1182,9 +1182,9 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_125.png) {left=27.18 top=34.01 width=72.82 height=31.98}
+![](./lecture_04_reaction_mechanisms/images/slide_63_img_125.png) {left=27.18 top=34.01 width=72.82 height=31.98}
 
-![](images/slide_63_img_126.png) {left=32.62 top=-0.00 width=67.38 height=24.88}
+![](./lecture_04_reaction_mechanisms/images/slide_63_img_126.png) {left=32.62 top=-0.00 width=67.38 height=24.88}
 
 <div style="position: absolute; left: 28.65%; top: 68.54%; width: 37.13%; height: 26.73%;">
 
@@ -1204,7 +1204,7 @@ H and Br should be on “one line” for orbitals to overlap correctly
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_127.png) {left=17.39 top=26.95 width=80.01 height=73.05}
+![](./lecture_04_reaction_mechanisms/images/slide_64_img_127.png) {left=17.39 top=26.95 width=80.01 height=73.05}
 
 <div style="position: absolute; left: 73.58%; top: 1.54%; width: 24.88%; height: 67.66%;">
 
@@ -1232,11 +1232,11 @@ Different conditions promote different mechanisms
 
 </div>
 
-![](images/slide_65_img_128.png) {left=18.27 top=16.36 width=58.99 height=34.72}
+![](./lecture_04_reaction_mechanisms/images/slide_65_img_128.png) {left=18.27 top=16.36 width=58.99 height=34.72}
 
-![](images/slide_65_img_129.png) {left=21.66 top=54.23 width=55.59 height=43.00}
+![](./lecture_04_reaction_mechanisms/images/slide_65_img_129.png) {left=21.66 top=54.23 width=55.59 height=43.00}
 
-![](images/slide_65_img_130.png) {left=77.25 top=32.15 width=22.75 height=30.87}
+![](./lecture_04_reaction_mechanisms/images/slide_65_img_130.png) {left=77.25 top=32.15 width=22.75 height=30.87}
 
 </div>
 
@@ -1250,9 +1250,9 @@ Different conditions promote different mechanisms
 
 </div>
 
-![](images/slide_66_img_131.png) {left=20.18 top=17.88 width=79.82 height=22.98}
+![](./lecture_04_reaction_mechanisms/images/slide_66_img_131.png) {left=20.18 top=17.88 width=79.82 height=22.98}
 
-![](images/slide_66_img_132.png) {left=20.18 top=68.83 width=72.92 height=31.17}
+![](./lecture_04_reaction_mechanisms/images/slide_66_img_132.png) {left=20.18 top=68.83 width=72.92 height=31.17}
 
 <div style="position: absolute; left: 24.94%; top: 11.85%; width: 19.68%; height: 7.78%;">
 
@@ -1278,11 +1278,11 @@ The base attacks the methyl hydrogens because they are less hindered—they are 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_133.png) {left=18.33 top=42.13 width=75.59 height=25.04}
+![](./lecture_04_reaction_mechanisms/images/slide_67_img_133.png) {left=18.33 top=42.13 width=75.59 height=25.04}
 
-![](images/slide_67_img_134.png) {left=18.33 top=71.81 width=75.59 height=25.68}
+![](./lecture_04_reaction_mechanisms/images/slide_67_img_134.png) {left=18.33 top=71.81 width=75.59 height=25.68}
 
-![](images/slide_67_img_135.png) {left=47.71 top=5.28 width=52.29 height=26.30}
+![](./lecture_04_reaction_mechanisms/images/slide_67_img_135.png) {left=47.71 top=5.28 width=52.29 height=26.30}
 
 <div style="position: absolute; left: 16.15%; top: 0.00%; width: 31.56%; height: 42.13%;">
 
@@ -1320,7 +1320,7 @@ In contrast to the **E1 reaction**, which involves a **carbocation **intermediat
 
 </div>
 
-![](images/slide_69_img_136.png) {left=21.15 top=48.36 width=78.85 height=35.74}
+![](./lecture_04_reaction_mechanisms/images/slide_69_img_136.png) {left=21.15 top=48.36 width=78.85 height=35.74}
 
 <div style="position: absolute; left: 19.93%; top: 85.37%; width: 76.67%; height: 12.54%;">
 
@@ -1334,11 +1334,11 @@ Simple example: <u>https://www.chemtube3d.com/elimination-e1cb/</u>
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_70_img_137.png) {left=17.98 top=14.81 width=56.40 height=14.89}
+![](./lecture_04_reaction_mechanisms/images/slide_70_img_137.png) {left=17.98 top=14.81 width=56.40 height=14.89}
 
-![](images/slide_70_img_138.png) {left=18.79 top=52.37 width=34.73 height=19.49}
+![](./lecture_04_reaction_mechanisms/images/slide_70_img_138.png) {left=18.79 top=52.37 width=34.73 height=19.49}
 
-![](images/slide_70_img_139.png) {left=53.53 top=54.67 width=44.21 height=14.89}
+![](./lecture_04_reaction_mechanisms/images/slide_70_img_139.png) {left=53.53 top=54.67 width=44.21 height=14.89}
 
 <div style="position: absolute; left: 17.14%; top: 2.86%; width: 80.94%; height: 17.80%;">
 
@@ -1364,11 +1364,11 @@ Although the anion is stabilized by the carbonyl group, it still prefers to lose
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_140.png) {left=26.82 top=21.32 width=67.79 height=26.34}
+![](./lecture_04_reaction_mechanisms/images/slide_71_img_140.png) {left=26.82 top=21.32 width=67.79 height=26.34}
 
-![](images/slide_71_img_141.png) {left=20.67 top=53.56 width=69.57 height=22.87}
+![](./lecture_04_reaction_mechanisms/images/slide_71_img_141.png) {left=20.67 top=53.56 width=69.57 height=22.87}
 
-![](images/slide_71_img_142.png) {left=20.67 top=79.04 width=70.91 height=17.66}
+![](./lecture_04_reaction_mechanisms/images/slide_71_img_142.png) {left=20.67 top=79.04 width=70.91 height=17.66}
 
 <div style="position: absolute; left: 18.50%; top: 0.00%; width: 81.50%; height: 22.87%;">
 
@@ -1388,7 +1388,7 @@ Here are two examples with methanesulfonate leaving groups. Both are E1cB!
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_72_img_143.png) {left=37.51 top=39.27 width=62.49 height=52.34}
+![](./lecture_04_reaction_mechanisms/images/slide_72_img_143.png) {left=37.51 top=39.27 width=62.49 height=52.34}
 
 <div style="position: absolute; left: 17.41%; top: 3.52%; width: 81.78%; height: 40.92%;">
 
@@ -1396,7 +1396,7 @@ Here are two examples with methanesulfonate leaving groups. Both are E1cB!
 
 </div>
 
-![](images/slide_72_img_144.png) {left=17.41 top=54.89 width=20.10 height=21.11}
+![](./lecture_04_reaction_mechanisms/images/slide_72_img_144.png) {left=17.41 top=54.89 width=20.10 height=21.11}
 
 </div>
 
@@ -1410,9 +1410,9 @@ an important example with two phenyl rings helping to stabilize the anion, and a
 
 </div>
 
-![](images/slide_73_img_145.png) {left=40.76 top=16.53 width=54.83 height=49.28}
+![](./lecture_04_reaction_mechanisms/images/slide_73_img_145.png) {left=40.76 top=16.53 width=54.83 height=49.28}
 
-![](images/slide_73_img_146.png) {left=26.23 top=21.25 width=11.94 height=28.92}
+![](./lecture_04_reaction_mechanisms/images/slide_73_img_146.png) {left=26.23 top=21.25 width=11.94 height=28.92}
 
 <div style="position: absolute; left: 16.07%; top: 21.25%; width: 11.94%; height: 12.87%;">
 
@@ -1439,11 +1439,11 @@ secondary or tertiary amine as the base. Spontaneous loss of CO2 from the elimin
 
 </div>
 
-![](images/slide_74_img_147.png) {left=18.07 top=29.82 width=48.89 height=32.78}
+![](./lecture_04_reaction_mechanisms/images/slide_74_img_147.png) {left=18.07 top=29.82 width=48.89 height=32.78}
 
-![](images/slide_74_img_148.png) {left=19.34 top=60.98 width=69.57 height=17.78}
+![](./lecture_04_reaction_mechanisms/images/slide_74_img_148.png) {left=19.34 top=60.98 width=69.57 height=17.78}
 
-![](images/slide_74_img_149.png) {left=19.34 top=78.76 width=74.89 height=17.78}
+![](./lecture_04_reaction_mechanisms/images/slide_74_img_149.png) {left=19.34 top=78.76 width=74.89 height=17.78}
 
 <div style="position: absolute; left: 16.77%; top: 10.78%; width: 83.23%; height: 29.37%;">
 
@@ -1463,9 +1463,9 @@ The rate is proportional to the concentration of the anion, and we now have an e
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_75_img_150.png) {left=47.68 top=0.45 width=52.20 height=39.08}
+![](./lecture_04_reaction_mechanisms/images/slide_75_img_150.png) {left=47.68 top=0.45 width=52.20 height=39.08}
 
-![](images/slide_75_img_151.png) {left=34.58 top=37.46 width=65.42 height=62.62}
+![](./lecture_04_reaction_mechanisms/images/slide_75_img_151.png) {left=34.58 top=37.46 width=65.42 height=62.62}
 
 <div style="position: absolute; left: 17.14%; top: 2.53%; width: 30.54%; height: 34.93%;">
 
@@ -1479,7 +1479,7 @@ it is the reverse of the conjugate addition.Both reactions go through a stabiliz
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_152.png) {left=26.27 top=24.31 width=60.00 height=75.69}
+![](./lecture_04_reaction_mechanisms/images/slide_76_img_152.png) {left=26.27 top=24.31 width=60.00 height=75.69}
 
 <div style="position: absolute; left: 17.51%; top: 1.54%; width: 82.49%; height: 22.77%;">
 
@@ -1501,7 +1501,7 @@ E1cB reactions may be stereoselective—this one, for example, gives mainly the 
 
 </div>
 
-![](images/slide_77_img_153.png) {left=28.22 top=23.93 width=57.67 height=24.44}
+![](./lecture_04_reaction_mechanisms/images/slide_77_img_153.png) {left=28.22 top=23.93 width=57.67 height=24.44}
 
 <div style="position: absolute; left: 17.51%; top: 0.00%; width: 81.75%; height: 21.78%;">
 
@@ -1511,7 +1511,7 @@ With E1cB, the regioselectivity is straightforward: the location of the double b
 
 </div>
 
-![](images/slide_77_img_154.png) {left=16.18 top=76.76 width=57.12 height=17.61}
+![](./lecture_04_reaction_mechanisms/images/slide_77_img_154.png) {left=16.18 top=76.76 width=57.12 height=17.61}
 
 <div style="position: absolute; left: 75.62%; top: 70.52%; width: 19.74%; height: 27.17%;">
 
@@ -1526,7 +1526,7 @@ example, gives only the E,E-product.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_155.png) {left=42.44 top=-1.43 width=57.56 height=80.75}
+![](./lecture_04_reaction_mechanisms/images/slide_78_img_155.png) {left=42.44 top=-1.43 width=57.56 height=80.75}
 
 <div style="position: absolute; left: 16.40%; top: -1.43%; width: 26.92%; height: 105.94%;">
 
@@ -1560,7 +1560,7 @@ OH group is assisted by simultaneous protonation.
 
 </div>
 
-![](images/slide_79_img_156.png) {left=28.75 top=47.96 width=71.25 height=52.04}
+![](./lecture_04_reaction_mechanisms/images/slide_79_img_156.png) {left=28.75 top=47.96 width=71.25 height=52.04}
 
 </div>
 
@@ -1586,11 +1586,11 @@ Alkenes
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_81_img_157.png) {left=16.39 top=3.29 width=76.25 height=11.30}
+![](./lecture_04_reaction_mechanisms/images/slide_81_img_157.png) {left=16.39 top=3.29 width=76.25 height=11.30}
 
-![](images/slide_81_img_158.png) {left=15.37 top=44.39 width=60.83 height=31.48}
+![](./lecture_04_reaction_mechanisms/images/slide_81_img_158.png) {left=15.37 top=44.39 width=60.83 height=31.48}
 
-![](images/slide_81_img_159.png) {left=16.39 top=17.09 width=44.06 height=12.59}
+![](./lecture_04_reaction_mechanisms/images/slide_81_img_159.png) {left=16.39 top=17.09 width=44.06 height=12.59}
 
 <div style="position: absolute; left: 17.91%; top: 80.42%; width: 58.29%; height: 15.51%;">
 
@@ -1605,7 +1605,7 @@ so this is where we expect the bromine to attack. The only way the π HOMO can i
 
 </div>
 
-![](images/slide_81_img_160.png) {left=44.23 top=32.18 width=35.28 height=21.41}
+![](./lecture_04_reaction_mechanisms/images/slide_81_img_160.png) {left=44.23 top=32.18 width=35.28 height=21.41}
 
 </div>
 
@@ -1613,9 +1613,9 @@ so this is where we expect the bromine to attack. The only way the π HOMO can i
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_161.png) {left=21.53 top=0.00 width=68.12 height=31.30}
+![](./lecture_04_reaction_mechanisms/images/slide_82_img_161.png) {left=21.53 top=0.00 width=68.12 height=31.30}
 
-![](images/slide_82_img_162.png) {left=19.67 top=62.50 width=44.17 height=32.22}
+![](./lecture_04_reaction_mechanisms/images/slide_82_img_162.png) {left=19.67 top=62.50 width=44.17 height=32.22}
 
 <div style="position: absolute; left: 21.04%; top: 29.92%; width: 78.96%; height: 29.37%;">
 
@@ -1636,9 +1636,9 @@ Attack of Br– on a bromonium ion is a normal SN2 substitution—the key orbita
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_83_img_163.png) {left=16.52 top=32.13 width=69.90 height=35.74}
+![](./lecture_04_reaction_mechanisms/images/slide_83_img_163.png) {left=16.52 top=32.13 width=69.90 height=35.74}
 
-![](images/slide_83_img_164.png) {left=15.10 top=67.87 width=84.90 height=29.26}
+![](./lecture_04_reaction_mechanisms/images/slide_83_img_164.png) {left=15.10 top=67.87 width=84.90 height=29.26}
 
 <div style="position: absolute; left: 18.25%; top: 5.17%; width: 75.93%; height: 23.10%;">
 
@@ -1660,11 +1660,11 @@ Simple example: <u>https://www.chemtube3d.com/electrophilic-addition-to-alkenes-
 
 </div>
 
-![](images/slide_84_img_165.png) {left=16.07 top=14.70 width=46.37 height=25.81}
+![](./lecture_04_reaction_mechanisms/images/slide_84_img_165.png) {left=16.07 top=14.70 width=46.37 height=25.81}
 
-![](images/slide_84_img_166.png) {left=16.07 top=40.51 width=46.37 height=22.49}
+![](./lecture_04_reaction_mechanisms/images/slide_84_img_166.png) {left=16.07 top=40.51 width=46.37 height=22.49}
 
-![](images/slide_84_img_167.png) {left=16.07 top=71.88 width=44.32 height=22.49}
+![](./lecture_04_reaction_mechanisms/images/slide_84_img_167.png) {left=16.07 top=71.88 width=44.32 height=22.49}
 
 <div style="position: absolute; left: 63.74%; top: 9.09%; width: 27.30%; height: 29.71%;">
 
@@ -1674,9 +1674,9 @@ Examples: <u>https://www.chemtube3d.com/electrophilic-addition-to-alkenes-unsymm
 
 </div>
 
-![](images/slide_84_img_168.png) {left=61.35 top=48.38 width=38.65 height=30.19}
+![](./lecture_04_reaction_mechanisms/images/slide_84_img_168.png) {left=61.35 top=48.38 width=38.65 height=30.19}
 
-![](images/slide_84_img_169.png) {left=61.35 top=78.56 width=36.28 height=21.44}
+![](./lecture_04_reaction_mechanisms/images/slide_84_img_169.png) {left=61.35 top=78.56 width=36.28 height=21.44}
 
 </div>
 
@@ -1720,7 +1720,7 @@ The chemicals to put on the scale:
 
 </div>
 
-![](images/slide_86_img_170.png) {left=26.56 top=41.47 width=46.88 height=21.67}
+![](./lecture_04_reaction_mechanisms/images/slide_86_img_170.png) {left=26.56 top=41.47 width=46.88 height=21.67}
 
 </div>
 
@@ -1752,7 +1752,7 @@ The chemicals to put on the scale:
 
 </div>
 
-![](images/slide_87_img_171.png) {left=23.18 top=48.73 width=53.65 height=21.30}
+![](./lecture_04_reaction_mechanisms/images/slide_87_img_171.png) {left=23.18 top=48.73 width=53.65 height=21.30}
 
 </div>
 
@@ -1766,7 +1766,7 @@ The chemicals to put on the scale:
 
 </div>
 
-![](images/slide_88_img_172.png) {left=16.07 top=32.52 width=84.06 height=40.37}
+![](./lecture_04_reaction_mechanisms/images/slide_88_img_172.png) {left=16.07 top=32.52 width=84.06 height=40.37}
 
 <div style="position: absolute; left: 16.07%; top: 64.51%; width: 21.72%; height: 8.38%;">
 

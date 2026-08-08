@@ -91,7 +91,7 @@ The release and reception of such signals is a fundamental process, known as **c
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_1.png) {left=23.14 top=0.00 width=70.98 height=58.53}
+![](./lecture_08_molecular_signaling/images/slide_5_img_1.png) {left=23.14 top=0.00 width=70.98 height=58.53}
 
 <div style="position: absolute; left: 18.44%; top: 59.30%; width: 80.38%; height: 38.94%;">
 
@@ -138,15 +138,15 @@ blocking the downstream cellular responses
 
 </div>
 
-![](images/slide_7_img_2.png) {left=30.36 top=50.06 width=43.21 height=28.11}
+![](./lecture_08_molecular_signaling/images/slide_7_img_2.png) {left=30.36 top=50.06 width=43.21 height=28.11}
 
-![](images/slide_7_img_3.png) {left=54.44 top=16.56 width=44.32 height=28.12}
+![](./lecture_08_molecular_signaling/images/slide_7_img_3.png) {left=54.44 top=16.56 width=44.32 height=28.12}
 
-![](images/slide_7_img_4.png) {left=77.25 top=50.06 width=21.51 height=28.12}
+![](./lecture_08_molecular_signaling/images/slide_7_img_4.png) {left=77.25 top=50.06 width=21.51 height=28.12}
 
-![](images/slide_7_img_5.png) {left=17.38 top=63.30 width=17.08 height=23.83}
+![](./lecture_08_molecular_signaling/images/slide_7_img_5.png) {left=17.38 top=63.30 width=17.08 height=23.83}
 
-![](images/slide_7_img_6.png) {left=16.26 top=20.85 width=43.21 height=23.83}
+![](./lecture_08_molecular_signaling/images/slide_7_img_6.png) {left=16.26 top=20.85 width=43.21 height=23.83}
 
 </div>
 
@@ -191,7 +191,7 @@ slower **long-term** changes (hours-to-days).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_7.png) {left=60.17 top=0.00 width=39.83 height=100.00}
+![](./lecture_08_molecular_signaling/images/slide_10_img_7.png) {left=60.17 top=0.00 width=39.83 height=100.00}
 
 <div style="position: absolute; left: 19.37%; top: 3.85%; width: 38.62%; height: 91.75%;">
 
@@ -217,9 +217,9 @@ As with all allosteric proteins, there is an equilibrium between the R and R* fo
 
 </div>
 
-![](images/slide_11_img_8.png) {left=79.21 top=-0.00 width=20.79 height=50.00}
+![](./lecture_08_molecular_signaling/images/slide_11_img_8.png) {left=79.21 top=-0.00 width=20.79 height=50.00}
 
-![](images/slide_11_img_9.png) {left=83.97 top=51.89 width=14.23 height=48.11}
+![](./lecture_08_molecular_signaling/images/slide_11_img_9.png) {left=83.97 top=51.89 width=14.23 height=48.11}
 
 </div>
 
@@ -227,7 +227,7 @@ As with all allosteric proteins, there is an equilibrium between the R and R* fo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_10.png) {left=40.58 top=0.00 width=59.42 height=100.00}
+![](./lecture_08_molecular_signaling/images/slide_12_img_10.png) {left=40.58 top=0.00 width=59.42 height=100.00}
 
 <div style="position: absolute; left: 17.51%; top: 5.50%; width: 23.06%; height: 91.42%;">
 
@@ -244,7 +244,7 @@ A holistic view of the various cell-surface and intracellular receptors, their a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_11.png) {left=54.09 top=2.96 width=45.91 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_13_img_11.png) {left=54.09 top=2.96 width=45.91 height=94.07}
 
 <div style="position: absolute; left: 16.03%; top: 0.00%; width: 38.06%; height: 97.26%;">
 
@@ -262,7 +262,7 @@ A holistic view of the various cell-surface and intracellular receptors, their a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_12.png) {left=55.50 top=19.44 width=44.50 height=54.68}
+![](./lecture_08_molecular_signaling/images/slide_14_img_12.png) {left=55.50 top=19.44 width=44.50 height=54.68}
 
 <div style="position: absolute; left: 16.40%; top: 21.32%; width: 38.43%; height: 49.45%;">
 
@@ -311,9 +311,9 @@ hydrolysis and secretion of stored fat in adipose cells
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_16_img_13.png) {left=43.91 top=0.00 width=56.09 height=46.17}
+![](./lecture_08_molecular_signaling/images/slide_16_img_13.png) {left=43.91 top=0.00 width=56.09 height=46.17}
 
-![](images/slide_16_img_14.png) {left=57.29 top=46.17 width=42.71 height=53.83}
+![](./lecture_08_molecular_signaling/images/slide_16_img_14.png) {left=57.29 top=46.17 width=42.71 height=53.83}
 
 <div style="position: absolute; left: 16.77%; top: 46.17%; width: 40.52%; height: 53.83%;">
 
@@ -347,13 +347,13 @@ Example (to feel the numbers): Kd for insulin in liver 1.4x10-10 M. The normal c
 
 </div>
 
-![](images/slide_17_img_15.png) {left=17.74 top=17.57 width=18.70 height=11.96}
+![](./lecture_08_molecular_signaling/images/slide_17_img_15.png) {left=17.74 top=17.57 width=18.70 height=11.96}
 
-![](images/slide_17_img_16.png) {left=16.89 top=32.37 width=24.27 height=7.96}
+![](./lecture_08_molecular_signaling/images/slide_17_img_16.png) {left=16.89 top=32.37 width=24.27 height=7.96}
 
-![](images/slide_17_img_17.png) {left=17.74 top=43.65 width=14.69 height=12.59}
+![](./lecture_08_molecular_signaling/images/slide_17_img_17.png) {left=17.74 top=43.65 width=14.69 height=12.59}
 
-![](images/slide_17_img_18.png) {left=53.02 top=-0.00 width=46.98 height=58.70}
+![](./lecture_08_molecular_signaling/images/slide_17_img_18.png) {left=53.02 top=-0.00 width=46.98 height=58.70}
 
 </div>
 
@@ -361,11 +361,11 @@ Example (to feel the numbers): Kd for insulin in liver 1.4x10-10 M. The normal c
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_19.png) {left=48.33 top=0.00 width=51.67 height=32.37}
+![](./lecture_08_molecular_signaling/images/slide_18_img_19.png) {left=48.33 top=0.00 width=51.67 height=32.37}
 
-![](images/slide_18_img_20.png) {left=48.33 top=34.60 width=50.96 height=32.37}
+![](./lecture_08_molecular_signaling/images/slide_18_img_20.png) {left=48.33 top=34.60 width=50.96 height=32.37}
 
-![](images/slide_18_img_21.png) {left=48.31 top=67.63 width=51.69 height=32.37}
+![](./lecture_08_molecular_signaling/images/slide_18_img_21.png) {left=48.31 top=67.63 width=51.69 height=32.37}
 
 <div style="position: absolute; left: 16.58%; top: 4.51%; width: 31.73%; height: 93.40%;">
 
@@ -399,11 +399,11 @@ Drug-receptor interaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_22.png) {left=16.03 top=0.00 width=48.89 height=26.92}
+![](./lecture_08_molecular_signaling/images/slide_20_img_22.png) {left=16.03 top=0.00 width=48.89 height=26.92}
 
-![](images/slide_20_img_23.png) {left=65.78 top=-0.00 width=34.22 height=48.97}
+![](./lecture_08_molecular_signaling/images/slide_20_img_23.png) {left=65.78 top=-0.00 width=34.22 height=48.97}
 
-![](images/slide_20_img_24.png) {left=60.35 top=52.37 width=39.65 height=47.63}
+![](./lecture_08_molecular_signaling/images/slide_20_img_24.png) {left=60.35 top=52.37 width=39.65 height=47.63}
 
 <div style="position: absolute; left: 13.43%; top: 26.92%; width: 46.93%; height: 73.08%;">
 
@@ -420,9 +420,9 @@ The **duration of action** of a drug, which may be estimated as the time during 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_25.png) {left=43.54 top=2.96 width=54.79 height=41.53}
+![](./lecture_08_molecular_signaling/images/slide_21_img_25.png) {left=43.54 top=2.96 width=54.79 height=41.53}
 
-![](images/slide_21_img_26.png) {left=13.92 top=0.00 width=30.58 height=41.53}
+![](./lecture_08_molecular_signaling/images/slide_21_img_26.png) {left=13.92 top=0.00 width=30.58 height=41.53}
 
 <div style="position: absolute; left: 13.92%; top: 39.82%; width: 86.08%; height: 58.41%;">
 
@@ -440,7 +440,7 @@ An **antagonist** is a ligand that blocks the activation of the receptor by prev
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_27.png) {left=20.38 top=8.91 width=78.14 height=77.12}
+![](./lecture_08_molecular_signaling/images/slide_22_img_27.png) {left=20.38 top=8.91 width=78.14 height=77.12}
 
 </div>
 
@@ -465,7 +465,7 @@ cardiac arrhythmias and angina.
 
 </div>
 
-![](images/slide_23_img_28.png) {left=56.51 top=0.00 width=43.49 height=100.00}
+![](./lecture_08_molecular_signaling/images/slide_23_img_28.png) {left=56.51 top=0.00 width=43.49 height=100.00}
 
 </div>
 
@@ -473,7 +473,7 @@ cardiac arrhythmias and angina.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_29.png) {left=61.51 top=0.00 width=38.49 height=49.92}
+![](./lecture_08_molecular_signaling/images/slide_24_img_29.png) {left=61.51 top=0.00 width=38.49 height=49.92}
 
 <div style="position: absolute; left: 80.52%; top: 16.05%; width: 15.33%; height: 17.82%;">
 
@@ -481,9 +481,9 @@ Dose-response for the Emax model.
 
 </div>
 
-![](images/slide_24_img_30.png) {left=9.53 top=2.22 width=51.98 height=41.53}
+![](./lecture_08_molecular_signaling/images/slide_24_img_30.png) {left=9.53 top=2.22 width=51.98 height=41.53}
 
-![](images/slide_24_img_31.png) {left=35.81 top=48.13 width=19.48 height=13.15}
+![](./lecture_08_molecular_signaling/images/slide_24_img_31.png) {left=35.81 top=48.13 width=19.48 height=13.15}
 
 <div style="position: absolute; left: 14.73%; top: 61.28%; width: 83.35%; height: 29.04%;">
 
@@ -501,9 +501,9 @@ The Emax model parameters are readily interpretable.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_32.png) {left=37.99 top=0.00 width=62.01 height=44.45}
+![](./lecture_08_molecular_signaling/images/slide_25_img_32.png) {left=37.99 top=0.00 width=62.01 height=44.45}
 
-![](images/slide_25_img_33.png) {left=37.99 top=39.82 width=50.00 height=41.37}
+![](./lecture_08_molecular_signaling/images/slide_25_img_33.png) {left=37.99 top=39.82 width=50.00 height=41.37}
 
 <div style="position: absolute; left: 17.33%; top: 1.21%; width: 20.66%; height: 33.67%;">
 
@@ -514,13 +514,13 @@ The Emax model parameters are readily interpretable.
 
 </div>
 
-![](images/slide_25_img_34.png) {left=17.33 top=39.44 width=15.47 height=10.56}
+![](./lecture_08_molecular_signaling/images/slide_25_img_34.png) {left=17.33 top=39.44 width=15.47 height=10.56}
 
-![](images/slide_25_img_35.png) {left=17.33 top=53.14 width=19.38 height=9.63}
+![](./lecture_08_molecular_signaling/images/slide_25_img_35.png) {left=17.33 top=53.14 width=19.38 height=9.63}
 
-![](images/slide_25_img_36.png) {left=17.33 top=64.36 width=17.50 height=8.89}
+![](./lecture_08_molecular_signaling/images/slide_25_img_36.png) {left=17.33 top=64.36 width=17.50 height=8.89}
 
-![](images/slide_25_img_37.png) {left=17.15 top=76.24 width=15.83 height=10.00}
+![](./lecture_08_molecular_signaling/images/slide_25_img_37.png) {left=17.15 top=76.24 width=15.83 height=10.00}
 
 </div>
 
@@ -528,7 +528,7 @@ The Emax model parameters are readily interpretable.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_38.png) {left=60.06 top=2.96 width=39.94 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_26_img_38.png) {left=60.06 top=2.96 width=39.94 height=94.07}
 
 <div style="position: absolute; left: 18.25%; top: 4.18%; width: 39.94%; height: 92.86%;">
 
@@ -569,7 +569,7 @@ Some of the most common types functioning
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_39.png) {left=18.63 top=2.96 width=81.37 height=90.68}
+![](./lecture_08_molecular_signaling/images/slide_28_img_39.png) {left=18.63 top=2.96 width=81.37 height=90.68}
 
 </div>
 
@@ -577,15 +577,15 @@ Some of the most common types functioning
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_29_img_40.png) {left=18.07 top=0.00 width=74.50 height=46.60}
+![](./lecture_08_molecular_signaling/images/slide_29_img_40.png) {left=18.07 top=0.00 width=74.50 height=46.60}
 
-![](images/slide_29_img_41.png) {left=20.83 top=46.12 width=30.17 height=25.55}
+![](./lecture_08_molecular_signaling/images/slide_29_img_41.png) {left=20.83 top=46.12 width=30.17 height=25.55}
 
-![](images/slide_29_img_42.png) {left=61.14 top=45.91 width=30.53 height=25.96}
+![](./lecture_08_molecular_signaling/images/slide_29_img_42.png) {left=61.14 top=45.91 width=30.53 height=25.96}
 
-![](images/slide_29_img_43.png) {left=20.83 top=74.10 width=30.17 height=25.90}
+![](./lecture_08_molecular_signaling/images/slide_29_img_43.png) {left=20.83 top=74.10 width=30.17 height=25.90}
 
-![](images/slide_29_img_44.png) {left=61.14 top=74.10 width=30.53 height=25.90}
+![](./lecture_08_molecular_signaling/images/slide_29_img_44.png) {left=61.14 top=74.10 width=30.53 height=25.90}
 
 </div>
 
@@ -655,9 +655,9 @@ Examples: GABA_B receptor, muscarinic ACh receptor (M₂).
 
 </div>
 
-![](images/slide_32_img_45.png) {left=64.28 top=0.00 width=35.72 height=40.43}
+![](./lecture_08_molecular_signaling/images/slide_32_img_45.png) {left=64.28 top=0.00 width=35.72 height=40.43}
 
-![](images/slide_32_img_46.png) {left=59.65 top=61.21 width=40.35 height=32.73}
+![](./lecture_08_molecular_signaling/images/slide_32_img_46.png) {left=59.65 top=61.21 width=40.35 height=32.73}
 
 </div>
 
@@ -683,9 +683,9 @@ G-Protein coupled receptors
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_47.png) {left=55.75 top=0.00 width=44.25 height=31.55}
+![](./lecture_08_molecular_signaling/images/slide_34_img_47.png) {left=55.75 top=0.00 width=44.25 height=31.55}
 
-![](images/slide_34_img_48.png) {left=55.75 top=31.55 width=44.25 height=68.85}
+![](./lecture_08_molecular_signaling/images/slide_34_img_48.png) {left=55.75 top=31.55 width=44.25 height=68.85}
 
 <div style="position: absolute; left: 12.87%; top: 8.42%; width: 42.88%; height: 83.17%;">
 
@@ -714,7 +714,7 @@ The heterotrimeric guanine nucleotide—binding proteins (G proteins) are signal
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_49.png) {left=19.26 top=0.00 width=80.74 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_36_img_49.png) {left=19.26 top=0.00 width=80.74 height=94.07}
 
 </div>
 
@@ -754,7 +754,7 @@ segments, and four cytosolic segments
 
 </div>
 
-![](images/slide_38_img_50.png) {left=44.62 top=26.01 width=53.10 height=47.98}
+![](./lecture_08_molecular_signaling/images/slide_38_img_50.png) {left=44.62 top=26.01 width=53.10 height=47.98}
 
 <div style="position: absolute; left: 17.37%; top: 27.61%; width: 26.13%; height: 69.64%;">
 
@@ -770,7 +770,7 @@ families differ from each other in the details of how ligands bind the receptors
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_51.png) {left=16.22 top=15.87 width=82.79 height=78.81}
+![](./lecture_08_molecular_signaling/images/slide_39_img_51.png) {left=16.22 top=15.87 width=82.79 height=78.81}
 
 <div style="position: absolute; left: 16.22%; top: 2.71%; width: 82.79%; height: 13.16%;">
 
@@ -784,7 +784,7 @@ families differ from each other in the details of how ligands bind the receptors
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_52.png) {left=15.96 top=0.00 width=55.45 height=100.00}
+![](./lecture_08_molecular_signaling/images/slide_40_img_52.png) {left=15.96 top=0.00 width=55.45 height=100.00}
 
 <div style="position: absolute; left: 43.50%; top: 50.00%; width: 56.50%; height: 47.58%;">
 
@@ -806,7 +806,7 @@ The glucagon receptor is a member of family B of the GPCRs. Its ligand glucagon 
 
 </div>
 
-![](images/slide_41_img_53.png) {left=31.44 top=0.00 width=51.86 height=62.05}
+![](./lecture_08_molecular_signaling/images/slide_41_img_53.png) {left=31.44 top=0.00 width=51.86 height=62.05}
 
 </div>
 
@@ -820,9 +820,9 @@ The glutamate receptor is an excitatory neurotransmitter receptor in family C of
 
 </div>
 
-![](images/slide_42_img_54.png) {left=53.44 top=0.00 width=46.56 height=67.78}
+![](./lecture_08_molecular_signaling/images/slide_42_img_54.png) {left=53.44 top=0.00 width=46.56 height=67.78}
 
-![](images/slide_42_img_55.png) {left=61.59 top=67.78 width=30.26 height=22.21}
+![](./lecture_08_molecular_signaling/images/slide_42_img_55.png) {left=61.59 top=67.78 width=30.26 height=22.21}
 
 <div style="position: absolute; left: 72.66%; top: 74.04%; width: 26.37%; height: 9.69%;">
 
@@ -836,7 +836,7 @@ The glutamate receptor is an excitatory neurotransmitter receptor in family C of
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_56.png) {left=33.94 top=0.00 width=50.00 height=49.32}
+![](./lecture_08_molecular_signaling/images/slide_43_img_56.png) {left=33.94 top=0.00 width=50.00 height=49.32}
 
 <div style="position: absolute; left: 17.88%; top: 51.38%; width: 82.12%; height: 46.86%;">
 
@@ -859,7 +859,7 @@ cytosol, GTP rapidly binds to the empty guanine nucleotide site in the subunit.
 
 </div>
 
-![](images/slide_44_img_57.png) {left=54.74 top=20.32 width=45.26 height=73.76}
+![](./lecture_08_molecular_signaling/images/slide_44_img_57.png) {left=54.74 top=20.32 width=45.26 height=73.76}
 
 <div style="position: absolute; left: 15.10%; top: 19.69%; width: 39.64%; height: 80.31%;">
 
@@ -897,7 +897,7 @@ Monomeric (often called low-molecular-weight) G proteins, including Ras and vari
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_58.png) {left=24.50 top=0.00 width=67.92 height=46.67}
+![](./lecture_08_molecular_signaling/images/slide_46_img_58.png) {left=24.50 top=0.00 width=67.92 height=46.67}
 
 <div style="position: absolute; left: 17.88%; top: 49.72%; width: 80.94%; height: 48.52%;">
 
@@ -935,9 +935,9 @@ GPCRs represent the largest protein family in the human genome- approximately 80
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_59.png) {left=21.17 top=7.87 width=72.71 height=61.85}
+![](./lecture_08_molecular_signaling/images/slide_48_img_59.png) {left=21.17 top=7.87 width=72.71 height=61.85}
 
-![](images/slide_48_img_60.png) {left=21.53 top=69.72 width=71.98 height=22.41}
+![](./lecture_08_molecular_signaling/images/slide_48_img_60.png) {left=21.53 top=69.72 width=71.98 height=22.41}
 
 </div>
 
@@ -945,9 +945,9 @@ GPCRs represent the largest protein family in the human genome- approximately 80
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_61.png) {left=33.10 top=40.60 width=67.15 height=59.24}
+![](./lecture_08_molecular_signaling/images/slide_49_img_61.png) {left=33.10 top=40.60 width=67.15 height=59.24}
 
-![](images/slide_49_img_62.png) {left=33.10 top=0.00 width=67.15 height=40.60}
+![](./lecture_08_molecular_signaling/images/slide_49_img_62.png) {left=33.10 top=0.00 width=67.15 height=40.60}
 
 <div style="position: absolute; left: 16.21%; top: 20.38%; width: 16.89%; height: 59.24%;">
 
@@ -961,7 +961,7 @@ Formulae for four common compounds that often function as intracellular second m
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_50_img_63.png) {left=19.37 top=0.00 width=80.63 height=53.80}
+![](./lecture_08_molecular_signaling/images/slide_50_img_63.png) {left=19.37 top=0.00 width=80.63 height=53.80}
 
 <div style="position: absolute; left: 17.33%; top: 57.32%; width: 82.86%; height: 42.68%;">
 
@@ -975,9 +975,9 @@ Adenylyl cyclase activity is modulated by the interplay of stimulatory (Gs) and 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_64.png) {left=68.68 top=2.96 width=31.32 height=84.72}
+![](./lecture_08_molecular_signaling/images/slide_51_img_64.png) {left=68.68 top=2.96 width=31.32 height=84.72}
 
-![](images/slide_51_img_65.png) {left=16.80 top=2.96 width=51.87 height=44.78}
+![](./lecture_08_molecular_signaling/images/slide_51_img_65.png) {left=16.80 top=2.96 width=51.87 height=44.78}
 
 <div style="position: absolute; left: 14.74%; top: 47.74%; width: 50.85%; height: 51.05%;">
 
@@ -1000,9 +1000,9 @@ Binding of cAMP to the CNB-A domain causes a change in its conformation so that 
 
 </div>
 
-![](images/slide_52_img_66.png) {left=62.31 top=0.00 width=37.69 height=67.13}
+![](./lecture_08_molecular_signaling/images/slide_52_img_66.png) {left=62.31 top=0.00 width=37.69 height=67.13}
 
-![](images/slide_52_img_67.png) {left=74.33 top=65.24 width=25.67 height=33.48}
+![](./lecture_08_molecular_signaling/images/slide_52_img_67.png) {left=74.33 top=65.24 width=25.67 height=33.48}
 
 <div style="position: absolute; left: 61.31%; top: 67.58%; width: 12.18%; height: 28.78%;">
 
@@ -1024,11 +1024,11 @@ Two C-subunits - blue
 
 </div>
 
-![](images/slide_53_img_68.png) {left=51.49 top=14.14 width=48.51 height=42.63}
+![](./lecture_08_molecular_signaling/images/slide_53_img_68.png) {left=51.49 top=14.14 width=48.51 height=42.63}
 
-![](images/slide_53_img_69.png) {left=51.49 top=58.09 width=48.51 height=41.91}
+![](./lecture_08_molecular_signaling/images/slide_53_img_69.png) {left=51.49 top=58.09 width=48.51 height=41.91}
 
-![](images/slide_53_img_70.png) {left=16.32 top=7.32 width=33.76 height=43.96}
+![](./lecture_08_molecular_signaling/images/slide_53_img_70.png) {left=16.32 top=7.32 width=33.76 height=43.96}
 
 <div style="position: absolute; left: 14.91%; top: 52.72%; width: 36.58%; height: 47.28%;">
 
@@ -1050,7 +1050,7 @@ activated enzymes in the glycogen phosphorylase kinase cascade or the inactive g
 
 </div>
 
-![](images/slide_54_img_71.png) {left=50.00 top=17.11 width=50.00 height=69.19}
+![](./lecture_08_molecular_signaling/images/slide_54_img_71.png) {left=50.00 top=17.11 width=50.00 height=69.19}
 
 <div style="position: absolute; left: 16.25%; top: 15.43%; width: 33.75%; height: 81.50%;">
 
@@ -1066,7 +1066,7 @@ PKA always phosphorylates a serine or threonine residue that is located within t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_72.png) {left=64.47 top=2.96 width=35.53 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_55_img_72.png) {left=64.47 top=2.96 width=35.53 height=94.07}
 
 <div style="position: absolute; left: 17.92%; top: 0.79%; width: 45.57%; height: 97.33%;">
 
@@ -1092,7 +1092,7 @@ Phosphorylated CREB binds to CRE-containing target genes and also binds to the c
 
 </div>
 
-![](images/slide_56_img_73.png) {left=19.19 top=14.08 width=69.27 height=46.11}
+![](./lecture_08_molecular_signaling/images/slide_56_img_73.png) {left=19.19 top=14.08 width=69.27 height=46.11}
 
 <div style="position: absolute; left: 17.58%; top: 62.22%; width: 82.42%; height: 37.78%;">
 
@@ -1112,7 +1112,7 @@ Each of the roughly 50 anchoring proteins, referred to as A kinase–associated 
 
 </div>
 
-![](images/slide_57_img_74.png) {left=16.07 top=19.60 width=43.79 height=77.73}
+![](./lecture_08_molecular_signaling/images/slide_57_img_74.png) {left=16.07 top=19.60 width=43.79 height=77.73}
 
 <div style="position: absolute; left: 63.15%; top: 17.41%; width: 36.85%; height: 82.59%;">
 
@@ -1136,7 +1136,7 @@ A G-protein–coupled receptor kinase (GRK) phosphorylates serine and threonine 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_75.png) {left=50.00 top=0.00 width=50.00 height=68.54}
+![](./lecture_08_molecular_signaling/images/slide_58_img_75.png) {left=50.00 top=0.00 width=50.00 height=68.54}
 
 <div style="position: absolute; left: 15.79%; top: 40.21%; width: 34.21%; height: 52.57%;">
 
@@ -1144,7 +1144,7 @@ IP3-mediated signal transduction pathways. Increased [Ca2+] activates protein ki
 
 </div>
 
-![](images/slide_58_img_76.png) {left=15.00 top=0.00 width=36.01 height=38.77}
+![](./lecture_08_molecular_signaling/images/slide_58_img_76.png) {left=15.00 top=0.00 width=36.01 height=38.77}
 
 </div>
 
@@ -1158,7 +1158,7 @@ IP3-mediated signal transduction pathways. Increased [Ca2+] activates protein ki
 
 </div>
 
-![](images/slide_59_img_77.png) {left=60.25 top=14.74 width=39.05 height=79.33}
+![](./lecture_08_molecular_signaling/images/slide_59_img_77.png) {left=60.25 top=14.74 width=39.05 height=79.33}
 
 <div style="position: absolute; left: 17.08%; top: 18.80%; width: 41.23%; height: 71.22%;">
 
@@ -1213,7 +1213,7 @@ stimulate cell proliferation even in the absence of the growth-factor ligand. Th
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_78.png) {left=25.59 top=-0.00 width=73.57 height=54.88}
+![](./lecture_08_molecular_signaling/images/slide_62_img_78.png) {left=25.59 top=-0.00 width=73.57 height=54.88}
 
 <div style="position: absolute; left: 12.74%; top: 54.88%; width: 86.43%; height: 44.51%;">
 
@@ -1236,7 +1236,7 @@ The strongly active kinase then phosphorylates additional tyrosine residues in t
 
 </div>
 
-![](images/slide_63_img_79.png) {left=18.13 top=21.56 width=81.03 height=69.54}
+![](./lecture_08_molecular_signaling/images/slide_63_img_79.png) {left=18.13 top=21.56 width=81.03 height=69.54}
 
 </div>
 
@@ -1250,7 +1250,7 @@ The strongly active kinase then phosphorylates additional tyrosine residues in t
 
 </div>
 
-![](images/slide_64_img_80.png) {left=33.32 top=18.53 width=66.68 height=73.76}
+![](./lecture_08_molecular_signaling/images/slide_64_img_80.png) {left=33.32 top=18.53 width=66.68 height=73.76}
 
 <div style="position: absolute; left: 16.75%; top: 18.89%; width: 16.57%; height: 76.26%;">
 
@@ -1266,9 +1266,9 @@ HER = Human Epidermal growth factor Receptor
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_81.png) {left=15.35 top=13.35 width=47.35 height=84.18}
+![](./lecture_08_molecular_signaling/images/slide_65_img_81.png) {left=15.35 top=13.35 width=47.35 height=84.18}
 
-![](images/slide_65_img_82.png) {left=63.06 top=13.35 width=36.94 height=55.10}
+![](./lecture_08_molecular_signaling/images/slide_65_img_82.png) {left=63.06 top=13.35 width=36.94 height=55.10}
 
 <div style="position: absolute; left: 63.06%; top: 70.55%; width: 33.38%; height: 27.30%;">
 
@@ -1295,7 +1295,7 @@ SRE-sequence - serum response element
 
 </div>
 
-![](images/slide_66_img_83.png) {left=41.89 top=22.98 width=55.47 height=73.76}
+![](./lecture_08_molecular_signaling/images/slide_66_img_83.png) {left=41.89 top=22.98 width=55.47 height=73.76}
 
 <div style="position: absolute; left: 15.75%; top: 20.67%; width: 27.04%; height: 78.04%;">
 
@@ -1354,7 +1354,7 @@ Signal is terminated by PTEN, which dephosphorylates PIP₃ → PIP₂.
 
 </div>
 
-![](images/slide_68_img_84.png) {left=49.03 top=-0.00 width=50.97 height=54.50}
+![](./lecture_08_molecular_signaling/images/slide_68_img_84.png) {left=49.03 top=-0.00 width=50.97 height=54.50}
 
 <div style="position: absolute; left: 16.91%; top: 18.89%; width: 30.21%; height: 20.77%;">
 
@@ -1374,7 +1374,7 @@ The PTEN gene is deleted in multiple types of advanced human cancers
 
 </div>
 
-![](images/slide_69_img_85.png) {left=63.87 top=0.00 width=36.13 height=52.57}
+![](./lecture_08_molecular_signaling/images/slide_69_img_85.png) {left=63.87 top=0.00 width=36.13 height=52.57}
 
 <div style="position: absolute; left: 13.74%; top: 50.00%; width: 86.26%; height: 50.00%;">
 
@@ -1408,9 +1408,9 @@ Persistent activation linked to inflammatory and oncogenic pathways
 
 </div>
 
-![](images/slide_70_img_86.png) {left=16.07 top=23.57 width=33.47 height=73.76}
+![](./lecture_08_molecular_signaling/images/slide_70_img_86.png) {left=16.07 top=23.57 width=33.47 height=73.76}
 
-![](images/slide_70_img_87.png) {left=50.00 top=57.81 width=47.13 height=39.52}
+![](./lecture_08_molecular_signaling/images/slide_70_img_87.png) {left=50.00 top=57.81 width=47.13 height=39.52}
 
 <div style="position: absolute; left: 53.53%; top: 44.95%; width: 25.52%; height: 10.09%;">
 
@@ -1418,7 +1418,7 @@ STAT1 bound to DNA
 
 </div>
 
-![](images/slide_70_img_88.png) {left=79.05 top=0.00 width=20.15 height=57.81}
+![](./lecture_08_molecular_signaling/images/slide_70_img_88.png) {left=79.05 top=0.00 width=20.15 height=57.81}
 
 </div>
 
@@ -1432,9 +1432,9 @@ STAT1 bound to DNA
 
 </div>
 
-![](images/slide_71_img_89.png) {left=16.07 top=24.17 width=34.73 height=60.77}
+![](./lecture_08_molecular_signaling/images/slide_71_img_89.png) {left=16.07 top=24.17 width=34.73 height=60.77}
 
-![](images/slide_71_img_90.png) {left=50.80 top=23.28 width=47.54 height=57.01}
+![](./lecture_08_molecular_signaling/images/slide_71_img_90.png) {left=50.80 top=23.28 width=47.54 height=57.01}
 
 </div>
 
@@ -1478,7 +1478,7 @@ Inhibitory Smads (Smad6/7) provide negative feedback by blocking receptor activi
 
 </div>
 
-![](images/slide_73_img_91.png) {left=63.71 top=-0.00 width=36.29 height=100.00}
+![](./lecture_08_molecular_signaling/images/slide_73_img_91.png) {left=63.71 top=-0.00 width=36.29 height=100.00}
 
 </div>
 
@@ -1486,13 +1486,13 @@ Inhibitory Smads (Smad6/7) provide negative feedback by blocking receptor activi
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_74_img_92.png) {left=43.43 top=0.00 width=14.63 height=38.43}
+![](./lecture_08_molecular_signaling/images/slide_74_img_92.png) {left=43.43 top=0.00 width=14.63 height=38.43}
 
-![](images/slide_74_img_93.png) {left=58.96 top=-0.00 width=23.28 height=38.43}
+![](./lecture_08_molecular_signaling/images/slide_74_img_93.png) {left=58.96 top=-0.00 width=23.28 height=38.43}
 
-![](images/slide_74_img_94.png) {left=82.24 top=0.00 width=17.76 height=46.39}
+![](./lecture_08_molecular_signaling/images/slide_74_img_94.png) {left=82.24 top=0.00 width=17.76 height=46.39}
 
-![](images/slide_74_img_95.png) {left=43.43 top=47.51 width=56.57 height=52.49}
+![](./lecture_08_molecular_signaling/images/slide_74_img_95.png) {left=43.43 top=47.51 width=56.57 height=52.49}
 
 <div style="position: absolute; left: 9.90%; top: 0.49%; width: 33.52%; height: 94.66%;">
 
@@ -1528,7 +1528,7 @@ This tight, localized activation prevents unwanted effects such as fibrosis, imm
 
 </div>
 
-![](images/slide_75_img_96.png) {left=62.81 top=-0.00 width=36.35 height=54.31}
+![](./lecture_08_molecular_signaling/images/slide_75_img_96.png) {left=62.81 top=-0.00 width=36.35 height=54.31}
 
 <div style="position: absolute; left: 60.31%; top: 58.06%; width: 38.85%; height: 40.36%;">
 
@@ -1563,7 +1563,7 @@ Dysregulation linked to cancer and developmental disorders.
 
 </div>
 
-![](images/slide_76_img_97.png) {left=53.30 top=26.24 width=46.71 height=73.76}
+![](./lecture_08_molecular_signaling/images/slide_76_img_97.png) {left=53.30 top=26.24 width=46.71 height=73.76}
 
 <div style="position: absolute; left: 53.29%; top: 1.98%; width: 45.41%; height: 24.26%;">
 
@@ -1592,7 +1592,7 @@ Dysregulated Wnt signaling → cancer (e.g., colon carcinoma), fibrosis, and dev
 
 </div>
 
-![](images/slide_77_img_98.png) {left=51.13 top=-0.00 width=48.87 height=53.03}
+![](./lecture_08_molecular_signaling/images/slide_77_img_98.png) {left=51.13 top=-0.00 width=48.87 height=53.03}
 
 <div style="position: absolute; left: 11.74%; top: 20.67%; width: 38.26%; height: 31.43%;">
 
@@ -1607,7 +1607,7 @@ Aberrant activation → cancers (basal cell carcinoma, medulloblastoma).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_99.png) {left=58.77 top=0.00 width=40.23 height=50.00}
+![](./lecture_08_molecular_signaling/images/slide_78_img_99.png) {left=58.77 top=0.00 width=40.23 height=50.00}
 
 <div style="position: absolute; left: 17.58%; top: 1.68%; width: 17.77%; height: 17.08%;">
 
@@ -1630,7 +1630,7 @@ NF-κB
 
 </div>
 
-![](images/slide_78_img_100.png) {left=35.35 top=-0.00 width=23.42 height=50.00}
+![](./lecture_08_molecular_signaling/images/slide_78_img_100.png) {left=35.35 top=-0.00 width=23.42 height=50.00}
 
 <div style="position: absolute; left: 11.74%; top: 19.65%; width: 23.61%; height: 30.35%;">
 
@@ -1651,7 +1651,7 @@ Chronic activation linked to autoimmune disease and cancer
 
 </div>
 
-![](images/slide_79_img_101.png) {left=15.09 top=15.39 width=84.12 height=80.99}
+![](./lecture_08_molecular_signaling/images/slide_79_img_101.png) {left=15.09 top=15.39 width=84.12 height=80.99}
 
 </div>
 
@@ -1722,7 +1722,7 @@ Eicosanoids
 
 </div>
 
-![](images/slide_82_img_102.png) {left=68.15 top=0.00 width=31.85 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_82_img_102.png) {left=68.15 top=0.00 width=31.85 height=94.07}
 
 </div>
 
@@ -1736,9 +1736,9 @@ Eicosanoids
 
 </div>
 
-![](images/slide_83_img_103.png) {left=16.07 top=44.67 width=35.07 height=55.33}
+![](./lecture_08_molecular_signaling/images/slide_83_img_103.png) {left=16.07 top=44.67 width=35.07 height=55.33}
 
-![](images/slide_83_img_104.png) {left=75.44 top=44.20 width=25.44 height=55.33}
+![](./lecture_08_molecular_signaling/images/slide_83_img_104.png) {left=75.44 top=44.20 width=25.44 height=55.33}
 
 <div style="position: absolute; left: 76.25%; top: 37.62%; width: 23.82%; height: 6.59%;">
 
@@ -1746,7 +1746,7 @@ Major hypothalamic releasing factors
 
 </div>
 
-![](images/slide_83_img_105.png) {left=50.00 top=45.14 width=25.44 height=54.40}
+![](./lecture_08_molecular_signaling/images/slide_83_img_105.png) {left=50.00 top=45.14 width=25.44 height=54.40}
 
 <div style="position: absolute; left: 52.33%; top: 39.69%; width: 21.92%; height: 6.59%;">
 
@@ -1754,7 +1754,7 @@ Hormones of anterior pituitary
 
 </div>
 
-![](images/slide_83_img_106.png) {left=62.62 top=0.00 width=37.38 height=37.62}
+![](./lecture_08_molecular_signaling/images/slide_83_img_106.png) {left=62.62 top=0.00 width=37.38 height=37.62}
 
 <div style="position: absolute; left: 68.42%; top: 13.16%; width: 17.68%; height: 7.18%;">
 
@@ -1812,15 +1812,15 @@ Drug analogs: somatropin (GH), octreotide (somatostatin analog), triptorelin (Gn
 
 </div>
 
-![](images/slide_85_img_107.png) {left=23.03 top=1.05 width=22.77 height=37.44}
+![](./lecture_08_molecular_signaling/images/slide_85_img_107.png) {left=23.03 top=1.05 width=22.77 height=37.44}
 
-![](images/slide_85_img_108.png) {left=23.43 top=38.48 width=21.97 height=60.09}
+![](./lecture_08_molecular_signaling/images/slide_85_img_108.png) {left=23.43 top=38.48 width=21.97 height=60.09}
 
-![](images/slide_85_img_109.png) {left=69.46 top=41.23 width=23.90 height=57.72}
+![](./lecture_08_molecular_signaling/images/slide_85_img_109.png) {left=69.46 top=41.23 width=23.90 height=57.72}
 
-![](images/slide_85_img_110.png) {left=45.80 top=27.09 width=23.90 height=71.86}
+![](./lecture_08_molecular_signaling/images/slide_85_img_110.png) {left=45.80 top=27.09 width=23.90 height=71.86}
 
-![](images/slide_85_img_111.png) {left=71.89 top=1.05 width=20.90 height=41.10}
+![](./lecture_08_molecular_signaling/images/slide_85_img_111.png) {left=71.89 top=1.05 width=20.90 height=41.10}
 
 </div>
 
@@ -1852,13 +1852,13 @@ Adverse effects: Cushingoid features, osteoporosis, metabolic syndrome (for gluc
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_87_img_112.png) {left=22.39 top=56.62 width=35.21 height=43.38}
+![](./lecture_08_molecular_signaling/images/slide_87_img_112.png) {left=22.39 top=56.62 width=35.21 height=43.38}
 
-![](images/slide_87_img_113.png) {left=63.48 top=2.96 width=35.21 height=94.07}
+![](./lecture_08_molecular_signaling/images/slide_87_img_113.png) {left=63.48 top=2.96 width=35.21 height=94.07}
 
-![](images/slide_87_img_114.png) {left=16.87 top=1.90 width=29.22 height=54.71}
+![](./lecture_08_molecular_signaling/images/slide_87_img_114.png) {left=16.87 top=1.90 width=29.22 height=54.71}
 
-![](images/slide_87_img_115.png) {left=47.39 top=18.65 width=14.78 height=21.22}
+![](./lecture_08_molecular_signaling/images/slide_87_img_115.png) {left=47.39 top=18.65 width=14.78 height=21.22}
 
 </div>
 
@@ -1933,7 +1933,7 @@ Key role in inflammation, platelet aggregation, vascular tone.
 
 </div>
 
-![](images/slide_90_img_116.png) {left=66.38 top=0.00 width=31.16 height=37.94}
+![](./lecture_08_molecular_signaling/images/slide_90_img_116.png) {left=66.38 top=0.00 width=31.16 height=37.94}
 
 </div>
 
@@ -1947,7 +1947,7 @@ Key role in inflammation, platelet aggregation, vascular tone.
 
 </div>
 
-![](images/slide_91_img_117.png) {left=21.96 top=17.05 width=70.85 height=82.95}
+![](./lecture_08_molecular_signaling/images/slide_91_img_117.png) {left=21.96 top=17.05 width=70.85 height=82.95}
 
 </div>
 
@@ -1985,7 +1985,7 @@ The bottom half of 4HFH consists entirely of α-helices. Of what type of seconda
 
 </div>
 
-![](images/slide_93_img_118.png) {left=47.96 top=66.13 width=52.04 height=33.87}
+![](./lecture_08_molecular_signaling/images/slide_93_img_118.png) {left=47.96 top=66.13 width=52.04 height=33.87}
 
 </div>
 
@@ -2005,7 +2005,7 @@ Use the equation above and given data to find KD and Emax. Recall similar proble
 
 </div>
 
-![](images/slide_94_img_119.png) {left=18.63 top=14.94 width=81.37 height=34.08}
+![](./lecture_08_molecular_signaling/images/slide_94_img_119.png) {left=18.63 top=14.94 width=81.37 height=34.08}
 
 </div>
 
@@ -2021,7 +2021,7 @@ Consider the deactivation of G-protein (alpha subunit). It occurs spontaneously 
 
 </div>
 
-![](images/slide_95_img_120.png) {left=39.53 top=49.10 width=33.44 height=7.78}
+![](./lecture_08_molecular_signaling/images/slide_95_img_120.png) {left=39.53 top=49.10 width=33.44 height=7.78}
 
 <div style="position: absolute; left: 16.07%; top: 56.87%; width: 80.35%; height: 23.14%;">
 
@@ -2041,9 +2041,9 @@ Suppose kint = 1.5 sec-1. What is the expected half-life t1/2 of the activated G
 
 </div>
 
-![](images/slide_96_img_121.png) {left=16.07 top=15.79 width=53.41 height=80.66}
+![](./lecture_08_molecular_signaling/images/slide_96_img_121.png) {left=16.07 top=15.79 width=53.41 height=80.66}
 
-![](images/slide_96_img_122.png) {left=71.48 top=90.28 width=26.51 height=6.17}
+![](./lecture_08_molecular_signaling/images/slide_96_img_122.png) {left=71.48 top=90.28 width=26.51 height=6.17}
 
 <div style="position: absolute; left: 73.44%; top: 77.52%; width: 22.59%; height: 12.76%;">
 
@@ -2051,9 +2051,9 @@ If [GAP]total = 0, we get simplification
 
 </div>
 
-![](images/slide_96_img_123.png) {left=69.97 top=16.26 width=29.53 height=33.74}
+![](./lecture_08_molecular_signaling/images/slide_96_img_123.png) {left=69.97 top=16.26 width=29.53 height=33.74}
 
-![](images/slide_96_img_124.png) {left=75.91 top=59.97 width=15.21 height=9.61}
+![](./lecture_08_molecular_signaling/images/slide_96_img_124.png) {left=75.91 top=59.97 width=15.21 height=9.61}
 
 </div>
 

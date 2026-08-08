@@ -36,9 +36,9 @@ Gibbs free energy may not tell you much at this point (we’ll get to that), but
 
 </div>
 
-![](images/slide_2_img_1.png) {left=21.93 top=20.32 width=56.15 height=7.04}
+![](./lecture_03_acids_bases/images/slide_2_img_1.png) {left=21.93 top=20.32 width=56.15 height=7.04}
 
-![](images/slide_2_img_2.png) {left=22.81 top=48.40 width=54.37 height=6.30}
+![](./lecture_03_acids_bases/images/slide_2_img_2.png) {left=22.81 top=48.40 width=54.37 height=6.30}
 
 <div style="position: absolute; left: 16.07%; top: 56.26%; width: 80.35%; height: 43.74%;">
 
@@ -60,7 +60,7 @@ By an IUPAC definition, **solvation **is an interaction of a **solute **with the
 
 </div>
 
-![](images/slide_3_img_3.png) {left=64.41 top=12.10 width=33.85 height=59.55}
+![](./lecture_03_acids_bases/images/slide_3_img_3.png) {left=64.41 top=12.10 width=33.85 height=59.55}
 
 <div style="position: absolute; left: 61.88%; top: 77.12%; width: 35.09%; height: 17.16%;">
 
@@ -81,13 +81,13 @@ hydronium ion, H3O+(aq)
 
 </div>
 
-![](images/slide_4_img_4.png) {left=21.64 top=18.99 width=40.21 height=34.26}
+![](./lecture_03_acids_bases/images/slide_4_img_4.png) {left=21.64 top=18.99 width=40.21 height=34.26}
 
-![](images/slide_4_img_5.png) {left=42.96 top=56.11 width=26.56 height=43.89}
+![](./lecture_03_acids_bases/images/slide_4_img_5.png) {left=42.96 top=56.11 width=26.56 height=43.89}
 
-![](images/slide_4_img_6.png) {left=69.35 top=5.74 width=29.49 height=94.26}
+![](./lecture_03_acids_bases/images/slide_4_img_6.png) {left=69.35 top=5.74 width=29.49 height=94.26}
 
-![](images/slide_4_img_7.png) {left=18.75 top=57.48 width=20.68 height=41.16}
+![](./lecture_03_acids_bases/images/slide_4_img_7.png) {left=18.75 top=57.48 width=20.68 height=41.16}
 
 </div>
 
@@ -101,11 +101,11 @@ hydronium ion, H3O+(aq)
 
 </div>
 
-![](images/slide_5_img_8.png) {left=73.65 top=0.00 width=25.17 height=57.22}
+![](./lecture_03_acids_bases/images/slide_5_img_8.png) {left=73.65 top=0.00 width=25.17 height=57.22}
 
-![](images/slide_5_img_9.png) {left=46.07 top=1.76 width=23.53 height=57.49}
+![](./lecture_03_acids_bases/images/slide_5_img_9.png) {left=46.07 top=1.76 width=23.53 height=57.49}
 
-![](images/slide_5_img_10.png) {left=70.68 top=26.58 width=13.67 height=17.78}
+![](./lecture_03_acids_bases/images/slide_5_img_10.png) {left=70.68 top=26.58 width=13.67 height=17.78}
 
 </div>
 
@@ -131,7 +131,7 @@ Thus we will be concerned with their fate as they can significantly influence th
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_11.png) {left=68.47 top=-0.00 width=30.60 height=100.00}
+![](./lecture_03_acids_bases/images/slide_7_img_11.png) {left=68.47 top=-0.00 width=30.60 height=100.00}
 
 <div style="position: absolute; left: 16.07%; top: 3.81%; width: 52.40%; height: 65.39%;">
 
@@ -141,7 +141,7 @@ The measure of proton concentration is pH. Note that [H3O+] is measured in mol/L
 
 </div>
 
-![](images/slide_7_img_12.png) {left=34.46 top=58.95 width=15.62 height=6.67}
+![](./lecture_03_acids_bases/images/slide_7_img_12.png) {left=34.46 top=58.95 width=15.62 height=6.67}
 
 </div>
 
@@ -149,9 +149,9 @@ The measure of proton concentration is pH. Note that [H3O+] is measured in mol/L
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_13.png) {left=17.28 top=31.57 width=82.72 height=57.88}
+![](./lecture_03_acids_bases/images/slide_8_img_13.png) {left=17.28 top=31.57 width=82.72 height=57.88}
 
-![](images/slide_8_img_14.png) {left=35.89 top=19.71 width=36.90 height=6.67}
+![](./lecture_03_acids_bases/images/slide_8_img_14.png) {left=35.89 top=19.71 width=36.90 height=6.67}
 
 <div style="position: absolute; left: 35.89%; top: 4.07%; width: 45.85%; height: 12.65%;">
 
@@ -159,9 +159,9 @@ autoprotolysis of water
 
 </div>
 
-![](images/slide_8_img_15.png) {left=34.87 top=89.46 width=65.13 height=9.93}
+![](./lecture_03_acids_bases/images/slide_8_img_15.png) {left=34.87 top=89.46 width=65.13 height=9.93}
 
-![](images/slide_8_img_16.png) {left=74.92 top=5.21 width=23.24 height=21.18}
+![](./lecture_03_acids_bases/images/slide_8_img_16.png) {left=74.92 top=5.21 width=23.24 height=21.18}
 
 <div style="position: absolute; left: 48.94%; top: 45.03%; width: 32.81%; height: 7.78%;">
 
@@ -175,7 +175,7 @@ Law of mass action:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_17.png) {left=16.87 top=17.44 width=80.90 height=59.94}
+![](./lecture_03_acids_bases/images/slide_9_img_17.png) {left=16.87 top=17.44 width=80.90 height=59.94}
 
 <div style="position: absolute; left: 35.89%; top: 4.07%; width: 28.22%; height: 9.57%;">
 
@@ -196,7 +196,7 @@ pH + pOH = 14
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_18.png) {left=33.21 top=4.75 width=36.90 height=6.67}
+![](./lecture_03_acids_bases/images/slide_10_img_18.png) {left=33.21 top=4.75 width=36.90 height=6.67}
 
 <div style="position: absolute; left: 16.65%; top: 13.05%; width: 52.65%; height: 20.35%;">
 
@@ -204,7 +204,7 @@ Water dissociation occurs **endothermically **(due to electric field fluctuation
 
 </div>
 
-![](images/slide_10_img_19.png) {left=18.92 top=33.40 width=47.16 height=66.08}
+![](./lecture_03_acids_bases/images/slide_10_img_19.png) {left=18.92 top=33.40 width=47.16 height=66.08}
 
 </div>
 
@@ -212,7 +212,7 @@ Water dissociation occurs **endothermically **(due to electric field fluctuation
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_20.png) {left=30.11 top=0.00 width=69.89 height=100.00}
+![](./lecture_03_acids_bases/images/slide_11_img_20.png) {left=30.11 top=0.00 width=69.89 height=100.00}
 
 </div>
 
@@ -227,11 +227,11 @@ A **Brønsted–Lowry acid** is a substance that donates a proton (H+), and a
 
 </div>
 
-![](images/slide_12_img_21.png) {left=18.54 top=14.41 width=57.64 height=42.41}
+![](./lecture_03_acids_bases/images/slide_12_img_21.png) {left=18.54 top=14.41 width=57.64 height=42.41}
 
-![](images/slide_12_img_22.png) {left=36.56 top=62.09 width=44.69 height=37.91}
+![](./lecture_03_acids_bases/images/slide_12_img_22.png) {left=36.56 top=62.09 width=44.69 height=37.91}
 
-![](images/slide_12_img_23.png) {left=81.25 top=54.88 width=18.75 height=45.12}
+![](./lecture_03_acids_bases/images/slide_12_img_23.png) {left=81.25 top=54.88 width=18.75 height=45.12}
 
 <div style="position: absolute; left: 17.51%; top: 59.96%; width: 17.82%; height: 35.64%;">
 
@@ -253,11 +253,11 @@ neously behaves as a base.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_24.png) {left=15.83 top=0.00 width=84.17 height=34.81}
+![](./lecture_03_acids_bases/images/slide_13_img_24.png) {left=15.83 top=0.00 width=84.17 height=34.81}
 
-![](images/slide_13_img_25.png) {left=16.63 top=35.50 width=35.04 height=29.00}
+![](./lecture_03_acids_bases/images/slide_13_img_25.png) {left=16.63 top=35.50 width=35.04 height=29.00}
 
-![](images/slide_13_img_26.png) {left=56.46 top=34.81 width=35.04 height=30.63}
+![](./lecture_03_acids_bases/images/slide_13_img_26.png) {left=56.46 top=34.81 width=35.04 height=30.63}
 
 <div style="position: absolute; left: 17.88%; top: 69.20%; width: 79.08%; height: 27.40%;">
 
@@ -275,9 +275,9 @@ NOTE: [H+][OH-] = 10^-14
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_27.png) {left=19.43 top=0.00 width=80.57 height=55.34}
+![](./lecture_03_acids_bases/images/slide_14_img_27.png) {left=19.43 top=0.00 width=80.57 height=55.34}
 
-![](images/slide_14_img_28.png) {left=21.01 top=58.63 width=77.41 height=38.74}
+![](./lecture_03_acids_bases/images/slide_14_img_28.png) {left=21.01 top=58.63 width=77.41 height=38.74}
 
 </div>
 
@@ -285,11 +285,11 @@ NOTE: [H+][OH-] = 10^-14
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_29.png) {left=35.88 top=30.62 width=41.04 height=5.19}
+![](./lecture_03_acids_bases/images/slide_15_img_29.png) {left=35.88 top=30.62 width=41.04 height=5.19}
 
-![](images/slide_15_img_30.png) {left=19.74 top=39.44 width=16.25 height=10.56}
+![](./lecture_03_acids_bases/images/slide_15_img_30.png) {left=19.74 top=39.44 width=16.25 height=10.56}
 
-![](images/slide_15_img_31.png) {left=20.31 top=61.17 width=15.10 height=10.56}
+![](./lecture_03_acids_bases/images/slide_15_img_31.png) {left=20.31 top=61.17 width=15.10 height=10.56}
 
 <div style="position: absolute; left: 19.74%; top: 4.51%; width: 73.33%; height: 27.72%;">
 
@@ -311,7 +311,7 @@ The concentration of **water **remains essentially **constant **(at 55.56 mol/dm
 
 </div>
 
-![](images/slide_15_img_32.png) {left=21.38 top=74.48 width=78.62 height=25.52}
+![](./lecture_03_acids_bases/images/slide_15_img_32.png) {left=21.38 top=74.48 width=78.62 height=25.52}
 
 </div>
 
@@ -319,7 +319,7 @@ The concentration of **water **remains essentially **constant **(at 55.56 mol/dm
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_16_img_33.png) {left=31.16 top=17.61 width=41.04 height=5.19}
+![](./lecture_03_acids_bases/images/slide_16_img_33.png) {left=31.16 top=17.61 width=41.04 height=5.19}
 
 <div style="position: absolute; left: 15.02%; top: 30.14%; width: 73.33%; height: 27.72%;">
 
@@ -333,11 +333,11 @@ Likewise for weak bases:
 
 </div>
 
-![](images/slide_16_img_34.png) {left=56.57 top=28.91 width=39.12 height=43.59}
+![](./lecture_03_acids_bases/images/slide_16_img_34.png) {left=56.57 top=28.91 width=39.12 height=43.59}
 
-![](images/slide_16_img_35.png) {left=33.69 top=44.08 width=20.03 height=10.21}
+![](./lecture_03_acids_bases/images/slide_16_img_35.png) {left=33.69 top=44.08 width=20.03 height=10.21}
 
-![](images/slide_16_img_36.png) {left=34.51 top=75.58 width=20.97 height=11.54}
+![](./lecture_03_acids_bases/images/slide_16_img_36.png) {left=34.51 top=75.58 width=20.97 height=11.54}
 
 <div style="position: absolute; left: 28.28%; top: 2.96%; width: 53.09%; height: 9.13%;">
 
@@ -351,7 +351,7 @@ Likewise for weak bases:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_37.png) {left=18.32 top=2.96 width=81.68 height=94.07}
+![](./lecture_03_acids_bases/images/slide_17_img_37.png) {left=18.32 top=2.96 width=81.68 height=94.07}
 
 </div>
 
@@ -367,7 +367,7 @@ Likewise for weak bases:
 
 </div>
 
-![](images/slide_18_img_38.png) {left=38.97 top=32.89 width=61.03 height=67.11}
+![](./lecture_03_acids_bases/images/slide_18_img_38.png) {left=38.97 top=32.89 width=61.03 height=67.11}
 
 <div style="position: absolute; left: 16.40%; top: 36.52%; width: 21.54%; height: 63.48%;">
 
@@ -385,7 +385,7 @@ Negligible acidity-> strong conjugate base;
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_39.png) {left=24.58 top=6.11 width=75.42 height=87.78}
+![](./lecture_03_acids_bases/images/slide_19_img_39.png) {left=24.58 top=6.11 width=75.42 height=87.78}
 
 </div>
 
@@ -399,7 +399,7 @@ Example: Strong acid
 
 </div>
 
-![](images/slide_20_img_40.png) {left=18.37 top=18.29 width=70.73 height=63.41}
+![](./lecture_03_acids_bases/images/slide_20_img_40.png) {left=18.37 top=18.29 width=70.73 height=63.41}
 
 </div>
 
@@ -413,7 +413,7 @@ Example: Strong Base (negligible acid)
 
 </div>
 
-![](images/slide_21_img_41.png) {left=24.17 top=18.33 width=62.29 height=70.74}
+![](./lecture_03_acids_bases/images/slide_21_img_41.png) {left=24.17 top=18.33 width=62.29 height=70.74}
 
 </div>
 
@@ -427,7 +427,7 @@ Example: Weak acid
 
 </div>
 
-![](images/slide_22_img_42.png) {left=37.12 top=13.71 width=44.51 height=79.68}
+![](./lecture_03_acids_bases/images/slide_22_img_42.png) {left=37.12 top=13.71 width=44.51 height=79.68}
 
 </div>
 
@@ -435,7 +435,7 @@ Example: Weak acid
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_43.png) {left=18.96 top=29.63 width=81.04 height=70.37}
+![](./lecture_03_acids_bases/images/slide_23_img_43.png) {left=18.96 top=29.63 width=81.04 height=70.37}
 
 <div style="position: absolute; left: 20.30%; top: 4.51%; width: 77.41%; height: 21.78%;">
 
@@ -462,7 +462,7 @@ Note: equation is still true if A- is a common ion
 
 </div>
 
-![](images/slide_24_img_44.png) {left=29.82 top=14.17 width=58.19 height=71.67}
+![](./lecture_03_acids_bases/images/slide_24_img_44.png) {left=29.82 top=14.17 width=58.19 height=71.67}
 
 </div>
 
@@ -470,7 +470,7 @@ Note: equation is still true if A- is a common ion
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_45.png) {left=23.09 top=33.55 width=70.72 height=39.23}
+![](./lecture_03_acids_bases/images/slide_25_img_45.png) {left=23.09 top=33.55 width=70.72 height=39.23}
 
 <div style="position: absolute; left: 22.15%; top: 6.82%; width: 72.59%; height: 15.51%;">
 
@@ -498,11 +498,11 @@ Note: we can get the final situation by mixing weak acid and salt, say CH3COONa
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_46.png) {left=34.96 top=40.09 width=65.04 height=59.91}
+![](./lecture_03_acids_bases/images/slide_26_img_46.png) {left=34.96 top=40.09 width=65.04 height=59.91}
 
-![](images/slide_26_img_47.png) {left=34.96 top=-0.00 width=25.50 height=37.45}
+![](./lecture_03_acids_bases/images/slide_26_img_47.png) {left=34.96 top=-0.00 width=25.50 height=37.45}
 
-![](images/slide_26_img_48.png) {left=74.50 top=-0.00 width=25.50 height=38.41}
+![](./lecture_03_acids_bases/images/slide_26_img_48.png) {left=74.50 top=-0.00 width=25.50 height=38.41}
 
 <div style="position: absolute; left: 15.84%; top: 20.05%; width: 19.12%; height: 67.63%;">
 
@@ -526,9 +526,9 @@ Here’s a plot of ln((1-x)/(1+x)) to get the idea of possible curves
 
 </div>
 
-![](images/slide_27_img_49.png) {left=21.23 top=-0.00 width=79.21 height=43.42}
+![](./lecture_03_acids_bases/images/slide_27_img_49.png) {left=21.23 top=-0.00 width=79.21 height=43.42}
 
-![](images/slide_27_img_50.png) {left=43.52 top=61.14 width=34.62 height=38.86}
+![](./lecture_03_acids_bases/images/slide_27_img_50.png) {left=43.52 top=61.14 width=34.62 height=38.86}
 
 </div>
 
@@ -569,7 +569,7 @@ Mixing two acids
 
 </div>
 
-![](images/slide_29_img_51.png) {left=33.10 top=-0.00 width=66.90 height=92.19}
+![](./lecture_03_acids_bases/images/slide_29_img_51.png) {left=33.10 top=-0.00 width=66.90 height=92.19}
 
 </div>
 
@@ -583,7 +583,7 @@ Mixing two acids
 
 </div>
 
-![](images/slide_30_img_52.png) {left=16.16 top=30.36 width=78.39 height=52.33}
+![](./lecture_03_acids_bases/images/slide_30_img_52.png) {left=16.16 top=30.36 width=78.39 height=52.33}
 
 <div style="position: absolute; left: 20.48%; top: 6.16%; width: 71.47%; height: 20.46%;">
 
@@ -608,7 +608,7 @@ The pKa of ammonia is much greater than the pKa of water (about 33 compared with
 
 </div>
 
-![](images/slide_31_img_53.png) {left=18.88 top=60.56 width=77.71 height=39.44}
+![](./lecture_03_acids_bases/images/slide_31_img_53.png) {left=18.88 top=60.56 width=77.71 height=39.44}
 
 </div>
 
@@ -616,13 +616,13 @@ The pKa of ammonia is much greater than the pKa of water (about 33 compared with
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_54.png) {left=60.81 top=0.00 width=39.19 height=64.93}
+![](./lecture_03_acids_bases/images/slide_32_img_54.png) {left=60.81 top=0.00 width=39.19 height=64.93}
 
-![](images/slide_32_img_55.png) {left=17.88 top=41.58 width=37.47 height=16.83}
+![](./lecture_03_acids_bases/images/slide_32_img_55.png) {left=17.88 top=41.58 width=37.47 height=16.83}
 
-![](images/slide_32_img_56.png) {left=15.28 top=64.93 width=39.19 height=35.00}
+![](./lecture_03_acids_bases/images/slide_32_img_56.png) {left=15.28 top=64.93 width=39.19 height=35.00}
 
-![](images/slide_32_img_57.png) {left=54.47 top=64.93 width=45.53 height=35.00}
+![](./lecture_03_acids_bases/images/slide_32_img_57.png) {left=54.47 top=64.93 width=45.53 height=35.00}
 
 <div style="position: absolute; left: 17.88%; top: 3.85%; width: 40.10%; height: 16.83%;">
 
@@ -630,7 +630,7 @@ The pKa of ammonia is much greater than the pKa of water (about 33 compared with
 
 </div>
 
-![](images/slide_32_img_58.png) {left=16.63 top=20.00 width=40.10 height=16.55}
+![](./lecture_03_acids_bases/images/slide_32_img_58.png) {left=16.63 top=20.00 width=40.10 height=16.55}
 
 <div style="position: absolute; left: 16.96%; top: 37.20%; width: 42.41%; height: 4.46%;">
 
@@ -656,7 +656,7 @@ It **isn’t necessary** for a group to be conjugated in order to spread the neg
 
 </div>
 
-![](images/slide_33_img_59.png) {left=19.65 top=25.37 width=60.69 height=35.18}
+![](./lecture_03_acids_bases/images/slide_33_img_59.png) {left=19.65 top=25.37 width=60.69 height=35.18}
 
 <div style="position: absolute; left: 19.60%; top: 61.16%; width: 74.36%; height: 12.82%;">
 
@@ -664,7 +664,7 @@ Such inductive effects become less significant as the electron-withdrawing group
 
 </div>
 
-![](images/slide_33_img_60.png) {left=19.65 top=75.80 width=53.28 height=20.10}
+![](./lecture_03_acids_bases/images/slide_33_img_60.png) {left=19.65 top=75.80 width=53.28 height=20.10}
 
 </div>
 
@@ -684,9 +684,9 @@ Since s orbitals are held closer to the nucleus than are p orbitals, the electro
 
 </div>
 
-![](images/slide_34_img_61.png) {left=16.07 top=16.15 width=43.56 height=35.10}
+![](./lecture_03_acids_bases/images/slide_34_img_61.png) {left=16.07 top=16.15 width=43.56 height=35.10}
 
-![](images/slide_34_img_62.png) {left=21.63 top=57.17 width=78.37 height=42.83}
+![](./lecture_03_acids_bases/images/slide_34_img_62.png) {left=21.63 top=57.17 width=78.37 height=42.83}
 
 </div>
 
@@ -700,7 +700,7 @@ Since s orbitals are held closer to the nucleus than are p orbitals, the electro
 
 </div>
 
-![](images/slide_35_img_63.png) {left=16.07 top=16.33 width=75.42 height=64.07}
+![](./lecture_03_acids_bases/images/slide_35_img_63.png) {left=16.07 top=16.33 width=75.42 height=64.07}
 
 </div>
 
@@ -720,7 +720,7 @@ Electron-donating groups destabilize the conjugate base because, instead of help
 
 </div>
 
-![](images/slide_36_img_64.png) {left=17.05 top=38.83 width=79.37 height=19.65}
+![](./lecture_03_acids_bases/images/slide_36_img_64.png) {left=17.05 top=38.83 width=79.37 height=19.65}
 
 <div style="position: absolute; left: 17.05%; top: 60.06%; width: 42.55%; height: 13.47%;">
 
@@ -729,9 +729,9 @@ Thus ‘etoxide part’ is electron-releasing
 
 </div>
 
-![](images/slide_36_img_65.png) {left=59.60 top=59.59 width=36.82 height=15.51}
+![](./lecture_03_acids_bases/images/slide_36_img_65.png) {left=59.60 top=59.59 width=36.82 height=15.51}
 
-![](images/slide_36_img_66.png) {left=16.07 top=75.11 width=69.12 height=24.89}
+![](./lecture_03_acids_bases/images/slide_36_img_66.png) {left=16.07 top=75.11 width=69.12 height=24.89}
 
 </div>
 
@@ -755,7 +755,7 @@ Example: If we want to know the **basicity **of ammonia, we must look up the pKa
 
 </div>
 
-![](images/slide_37_img_67.png) {left=30.36 top=16.99 width=41.15 height=12.59}
+![](./lecture_03_acids_bases/images/slide_37_img_67.png) {left=30.36 top=16.99 width=41.15 height=12.59}
 
 <div style="position: absolute; left: 63.74%; top: 29.58%; width: 31.93%; height: 8.85%;">
 
@@ -763,7 +763,7 @@ Conjugated acid
 
 </div>
 
-![](images/slide_37_img_68.png) {left=38.24 top=67.47 width=45.16 height=32.53}
+![](./lecture_03_acids_bases/images/slide_37_img_68.png) {left=38.24 top=67.47 width=45.16 height=32.53}
 
 </div>
 
@@ -786,7 +786,7 @@ to what extent can the resultant positive charge formed be stabilized either by 
 
 </div>
 
-![](images/slide_38_img_69.png) {left=32.40 top=16.67 width=41.15 height=12.59}
+![](./lecture_03_acids_bases/images/slide_38_img_69.png) {left=32.40 top=16.67 width=41.15 height=12.59}
 
 </div>
 
@@ -794,11 +794,11 @@ to what extent can the resultant positive charge formed be stabilized either by 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_70.png) {left=21.41 top=2.31 width=78.59 height=43.50}
+![](./lecture_03_acids_bases/images/slide_39_img_70.png) {left=21.41 top=2.31 width=78.59 height=43.50}
 
-![](images/slide_39_img_71.png) {left=26.52 top=48.59 width=70.52 height=15.11}
+![](./lecture_03_acids_bases/images/slide_39_img_71.png) {left=26.52 top=48.59 width=70.52 height=15.11}
 
-![](images/slide_39_img_72.png) {left=24.49 top=66.48 width=74.59 height=33.52}
+![](./lecture_03_acids_bases/images/slide_39_img_72.png) {left=24.49 top=66.48 width=74.59 height=33.52}
 
 </div>
 
@@ -830,9 +830,9 @@ Titration of strong acid (HCl) with strong base (NaOH) and strong base with stro
 
 </div>
 
-![](images/slide_41_img_73.png) {left=16.07 top=24.28 width=50.47 height=73.76}
+![](./lecture_03_acids_bases/images/slide_41_img_73.png) {left=16.07 top=24.28 width=50.47 height=73.76}
 
-![](images/slide_41_img_74.png) {left=68.02 top=47.25 width=30.12 height=50.78}
+![](./lecture_03_acids_bases/images/slide_41_img_74.png) {left=68.02 top=47.25 width=30.12 height=50.78}
 
 </div>
 
@@ -846,9 +846,9 @@ Titration of weak acid (CH3COOH) with strong base (NaOH) and titration curves fo
 
 </div>
 
-![](images/slide_42_img_75.png) {left=17.08 top=23.28 width=46.48 height=73.76}
+![](./lecture_03_acids_bases/images/slide_42_img_75.png) {left=17.08 top=23.28 width=46.48 height=73.76}
 
-![](images/slide_42_img_76.png) {left=66.89 top=45.06 width=33.11 height=53.49}
+![](./lecture_03_acids_bases/images/slide_42_img_76.png) {left=66.89 top=45.06 width=33.11 height=53.49}
 
 </div>
 
@@ -862,7 +862,7 @@ Titration in practice
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=hodFItpuGIM) {left=17.18 top=15.73 width=80.35 height=80.35}
+![youtube](hodFItpuGIM) {left=17.18 top=15.73 width=80.35 height=80.35}
 
 </div>
 
@@ -876,9 +876,9 @@ Choosing indicators for weak acid + strong base and weak base + strong acid.
 
 </div>
 
-![](images/slide_44_img_77.png) {left=50.00 top=52.43 width=49.51 height=47.57}
+![](./lecture_03_acids_bases/images/slide_44_img_77.png) {left=50.00 top=52.43 width=49.51 height=47.57}
 
-![](images/slide_44_img_78.png) {left=50.49 top=0.00 width=49.51 height=47.55}
+![](./lecture_03_acids_bases/images/slide_44_img_78.png) {left=50.49 top=0.00 width=49.51 height=47.55}
 
 </div>
 
@@ -886,13 +886,13 @@ Choosing indicators for weak acid + strong base and weak base + strong acid.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_79.png) {left=15.94 top=0.00 width=23.30 height=45.10}
+![](./lecture_03_acids_bases/images/slide_45_img_79.png) {left=15.94 top=0.00 width=23.30 height=45.10}
 
-![](images/slide_45_img_80.png) {left=46.65 top=0.00 width=23.30 height=44.40}
+![](./lecture_03_acids_bases/images/slide_45_img_80.png) {left=46.65 top=0.00 width=23.30 height=44.40}
 
-![](images/slide_45_img_81.png) {left=75.29 top=0.12 width=23.30 height=44.16}
+![](./lecture_03_acids_bases/images/slide_45_img_81.png) {left=75.29 top=0.12 width=23.30 height=44.16}
 
-![](images/slide_45_img_82.png) {left=48.94 top=44.16 width=50.77 height=56.02}
+![](./lecture_03_acids_bases/images/slide_45_img_82.png) {left=48.94 top=44.16 width=50.77 height=56.02}
 
 <div style="position: absolute; left: 18.07%; top: 50.05%; width: 29.33%; height: 49.94%;">
 
@@ -913,11 +913,11 @@ Red cabbage contains chemicals sensitive to pH
 
 </div>
 
-![](images/slide_46_img_83.png) {left=34.41 top=70.60 width=46.10 height=27.75}
+![](./lecture_03_acids_bases/images/slide_46_img_83.png) {left=34.41 top=70.60 width=46.10 height=27.75}
 
-![](images/slide_46_img_84.png) {left=62.91 top=20.47 width=36.16 height=45.92}
+![](./lecture_03_acids_bases/images/slide_46_img_84.png) {left=62.91 top=20.47 width=36.16 height=45.92}
 
-![](images/slide_46_img_85.png) {left=17.36 top=18.33 width=41.92 height=50.21}
+![](./lecture_03_acids_bases/images/slide_46_img_85.png) {left=17.36 top=18.33 width=41.92 height=50.21}
 
 </div>
 
@@ -931,9 +931,9 @@ Polyprotic acid titration curve
 
 </div>
 
-![](images/slide_47_img_86.png) {left=64.11 top=30.33 width=35.89 height=69.67}
+![](./lecture_03_acids_bases/images/slide_47_img_86.png) {left=64.11 top=30.33 width=35.89 height=69.67}
 
-![](images/slide_47_img_87.png) {left=31.56 top=0.00 width=68.44 height=31.85}
+![](./lecture_03_acids_bases/images/slide_47_img_87.png) {left=31.56 top=0.00 width=68.44 height=31.85}
 
 </div>
 
@@ -965,9 +965,9 @@ In the same way, organic bases such as amines can be dissolved by lowering the p
 
 </div>
 
-![](images/slide_49_img_88.png) {left=31.98 top=71.07 width=17.49 height=27.51}
+![](./lecture_03_acids_bases/images/slide_49_img_88.png) {left=31.98 top=71.07 width=17.49 height=27.51}
 
-![](images/slide_49_img_89.png) {left=50.14 top=69.17 width=19.76 height=27.51}
+![](./lecture_03_acids_bases/images/slide_49_img_89.png) {left=50.14 top=69.17 width=19.76 height=27.51}
 
 <div style="position: absolute; left: 15.12%; top: 0.00%; width: 57.17%; height: 7.18%;">
 
@@ -983,7 +983,7 @@ Le Chatelier's principle applies here: as H+ is removed at high pH, the acid dis
 
 </div>
 
-![](images/slide_49_img_90.png) {left=33.17 top=31.19 width=37.84 height=30.29}
+![](./lecture_03_acids_bases/images/slide_49_img_90.png) {left=33.17 top=31.19 width=37.84 height=30.29}
 
 </div>
 
@@ -1004,9 +1004,9 @@ Enteric coatings based on CAP are resistant to acidic gastric fluids, but easily
 
 </div>
 
-![](images/slide_50_img_91.png) {left=73.02 top=13.71 width=22.40 height=42.42}
+![](./lecture_03_acids_bases/images/slide_50_img_91.png) {left=73.02 top=13.71 width=22.40 height=42.42}
 
-![](images/slide_50_img_92.png) {left=74.02 top=60.29 width=22.40 height=39.71}
+![](./lecture_03_acids_bases/images/slide_50_img_92.png) {left=74.02 top=60.29 width=22.40 height=39.71}
 
 </div>
 
@@ -1038,7 +1038,7 @@ Charged compounds can be separated by acid–base extraction
 
 </div>
 
-![](images/slide_52_img_93.png) {left=16.89 top=20.32 width=83.96 height=63.89}
+![](./lecture_03_acids_bases/images/slide_52_img_93.png) {left=16.89 top=20.32 width=83.96 height=63.89}
 
 </div>
 
@@ -1046,7 +1046,7 @@ Charged compounds can be separated by acid–base extraction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_94.png) {left=20.67 top=20.81 width=79.33 height=58.38}
+![](./lecture_03_acids_bases/images/slide_53_img_94.png) {left=20.67 top=20.81 width=79.33 height=58.38}
 
 </div>
 
@@ -1092,7 +1092,7 @@ The same -OH shows very different chemical shifts depending on the functional gr
 
 </div>
 
-![](images/slide_56_img_95.png) {left=32.86 top=15.70 width=46.77 height=24.44}
+![](./lecture_03_acids_bases/images/slide_56_img_95.png) {left=32.86 top=15.70 width=46.77 height=24.44}
 
 <div style="position: absolute; left: 17.51%; top: 43.45%; width: 81.31%; height: 46.86%;">
 
@@ -1117,9 +1117,9 @@ Chemical shifts in -OH protons
 
 </div>
 
-![](images/slide_57_img_96.png) {left=16.07 top=6.54 width=71.98 height=26.85}
+![](./lecture_03_acids_bases/images/slide_57_img_96.png) {left=16.07 top=6.54 width=71.98 height=26.85}
 
-![](images/slide_57_img_97.png) {left=16.07 top=63.84 width=75.85 height=29.56}
+![](./lecture_03_acids_bases/images/slide_57_img_97.png) {left=16.07 top=63.84 width=75.85 height=29.56}
 
 <div style="position: absolute; left: 17.33%; top: 38.49%; width: 81.50%; height: 26.85%;">
 
@@ -1157,11 +1157,11 @@ Isoelectric focusing
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_98.png) {left=56.50 top=3.23 width=33.47 height=20.49}
+![](./lecture_03_acids_bases/images/slide_59_img_98.png) {left=56.50 top=3.23 width=33.47 height=20.49}
 
-![](images/slide_59_img_99.png) {left=69.73 top=23.72 width=27.61 height=21.30}
+![](./lecture_03_acids_bases/images/slide_59_img_99.png) {left=69.73 top=23.72 width=27.61 height=21.30}
 
-![](images/slide_59_img_100.png) {left=69.18 top=44.26 width=28.71 height=21.30}
+![](./lecture_03_acids_bases/images/slide_59_img_100.png) {left=69.18 top=44.26 width=28.71 height=21.30}
 
 <div style="position: absolute; left: 16.40%; top: 0.00%; width: 31.93%; height: 26.95%;">
 
@@ -1177,7 +1177,7 @@ The shaded boxes, centered at about pK1 and pK2 indicate the regions of greatest
 
 </div>
 
-![](images/slide_59_img_101.png) {left=15.63 top=25.45 width=33.47 height=74.74}
+![](./lecture_03_acids_bases/images/slide_59_img_101.png) {left=15.63 top=25.45 width=33.47 height=74.74}
 
 <div style="position: absolute; left: 50.00%; top: 23.72%; width: 19.73%; height: 43.96%;">
 
@@ -1197,7 +1197,7 @@ Titration curves for (a) glutamate and (b) histidine. The pKa of the R group is 
 
 </div>
 
-![](images/slide_60_img_102.png) {left=21.48 top=13.53 width=74.51 height=69.12}
+![](./lecture_03_acids_bases/images/slide_60_img_102.png) {left=21.48 top=13.53 width=74.51 height=69.12}
 
 <div style="position: absolute; left: 17.51%; top: 0.55%; width: 81.40%; height: 15.84%;">
 
@@ -1211,7 +1211,7 @@ Amino acids with an ionizable R group have more complex titration curves, with m
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_103.png) {left=15.84 top=52.42 width=49.87 height=44.61}
+![](./lecture_03_acids_bases/images/slide_61_img_103.png) {left=15.84 top=52.42 width=49.87 height=44.61}
 
 <div style="position: absolute; left: 18.25%; top: 42.13%; width: 36.20%; height: 7.87%;">
 
@@ -1226,7 +1226,7 @@ Isoelectric focusing (IEF), also known as electrofocusing, is a technique for se
 
 </div>
 
-![](images/slide_61_img_104.png) {left=70.02 top=0.00 width=29.98 height=94.07}
+![](./lecture_03_acids_bases/images/slide_61_img_104.png) {left=70.02 top=0.00 width=29.98 height=94.07}
 
 </div>
 
@@ -1234,13 +1234,13 @@ Isoelectric focusing (IEF), also known as electrofocusing, is a technique for se
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_105.png) {left=64.98 top=34.29 width=32.96 height=9.55}
+![](./lecture_03_acids_bases/images/slide_62_img_105.png) {left=64.98 top=34.29 width=32.96 height=9.55}
 
-![](images/slide_62_img_106.png) {left=64.98 top=43.84 width=32.96 height=53.36}
+![](./lecture_03_acids_bases/images/slide_62_img_106.png) {left=64.98 top=43.84 width=32.96 height=53.36}
 
-![](images/slide_62_img_107.png) {left=21.34 top=44.01 width=37.70 height=53.36}
+![](./lecture_03_acids_bases/images/slide_62_img_107.png) {left=21.34 top=44.01 width=37.70 height=53.36}
 
-![](images/slide_62_img_108.png) {left=23.49 top=2.96 width=33.42 height=38.08}
+![](./lecture_03_acids_bases/images/slide_62_img_108.png) {left=23.49 top=2.96 width=33.42 height=38.08}
 
 <div style="position: absolute; left: 61.88%; top: 4.51%; width: 34.72%; height: 25.75%;">
 
@@ -1273,7 +1273,7 @@ Maillard reaction enhancement
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_109.png) {left=45.17 top=0.00 width=54.83 height=51.24}
+![](./lecture_03_acids_bases/images/slide_64_img_109.png) {left=45.17 top=0.00 width=54.83 height=51.24}
 
 <div style="position: absolute; left: 17.14%; top: 1.87%; width: 26.73%; height: 49.37%;">
 
@@ -1281,7 +1281,7 @@ The Maillard reaction is a chemical reaction between amino acids and reducing su
 
 </div>
 
-![](images/slide_64_img_110.png) {left=55.20 top=55.88 width=43.95 height=31.79}
+![](./lecture_03_acids_bases/images/slide_64_img_110.png) {left=55.20 top=55.88 width=43.95 height=31.79}
 
 <div style="position: absolute; left: 18.63%; top: 54.02%; width: 36.57%; height: 43.56%;">
 
@@ -1315,7 +1315,7 @@ Enzymes prefer certain pH
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_111.png) {left=69.86 top=0.00 width=30.14 height=51.88}
+![](./lecture_03_acids_bases/images/slide_66_img_111.png) {left=69.86 top=0.00 width=30.14 height=51.88}
 
 <div style="position: absolute; left: 16.03%; top: 1.59%; width: 46.04%; height: 71.23%;">
 
@@ -1327,7 +1327,7 @@ Alkaline phosphatase of bone tissue is a hydrolytic enzyme thought to aid in bon
 
 </div>
 
-![](images/slide_66_img_112.png) {left=71.01 top=50.00 width=28.21 height=50.00}
+![](./lecture_03_acids_bases/images/slide_66_img_112.png) {left=71.01 top=50.00 width=28.21 height=50.00}
 
 </div>
 
@@ -1359,13 +1359,13 @@ Hemoglobin
 
 </div>
 
-![](images/slide_68_img_113.png) {left=57.14 top=-0.00 width=42.86 height=73.76}
+![](./lecture_03_acids_bases/images/slide_68_img_113.png) {left=57.14 top=-0.00 width=42.86 height=73.76}
 
-![](images/slide_68_img_114.png) {left=17.79 top=18.01 width=36.73 height=55.75}
+![](./lecture_03_acids_bases/images/slide_68_img_114.png) {left=17.79 top=18.01 width=36.73 height=55.75}
 
-![](images/slide_68_img_115.png) {left=23.08 top=73.76 width=66.34 height=13.37}
+![](./lecture_03_acids_bases/images/slide_68_img_115.png) {left=23.08 top=73.76 width=66.34 height=13.37}
 
-![](images/slide_68_img_116.png) {left=22.65 top=89.76 width=67.19 height=6.95}
+![](./lecture_03_acids_bases/images/slide_68_img_116.png) {left=22.65 top=89.76 width=67.19 height=6.95}
 
 </div>
 
@@ -1382,7 +1382,7 @@ R -> T transition
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=9hny3UO5yJw) {left=19.30 top=23.61 width=76.39 height=76.39}
+![youtube](9hny3UO5yJw) {left=19.30 top=23.61 width=76.39 height=76.39}
 
 </div>
 
@@ -1396,7 +1396,7 @@ T->R transition
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=35bq-uoShpE) {left=16.67 top=20.32 width=79.68 height=79.68}
+![youtube](35bq-uoShpE) {left=16.67 top=20.32 width=79.68 height=79.68}
 
 </div>
 
@@ -1410,11 +1410,11 @@ Oxygen binding
 
 </div>
 
-![](images/slide_71_img_117.png) {left=41.34 top=20.32 width=39.40 height=74.37}
+![](./lecture_03_acids_bases/images/slide_71_img_117.png) {left=41.34 top=20.32 width=39.40 height=74.37}
 
-![](images/slide_71_img_118.png) {left=79.29 top=16.36 width=20.71 height=36.41}
+![](./lecture_03_acids_bases/images/slide_71_img_118.png) {left=79.29 top=16.36 width=20.71 height=36.41}
 
-![](images/slide_71_img_119.png) {left=80.73 top=59.29 width=19.27 height=40.70}
+![](./lecture_03_acids_bases/images/slide_71_img_119.png) {left=80.73 top=59.29 width=19.27 height=40.70}
 
 <div style="position: absolute; left: 16.77%; top: 21.67%; width: 24.57%; height: 78.33%;">
 
@@ -1437,7 +1437,7 @@ Closer look at the mechanism
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=YOIux1AsJhc) {left=17.17 top=19.65 width=80.35 height=80.35}
+![youtube](YOIux1AsJhc) {left=17.17 top=19.65 width=80.35 height=80.35}
 
 </div>
 
@@ -1445,11 +1445,11 @@ Closer look at the mechanism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_120.png) {left=16.74 top=8.10 width=36.96 height=54.46}
+![](./lecture_03_acids_bases/images/slide_73_img_120.png) {left=16.74 top=8.10 width=36.96 height=54.46}
 
-![](images/slide_73_img_121.png) {left=75.72 top=21.95 width=23.23 height=34.38}
+![](./lecture_03_acids_bases/images/slide_73_img_121.png) {left=75.72 top=21.95 width=23.23 height=34.38}
 
-![](images/slide_73_img_122.png) {left=53.71 top=16.97 width=22.02 height=40.91}
+![](./lecture_03_acids_bases/images/slide_73_img_122.png) {left=53.71 top=16.97 width=22.02 height=40.91}
 
 <div style="position: absolute; left: 65.22%; top: 0.00%; width: 23.95%; height: 12.29%;">
 
@@ -1486,7 +1486,7 @@ Fetal hemoglobin (HbF) is structurally different from normal adult hemoglobin (H
 
 </div>
 
-![](images/slide_74_img_123.png) {left=57.05 top=8.47 width=32.77 height=54.58}
+![](./lecture_03_acids_bases/images/slide_74_img_123.png) {left=57.05 top=8.47 width=32.77 height=54.58}
 
 <div style="position: absolute; left: 18.07%; top: 67.01%; width: 80.35%; height: 31.23%;">
 
@@ -1500,7 +1500,7 @@ Fetal hemoglobin (HbF) is structurally different from normal adult hemoglobin (H
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_75_img_124.png) {left=61.41 top=0.00 width=38.59 height=45.43}
+![](./lecture_03_acids_bases/images/slide_75_img_124.png) {left=61.41 top=0.00 width=38.59 height=45.43}
 
 <div style="position: absolute; left: 63.37%; top: 52.37%; width: 33.97%; height: 47.63%;">
 
@@ -1532,7 +1532,7 @@ In contrast, icefish are an exception, with adult forms lacking hemoglobin entir
 
 </div>
 
-![](images/slide_76_img_125.png) {left=50.00 top=-0.00 width=50.12 height=73.76}
+![](./lecture_03_acids_bases/images/slide_76_img_125.png) {left=50.00 top=-0.00 width=50.12 height=73.76}
 
 <div style="position: absolute; left: 16.07%; top: 20.32%; width: 32.12%; height: 53.44%;">
 
@@ -1553,7 +1553,7 @@ It  not only decreases saturation up to atmospheric O2 levels, but also continue
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_126.png) {left=26.42 top=0.00 width=69.62 height=58.62}
+![](./lecture_03_acids_bases/images/slide_77_img_126.png) {left=26.42 top=0.00 width=69.62 height=58.62}
 
 <div style="position: absolute; left: 19.74%; top: 58.62%; width: 76.30%; height: 39.04%;">
 
@@ -1569,7 +1569,7 @@ The walls of the bladder contain very few blood vessels and are lined with guani
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_127.png) {left=21.00 top=0.00 width=68.39 height=62.10}
+![](./lecture_03_acids_bases/images/slide_78_img_127.png) {left=21.00 top=0.00 width=68.39 height=62.10}
 
 <div style="position: absolute; left: 14.54%; top: 62.10%; width: 85.46%; height: 37.90%;">
 
@@ -1588,7 +1588,7 @@ O2 diffuses partly into the swim bladder.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_79_img_128.png) {left=35.54 top=-0.00 width=40.64 height=58.41}
+![](./lecture_03_acids_bases/images/slide_79_img_128.png) {left=35.54 top=-0.00 width=40.64 height=58.41}
 
 <div style="position: absolute; left: 18.81%; top: 58.41%; width: 81.19%; height: 41.59%;">
 
@@ -1610,7 +1610,7 @@ A very high gas pressure of oxygen can be obtained, which can even account for t
 
 </div>
 
-![](images/slide_80_img_129.png) {left=23.23 top=0.00 width=68.39 height=62.10}
+![](./lecture_03_acids_bases/images/slide_80_img_129.png) {left=23.23 top=0.00 width=68.39 height=62.10}
 
 </div>
 
@@ -1636,7 +1636,7 @@ Taste of sourness
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_130.png) {left=60.95 top=28.84 width=39.05 height=71.16}
+![](./lecture_03_acids_bases/images/slide_82_img_130.png) {left=60.95 top=28.84 width=39.05 height=71.16}
 
 <div style="position: absolute; left: 15.24%; top: 1.90%; width: 42.38%; height: 96.19%;">
 
@@ -1648,7 +1648,7 @@ interact directly with taste cells.
 
 </div>
 
-![](images/slide_82_img_131.png) {left=57.62 top=-1.78 width=26.19 height=40.92}
+![](./lecture_03_acids_bases/images/slide_82_img_131.png) {left=57.62 top=-1.78 width=26.19 height=40.92}
 
 </div>
 
@@ -1656,7 +1656,7 @@ interact directly with taste cells.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_83_img_132.png) {left=60.58 top=-0.00 width=36.80 height=60.74}
+![](./lecture_03_acids_bases/images/slide_83_img_132.png) {left=60.58 top=-0.00 width=36.80 height=60.74}
 
 <div style="position: absolute; left: 16.96%; top: 1.54%; width: 33.04%; height: 92.41%;">
 
@@ -1667,7 +1667,7 @@ Taste receptor cells are not neurons according to standard histological criteria
 
 </div>
 
-![](images/slide_83_img_133.png) {left=71.56 top=60.74 width=28.44 height=39.26}
+![](./lecture_03_acids_bases/images/slide_83_img_133.png) {left=71.56 top=60.74 width=28.44 height=39.26}
 
 <div style="position: absolute; left: 53.71%; top: 62.60%; width: 16.89%; height: 35.98%;">
 
@@ -1684,7 +1684,7 @@ bitter-quinine
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_84_img_134.png) {left=83.68 top=0.00 width=16.32 height=94.07}
+![](./lecture_03_acids_bases/images/slide_84_img_134.png) {left=83.68 top=0.00 width=16.32 height=94.07}
 
 <div style="position: absolute; left: 14.91%; top: 0.00%; width: 67.02%; height: 97.26%;">
 
@@ -1720,11 +1720,11 @@ Brain as pH-meter
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_86_img_135.png) {left=57.93 top=0.00 width=42.07 height=97.04}
+![](./lecture_03_acids_bases/images/slide_86_img_135.png) {left=57.93 top=0.00 width=42.07 height=97.04}
 
-![](images/slide_86_img_136.png) {left=-0.00 top=-0.00 width=27.91 height=38.57}
+![](./lecture_03_acids_bases/images/slide_86_img_136.png) {left=-0.00 top=-0.00 width=27.91 height=38.57}
 
-![](images/slide_86_img_137.png) {left=30.99 top=0.00 width=23.87 height=50.00}
+![](./lecture_03_acids_bases/images/slide_86_img_137.png) {left=30.99 top=0.00 width=23.87 height=50.00}
 
 <div style="position: absolute; left: 14.30%; top: 52.53%; width: 42.07%; height: 47.47%;">
 
@@ -1738,7 +1738,7 @@ Brain as pH-meter
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_87_img_138.png) {left=18.25 top=0.00 width=27.51 height=50.53}
+![](./lecture_03_acids_bases/images/slide_87_img_138.png) {left=18.25 top=0.00 width=27.51 height=50.53}
 
 <div style="position: absolute; left: 27.73%; top: 43.26%; width: 22.27%; height: 7.27%;">
 
@@ -1746,7 +1746,7 @@ Cerebrospinal fluid
 
 </div>
 
-![](images/slide_87_img_139.png) {left=45.75 top=0.00 width=36.13 height=44.22}
+![](./lecture_03_acids_bases/images/slide_87_img_139.png) {left=45.75 top=0.00 width=36.13 height=44.22}
 
 <div style="position: absolute; left: 15.84%; top: 53.03%; width: 37.13%; height: 44.22%;">
 
@@ -1757,11 +1757,11 @@ raphe nuclei of the medulla may play this role by increasing the firing rate of 
 
 </div>
 
-![](images/slide_87_img_140.png) {left=81.89 top=-0.00 width=17.71 height=28.14}
+![](./lecture_03_acids_bases/images/slide_87_img_140.png) {left=81.89 top=-0.00 width=17.71 height=28.14}
 
-![](images/slide_87_img_141.png) {left=81.11 top=30.88 width=19.26 height=24.32}
+![](./lecture_03_acids_bases/images/slide_87_img_141.png) {left=81.11 top=30.88 width=19.26 height=24.32}
 
-![](images/slide_87_img_142.png) {left=52.97 top=57.93 width=47.03 height=42.07}
+![](./lecture_03_acids_bases/images/slide_87_img_142.png) {left=52.97 top=57.93 width=47.03 height=42.07}
 
 </div>
 
@@ -1769,9 +1769,9 @@ raphe nuclei of the medulla may play this role by increasing the firing rate of 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_88_img_143.png) {left=52.80 top=-1.81 width=47.20 height=65.59}
+![](./lecture_03_acids_bases/images/slide_88_img_143.png) {left=52.80 top=-1.81 width=47.20 height=65.59}
 
-![](images/slide_88_img_144.png) {left=18.19 top=0.00 width=33.85 height=74.75}
+![](./lecture_03_acids_bases/images/slide_88_img_144.png) {left=18.19 top=0.00 width=33.85 height=74.75}
 
 <div style="position: absolute; left: 54.83%; top: 69.42%; width: 42.33%; height: 27.06%;">
 
@@ -1854,7 +1854,7 @@ Hint: NaOH fully dissociates, each OH- removes proton from CH3COOH creating CH3C
 
 </div>
 
-![](images/slide_91_img_145.png) {left=76.61 top=67.55 width=14.88 height=4.68}
+![](./lecture_03_acids_bases/images/slide_91_img_145.png) {left=76.61 top=67.55 width=14.88 height=4.68}
 
 </div>
 

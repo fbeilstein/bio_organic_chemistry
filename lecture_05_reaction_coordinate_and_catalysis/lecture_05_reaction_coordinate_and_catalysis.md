@@ -51,7 +51,7 @@ Membrane Biophysics
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_3_img_1.png) {left=76.05 top=0.63 width=22.34 height=27.25}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_1.png) {left=76.05 top=0.63 width=22.34 height=27.25}
 
 <div style="position: absolute; left: 31.34%; top: 4.15%; width: 26.52%; height: 8.08%;">
 
@@ -65,9 +65,9 @@ Membrane Biophysics
 
 </div>
 
-![](images/slide_3_img_2.png) {left=81.60 top=32.58 width=17.46 height=40.38}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_2.png) {left=81.60 top=32.58 width=17.46 height=40.38}
 
-![](images/slide_3_img_3.png) {left=31.65 top=40.58 width=28.23 height=10.62}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_3.png) {left=31.65 top=40.58 width=28.23 height=10.62}
 
 <div style="position: absolute; left: 25.87%; top: 32.89%; width: 38.88%; height: 7.72%;">
 
@@ -84,7 +84,7 @@ calculates measurable parameters as statistical / quantum mechanical averages
 
 </div>
 
-![](images/slide_3_img_4.png) {left=85.32 top=75.13 width=12.88 height=22.90}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_4.png) {left=85.32 top=75.13 width=12.88 height=22.90}
 
 <div style="position: absolute; left: 26.32%; top: 63.24%; width: 38.88%; height: 7.72%;">
 
@@ -92,9 +92,9 @@ calculates measurable parameters as statistical / quantum mechanical averages
 
 </div>
 
-![](images/slide_3_img_5.png) {left=31.55 top=68.76 width=23.75 height=10.62}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_5.png) {left=31.55 top=68.76 width=23.75 height=10.62}
 
-![](images/slide_3_img_6.png) {left=32.92 top=78.62 width=11.66 height=7.72}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_6.png) {left=32.92 top=78.62 width=11.66 height=7.72}
 
 <div style="position: absolute; left: 17.83%; top: 87.46%; width: 63.77%; height: 11.44%;">
 
@@ -103,7 +103,7 @@ Debye-Einstein** **heat capacity, etc.
 
 </div>
 
-![](images/slide_3_img_7.png) {left=32.05 top=51.87 width=26.52 height=10.26}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_7.png) {left=32.05 top=51.87 width=26.52 height=10.26}
 
 </div>
 
@@ -150,13 +150,13 @@ key concepts: isolated system, thermodynamic equilibrium, quasistatic process, r
 
 </div>
 
-![](images/slide_4_img_8.png) {left=49.51 top=65.97 width=12.75 height=5.03}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_8.png) {left=49.51 top=65.97 width=12.75 height=5.03}
 
-![](images/slide_4_img_9.png) {left=49.51 top=93.47 width=12.56 height=5.03}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_9.png) {left=49.51 top=93.47 width=12.56 height=5.03}
 
-![](images/slide_4_img_10.png) {left=40.18 top=77.91 width=29.62 height=7.18}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_10.png) {left=40.18 top=77.91 width=29.62 height=7.18}
 
-![](images/slide_4_img_11.png) {left=46.82 top=50.52 width=19.03 height=4.56}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_11.png) {left=46.82 top=50.52 width=19.03 height=4.56}
 
 </div>
 
@@ -177,7 +177,7 @@ key concepts: isolated system, thermodynamic equilibrium, quasistatic process, r
 
 </div>
 
-![](images/slide_5_img_12.png) {left=18.41 top=43.91 width=4.42 height=7.63}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_5_img_12.png) {left=18.41 top=43.91 width=4.42 height=7.63}
 
 <div style="position: absolute; left: 22.52%; top: 42.07%; width: 52.42%; height: 11.32%;">
 
@@ -200,7 +200,7 @@ Ex:
 
 </div>
 
-![](images/slide_5_img_13.png) {left=51.85 top=14.12 width=50.95 height=35.37}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_5_img_13.png) {left=51.85 top=14.12 width=50.95 height=35.37}
 
 <div style="position: absolute; left: 13.72%; top: 51.43%; width: 87.76%; height: 11.37%;">
 
@@ -220,7 +220,7 @@ You don’t need all of them: for a homogeneous system in thermodynamic equilibr
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_14.png) {left=20.01 top=10.50 width=74.90 height=70.74}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_6_img_14.png) {left=20.01 top=10.50 width=74.90 height=70.74}
 
 </div>
 
@@ -247,7 +247,7 @@ If the system is under constant pressure, dp = 0 the increase in enthalpy of the
 
 </div>
 
-![](images/slide_7_img_15.png) {left=33.12 top=46.72 width=45.42 height=38.61}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_7_img_15.png) {left=33.12 top=46.72 width=45.42 height=38.61}
 
 <div style="position: absolute; left: 21.66%; top: 88.32%; width: 65.90%; height: 6.59%;">
 
@@ -289,7 +289,7 @@ enthalpy of solution
 
 </div>
 
-![](images/slide_8_img_16.png) {left=65.94 top=10.22 width=23.94 height=27.29}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_8_img_16.png) {left=65.94 top=10.22 width=23.94 height=27.29}
 
 <div style="position: absolute; left: 52.00%; top: 55.37%; width: 38.62%; height: 29.85%;">
 
@@ -302,11 +302,11 @@ second ionisation energy
 
 </div>
 
-![](images/slide_8_img_17.png) {left=42.09 top=46.77 width=24.46 height=4.92}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_8_img_17.png) {left=42.09 top=46.77 width=24.46 height=4.92}
 
-![](images/slide_8_img_18.png) {left=52.38 top=4.28 width=24.46 height=5.30}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_8_img_18.png) {left=52.38 top=4.28 width=24.46 height=5.30}
 
-![](images/slide_8_img_19.png) {left=77.97 top=3.46 width=15.05 height=5.70}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_8_img_19.png) {left=77.97 top=3.46 width=15.05 height=5.70}
 
 </div>
 
@@ -320,7 +320,7 @@ second ionisation energy
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=kb6-xzFr4nk) {left=17.89 top=15.36 width=76.72 height=76.72}
+![youtube](kb6-xzFr4nk) {left=17.89 top=15.36 width=76.72 height=76.72}
 
 </div>
 
@@ -328,7 +328,7 @@ second ionisation energy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_20.png) {left=18.76 top=54.78 width=37.60 height=20.78}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_10_img_20.png) {left=18.76 top=54.78 width=37.60 height=20.78}
 
 <div style="position: absolute; left: 48.23%; top: -4.23%; width: 13.47%; height: 16.51%;">
 
@@ -344,7 +344,7 @@ This law is a consequence of the fact that enthalpy is a state function. We can 
 
 </div>
 
-![](images/slide_10_img_21.png) {left=59.18 top=53.50 width=16.57 height=23.34}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_10_img_21.png) {left=59.18 top=53.50 width=16.57 height=23.34}
 
 <div style="position: absolute; left: 14.67%; top: 46.11%; width: 5.61%; height: 7.78%;">
 
@@ -358,7 +358,7 @@ Hess’s law provides a useful means of **calculating **energy changes that are 
 
 </div>
 
-![](images/slide_10_img_22.png) {left=78.57 top=55.07 width=14.35 height=21.70}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_10_img_22.png) {left=78.57 top=55.07 width=14.35 height=21.70}
 
 </div>
 
@@ -372,7 +372,7 @@ The formation of CO2(g) from its elements can be thought of as occurring in two 
 
 </div>
 
-![](images/slide_11_img_23.png) {left=17.63 top=23.94 width=80.18 height=73.76}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_11_img_23.png) {left=17.63 top=23.94 width=80.18 height=73.76}
 
 </div>
 
@@ -380,9 +380,9 @@ The formation of CO2(g) from its elements can be thought of as occurring in two 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_24.png) {left=42.76 top=0.00 width=56.35 height=71.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_12_img_24.png) {left=42.76 top=0.00 width=56.35 height=71.17}
 
-![](images/slide_12_img_25.png) {left=18.20 top=76.46 width=81.80 height=23.76}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_12_img_25.png) {left=18.20 top=76.46 width=81.80 height=23.76}
 
 <div style="position: absolute; left: 18.81%; top: 3.52%; width: 23.95%; height: 67.65%;">
 
@@ -404,11 +404,11 @@ Using Hess’s Law find enthalpy of Chlorine monofluoride reacting with fluorine
 
 </div>
 
-![](images/slide_13_img_26.png) {left=30.63 top=15.07 width=54.90 height=11.11}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_13_img_26.png) {left=30.63 top=15.07 width=54.90 height=11.11}
 
-![](images/slide_13_img_27.png) {left=20.10 top=26.18 width=79.90 height=33.97}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_13_img_27.png) {left=20.10 top=26.18 width=79.90 height=33.97}
 
-![](images/slide_13_img_28.png) {left=35.80 top=60.15 width=62.66 height=33.92}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_13_img_28.png) {left=35.80 top=60.15 width=62.66 height=33.92}
 
 <div style="position: absolute; left: 19.37%; top: 69.86%; width: 14.48%; height: 15.51%;">
 
@@ -437,15 +437,15 @@ Statist. mechanics:
 
 </div>
 
-![](images/slide_14_img_29.png) {left=12.01 top=53.00 width=62.33 height=44.50}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_14_img_29.png) {left=12.01 top=53.00 width=62.33 height=44.50}
 
-![](images/slide_14_img_30.png) {left=43.64 top=31.56 width=10.56 height=6.81}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_14_img_30.png) {left=43.64 top=31.56 width=10.56 height=6.81}
 
-![](images/slide_14_img_31.png) {left=43.90 top=41.37 width=11.39 height=5.57}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_14_img_31.png) {left=43.90 top=41.37 width=11.39 height=5.57}
 
-![](images/slide_14_img_32.png) {left=75.87 top=68.54 width=22.05 height=31.46}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_14_img_32.png) {left=75.87 top=68.54 width=22.05 height=31.46}
 
-![](images/slide_14_img_33.png) {left=79.11 top=34.38 width=16.17 height=28.80}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_14_img_33.png) {left=79.11 top=34.38 width=16.17 height=28.80}
 
 </div>
 
@@ -453,13 +453,13 @@ Statist. mechanics:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_34.png) {left=27.49 top=3.33 width=38.29 height=7.75}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_34.png) {left=27.49 top=3.33 width=38.29 height=7.75}
 
-![](images/slide_15_img_35.png) {left=80.66 top=1.21 width=18.18 height=50.18}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_35.png) {left=80.66 top=1.21 width=18.18 height=50.18}
 
-![](images/slide_15_img_36.png) {left=15.97 top=16.64 width=27.91 height=6.92}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_36.png) {left=15.97 top=16.64 width=27.91 height=6.92}
 
-![](images/slide_15_img_37.png) {left=15.97 top=24.41 width=60.71 height=14.40}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_37.png) {left=15.97 top=24.41 width=60.71 height=14.40}
 
 <div style="position: absolute; left: 15.62%; top: 9.10%; width: 26.67%; height: 8.08%;">
 
@@ -479,15 +479,15 @@ Consider 1 mol of ice melting at T = 310K.
 
 </div>
 
-![](images/slide_15_img_38.png) {left=16.81 top=58.22 width=36.49 height=9.81}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_38.png) {left=16.81 top=58.22 width=36.49 height=9.81}
 
-![](images/slide_15_img_39.png) {left=58.33 top=58.63 width=36.61 height=8.08}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_39.png) {left=58.33 top=58.63 width=36.61 height=8.08}
 
-![](images/slide_15_img_40.png) {left=17.16 top=70.93 width=45.14 height=4.94}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_40.png) {left=17.16 top=70.93 width=45.14 height=4.94}
 
-![](images/slide_15_img_41.png) {left=35.44 top=42.77 width=21.77 height=4.94}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_41.png) {left=35.44 top=42.77 width=21.77 height=4.94}
 
-![](images/slide_15_img_42.png) {left=34.70 top=80.10 width=36.49 height=11.36}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_15_img_42.png) {left=34.70 top=80.10 width=36.49 height=11.36}
 
 <div style="position: absolute; left: 17.16%; top: 91.45%; width: 79.77%; height: 7.18%;">
 
@@ -513,9 +513,9 @@ The sign of G tells us whether the reaction is spontaneous at constant** pressur
 
 </div>
 
-![](images/slide_16_img_43.png) {left=39.53 top=48.68 width=38.46 height=21.94}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_16_img_43.png) {left=39.53 top=48.68 width=38.46 height=21.94}
 
-![](images/slide_16_img_44.png) {left=24.14 top=75.66 width=70.62 height=20.86}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_16_img_44.png) {left=24.14 top=75.66 width=70.62 height=20.86}
 
 <div style="position: absolute; left: 23.73%; top: 17.31%; width: 70.99%; height: 16.51%;">
 
@@ -536,7 +536,7 @@ For a mix of ideal gases of reactants and products:
 
 </div>
 
-![](images/slide_17_img_45.png) {left=20.61 top=71.83 width=48.14 height=23.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_17_img_45.png) {left=20.61 top=71.83 width=48.14 height=23.17}
 
 <div style="position: absolute; left: 73.58%; top: 71.83%; width: 24.32%; height: 7.78%;">
 
@@ -544,7 +544,7 @@ For a mix of ideal gases of reactants and products:
 
 </div>
 
-![](images/slide_17_img_46.png) {left=16.98 top=2.96 width=74.34 height=53.80}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_17_img_46.png) {left=16.98 top=2.96 width=74.34 height=53.80}
 
 </div>
 
@@ -552,11 +552,11 @@ For a mix of ideal gases of reactants and products:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_47.png) {left=68.38 top=-0.00 width=30.55 height=46.53}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_18_img_47.png) {left=68.38 top=-0.00 width=30.55 height=46.53}
 
-![](images/slide_18_img_48.png) {left=19.59 top=7.50 width=19.57 height=12.21}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_18_img_48.png) {left=19.59 top=7.50 width=19.57 height=12.21}
 
-![](images/slide_18_img_49.png) {left=19.06 top=19.71 width=14.77 height=15.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_18_img_49.png) {left=19.06 top=19.71 width=14.77 height=15.91}
 
 <div style="position: absolute; left: 13.35%; top: 36.72%; width: 51.98%; height: 14.37%;">
 
@@ -576,7 +576,7 @@ activities
 
 </div>
 
-![](images/slide_18_img_50.png) {left=21.06 top=56.33 width=24.93 height=15.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_18_img_50.png) {left=21.06 top=56.33 width=24.93 height=15.91}
 
 <div style="position: absolute; left: 44.20%; top: 12.28%; width: 21.48%; height: 11.82%;">
 
@@ -592,7 +592,7 @@ If **Q = K**, then the reaction is at equilibrium
 
 </div>
 
-![](images/slide_18_img_51.png) {left=71.96 top=46.70 width=24.39 height=55.32}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_18_img_51.png) {left=71.96 top=46.70 width=24.39 height=55.32}
 
 </div>
 
@@ -638,9 +638,9 @@ etc
 
 </div>
 
-![](images/slide_19_img_52.png) {left=18.71 top=67.59 width=19.00 height=30.84}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_19_img_52.png) {left=18.71 top=67.59 width=19.00 height=30.84}
 
-![](images/slide_19_img_53.png) {left=50.00 top=69.45 width=32.42 height=27.12}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_19_img_53.png) {left=50.00 top=69.45 width=32.42 height=27.12}
 
 <div style="position: absolute; left: 6.96%; top: 61.50%; width: 34.00%; height: 6.88%;">
 
@@ -660,7 +660,7 @@ Generalization of mechanical equilibrium
 
 </div>
 
-![](images/slide_19_img_54.png) {left=77.48 top=-0.00 width=12.66 height=16.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_19_img_54.png) {left=77.48 top=-0.00 width=12.66 height=16.07}
 
 </div>
 
@@ -674,7 +674,7 @@ Generalization of mechanical equilibrium
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=bDtkv8q-YGQ) {left=17.82 top=18.22 width=80.35 height=80.35}
+![youtube](bDtkv8q-YGQ) {left=17.82 top=18.22 width=80.35 height=80.35}
 
 </div>
 
@@ -682,7 +682,7 @@ Generalization of mechanical equilibrium
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_55.png) {left=16.80 top=3.29 width=83.20 height=28.56}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_21_img_55.png) {left=16.80 top=3.29 width=83.20 height=28.56}
 
 <div style="position: absolute; left: 17.52%; top: 34.94%; width: 82.48%; height: 11.97%;">
 
@@ -690,7 +690,7 @@ Generalization of mechanical equilibrium
 
 </div>
 
-![](images/slide_21_img_56.png) {left=36.08 top=55.48 width=30.79 height=7.78}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_21_img_56.png) {left=36.08 top=55.48 width=30.79 height=7.78}
 
 <div style="position: absolute; left: 17.52%; top: 50.00%; width: 82.48%; height: 7.78%;">
 
@@ -742,9 +742,9 @@ Discovered in 1884 by extending the reasoning from the **Van ‘t Hoff relation*
 
 </div>
 
-![](images/slide_22_img_57.png) {left=28.58 top=43.60 width=41.86 height=51.87}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_22_img_57.png) {left=28.58 top=43.60 width=41.86 height=51.87}
 
-![](images/slide_22_img_58.png) {left=72.26 top=11.38 width=27.74 height=30.72}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_22_img_58.png) {left=72.26 top=11.38 width=27.74 height=30.72}
 
 </div>
 
@@ -752,9 +752,9 @@ Discovered in 1884 by extending the reasoning from the **Van ‘t Hoff relation*
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_59.png) {left=30.89 top=45.16 width=48.42 height=54.84}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_23_img_59.png) {left=30.89 top=45.16 width=48.42 height=54.84}
 
-![](images/slide_23_img_60.png) {left=19.61 top=13.78 width=72.73 height=23.50}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_23_img_60.png) {left=19.61 top=13.78 width=72.73 height=23.50}
 
 <div style="position: absolute; left: 34.89%; top: 3.65%; width: 58.48%; height: 8.91%;">
 
@@ -774,7 +774,7 @@ Removing products and Le Châtelier’s principle.
 
 </div>
 
-![](images/slide_24_img_61.png) {left=24.65 top=23.60 width=63.19 height=73.76}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_24_img_61.png) {left=24.65 top=23.60 width=63.19 height=73.76}
 
 </div>
 
@@ -782,7 +782,7 @@ Removing products and Le Châtelier’s principle.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_62.png) {left=33.90 top=37.59 width=50.01 height=62.41}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_25_img_62.png) {left=33.90 top=37.59 width=50.01 height=62.41}
 
 <div style="position: absolute; left: 32.27%; top: 1.73%; width: 58.48%; height: 8.91%;">
 
@@ -790,7 +790,7 @@ Temperature and Le Châtelier’s principle.
 
 </div>
 
-![](images/slide_25_img_63.png) {left=19.08 top=10.64 width=73.23 height=25.22}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_25_img_63.png) {left=19.08 top=10.64 width=73.23 height=25.22}
 
 </div>
 
@@ -798,7 +798,7 @@ Temperature and Le Châtelier’s principle.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_64.png) {left=19.21 top=16.91 width=75.27 height=77.27}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_26_img_64.png) {left=19.21 top=16.91 width=75.27 height=77.27}
 
 <div style="position: absolute; left: 21.24%; top: 2.91%; width: 58.48%; height: 8.91%;">
 
@@ -824,7 +824,7 @@ Le Châtelier’s principle
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=z_iLK7gm_fo) {left=15.14 top=12.72 width=80.35 height=80.35}
+![youtube](z_iLK7gm_fo) {left=15.14 top=12.72 width=80.35 height=80.35}
 
 </div>
 
@@ -838,9 +838,9 @@ Pressure and Le Châtelier’s principle.
 
 </div>
 
-![](images/slide_28_img_65.png) {left=19.35 top=31.81 width=80.35 height=68.19}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_28_img_65.png) {left=19.35 top=31.81 width=80.35 height=68.19}
 
-![](images/slide_28_img_66.png) {left=11.72 top=13.92 width=86.20 height=17.89}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_28_img_66.png) {left=11.72 top=13.92 width=86.20 height=17.89}
 
 </div>
 
@@ -870,7 +870,7 @@ The step leading to the highest transition state is called **the rate-determinin
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_67.png) {left=19.18 top=18.37 width=80.82 height=65.13}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_30_img_67.png) {left=19.18 top=18.37 width=80.82 height=65.13}
 
 </div>
 
@@ -878,13 +878,13 @@ The step leading to the highest transition state is called **the rate-determinin
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_68.png) {left=62.81 top=0.00 width=37.19 height=46.67}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_31_img_68.png) {left=62.81 top=0.00 width=37.19 height=46.67}
 
-![](images/slide_31_img_69.png) {left=17.67 top=55.93 width=82.33 height=44.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_31_img_69.png) {left=17.67 top=55.93 width=82.33 height=44.07}
 
-![](images/slide_31_img_70.png) {left=17.67 top=43.23 width=53.12 height=13.53}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_31_img_70.png) {left=17.67 top=43.23 width=53.12 height=13.53}
 
-![](images/slide_31_img_71.png) {left=20.95 top=18.69 width=41.86 height=13.53}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_31_img_71.png) {left=20.95 top=18.69 width=41.86 height=13.53}
 
 </div>
 
@@ -892,13 +892,13 @@ The step leading to the highest transition state is called **the rate-determinin
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_72.png) {left=16.52 top=1.98 width=36.64 height=15.62}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_32_img_72.png) {left=16.52 top=1.98 width=36.64 height=15.62}
 
-![](images/slide_32_img_73.png) {left=15.12 top=29.09 width=37.51 height=68.87}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_32_img_73.png) {left=15.12 top=29.09 width=37.51 height=68.87}
 
-![](images/slide_32_img_74.png) {left=55.37 top=6.60 width=44.63 height=12.49}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_32_img_74.png) {left=55.37 top=6.60 width=44.63 height=12.49}
 
-![](images/slide_32_img_75.png) {left=56.15 top=32.93 width=43.07 height=65.04}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_32_img_75.png) {left=56.15 top=32.93 width=43.07 height=65.04}
 
 <div style="position: absolute; left: 16.52%; top: 19.64%; width: 34.71%; height: 9.45%;">
 
@@ -918,7 +918,7 @@ rate = k[R1COCl]
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_76.png) {left=54.38 top=26.94 width=45.62 height=73.06}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_33_img_76.png) {left=54.38 top=26.94 width=45.62 height=73.06}
 
 <div style="position: absolute; left: 16.77%; top: 3.19%; width: 37.60%; height: 94.07%;">
 
@@ -927,7 +927,7 @@ state were stabilized by the same amount as the starting materials, then the rea
 
 </div>
 
-![](images/slide_33_img_77.png) {left=56.63 top=-0.00 width=43.37 height=23.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_33_img_77.png) {left=56.63 top=-0.00 width=43.37 height=23.17}
 
 </div>
 
@@ -935,11 +935,11 @@ state were stabilized by the same amount as the starting materials, then the rea
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_78.png) {left=49.31 top=20.35 width=50.69 height=76.69}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_34_img_78.png) {left=49.31 top=20.35 width=50.69 height=76.69}
 
-![](images/slide_34_img_79.png) {left=50.73 top=9.20 width=25.70 height=11.15}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_34_img_79.png) {left=50.73 top=9.20 width=25.70 height=11.15}
 
-![](images/slide_34_img_80.png) {left=70.14 top=0.00 width=24.64 height=9.31}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_34_img_80.png) {left=70.14 top=0.00 width=24.64 height=9.31}
 
 <div style="position: absolute; left: 18.63%; top: 17.05%; width: 29.33%; height: 79.98%;">
 
@@ -964,13 +964,13 @@ state were stabilized by the same amount as the starting materials, then the rea
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_81.png) {left=34.15 top=25.12 width=65.85 height=74.88}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_35_img_81.png) {left=34.15 top=25.12 width=65.85 height=74.88}
 
-![](images/slide_35_img_82.png) {left=18.62 top=9.90 width=46.02 height=13.97}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_35_img_82.png) {left=18.62 top=9.90 width=46.02 height=13.97}
 
-![](images/slide_35_img_83.png) {left=53.98 top=5.83 width=38.13 height=13.97}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_35_img_83.png) {left=53.98 top=5.83 width=38.13 height=13.97}
 
-![](images/slide_35_img_84.png) {left=0.00 top=63.59 width=34.51 height=36.41}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_35_img_84.png) {left=0.00 top=63.59 width=34.51 height=36.41}
 
 <div style="position: absolute; left: 16.40%; top: 25.12%; width: 14.85%; height: 38.47%;">
 
@@ -1015,7 +1015,7 @@ Nucleophilic substitution 2 order
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_85.png) {left=17.83 top=0.00 width=81.31 height=91.64}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_38_img_85.png) {left=17.83 top=0.00 width=81.31 height=91.64}
 
 <div style="position: absolute; left: 76.36%; top: 3.85%; width: 21.72%; height: 60.73%;">
 
@@ -1032,7 +1032,7 @@ it takes place with a negative ∆G°, releasing energy to the surroundings).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_86.png) {left=20.30 top=0.00 width=79.70 height=91.28}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_39_img_86.png) {left=20.30 top=0.00 width=79.70 height=91.28}
 
 <div style="position: absolute; left: 27.17%; top: 7.48%; width: 20.61%; height: 49.83%;">
 
@@ -1049,9 +1049,9 @@ it takes place with a positive ∆G°, absorbing energy from the surroundings).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_87.png) {left=44.84 top=0.00 width=55.16 height=67.64}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_40_img_87.png) {left=44.84 top=0.00 width=55.16 height=67.64}
 
-![](images/slide_40_img_88.png) {left=49.07 top=67.64 width=49.75 height=32.36}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_40_img_88.png) {left=49.07 top=67.64 width=49.75 height=32.36}
 
 <div style="position: absolute; left: 19.00%; top: 16.66%; width: 21.16%; height: 34.32%;">
 
@@ -1068,7 +1068,7 @@ ion at 60 °C.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_41_img_89.png) {left=19.93 top=27.87 width=78.96 height=44.27}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_41_img_89.png) {left=19.93 top=27.87 width=78.96 height=44.27}
 
 </div>
 
@@ -1094,9 +1094,9 @@ Nucleophilic substitution 1 order
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_90.png) {left=22.83 top=5.27 width=60.52 height=17.59}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_43_img_90.png) {left=22.83 top=5.27 width=60.52 height=17.59}
 
-![](images/slide_43_img_91.png) {left=51.42 top=24.51 width=47.46 height=71.21}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_43_img_91.png) {left=51.42 top=24.51 width=47.46 height=71.21}
 
 <div style="position: absolute; left: 21.04%; top: 46.09%; width: 28.96%; height: 28.05%;">
 
@@ -1110,7 +1110,7 @@ A modified hourglass that serves as an analogy for a multistep reaction. The ove
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_92.png) {left=17.55 top=12.43 width=81.34 height=65.95}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_44_img_92.png) {left=17.55 top=12.43 width=81.34 height=65.95}
 
 </div>
 
@@ -1118,7 +1118,7 @@ A modified hourglass that serves as an analogy for a multistep reaction. The ove
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_93.png) {left=19.72 top=14.49 width=78.24 height=71.03}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_45_img_93.png) {left=19.72 top=14.49 width=78.24 height=71.03}
 
 </div>
 
@@ -1150,13 +1150,13 @@ Second-order* bimolecular reaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_94.png) {left=33.97 top=0.00 width=64.94 height=66.71}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_47_img_94.png) {left=33.97 top=0.00 width=64.94 height=66.71}
 
-![](images/slide_47_img_95.png) {left=42.31 top=66.71 width=48.27 height=31.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_47_img_95.png) {left=42.31 top=66.71 width=48.27 height=31.91}
 
-![](images/slide_47_img_96.png) {left=15.28 top=0.00 width=17.64 height=27.84}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_47_img_96.png) {left=15.28 top=0.00 width=17.64 height=27.84}
 
-![](images/slide_47_img_97.png) {left=17.14 top=34.87 width=13.92 height=11.22}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_47_img_97.png) {left=17.14 top=34.87 width=13.92 height=11.22}
 
 </div>
 
@@ -1164,7 +1164,7 @@ Second-order* bimolecular reaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_98.png) {left=35.68 top=0.00 width=63.33 height=83.06}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_48_img_98.png) {left=35.68 top=0.00 width=63.33 height=83.06}
 
 <div style="position: absolute; left: 16.21%; top: 12.10%; width: 19.47%; height: 65.68%;">
 
@@ -1202,7 +1202,7 @@ First-order* unimolecular reactions
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_50_img_99.png) {left=26.17 top=2.96 width=59.46 height=94.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_50_img_99.png) {left=26.17 top=2.96 width=59.46 height=94.07}
 
 </div>
 
@@ -1228,7 +1228,7 @@ Alkenes
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_100.png) {left=19.69 top=18.06 width=80.31 height=63.89}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_52_img_100.png) {left=19.69 top=18.06 width=80.31 height=63.89}
 
 </div>
 
@@ -1236,7 +1236,7 @@ Alkenes
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_101.png) {left=22.90 top=14.85 width=71.35 height=82.55}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_53_img_101.png) {left=22.90 top=14.85 width=71.35 height=82.55}
 
 <div style="position: absolute; left: 20.48%; top: 2.86%; width: 77.79%; height: 14.19%;">
 
@@ -1251,9 +1251,9 @@ of activation for step 1 is much larger than that for step 2.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_102.png) {left=53.02 top=0.00 width=46.98 height=61.61}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_54_img_102.png) {left=53.02 top=0.00 width=46.98 height=61.61}
 
-![](images/slide_54_img_103.png) {left=54.04 top=61.61 width=44.94 height=38.39}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_54_img_103.png) {left=54.04 top=61.61 width=44.94 height=38.39}
 
 <div style="position: absolute; left: 21.78%; top: 9.79%; width: 24.88%; height: 44.22%;">
 
@@ -1268,7 +1268,7 @@ of HX to an alkene can rearrange to a more stable one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_104.png) {left=24.48 top=0.00 width=75.52 height=63.89}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_55_img_104.png) {left=24.48 top=0.00 width=75.52 height=63.89}
 
 <div style="position: absolute; left: 21.78%; top: 65.90%; width: 78.22%; height: 34.10%;">
 
@@ -1301,9 +1301,9 @@ Kinetics and catalytic strategies
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_105.png) {left=18.00 top=1.64 width=23.27 height=28.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_105.png) {left=18.00 top=1.64 width=23.27 height=28.17}
 
-![](images/slide_57_img_106.png) {left=42.05 top=1.64 width=20.03 height=28.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_106.png) {left=42.05 top=1.64 width=20.03 height=28.17}
 
 <div style="position: absolute; left: 65.22%; top: 0.00%; width: 34.78%; height: 43.79%;">
 
@@ -1311,9 +1311,9 @@ The activity of an enzyme is responsible for the glow of the luminescent jellyfi
 
 </div>
 
-![](images/slide_57_img_107.png) {left=18.00 top=29.82 width=23.27 height=36.99}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_107.png) {left=18.00 top=29.82 width=23.27 height=36.99}
 
-![](images/slide_57_img_108.png) {left=42.05 top=38.05 width=21.87 height=28.17}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_108.png) {left=42.05 top=38.05 width=21.87 height=28.17}
 
 <div style="position: absolute; left: 67.08%; top: 42.79%; width: 31.19%; height: 20.46%;">
 
@@ -1342,7 +1342,7 @@ A kinesin is a protein complex belonging to a class of motor proteins found in e
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=y-uuk4Pr2i8) {left=26.93 top=37.84 width=59.74 height=59.74}
+![youtube](y-uuk4Pr2i8) {left=26.93 top=37.84 width=59.74 height=59.74}
 
 </div>
 
@@ -1378,7 +1378,7 @@ Enzymes catalyze reactions by **stabilizing transition states**, the highest-ene
 
 </div>
 
-![](images/slide_60_img_109.png) {left=17.40 top=31.24 width=82.60 height=45.22}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_60_img_109.png) {left=17.40 top=31.24 width=82.60 height=45.22}
 
 </div>
 
@@ -1386,7 +1386,7 @@ Enzymes catalyze reactions by **stabilizing transition states**, the highest-ene
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_110.png) {left=21.34 top=0.00 width=76.46 height=60.74}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_61_img_110.png) {left=21.34 top=0.00 width=76.46 height=60.74}
 
 <div style="position: absolute; left: 22.90%; top: 66.89%; width: 74.91%; height: 11.55%;">
 
@@ -1420,7 +1420,7 @@ Apoenzyme + cofactor = holoenzyme
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_111.png) {left=47.71 top=2.96 width=51.15 height=94.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_63_img_111.png) {left=47.71 top=2.96 width=51.15 height=94.07}
 
 <div style="position: absolute; left: 18.07%; top: 5.17%; width: 28.78%; height: 91.87%;">
 
@@ -1462,7 +1462,7 @@ final state) minus the free energy of the reactants (the initial state), but i**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_112.png) {left=67.99 top=0.00 width=32.01 height=44.56}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_112.png) {left=67.99 top=0.00 width=32.01 height=44.56}
 
 <div style="position: absolute; left: 18.25%; top: 4.51%; width: 36.94%; height: 36.30%;">
 
@@ -1471,7 +1471,7 @@ attainment of equilibria but do not shift their positions. The equilibrium posit
 
 </div>
 
-![](images/slide_65_img_113.png) {left=65.75 top=44.56 width=34.25 height=55.44}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_113.png) {left=65.75 top=44.56 width=34.25 height=55.44}
 
 <div style="position: absolute; left: 18.25%; top: 42.13%; width: 44.80%; height: 55.44%;">
 
@@ -1482,9 +1482,9 @@ Enzymes function to lower the activation energy, or, in other words, enzymes fac
 
 </div>
 
-![](images/slide_65_img_114.png) {left=70.12 top=76.13 width=15.42 height=7.21}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_114.png) {left=70.12 top=76.13 width=15.42 height=7.21}
 
-![](images/slide_65_img_115.png) {left=73.52 top=89.76 width=14.92 height=4.26}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_115.png) {left=73.52 top=89.76 width=14.92 height=4.26}
 
 </div>
 
@@ -1506,7 +1506,7 @@ Substrates bind to a specific region of the enzyme called the **active site**. M
 
 </div>
 
-![](images/slide_66_img_116.png) {left=17.63 top=55.16 width=42.90 height=38.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_66_img_116.png) {left=17.63 top=55.16 width=42.90 height=38.91}
 
 <div style="position: absolute; left: 63.18%; top: 55.67%; width: 34.34%; height: 40.59%;">
 
@@ -1515,7 +1515,7 @@ cofactor.
 
 </div>
 
-![](images/slide_66_img_117.png) {left=45.82 top=34.66 width=18.75 height=6.67}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_66_img_117.png) {left=45.82 top=34.66 width=18.75 height=6.67}
 
 </div>
 
@@ -1523,7 +1523,7 @@ cofactor.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_118.png) {left=17.63 top=0.00 width=35.52 height=55.08}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_118.png) {left=17.63 top=0.00 width=35.52 height=55.08}
 
 <div style="position: absolute; left: 53.16%; top: 3.85%; width: 43.07%; height: 48.18%;">
 
@@ -1533,7 +1533,7 @@ Active sites may include distant residues.
 
 </div>
 
-![](images/slide_67_img_119.png) {left=17.63 top=55.08 width=23.18 height=42.04}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_119.png) {left=17.63 top=55.08 width=23.18 height=42.04}
 
 <div style="position: absolute; left: 43.50%; top: 56.66%; width: 54.58%; height: 40.47%;">
 
@@ -1549,7 +1549,7 @@ Substrates are bound to enzymes by multiple weak attractions. Image shows how ri
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_68_img_120.png) {left=15.96 top=0.00 width=42.65 height=50.00}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_120.png) {left=15.96 top=0.00 width=42.65 height=50.00}
 
 <div style="position: absolute; left: 64.29%; top: 3.63%; width: 35.71%; height: 41.90%;">
 
@@ -1558,7 +1558,7 @@ In this model, the enzyme changes shape on substrate binding. The active site fo
 
 </div>
 
-![](images/slide_68_img_121.png) {left=18.77 top=52.63 width=37.03 height=44.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_121.png) {left=18.77 top=52.63 width=37.03 height=44.07}
 
 <div style="position: absolute; left: 64.29%; top: 68.54%; width: 34.16%; height: 15.51%;">
 
@@ -1613,9 +1613,9 @@ Examples
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_122.png) {left=17.60 top=0.00 width=82.40 height=100.00}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_122.png) {left=17.60 top=0.00 width=82.40 height=100.00}
 
-![](images/slide_71_img_123.png) {left=44.82 top=39.05 width=13.72 height=21.90}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_123.png) {left=44.82 top=39.05 width=13.72 height=21.90}
 
 <div style="position: absolute; left: 59.47%; top: 40.59%; width: 11.70%; height: 18.82%;">
 
@@ -1644,7 +1644,7 @@ Look for His57, Asp102, Ser195
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_72_img_124.png) {left=64.67 top=0.00 width=35.33 height=69.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_124.png) {left=64.67 top=0.00 width=35.33 height=69.91}
 
 <div style="position: absolute; left: 17.14%; top: 1.21%; width: 41.96%; height: 66.67%;">
 
@@ -1656,7 +1656,7 @@ phenylalanine (shown in green).
 
 </div>
 
-![](images/slide_72_img_125.png) {left=25.87 top=67.88 width=58.02 height=31.75}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_125.png) {left=25.87 top=67.88 width=58.02 height=31.75}
 
 </div>
 
@@ -1664,9 +1664,9 @@ phenylalanine (shown in green).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_126.png) {left=49.06 top=0.00 width=50.94 height=25.37}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_126.png) {left=49.06 top=0.00 width=50.94 height=25.37}
 
-![](images/slide_73_img_127.png) {left=42.01 top=40.48 width=57.99 height=59.52}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_127.png) {left=42.01 top=40.48 width=57.99 height=59.52}
 
 <div style="position: absolute; left: 16.96%; top: 1.87%; width: 32.11%; height: 36.96%;">
 
@@ -1694,13 +1694,13 @@ Binding to zinc lowers the pKa of water from 15.7 to 7.
 
 </div>
 
-![](images/slide_74_img_128.png) {left=17.51 top=35.56 width=36.25 height=64.44}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_128.png) {left=17.51 top=35.56 width=36.25 height=64.44}
 
-![](images/slide_74_img_129.png) {left=64.38 top=38.89 width=35.62 height=61.11}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_129.png) {left=64.38 top=38.89 width=35.62 height=61.11}
 
-![](images/slide_74_img_130.png) {left=15.84 top=0.00 width=63.54 height=25.37}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_130.png) {left=15.84 top=0.00 width=63.54 height=25.37}
 
-![](images/slide_74_img_131.png) {left=64.38 top=22.40 width=35.62 height=14.99}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_131.png) {left=64.38 top=22.40 width=35.62 height=14.99}
 
 <div style="position: absolute; left: 18.63%; top: 24.97%; width: 28.96%; height: 7.26%;">
 
@@ -1720,7 +1720,7 @@ The **Michaelis–Menten** model accounts for the kinetic properties of many enz
 
 </div>
 
-![](images/slide_75_img_132.png) {left=34.84 top=20.32 width=30.31 height=11.30}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_132.png) {left=34.84 top=20.32 width=30.31 height=11.30}
 
 <div style="position: absolute; left: 17.51%; top: 32.23%; width: 78.91%; height: 11.30%;">
 
@@ -1728,9 +1728,9 @@ at times close to zero (hence, V_0) when there is negligible product formation a
 
 </div>
 
-![](images/slide_75_img_133.png) {left=41.25 top=47.63 width=17.50 height=5.80}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_133.png) {left=41.25 top=47.63 width=17.50 height=5.80}
 
-![](images/slide_75_img_134.png) {left=63.00 top=53.43 width=35.62 height=37.59}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_134.png) {left=63.00 top=53.43 width=35.62 height=37.59}
 
 <div style="position: absolute; left: 19.74%; top: 57.65%; width: 33.97%; height: 29.71%;">
 
@@ -1750,7 +1750,7 @@ Thus we get a system of differential equations that describe the process
 
 </div>
 
-![](images/slide_76_img_135.png) {left=48.78 top=14.05 width=22.08 height=7.59}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_135.png) {left=48.78 top=14.05 width=22.08 height=7.59}
 
 <div style="position: absolute; left: 19.74%; top: 22.99%; width: 78.16%; height: 7.59%;">
 
@@ -1764,7 +1764,7 @@ where [E]_tot is the total enzyme concentration during the reaction.
 
 </div>
 
-![](images/slide_76_img_136.png) {left=36.62 top=50.00 width=43.65 height=12.78}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_136.png) {left=36.62 top=50.00 width=43.65 height=12.78}
 
 <div style="position: absolute; left: 19.93%; top: 62.60%; width: 77.60%; height: 7.59%;">
 
@@ -1772,7 +1772,7 @@ From the above relations, the reaction velocity v is:
 
 </div>
 
-![](images/slide_76_img_137.png) {left=38.33 top=73.75 width=44.11 height=18.42}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_137.png) {left=38.33 top=73.75 width=44.11 height=18.42}
 
 </div>
 
@@ -1786,7 +1786,7 @@ From the above relations, the reaction velocity v is:
 
 </div>
 
-![](images/slide_77_img_138.png) {left=45.67 top=10.74 width=19.48 height=12.96}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_138.png) {left=45.67 top=10.74 width=19.48 height=12.96}
 
 <div style="position: absolute; left: 16.96%; top: 21.82%; width: 83.04%; height: 9.57%;">
 
@@ -1794,7 +1794,7 @@ At very high substrate concentration, essentially all enzyme is bound:
 
 </div>
 
-![](images/slide_77_img_139.png) {left=33.75 top=31.39 width=16.25 height=8.70}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_139.png) {left=33.75 top=31.39 width=16.25 height=8.70}
 
 <div style="position: absolute; left: 16.96%; top: 41.38%; width: 34.51%; height: 7.26%;">
 
@@ -1808,11 +1808,11 @@ Finally, the **Michaelis-Menten equation** is obtained:
 
 </div>
 
-![](images/slide_77_img_140.png) {left=59.47 top=34.91 width=40.53 height=65.65}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_140.png) {left=59.47 top=34.91 width=40.53 height=65.65}
 
-![](images/slide_77_img_141.png) {left=33.75 top=49.65 width=19.48 height=9.33}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_141.png) {left=33.75 top=49.65 width=19.48 height=9.33}
 
-![](images/slide_77_img_142.png) {left=35.17 top=74.82 width=18.06 height=12.96}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_142.png) {left=35.17 top=74.82 width=18.06 height=12.96}
 
 </div>
 
@@ -1826,9 +1826,9 @@ The significance of KM is clear when we set [S]= KM: V = vmax / 2, thus, KM is e
 
 </div>
 
-![](images/slide_78_img_143.png) {left=23.83 top=17.34 width=65.94 height=16.85}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_78_img_143.png) {left=23.83 top=17.34 width=65.94 height=16.85}
 
-![](images/slide_78_img_144.png) {left=22.15 top=34.19 width=73.02 height=17.22}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_78_img_144.png) {left=22.15 top=34.19 width=73.02 height=17.22}
 
 <div style="position: absolute; left: 17.33%; top: 50.00%; width: 82.67%; height: 46.82%;">
 
@@ -1848,9 +1848,9 @@ Most people have two forms of the aldehyde dehydrogenase, a low KM mitochondrial
 
 </div>
 
-![](images/slide_79_img_145.png) {left=63.96 top=25.25 width=36.04 height=52.59}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_145.png) {left=63.96 top=25.25 width=36.04 height=52.59}
 
-![](images/slide_79_img_146.png) {left=18.93 top=28.17 width=41.21 height=46.76}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_146.png) {left=18.93 top=28.17 width=41.21 height=46.76}
 
 <div style="position: absolute; left: 20.11%; top: 77.78%; width: 77.41%; height: 18.48%;">
 
@@ -1870,7 +1870,7 @@ For many enzymes, experimental evidence suggests that the KM value provides an a
 
 </div>
 
-![](images/slide_79_img_147.png) {left=18.93 top=12.68 width=26.83 height=12.64}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_147.png) {left=18.93 top=12.68 width=26.83 height=12.64}
 
 </div>
 
@@ -1890,9 +1890,9 @@ An important group of enzymes that do not obey Michaelis–Menten kinetics are t
 
 </div>
 
-![](images/slide_80_img_148.png) {left=69.68 top=12.43 width=28.94 height=40.84}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_148.png) {left=69.68 top=12.43 width=28.94 height=40.84}
 
-![](images/slide_80_img_149.png) {left=69.68 top=53.12 width=28.94 height=46.88}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_149.png) {left=69.68 top=53.12 width=28.94 height=46.88}
 
 <div style="position: absolute; left: 82.49%; top: 35.53%; width: 17.76%; height: 8.38%;">
 
@@ -1912,13 +1912,13 @@ MM
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_81_img_150.png) {left=18.00 top=2.96 width=14.90 height=27.78}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_150.png) {left=18.00 top=2.96 width=14.90 height=27.78}
 
-![](images/slide_81_img_151.png) {left=36.51 top=11.20 width=30.31 height=11.30}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_151.png) {left=36.51 top=11.20 width=30.31 height=11.30}
 
-![](images/slide_81_img_152.png) {left=66.83 top=2.96 width=28.94 height=46.88}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_152.png) {left=66.83 top=2.96 width=28.94 height=46.88}
 
-![](images/slide_81_img_153.png) {left=69.69 top=50.00 width=30.31 height=44.23}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_153.png) {left=69.69 top=50.00 width=30.31 height=44.23}
 
 <div style="position: absolute; left: 15.73%; top: 34.54%; width: 48.59%; height: 13.15%;">
 
@@ -1934,9 +1934,9 @@ No inhibition, pure Michaelis-Menten kinetics
 
 </div>
 
-![](images/slide_81_img_154.png) {left=36.68 top=47.15 width=27.91 height=13.15}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_154.png) {left=36.68 top=47.15 width=27.91 height=13.15}
 
-![](images/slide_81_img_155.png) {left=17.63 top=47.69 width=16.80 height=12.06}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_155.png) {left=17.63 top=47.69 width=16.80 height=12.06}
 
 </div>
 
@@ -1944,15 +1944,15 @@ No inhibition, pure Michaelis-Menten kinetics
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_156.png) {left=69.69 top=0.00 width=30.31 height=42.92}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_156.png) {left=69.69 top=0.00 width=30.31 height=42.92}
 
-![](images/slide_82_img_157.png) {left=15.40 top=0.00 width=14.90 height=28.15}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_157.png) {left=15.40 top=0.00 width=14.90 height=28.15}
 
-![](images/slide_82_img_158.png) {left=16.40 top=58.02 width=15.29 height=6.37}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_158.png) {left=16.40 top=58.02 width=15.29 height=6.37}
 
-![](images/slide_82_img_159.png) {left=35.31 top=2.47 width=22.60 height=27.04}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_159.png) {left=35.31 top=2.47 width=22.60 height=27.04}
 
-![](images/slide_82_img_160.png) {left=69.69 top=45.23 width=30.31 height=40.10}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_160.png) {left=69.69 top=45.23 width=30.31 height=40.10}
 
 <div style="position: absolute; left: 16.40%; top: 29.50%; width: 53.29%; height: 67.56%;">
 
@@ -1962,9 +1962,9 @@ The effect of a competitive inhibitor is to increase the apparent value of KM
 
 </div>
 
-![](images/slide_82_img_161.png) {left=39.35 top=58.02 width=24.28 height=6.37}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_161.png) {left=39.35 top=58.02 width=24.28 height=6.37}
 
-![](images/slide_82_img_162.png) {left=16.40 top=68.70 width=37.81 height=14.07}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_162.png) {left=16.40 top=68.70 width=37.81 height=14.07}
 
 </div>
 
@@ -1972,15 +1972,15 @@ The effect of a competitive inhibitor is to increase the apparent value of KM
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_83_img_163.png) {left=16.37 top=0.00 width=24.90 height=28.70}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_163.png) {left=16.37 top=0.00 width=24.90 height=28.70}
 
-![](images/slide_83_img_164.png) {left=41.27 top=6.11 width=25.83 height=22.59}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_164.png) {left=41.27 top=6.11 width=25.83 height=22.59}
 
-![](images/slide_83_img_165.png) {left=73.02 top=0.00 width=26.98 height=48.24}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_165.png) {left=73.02 top=0.00 width=26.98 height=48.24}
 
-![](images/slide_83_img_166.png) {left=71.74 top=48.24 width=28.26 height=45.91}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_166.png) {left=71.74 top=48.24 width=28.26 height=45.91}
 
-![](images/slide_83_img_167.png) {left=18.37 top=79.52 width=35.52 height=14.63}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_167.png) {left=18.37 top=79.52 width=35.52 height=14.63}
 
 <div style="position: absolute; left: 18.63%; top: 33.55%; width: 52.91%; height: 45.87%;">
 
@@ -1996,15 +1996,15 @@ ESI, does not go on to form any product. Lowers Vmax and KM because unproductive
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_84_img_168.png) {left=15.82 top=0.00 width=23.75 height=25.74}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_168.png) {left=15.82 top=0.00 width=23.75 height=25.74}
 
-![](images/slide_84_img_169.png) {left=41.39 top=2.78 width=22.81 height=20.19}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_169.png) {left=41.39 top=2.78 width=22.81 height=20.19}
 
-![](images/slide_84_img_170.png) {left=69.12 top=0.00 width=30.88 height=52.73}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_170.png) {left=69.12 top=0.00 width=30.88 height=52.73}
 
-![](images/slide_84_img_171.png) {left=69.12 top=54.12 width=30.88 height=40.84}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_171.png) {left=69.12 top=54.12 width=30.88 height=40.84}
 
-![](images/slide_84_img_172.png) {left=32.01 top=76.89 width=21.25 height=14.26}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_172.png) {left=32.01 top=76.89 width=21.25 height=14.26}
 
 <div style="position: absolute; left: 18.32%; top: 28.93%; width: 48.64%; height: 52.80%;">
 
@@ -2063,7 +2063,7 @@ Inorganic chemical reactions may exhibit complicated dynamic behaviour as well. 
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=oBGSMiHhdWw) {left=16.07 top=16.67 width=81.90 height=81.90}
+![youtube](oBGSMiHhdWw) {left=16.07 top=16.67 width=81.90 height=81.90}
 
 </div>
 
@@ -2077,7 +2077,7 @@ Inorganic chemical reactions may exhibit complicated dynamic behaviour as well. 
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=XU2AV5SSi6g) {left=17.63 top=18.99 width=77.93 height=77.93}
+![youtube](XU2AV5SSi6g) {left=17.63 top=18.99 width=77.93 height=77.93}
 
 </div>
 
@@ -2098,9 +2098,9 @@ enzyme before any product is released.
 
 </div>
 
-![](images/slide_90_img_173.png) {left=16.44 top=20.50 width=71.15 height=18.15}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_173.png) {left=16.44 top=20.50 width=71.15 height=18.15}
 
-![](images/slide_90_img_174.png) {left=17.25 top=44.57 width=65.50 height=30.19}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_174.png) {left=17.25 top=44.57 width=65.50 height=30.19}
 
 </div>
 
@@ -2115,7 +2115,7 @@ or ping-pong, reactions, one or more products are released before all substrates
 
 </div>
 
-![](images/slide_91_img_175.png) {left=18.63 top=40.45 width=81.37 height=20.57}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_91_img_175.png) {left=18.63 top=40.45 width=81.37 height=20.57}
 
 <div style="position: absolute; left: 17.74%; top: 74.77%; width: 80.35%; height: 11.60%;">
 
@@ -2155,9 +2155,9 @@ or ping-pong, reactions, one or more products are released before all substrates
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_93_img_176.png) {left=15.98 top=25.19 width=79.02 height=74.81}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_93_img_176.png) {left=15.98 top=25.19 width=79.02 height=74.81}
 
-![](images/slide_93_img_177.png) {left=71.72 top=0.00 width=29.51 height=43.48}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_93_img_177.png) {left=71.72 top=0.00 width=29.51 height=43.48}
 
 <div style="position: absolute; left: 19.18%; top: 4.51%; width: 49.20%; height: 19.14%;">
 
@@ -2200,9 +2200,9 @@ Given the following information:
 
 </div>
 
-![](images/slide_95_img_178.png) {left=29.51 top=27.09 width=57.71 height=12.96}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_95_img_178.png) {left=29.51 top=27.09 width=57.71 height=12.96}
 
-![](images/slide_95_img_179.png) {left=17.08 top=48.93 width=79.00 height=32.13}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_95_img_179.png) {left=17.08 top=48.93 width=79.00 height=32.13}
 
 </div>
 

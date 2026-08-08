@@ -30,7 +30,7 @@ Lecture 6: Bioenergetics and metabolism
 
 </div>
 
-![](images/slide_2_img_1.png) {left=20.92 top=14.14 width=68.53 height=84.38}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_2_img_1.png) {left=20.92 top=14.14 width=68.53 height=84.38}
 
 </div>
 
@@ -86,9 +86,9 @@ or DNA—are called **anabolic reactions** or **anabolism**.
 
 </div>
 
-![](images/slide_4_img_2.png) {left=16.20 top=56.80 width=67.60 height=11.48}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_4_img_2.png) {left=16.20 top=56.80 width=67.60 height=11.48}
 
-![](images/slide_4_img_3.png) {left=16.07 top=83.12 width=65.31 height=8.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_4_img_3.png) {left=16.07 top=83.12 width=65.31 height=8.33}
 
 </div>
 
@@ -108,7 +108,7 @@ the overall free-energy change for a chemically coupled series of reactions is e
 
 </div>
 
-![](images/slide_5_img_4.png) {left=23.02 top=27.29 width=66.46 height=20.37}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_5_img_4.png) {left=23.02 top=27.29 width=66.46 height=20.37}
 
 </div>
 
@@ -116,13 +116,13 @@ the overall free-energy change for a chemically coupled series of reactions is e
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_5.png) {left=61.88 top=0.00 width=39.37 height=33.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_6_img_5.png) {left=61.88 top=0.00 width=39.37 height=33.57}
 
-![](images/slide_6_img_6.png) {left=65.43 top=33.21 width=34.57 height=33.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_6_img_6.png) {left=65.43 top=33.21 width=34.57 height=33.57}
 
-![](images/slide_6_img_7.png) {left=70.27 top=66.43 width=29.73 height=33.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_6_img_7.png) {left=70.27 top=66.43 width=29.73 height=33.57}
 
-![](images/slide_6_img_8.png) {left=15.25 top=20.37 width=47.40 height=21.77}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_6_img_8.png) {left=15.25 top=20.37 width=47.40 height=21.77}
 
 <div style="position: absolute; left: 16.74%; top: 5.17%; width: 42.14%; height: 13.16%;">
 
@@ -150,9 +150,9 @@ carrier.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_9.png) {left=53.33 top=0.00 width=46.67 height=63.05}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_7_img_9.png) {left=53.33 top=0.00 width=46.67 height=63.05}
 
-![](images/slide_7_img_10.png) {left=53.33 top=63.05 width=46.67 height=36.31}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_7_img_10.png) {left=53.33 top=63.05 width=46.67 height=36.31}
 
 <div style="position: absolute; left: 16.77%; top: 0.00%; width: 36.56%; height: 98.24%;">
 
@@ -188,11 +188,11 @@ The RNA world. Activated carriers such as ATP, NADH, FADH2, and CoA contain aden
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_11.png) {left=40.82 top=0.00 width=59.18 height=64.12}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_9_img_11.png) {left=40.82 top=0.00 width=59.18 height=64.12}
 
-![](images/slide_9_img_12.png) {left=42.02 top=64.12 width=57.98 height=15.90}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_9_img_12.png) {left=42.02 top=64.12 width=57.98 height=15.90}
 
-![](images/slide_9_img_13.png) {left=43.58 top=82.07 width=56.42 height=10.67}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_9_img_13.png) {left=43.58 top=82.07 width=56.42 height=10.67}
 
 <div style="position: absolute; left: 16.40%; top: 3.19%; width: 25.62%; height: 93.07%;">
 
@@ -212,7 +212,7 @@ replenish ATP pools is the basis of the use of creatine as a dietary supplement 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_14.png) {left=19.74 top=15.64 width=80.26 height=82.82}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_10_img_14.png) {left=19.74 top=15.64 width=80.26 height=82.82}
 
 <div style="position: absolute; left: 17.14%; top: 1.21%; width: 80.20%; height: 16.83%;">
 
@@ -227,7 +227,7 @@ by a rather small set of carriers. Some activated carriers in metabolism present
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_15.png) {left=32.07 top=1.64 width=67.93 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_11_img_15.png) {left=32.07 top=1.64 width=67.93 height=94.07}
 
 <div style="position: absolute; left: 15.10%; top: 12.10%; width: 13.55%; height: 12.87%;">
 
@@ -247,7 +247,7 @@ Non-coenzyme vitamins
 
 </div>
 
-![](images/slide_12_img_16.png) {left=18.69 top=17.73 width=81.31 height=61.25}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_12_img_16.png) {left=18.69 top=17.73 width=81.31 height=61.25}
 
 </div>
 
@@ -255,7 +255,7 @@ Non-coenzyme vitamins
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_17.png) {left=47.61 top=0.00 width=52.39 height=60.62}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_13_img_17.png) {left=47.61 top=0.00 width=52.39 height=60.62}
 
 <div style="position: absolute; left: 17.88%; top: 2.53%; width: 32.12%; height: 60.62%;">
 
@@ -277,7 +277,7 @@ Yeast also prefers to grow using the aerobic, mitochondrial pathway. However, if
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_18.png) {left=27.68 top=2.96 width=72.32 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_14_img_18.png) {left=27.68 top=2.96 width=72.32 height=94.07}
 
 </div>
 
@@ -331,7 +331,7 @@ Everything starts with glucose uptake in small intestine. Large molecules in foo
 
 </div>
 
-![](images/slide_17_img_19.png) {left=39.28 top=52.04 width=44.03 height=47.96}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_17_img_19.png) {left=39.28 top=52.04 width=44.03 height=47.96}
 
 </div>
 
@@ -339,7 +339,7 @@ Everything starts with glucose uptake in small intestine. Large molecules in foo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_20.png) {left=19.82 top=0.00 width=37.50 height=31.10}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_18_img_20.png) {left=19.82 top=0.00 width=37.50 height=31.10}
 
 <div style="position: absolute; left: 60.02%; top: 2.20%; width: 36.57%; height: 37.63%;">
 
@@ -363,27 +363,27 @@ GLUT2 → pancreas & liver only become active transporters when glucose is abund
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_21.png) {left=31.78 top=10.45 width=19.14 height=63.53}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_21.png) {left=31.78 top=10.45 width=19.14 height=63.53}
 
-![](images/slide_20_img_22.png) {left=18.11 top=7.91 width=13.67 height=11.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_22.png) {left=18.11 top=7.91 width=13.67 height=11.33}
 
-![](images/slide_20_img_23.png) {left=20.72 top=41.04 width=11.07 height=12.90}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_23.png) {left=20.72 top=41.04 width=11.07 height=12.90}
 
-![](images/slide_20_img_24.png) {left=21.97 top=57.22 width=9.81 height=13.97}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_24.png) {left=21.97 top=57.22 width=9.81 height=13.97}
 
-![](images/slide_20_img_25.png) {left=63.35 top=7.91 width=17.47 height=84.17}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_25.png) {left=63.35 top=7.91 width=17.47 height=84.17}
 
-![](images/slide_20_img_26.png) {left=27.75 top=73.98 width=31.74 height=23.91}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_26.png) {left=27.75 top=73.98 width=31.74 height=23.91}
 
-![](images/slide_20_img_27.png) {left=80.82 top=14.27 width=14.54 height=11.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_27.png) {left=80.82 top=14.27 width=14.54 height=11.33}
 
-![](images/slide_20_img_28.png) {left=80.82 top=30.20 width=9.81 height=11.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_28.png) {left=80.82 top=30.20 width=9.81 height=11.33}
 
-![](images/slide_20_img_29.png) {left=80.82 top=44.93 width=9.81 height=10.13}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_29.png) {left=80.82 top=44.93 width=9.81 height=10.13}
 
-![](images/slide_20_img_30.png) {left=80.82 top=60.01 width=7.13 height=15.78}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_30.png) {left=80.82 top=60.01 width=7.13 height=15.78}
 
-![](images/slide_20_img_31.png) {left=80.82 top=80.10 width=7.13 height=9.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_31.png) {left=80.82 top=80.10 width=7.13 height=9.07}
 
 <div style="position: absolute; left: 33.39%; top: 1.04%; width: 15.87%; height: 6.87%;">
 
@@ -403,7 +403,7 @@ Stage 2
 
 </div>
 
-![](images/slide_20_img_32.png) {left=17.80 top=24.29 width=11.90 height=11.70}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_20_img_32.png) {left=17.80 top=24.29 width=11.90 height=11.70}
 
 </div>
 
@@ -422,7 +422,7 @@ groups, and it is not a substrate for glucose transporters.
 
 </div>
 
-![](images/slide_21_img_33.png) {left=66.89 top=29.91 width=32.00 height=40.18}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_21_img_33.png) {left=66.89 top=29.91 width=32.00 height=40.18}
 
 <div style="position: absolute; left: 64.67%; top: 66.89%; width: 34.23%; height: 31.36%;">
 
@@ -436,7 +436,7 @@ Hexokinase, like adenylate kinase and all other kinases, requires Mg2+ (or anoth
 
 </div>
 
-![](images/slide_21_img_34.png) {left=15.70 top=32.86 width=48.92 height=25.69}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_21_img_34.png) {left=15.70 top=32.86 width=48.92 height=25.69}
 
 </div>
 
@@ -460,7 +460,7 @@ Each half also binds glucose and ADP, but the N-terminal domains of I and III ar
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_35.png) {left=33.10 top=2.19 width=66.90 height=95.63}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_23_img_35.png) {left=33.10 top=2.19 width=66.90 height=95.63}
 
 <div style="position: absolute; left: 17.37%; top: 47.08%; width: 34.86%; height: 59.08%;">
 
@@ -493,9 +493,9 @@ Mechanism of human hexokinase I.
 
 </div>
 
-![](images/slide_24_img_36.png) {left=28.69 top=13.05 width=59.92 height=32.65}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_24_img_36.png) {left=28.69 top=13.05 width=59.92 height=32.65}
 
-![](images/slide_24_img_37.png) {left=16.89 top=45.71 width=31.98 height=50.01}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_24_img_37.png) {left=16.89 top=45.71 width=31.98 height=50.01}
 
 <div style="position: absolute; left: 52.79%; top: 51.05%; width: 52.97%; height: 44.67%;">
 
@@ -512,7 +512,7 @@ Rabbit phosphoglucose isomerase with bound 6-phosphogluconic acid (1DQR).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_38.png) {left=60.46 top=2.96 width=39.54 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_25_img_38.png) {left=60.46 top=2.96 width=39.54 height=94.07}
 
 <div style="position: absolute; left: 15.28%; top: 1.21%; width: 43.25%; height: 94.07%;">
 
@@ -536,9 +536,9 @@ It has been proposed that the mechanism of PGI requires the enzyme to open the G
 
 </div>
 
-![](images/slide_26_img_39.png) {left=25.99 top=13.71 width=45.81 height=29.75}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_26_img_39.png) {left=25.99 top=13.71 width=45.81 height=29.75}
 
-![](images/slide_26_img_40.png) {left=16.07 top=46.75 width=37.02 height=53.25}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_26_img_40.png) {left=16.07 top=46.75 width=37.02 height=53.25}
 
 <div style="position: absolute; left: 53.09%; top: 46.75%; width: 45.81%; height: 51.16%;">
 
@@ -555,7 +555,7 @@ E. Coli phosphofructokinase with bound F1,6-bisphosphate and ADP products (1PFK)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_41.png) {left=60.57 top=0.00 width=39.43 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_27_img_41.png) {left=60.57 top=0.00 width=39.43 height=94.07}
 
 <div style="position: absolute; left: 16.40%; top: 1.87%; width: 44.17%; height: 96.37%;">
 
@@ -577,11 +577,11 @@ One important allosteric activator of eukaryotic (not prokaryotic) PFK is fructo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_42.png) {left=15.78 top=0.00 width=26.23 height=44.60}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_28_img_42.png) {left=15.78 top=0.00 width=26.23 height=44.60}
 
-![](images/slide_28_img_43.png) {left=44.85 top=-0.77 width=27.24 height=41.26}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_28_img_43.png) {left=44.85 top=-0.77 width=27.24 height=41.26}
 
-![](images/slide_28_img_44.png) {left=74.94 top=-0.77 width=25.06 height=41.26}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_28_img_44.png) {left=74.94 top=-0.77 width=25.06 height=41.26}
 
 <div style="position: absolute; left: 15.52%; top: 51.38%; width: 25.06%; height: 46.53%;">
 
@@ -611,7 +611,7 @@ Figure shows the differences in orientation of the key side chains in the ADP st
 
 </div>
 
-![](images/slide_29_img_45.png) {left=18.94 top=15.04 width=77.29 height=31.11}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_29_img_45.png) {left=18.94 top=15.04 width=77.29 height=31.11}
 
 <div style="position: absolute; left: 18.94%; top: 46.15%; width: 81.06%; height: 56.26%;">
 
@@ -628,7 +628,7 @@ This is the first C-C bond cleavage within glucose on the path to complete cleav
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_46.png) {left=18.44 top=26.61 width=81.56 height=71.08}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_30_img_46.png) {left=18.44 top=26.61 width=81.56 height=71.08}
 
 <div style="position: absolute; left: 20.11%; top: 5.17%; width: 77.79%; height: 18.48%;">
 
@@ -642,7 +642,7 @@ Characteristics of the Three Classes of Aldolases (I, IA, and II) and the Organi
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_47.png) {left=46.96 top=4.28 width=52.19 height=85.74}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_31_img_47.png) {left=46.96 top=4.28 width=52.19 height=85.74}
 
 <div style="position: absolute; left: 16.77%; top: 3.85%; width: 28.78%; height: 90.43%;">
 
@@ -660,9 +660,9 @@ Dihydroxyacetone phosphate enamine intermediate in fructose-1,6-bisphosphate ald
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_48.png) {left=47.09 top=17.05 width=52.91 height=74.37}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_32_img_48.png) {left=47.09 top=17.05 width=52.91 height=74.37}
 
-![](images/slide_32_img_49.png) {left=16.96 top=20.35 width=27.66 height=28.71}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_32_img_49.png) {left=16.96 top=20.35 width=27.66 height=28.71}
 
 <div style="position: absolute; left: 18.07%; top: 1.87%; width: 81.93%; height: 18.48%;">
 
@@ -689,9 +689,9 @@ These enzymes proceed through a Schiff base intermediate between a reactive lysi
 
 </div>
 
-![](images/slide_33_img_50.png) {left=17.17 top=15.73 width=70.10 height=24.44}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_33_img_50.png) {left=17.17 top=15.73 width=70.10 height=24.44}
 
-![](images/slide_33_img_51.png) {left=17.17 top=41.82 width=48.11 height=55.55}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_33_img_51.png) {left=17.17 top=41.82 width=48.11 height=55.55}
 
 <div style="position: absolute; left: 69.68%; top: 45.10%; width: 28.03%; height: 52.26%;">
 
@@ -708,7 +708,7 @@ Chicken triosephosphate isomerase-phosphoglycolohydroxamate complex (1TPH).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_52.png) {left=39.23 top=0.00 width=60.77 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_34_img_52.png) {left=39.23 top=0.00 width=60.77 height=94.07}
 
 <div style="position: absolute; left: 16.03%; top: 4.51%; width: 23.39%; height: 91.75%;">
 
@@ -728,9 +728,9 @@ This is another simple isomerization reaction. Only one product, glyceraldehyde-
 
 </div>
 
-![](images/slide_35_img_53.png) {left=16.07 top=12.43 width=63.47 height=30.11}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_35_img_53.png) {left=16.07 top=12.43 width=63.47 height=30.11}
 
-![](images/slide_35_img_54.png) {left=16.07 top=42.55 width=40.58 height=51.53}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_35_img_54.png) {left=16.07 top=42.55 width=40.58 height=51.53}
 
 <div style="position: absolute; left: 63.00%; top: 49.39%; width: 37.00%; height: 47.52%;">
 
@@ -747,7 +747,7 @@ Trypanosoma cruzi glyceraldehyde-3-phosphate dehydrogenase with bound NAD and a 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_55.png) {left=15.84 top=2.96 width=57.74 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_36_img_55.png) {left=15.84 top=2.96 width=57.74 height=94.07}
 
 <div style="position: absolute; left: 40.72%; top: 64.25%; width: 59.28%; height: 35.75%;">
 
@@ -787,9 +787,9 @@ his
 
 </div>
 
-![](images/slide_37_img_56.png) {left=16.07 top=14.74 width=50.27 height=27.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_37_img_56.png) {left=16.07 top=14.74 width=50.27 height=27.00}
 
-![](images/slide_37_img_57.png) {left=17.08 top=43.39 width=41.18 height=52.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_37_img_57.png) {left=17.08 top=43.39 width=41.18 height=52.33}
 
 <div style="position: absolute; left: 60.95%; top: 45.43%; width: 39.05%; height: 52.33%;">
 
@@ -806,7 +806,7 @@ Human phosphoglycerate kinase in complex with ADP, 3PG, and magnesium trifluorid
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_58.png) {left=20.66 top=-0.00 width=79.34 height=41.74}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_38_img_58.png) {left=20.66 top=-0.00 width=79.34 height=41.74}
 
 <div style="position: absolute; left: 19.93%; top: 44.77%; width: 75.56%; height: 49.51%;">
 
@@ -826,9 +826,9 @@ An ATP has been made for each of the two 1,3-BPG molecules derived from glucose.
 
 </div>
 
-![](images/slide_39_img_59.png) {left=16.07 top=13.74 width=57.14 height=31.78}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_39_img_59.png) {left=16.07 top=13.74 width=57.14 height=31.78}
 
-![](images/slide_39_img_60.png) {left=16.07 top=45.52 width=48.83 height=48.55}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_39_img_60.png) {left=16.07 top=45.52 width=48.83 height=48.55}
 
 <div style="position: absolute; left: 69.31%; top: 40.75%; width: 29.89%; height: 55.50%;">
 
@@ -864,7 +864,7 @@ There are two types of PGMs, bisphosphoglycerate and monophosphoglycerate mutase
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_41_img_61.png) {left=16.15 top=5.93 width=35.02 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_41_img_61.png) {left=16.15 top=5.93 width=35.02 height=94.07}
 
 <div style="position: absolute; left: 50.93%; top: 4.51%; width: 49.07%; height: 95.49%;">
 
@@ -900,7 +900,7 @@ His phophorylated by 2,3-BPG (cofactor)
 
 </div>
 
-![](images/slide_42_img_62.png) {left=16.07 top=13.05 width=63.82 height=26.49}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_42_img_62.png) {left=16.07 top=13.05 width=63.82 height=26.49}
 
 <div style="position: absolute; left: 63.55%; top: 37.22%; width: 31.56%; height: 62.78%;">
 
@@ -911,7 +911,7 @@ Now you can see the rationale for reaction 8. With a simple dehydration reaction
 
 </div>
 
-![](images/slide_42_img_63.png) {left=16.07 top=37.22 width=42.13 height=54.54}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_42_img_63.png) {left=16.07 top=37.22 width=42.13 height=54.54}
 
 </div>
 
@@ -919,9 +919,9 @@ Now you can see the rationale for reaction 8. With a simple dehydration reaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_64.png) {left=19.85 top=0.00 width=80.15 height=40.15}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_43_img_64.png) {left=19.85 top=0.00 width=80.15 height=40.15}
 
-![](images/slide_43_img_65.png) {left=19.85 top=43.45 width=36.27 height=45.27}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_43_img_65.png) {left=19.85 top=43.45 width=36.27 height=45.27}
 
 <div style="position: absolute; left: 57.43%; top: 40.15%; width: 42.58%; height: 59.84%;">
 
@@ -944,11 +944,11 @@ magnesium ions at the active site.
 
 </div>
 
-![](images/slide_44_img_66.png) {left=16.07 top=13.42 width=53.42 height=25.82}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_44_img_66.png) {left=16.07 top=13.42 width=53.42 height=25.82}
 
-![](images/slide_44_img_67.png) {left=18.00 top=42.97 width=43.51 height=51.10}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_44_img_67.png) {left=18.00 top=42.97 width=43.51 height=51.10}
 
-![](images/slide_44_img_68.png) {left=72.89 top=12.39 width=27.11 height=27.88}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_44_img_68.png) {left=72.89 top=12.39 width=27.11 height=27.88}
 
 <div style="position: absolute; left: 64.48%; top: 44.44%; width: 33.97%; height: 51.10%;">
 
@@ -964,7 +964,7 @@ rabbit muscle pyruvate kinase complexed with Mn2+, K+, and pyruvate (1PKN)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_69.png) {left=19.63 top=-1.99 width=80.37 height=87.03}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_45_img_69.png) {left=19.63 top=-1.99 width=80.37 height=87.03}
 
 <div style="position: absolute; left: 17.14%; top: 43.45%; width: 25.43%; height: 54.13%;">
 
@@ -998,7 +998,7 @@ In this step, one more ATP is made for each PEP consumed (hence 2 ATPs for both 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=xYR7Hx0CvTY) {left=19.25 top=13.58 width=81.56 height=81.56}
+![youtube](xYR7Hx0CvTY) {left=19.25 top=13.58 width=81.56 height=81.56}
 
 <div style="position: absolute; left: 35.55%; top: 1.06%; width: 50.90%; height: 11.24%;">
 
@@ -1012,7 +1012,7 @@ In this step, one more ATP is made for each PEP consumed (hence 2 ATPs for both 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_70.png) {left=59.81 top=11.99 width=40.19 height=88.01}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_48_img_70.png) {left=59.81 top=11.99 width=40.19 height=88.01}
 
 <div style="position: absolute; left: 65.59%; top: 3.85%; width: 26.73%; height: 8.14%;">
 
@@ -1029,11 +1029,11 @@ The regulatory enzymes or key enzymes of glycolysis are:
 
 </div>
 
-![](images/slide_48_img_71.png) {left=38.85 top=70.20 width=22.31 height=30.35}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_48_img_71.png) {left=38.85 top=70.20 width=22.31 height=30.35}
 
-![](images/slide_48_img_72.png) {left=15.66 top=60.43 width=24.86 height=40.12}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_48_img_72.png) {left=15.66 top=60.43 width=24.86 height=40.12}
 
-![](images/slide_48_img_73.png) {left=23.27 top=28.61 width=26.73 height=26.78}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_48_img_73.png) {left=23.27 top=28.61 width=26.73 height=26.78}
 
 </div>
 
@@ -1072,9 +1072,9 @@ activates PFK. Thus glycolysis is favored.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_74.png) {left=16.19 top=0.00 width=64.69 height=50.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_51_img_74.png) {left=16.19 top=0.00 width=64.69 height=50.00}
 
-![](images/slide_51_img_75.png) {left=16.19 top=50.00 width=54.28 height=50.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_51_img_75.png) {left=16.19 top=50.00 width=54.28 height=50.00}
 
 </div>
 
@@ -1082,7 +1082,7 @@ activates PFK. Thus glycolysis is favored.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_76.png) {left=15.71 top=0.00 width=68.57 height=100.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_52_img_76.png) {left=15.71 top=0.00 width=68.57 height=100.00}
 
 <div style="position: absolute; left: 18.44%; top: 3.19%; width: 38.06%; height: 9.24%;">
 
@@ -1123,7 +1123,7 @@ Glycolysis evil twin
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_77.png) {left=68.75 top=0.00 width=28.22 height=100.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_54_img_77.png) {left=68.75 top=0.00 width=28.22 height=100.00}
 
 <div style="position: absolute; left: 18.63%; top: 2.53%; width: 45.67%; height: 95.05%;">
 
@@ -1181,7 +1181,7 @@ The lactate formed in the muscle is transported to the liver. In the liver cell 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_78.png) {left=50.00 top=0.00 width=50.00 height=75.52}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_57_img_78.png) {left=50.00 top=0.00 width=50.00 height=75.52}
 
 <div style="position: absolute; left: 18.07%; top: 0.55%; width: 31.93%; height: 95.71%;">
 
@@ -1211,7 +1211,7 @@ dehydrogenase is present in both mitochondria and cytoplasm.
 
 </div>
 
-![](images/slide_58_img_79.png) {left=8.53 top=2.85 width=40.83 height=50.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_58_img_79.png) {left=8.53 top=2.85 width=40.83 height=50.00}
 
 <div style="position: absolute; left: 15.76%; top: 67.43%; width: 82.37%; height: 31.05%;">
 
@@ -1226,9 +1226,9 @@ available in the cytoplasm by the LDH reaction.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_80.png) {left=17.21 top=0.00 width=23.07 height=98.48}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_59_img_80.png) {left=17.21 top=0.00 width=23.07 height=98.48}
 
-![](images/slide_59_img_81.png) {left=69.69 top=0.00 width=30.31 height=31.48}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_59_img_81.png) {left=69.69 top=0.00 width=30.31 height=31.48}
 
 <div style="position: absolute; left: 46.62%; top: 8.31%; width: 23.07%; height: 14.86%;">
 
@@ -1273,7 +1273,7 @@ What to do next?
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_82.png) {left=39.85 top=0.00 width=59.48 height=93.33}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_61_img_82.png) {left=39.85 top=0.00 width=59.48 height=93.33}
 
 <div style="position: absolute; left: 17.20%; top: 1.90%; width: 23.88%; height: 91.74%;">
 
@@ -1289,7 +1289,7 @@ Pyruvate occupies an important junction between various metabolic pathways. It m
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_83.png) {left=47.81 top=0.00 width=52.19 height=55.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_62_img_83.png) {left=47.81 top=0.00 width=52.19 height=55.00}
 
 <div style="position: absolute; left: 17.88%; top: 0.55%; width: 26.92%; height: 9.57%;">
 
@@ -1327,7 +1327,7 @@ Of course, in the presence of oxygen, the pyruvate produced from glycolysis in y
 
 </div>
 
-![](images/slide_63_img_84.png) {left=50.00 top=-0.00 width=50.15 height=28.83}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_63_img_84.png) {left=50.00 top=-0.00 width=50.15 height=28.83}
 
 <div style="position: absolute; left: 19.44%; top: 7.72%; width: 26.60%; height: 13.39%;">
 
@@ -1341,7 +1341,7 @@ Of course, in the presence of oxygen, the pyruvate produced from glycolysis in y
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_85.png) {left=65.32 top=0.00 width=34.68 height=39.38}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_64_img_85.png) {left=65.32 top=0.00 width=34.68 height=39.38}
 
 <div style="position: absolute; left: 75.45%; top: 18.37%; width: 16.52%; height: 6.60%;">
 
@@ -1367,7 +1367,7 @@ Notably, animal anaerobic metabolism can only be sustained for short periods due
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_86.png) {left=16.70 top=3.29 width=41.28 height=28.05}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_65_img_86.png) {left=16.70 top=3.29 width=41.28 height=28.05}
 
 <div style="position: absolute; left: 59.84%; top: 12.76%; width: 37.69%; height: 82.45%;">
 
@@ -1381,9 +1381,9 @@ The reaction is reversible with the ΔG0 for conversion of pyruvate to lactate o
 
 </div>
 
-![](images/slide_65_img_87.png) {left=17.74 top=30.89 width=39.20 height=38.22}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_65_img_87.png) {left=17.74 top=30.89 width=39.20 height=38.22}
 
-![](images/slide_65_img_88.png) {left=27.07 top=69.11 width=30.91 height=30.89}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_65_img_88.png) {left=27.07 top=69.11 width=30.91 height=30.89}
 
 </div>
 
@@ -1391,9 +1391,9 @@ The reaction is reversible with the ΔG0 for conversion of pyruvate to lactate o
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_89.png) {left=18.65 top=2.30 width=25.60 height=49.77}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_66_img_89.png) {left=18.65 top=2.30 width=25.60 height=49.77}
 
-![](images/slide_66_img_90.png) {left=63.24 top=2.30 width=27.11 height=52.70}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_66_img_90.png) {left=63.24 top=2.30 width=27.11 height=52.70}
 
 <div style="position: absolute; left: 19.00%; top: 53.36%; width: 80.20%; height: 44.89%;">
 
@@ -1445,7 +1445,7 @@ The PDC and citric acid cycle reactions occur in the mitochondrial matrix. Cytop
 
 </div>
 
-![](images/slide_68_img_91.png) {left=16.07 top=19.46 width=41.55 height=64.21}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_68_img_91.png) {left=16.07 top=19.46 width=41.55 height=64.21}
 
 <div style="position: absolute; left: 57.62%; top: -0.00%; width: 42.38%; height: 100.00%;">
 
@@ -1459,7 +1459,7 @@ The E. Coli complex has a molecular weight of almost 4 million with at least 16 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_92.png) {left=28.00 top=0.00 width=72.00 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_69_img_92.png) {left=28.00 top=0.00 width=72.00 height=94.07}
 
 </div>
 
@@ -1467,11 +1467,11 @@ The E. Coli complex has a molecular weight of almost 4 million with at least 16 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_70_img_93.png) {left=15.12 top=2.96 width=48.44 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_70_img_93.png) {left=15.12 top=2.96 width=48.44 height=94.07}
 
-![](images/slide_70_img_94.png) {left=56.10 top=0.00 width=43.90 height=30.10}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_70_img_94.png) {left=56.10 top=0.00 width=43.90 height=30.10}
 
-![](images/slide_70_img_95.png) {left=72.84 top=36.03 width=27.16 height=63.97}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_70_img_95.png) {left=72.84 top=36.03 width=27.16 height=63.97}
 
 <div style="position: absolute; left: 42.84%; top: 4.75%; width: 4.01%; height: 8.38%;">
 
@@ -1497,7 +1497,7 @@ The E. Coli complex has a molecular weight of almost 4 million with at least 16 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=EuvUOxHmX7I) {left=17.36 top=10.21 width=82.64 height=82.64}
+![youtube](EuvUOxHmX7I) {left=17.36 top=10.21 width=82.64 height=82.64}
 
 </div>
 
@@ -1523,7 +1523,7 @@ Getting energy in aerobic conditions
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_96.png) {left=48.89 top=0.00 width=50.34 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_73_img_96.png) {left=48.89 top=0.00 width=50.34 height=94.07}
 
 <div style="position: absolute; left: 17.14%; top: 7.15%; width: 30.08%; height: 88.45%;">
 
@@ -1541,7 +1541,7 @@ pathways
 
 </div>
 
-![](images/slide_73_img_97.png) {left=64.56 top=42.50 width=18.98 height=14.99}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_73_img_97.png) {left=64.56 top=42.50 width=18.98 height=14.99}
 
 </div>
 
@@ -1567,7 +1567,7 @@ Why is this pathway cyclic and not linear, as we have seen for glycolysis? A sim
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_75_img_98.png) {left=16.33 top=2.96 width=82.62 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_75_img_98.png) {left=16.33 top=2.96 width=82.62 height=94.07}
 
 </div>
 
@@ -1575,9 +1575,9 @@ Why is this pathway cyclic and not linear, as we have seen for glycolysis? A sim
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_99.png) {left=21.72 top=8.80 width=33.78 height=62.27}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_76_img_99.png) {left=21.72 top=8.80 width=33.78 height=62.27}
 
-![](images/slide_76_img_100.png) {left=64.02 top=8.80 width=33.02 height=62.27}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_76_img_100.png) {left=64.02 top=8.80 width=33.02 height=62.27}
 
 <div style="position: absolute; left: 22.52%; top: 74.70%; width: 30.82%; height: 16.50%;">
 
@@ -1597,7 +1597,7 @@ Influx of TCA cycle intermediates
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_101.png) {left=56.50 top=0.00 width=43.50 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_77_img_101.png) {left=56.50 top=0.00 width=43.50 height=94.07}
 
 <div style="position: absolute; left: 17.88%; top: 3.85%; width: 35.27%; height: 26.73%;">
 
@@ -1630,9 +1630,9 @@ Arsenite (toxic)
 
 </div>
 
-![](images/slide_78_img_102.png) {left=16.07 top=16.44 width=49.52 height=28.59}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_78_img_102.png) {left=16.07 top=16.44 width=49.52 height=28.59}
 
-![](images/slide_78_img_103.png) {left=17.45 top=50.00 width=32.55 height=46.37}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_78_img_103.png) {left=17.45 top=50.00 width=32.55 height=46.37}
 
 <div style="position: absolute; left: 56.87%; top: 48.73%; width: 41.21%; height: 46.37%;">
 
@@ -1661,9 +1661,9 @@ animated gif of the conformational changes between the citrate-bound version (op
 
 </div>
 
-![](images/slide_79_img_104.png) {left=17.38 top=32.56 width=39.48 height=64.47}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_79_img_104.png) {left=17.38 top=32.56 width=39.48 height=64.47}
 
-![](images/slide_79_img_105.png) {left=58.89 top=31.20 width=39.82 height=63.83}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_79_img_105.png) {left=58.89 top=31.20 width=39.82 height=63.83}
 
 </div>
 
@@ -1671,7 +1671,7 @@ animated gif of the conformational changes between the citrate-bound version (op
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_80_img_106.png) {left=53.88 top=1.64 width=46.12 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_80_img_106.png) {left=53.88 top=1.64 width=46.12 height=94.07}
 
 <div style="position: absolute; left: 16.03%; top: 5.17%; width: 33.97%; height: 92.41%;">
 
@@ -1694,9 +1694,9 @@ However, body can reverse this step by another enzyme, ATP-citrate lyase.
 
 </div>
 
-![](images/slide_81_img_107.png) {left=16.39 top=11.09 width=64.07 height=20.51}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_81_img_107.png) {left=16.39 top=11.09 width=64.07 height=20.51}
 
-![](images/slide_81_img_108.png) {left=16.39 top=31.60 width=35.24 height=42.19}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_81_img_108.png) {left=16.39 top=31.60 width=35.24 height=42.19}
 
 <div style="position: absolute; left: 55.41%; top: 2.47%; width: 19.65%; height: 7.48%;">
 
@@ -1722,7 +1722,7 @@ the chemical rationale for this reaction is to move an OH to a beta position, wh
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_109.png) {left=16.13 top=0.00 width=49.15 height=61.85}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_82_img_109.png) {left=16.13 top=0.00 width=49.15 height=61.85}
 
 <div style="position: absolute; left: 16.13%; top: 60.73%; width: 45.14%; height: 39.27%;">
 
@@ -1750,7 +1750,7 @@ This cis-aconitate intermediate in the interconversion of citrate and isocitrate
 
 </div>
 
-![](images/slide_83_img_110.png) {left=16.07 top=13.01 width=57.96 height=21.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_83_img_110.png) {left=16.07 top=13.01 width=57.96 height=21.07}
 
 <div style="position: absolute; left: 16.07%; top: 34.08%; width: 62.35%; height: 7.48%;">
 
@@ -1766,9 +1766,9 @@ There are two forms: a cytoplasmic (NADP+) form and a mitochondrial (NAD+ ) form
 
 </div>
 
-![](images/slide_83_img_111.png) {left=16.07 top=41.56 width=24.96 height=37.37}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_83_img_111.png) {left=16.07 top=41.56 width=24.96 height=37.37}
 
-![](images/slide_83_img_112.png) {left=41.03 top=41.93 width=26.62 height=36.64}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_83_img_112.png) {left=41.03 top=41.93 width=26.62 height=36.64}
 
 <div style="position: absolute; left: 16.07%; top: 77.69%; width: 24.52%; height: 23.04%;">
 
@@ -1788,7 +1788,7 @@ There are two forms: a cytoplasmic (NADP+) form and a mitochondrial (NAD+ ) form
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_84_img_113.png) {left=16.86 top=0.00 width=42.95 height=73.11}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_84_img_113.png) {left=16.86 top=0.00 width=42.95 height=73.11}
 
 <div style="position: absolute; left: 16.86%; top: 76.82%; width: 32.81%; height: 11.37%;">
 
@@ -1796,9 +1796,9 @@ Plausible mechanism of isocitrate dehydrogenase
 
 </div>
 
-![](images/slide_84_img_114.png) {left=68.47 top=-0.18 width=31.98 height=50.18}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_84_img_114.png) {left=68.47 top=-0.18 width=31.98 height=50.18}
 
-![](images/slide_84_img_115.png) {left=67.19 top=55.08 width=32.81 height=44.92}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_84_img_115.png) {left=67.19 top=55.08 width=32.81 height=44.92}
 
 <div style="position: absolute; left: 49.67%; top: 60.31%; width: 17.62%; height: 34.47%;">
 
@@ -1820,7 +1820,7 @@ Plausible mechanism of isocitrate dehydrogenase
 
 </div>
 
-![](images/slide_85_img_116.png) {left=16.07 top=14.56 width=47.84 height=24.58}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_85_img_116.png) {left=16.07 top=14.56 width=47.84 height=24.58}
 
 <div style="position: absolute; left: 16.60%; top: 51.79%; width: 47.84%; height: 7.48%;">
 
@@ -1828,7 +1828,7 @@ Plausible mechanism of isocitrate dehydrogenase
 
 </div>
 
-![](images/slide_85_img_117.png) {left=16.60 top=63.74 width=49.33 height=28.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_85_img_117.png) {left=16.60 top=63.74 width=49.33 height=28.57}
 
 <div style="position: absolute; left: 66.56%; top: 5.03%; width: 31.73%; height: 36.47%;">
 
@@ -1848,9 +1848,9 @@ This is the first step in which the energy change in the cycle is explicitly cap
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_86_img_118.png) {left=16.27 top=25.39 width=36.58 height=58.96}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_86_img_118.png) {left=16.27 top=25.39 width=36.58 height=58.96}
 
-![](images/slide_86_img_119.png) {left=52.85 top=34.24 width=43.82 height=48.41}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_86_img_119.png) {left=52.85 top=34.24 width=43.82 height=48.41}
 
 <div style="position: absolute; left: 61.42%; top: 82.65%; width: 32.81%; height: 15.26%;">
 
@@ -1876,7 +1876,7 @@ Succinyl-CoA synthases have two subunits, α and β. The enzyme in E. coli is a 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_87_img_120.png) {left=17.07 top=1.71 width=43.79 height=69.75}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_87_img_120.png) {left=17.07 top=1.71 width=43.79 height=69.75}
 
 <div style="position: absolute; left: 56.21%; top: 3.83%; width: 43.79%; height: 7.48%;">
 
@@ -1884,7 +1884,7 @@ Abbreviated mechanism for succinyl-CoA synthase
 
 </div>
 
-![](images/slide_87_img_121.png) {left=16.08 top=72.94 width=51.11 height=27.06}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_87_img_121.png) {left=16.08 top=72.94 width=51.11 height=27.06}
 
 <div style="position: absolute; left: 67.19%; top: 69.17%; width: 31.35%; height: 30.83%;">
 
@@ -1919,9 +1919,9 @@ succinate + FAD ↔ fumarate + FADH2
 
 </div>
 
-![](images/slide_88_img_122.png) {left=15.73 top=11.16 width=38.06 height=17.70}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_88_img_122.png) {left=15.73 top=11.16 width=38.06 height=17.70}
 
-![](images/slide_88_img_123.png) {left=15.73 top=40.99 width=38.96 height=55.53}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_88_img_123.png) {left=15.73 top=40.99 width=38.96 height=55.53}
 
 <div style="position: absolute; left: 58.60%; top: 79.93%; width: 32.81%; height: 15.26%;">
 
@@ -1941,7 +1941,7 @@ The enzyme is yet another step in closing the cycle to reform oxaloacetate. It i
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_89_img_124.png) {left=18.18 top=2.96 width=43.90 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_89_img_124.png) {left=18.18 top=2.96 width=43.90 height=94.07}
 
 <div style="position: absolute; left: 60.95%; top: 0.00%; width: 37.82%; height: 69.73%;">
 
@@ -1981,9 +1981,9 @@ fumarate + H2O ↔ L-malate
 
 </div>
 
-![](images/slide_90_img_125.png) {left=14.18 top=9.78 width=39.72 height=20.46}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_90_img_125.png) {left=14.18 top=9.78 width=39.72 height=20.46}
 
-![](images/slide_90_img_126.png) {left=15.48 top=42.30 width=26.99 height=50.51}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_90_img_126.png) {left=15.48 top=42.30 width=26.99 height=50.51}
 
 <div style="position: absolute; left: 44.93%; top: 80.11%; width: 51.28%; height: 7.48%;">
 
@@ -2011,7 +2011,7 @@ The tetramer consists solely of α-helices and random coils, featuring two disti
 
 </div>
 
-![](images/slide_91_img_127.png) {left=15.88 top=0.00 width=35.52 height=54.81}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_91_img_127.png) {left=15.88 top=0.00 width=35.52 height=54.81}
 
 <div style="position: absolute; left: 15.88%; top: 69.11%; width: 32.81%; height: 11.37%;">
 
@@ -2025,7 +2025,7 @@ The tetramer consists solely of α-helices and random coils, featuring two disti
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_92_img_128.png) {left=21.48 top=3.34 width=66.30 height=81.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_92_img_128.png) {left=21.48 top=3.34 width=66.30 height=81.57}
 
 <div style="position: absolute; left: 43.31%; top: 90.49%; width: 32.81%; height: 7.48%;">
 
@@ -2045,9 +2045,9 @@ Mechanism for fumarase
 
 </div>
 
-![](images/slide_93_img_129.png) {left=17.19 top=14.73 width=41.31 height=22.55}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_93_img_129.png) {left=17.19 top=14.73 width=41.31 height=22.55}
 
-![](images/slide_93_img_130.png) {left=16.15 top=46.38 width=41.94 height=50.80}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_93_img_130.png) {left=16.15 top=46.38 width=41.94 height=50.80}
 
 <div style="position: absolute; left: 61.71%; top: 85.81%; width: 32.81%; height: 11.37%;">
 
@@ -2067,9 +2067,9 @@ This last reaction of the citric acid cycle produces oxaloacetate, the starting 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_94_img_131.png) {left=24.15 top=3.54 width=63.16 height=42.55}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_94_img_131.png) {left=24.15 top=3.54 width=63.16 height=42.55}
 
-![](images/slide_94_img_132.png) {left=18.31 top=57.65 width=36.61 height=39.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_94_img_132.png) {left=18.31 top=57.65 width=36.61 height=39.07}
 
 <div style="position: absolute; left: 62.16%; top: 69.56%; width: 32.81%; height: 15.26%;">
 
@@ -2089,7 +2089,7 @@ Abbreviated mechanism for malate dehydrogenase. Note that the hydride transferre
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_95_img_133.png) {left=16.43 top=1.73 width=41.50 height=59.14}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_95_img_133.png) {left=16.43 top=1.73 width=41.50 height=59.14}
 
 <div style="position: absolute; left: 16.43%; top: 62.85%; width: 36.83%; height: 15.26%;">
 
@@ -2109,7 +2109,7 @@ The displayed surface is the electrostatic surface potential map of the enzyme. 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=aV-kI_ep1Rk) {left=15.07 top=3.82 width=84.93 height=84.93}
+![youtube](aV-kI_ep1Rk) {left=15.07 top=3.82 width=84.93 height=84.93}
 
 </div>
 
@@ -2135,9 +2135,9 @@ Getting energy in aerobic conditions
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_98_img_134.png) {left=15.70 top=0.00 width=58.50 height=86.36}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_98_img_134.png) {left=15.70 top=0.00 width=58.50 height=86.36}
 
-![](images/slide_98_img_135.png) {left=50.00 top=50.02 width=50.00 height=49.98}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_98_img_135.png) {left=50.00 top=50.02 width=50.00 height=49.98}
 
 <div style="position: absolute; left: 13.29%; top: 4.14%; width: 15.92%; height: 10.60%;">
 
@@ -2145,7 +2145,7 @@ Mitochondrion
 
 </div>
 
-![](images/slide_98_img_136.png) {left=72.34 top=8.58 width=27.66 height=30.19}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_98_img_136.png) {left=72.34 top=8.58 width=27.66 height=30.19}
 
 </div>
 
@@ -2203,7 +2203,7 @@ Under aerobic conditions, we continually breathe one of the best oxidizing agent
 
 </div>
 
-![](images/slide_101_img_137.png) {left=17.37 top=1.25 width=29.62 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_101_img_137.png) {left=17.37 top=1.25 width=29.62 height=94.07}
 
 </div>
 
@@ -2211,7 +2211,7 @@ Under aerobic conditions, we continually breathe one of the best oxidizing agent
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_102_img_138.png) {left=15.59 top=0.00 width=53.57 height=94.07}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_102_img_138.png) {left=15.59 top=0.00 width=53.57 height=94.07}
 
 <div style="position: absolute; left: 69.16%; top: 0.88%; width: 30.84%; height: 95.38%;">
 
@@ -2233,9 +2233,9 @@ Can produce ROS
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_103_img_139.png) {left=21.60 top=0.00 width=78.40 height=72.79}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_103_img_139.png) {left=21.60 top=0.00 width=78.40 height=72.79}
 
-![](images/slide_103_img_140.png) {left=22.43 top=77.90 width=76.74 height=10.66}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_103_img_140.png) {left=22.43 top=77.90 width=76.74 height=10.66}
 
 </div>
 
@@ -2243,7 +2243,7 @@ Can produce ROS
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_104_img_141.png) {left=18.35 top=0.00 width=81.65 height=51.38}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_104_img_141.png) {left=18.35 top=0.00 width=81.65 height=51.38}
 
 <div style="position: absolute; left: 18.07%; top: 54.02%; width: 80.01%; height: 8.38%;">
 
@@ -2251,11 +2251,11 @@ Can produce ROS
 
 </div>
 
-![](images/slide_104_img_142.png) {left=79.14 top=72.15 width=16.03 height=26.76}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_104_img_142.png) {left=79.14 top=72.15 width=16.03 height=26.76}
 
-![](images/slide_104_img_143.png) {left=17.26 top=61.26 width=56.63 height=13.57}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_104_img_143.png) {left=17.26 top=61.26 width=56.63 height=13.57}
 
-![](images/slide_104_img_144.png) {left=17.26 top=75.61 width=21.95 height=23.30}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_104_img_144.png) {left=17.26 top=75.61 width=21.95 height=23.30}
 
 <div style="position: absolute; left: 40.70%; top: 83.07%; width: 36.94%; height: 8.38%;">
 
@@ -2281,7 +2281,7 @@ Summary of the flow of electrons and protons through the four complexes of the r
 
 </div>
 
-![](images/slide_105_img_145.png) {left=27.85 top=-0.00 width=72.15 height=57.99}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_105_img_145.png) {left=27.85 top=-0.00 width=72.15 height=57.99}
 
 </div>
 
@@ -2289,9 +2289,9 @@ Summary of the flow of electrons and protons through the four complexes of the r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_106_img_146.png) {left=16.11 top=50.00 width=53.42 height=50.00}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_106_img_146.png) {left=16.11 top=50.00 width=53.42 height=50.00}
 
-![](images/slide_106_img_147.png) {left=70.79 top=53.62 width=29.21 height=17.89}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_106_img_147.png) {left=70.79 top=53.62 width=29.21 height=17.89}
 
 <div style="position: absolute; left: 70.79%; top: 92.22%; width: 29.21%; height: 7.78%;">
 
@@ -2299,7 +2299,7 @@ Fe/S Clusters in Complex I
 
 </div>
 
-![](images/slide_106_img_148.png) {left=77.24 top=72.92 width=16.31 height=17.89}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_106_img_148.png) {left=77.24 top=72.92 width=16.31 height=17.89}
 
 <div style="position: absolute; left: 16.11%; top: 0.00%; width: 42.61%; height: 7.78%;">
 
@@ -2307,9 +2307,9 @@ Fe/S Clusters in Complex I
 
 </div>
 
-![](images/slide_106_img_149.png) {left=16.11 top=7.78 width=37.58 height=40.80}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_106_img_149.png) {left=16.11 top=7.78 width=37.58 height=40.80}
 
-![](images/slide_106_img_150.png) {left=54.47 top=6.72 width=34.53 height=42.91}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_106_img_150.png) {left=54.47 top=6.72 width=34.53 height=42.91}
 
 <div style="position: absolute; left: 74.08%; top: 33.94%; width: 25.92%; height: 11.37%;">
 
@@ -2329,7 +2329,7 @@ matrix
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_107_img_151.png) {left=17.68 top=22.17 width=46.43 height=77.83}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_107_img_151.png) {left=17.68 top=22.17 width=46.43 height=77.83}
 
 <div style="position: absolute; left: 65.22%; top: 26.08%; width: 32.81%; height: 73.92%;">
 
@@ -2358,9 +2358,9 @@ The conformation of the Lys-204M/Glu-123M can modulate the pKa of the middle Lys
 
 </div>
 
-![](images/slide_108_img_152.png) {left=17.23 top=16.04 width=38.29 height=60.60}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_108_img_152.png) {left=17.23 top=16.04 width=38.29 height=60.60}
 
-![](images/slide_108_img_153.png) {left=17.94 top=36.16 width=5.78 height=9.15}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_108_img_153.png) {left=17.94 top=36.16 width=5.78 height=9.15}
 
 <div style="position: absolute; left: 15.95%; top: 78.30%; width: 32.81%; height: 11.37%;">
 
@@ -2382,9 +2382,9 @@ Proton and electron transfer are coupled processes: the protons in Complex III a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_109_img_154.png) {left=60.40 top=-0.00 width=39.60 height=56.25}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_109_img_154.png) {left=60.40 top=-0.00 width=39.60 height=56.25}
 
-![](images/slide_109_img_155.png) {left=16.52 top=0.00 width=43.88 height=37.25}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_109_img_155.png) {left=16.52 top=0.00 width=43.88 height=37.25}
 
 <div style="position: absolute; left: 17.33%; top: 56.25%; width: 81.31%; height: 43.76%;">
 
@@ -2404,15 +2404,15 @@ The two electrons from each UQH2 take different paths. One electron moves to a R
 
 </div>
 
-![](images/slide_110_img_156.png) {left=17.44 top=9.22 width=44.79 height=12.22}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_110_img_156.png) {left=17.44 top=9.22 width=44.79 height=12.22}
 
-![](images/slide_110_img_157.png) {left=71.22 top=62.16 width=19.28 height=37.84}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_110_img_157.png) {left=71.22 top=62.16 width=19.28 height=37.84}
 
-![](images/slide_110_img_158.png) {left=17.44 top=66.44 width=31.30 height=33.56}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_110_img_158.png) {left=17.44 top=66.44 width=31.30 height=33.56}
 
-![](images/slide_110_img_159.png) {left=48.74 top=66.44 width=22.48 height=33.56}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_110_img_159.png) {left=48.74 top=66.44 width=22.48 height=33.56}
 
-![](images/slide_110_img_160.png) {left=17.44 top=18.88 width=39.16 height=48.89}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_110_img_160.png) {left=17.44 top=18.88 width=39.16 height=48.89}
 
 <div style="position: absolute; left: 58.54%; top: 17.82%; width: 34.71%; height: 37.84%;">
 
@@ -2429,9 +2429,9 @@ Structures of the redox centers of bovine cytochrome c oxidase.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_111_img_161.png) {left=18.92 top=0.04 width=29.78 height=57.79}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_111_img_161.png) {left=18.92 top=0.04 width=29.78 height=57.79}
 
-![](images/slide_111_img_162.png) {left=50.99 top=2.96 width=47.35 height=52.70}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_111_img_162.png) {left=50.99 top=2.96 width=47.35 height=52.70}
 
 <div style="position: absolute; left: 18.92%; top: 55.67%; width: 81.00%; height: 43.34%;">
 
@@ -2464,9 +2464,9 @@ succinate + FAD ↔ fumarate + FADH2 ΔGo = 0 kcal/mol
 
 </div>
 
-![](images/slide_112_img_163.png) {left=15.42 top=25.40 width=58.69 height=27.81}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_112_img_163.png) {left=15.42 top=25.40 width=58.69 height=27.81}
 
-![](images/slide_112_img_164.png) {left=15.42 top=51.78 width=25.85 height=48.37}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_112_img_164.png) {left=15.42 top=51.78 width=25.85 height=48.37}
 
 <div style="position: absolute; left: 43.57%; top: 67.90%; width: 49.13%; height: 27.33%;">
 
@@ -2496,11 +2496,11 @@ FAD/FADH2 are covalently attached to the enzyme, so after one cycle of enzyme ca
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_113_img_165.png) {left=17.63 top=0.00 width=53.18 height=57.65}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_113_img_165.png) {left=17.63 top=0.00 width=53.18 height=57.65}
 
-![](images/slide_113_img_166.png) {left=17.63 top=58.04 width=30.33 height=43.31}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_113_img_166.png) {left=17.63 top=58.04 width=30.33 height=43.31}
 
-![](images/slide_113_img_167.png) {left=48.70 top=59.40 width=19.70 height=40.60}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_113_img_167.png) {left=48.70 top=59.40 width=19.70 height=40.60}
 
 <div style="position: absolute; left: 70.98%; top: 10.45%; width: 29.02%; height: 89.55%;">
 
@@ -2516,7 +2516,7 @@ Defects in Complex II are linked to rare mitochondrial diseases and certain canc
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_114_img_168.png) {left=21.59 top=1.53 width=70.06 height=68.23}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_114_img_168.png) {left=21.59 top=1.53 width=70.06 height=68.23}
 
 <div style="position: absolute; left: 21.08%; top: 70.92%; width: 73.88%; height: 7.18%;">
 
@@ -2530,9 +2530,9 @@ A mechanism for Succinate oxidation by FAD to Fumarate and FADH2
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_115_img_169.png) {left=19.04 top=1.65 width=30.96 height=53.36}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_115_img_169.png) {left=19.04 top=1.65 width=30.96 height=53.36}
 
-![](images/slide_115_img_170.png) {left=52.42 top=1.65 width=30.96 height=66.81}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_115_img_170.png) {left=52.42 top=1.65 width=30.96 height=66.81}
 
 <div style="position: absolute; left: 21.60%; top: 62.60%; width: 26.17%; height: 11.22%;">
 
@@ -2552,11 +2552,11 @@ ATP-synthase shifts the problem to dissociation state
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_116_img_171.png) {left=16.33 top=0.00 width=26.98 height=54.22}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_116_img_171.png) {left=16.33 top=0.00 width=26.98 height=54.22}
 
-![](images/slide_116_img_172.png) {left=43.83 top=4.40 width=29.77 height=41.15}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_116_img_172.png) {left=43.83 top=4.40 width=29.77 height=41.15}
 
-![](images/slide_116_img_173.png) {left=74.12 top=0.00 width=25.88 height=49.96}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_116_img_173.png) {left=74.12 top=0.00 width=25.88 height=49.96}
 
 <div style="position: absolute; left: 17.88%; top: 59.30%; width: 82.12%; height: 41.15%;">
 
@@ -2570,25 +2570,17 @@ ATP-synthase shifts the problem to dissociation state
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_117_img_174.png) {left=15.30 top=0.00 width=29.79 height=51.30}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_174.png) {left=15.30 top=0.00 width=29.79 height=51.30}
 
-![](images/slide_117_img_175.png) {left=46.28 top=2.90 width=25.53 height=40.75}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_175.png) {left=46.28 top=2.90 width=25.53 height=40.75}
 
-![](images/slide_117_img_176.png) {left=73.01 top=2.90 width=27.42 height=36.71}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_176.png) {left=73.01 top=2.90 width=27.42 height=36.71}
 
-![](images/slide_117_img_177.png) {left=15.30 top=51.30 width=27.42 height=42.08}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_177.png) {left=15.30 top=51.30 width=27.42 height=42.08}
 
-![](images/slide_117_img_178.png) {left=42.73 top=47.26 width=25.53 height=47.55}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_178.png) {left=42.73 top=47.26 width=25.53 height=47.55}
 
-![](images/slide_117_img_179.png) {left=68.26 top=47.26 width=25.53 height=42.08}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![youtube](http://www.youtube.com/watch?v=kXpzp4RDGJI) {left=20.42 top=10.21 width=79.58 height=79.58}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_117_img_179.png) {left=68.26 top=47.26 width=25.53 height=42.08}
 
 </div>
 
@@ -2596,7 +2588,7 @@ ATP-synthase shifts the problem to dissociation state
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_119_img_180.png) {left=21.28 top=0.00 width=78.72 height=82.73}
+![youtube](kXpzp4RDGJI) {left=20.42 top=10.21 width=79.58 height=79.58}
 
 </div>
 
@@ -2604,13 +2596,21 @@ ATP-synthase shifts the problem to dissociation state
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_120_img_181.png) {left=16.83 top=0.00 width=72.15 height=33.89}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_119_img_180.png) {left=21.28 top=0.00 width=78.72 height=82.73}
 
-![](images/slide_120_img_182.png) {left=15.78 top=50.00 width=20.31 height=25.19}
+</div>
 
-![](images/slide_120_img_183.png) {left=36.09 top=50.00 width=30.52 height=27.22}
+---
 
-![](images/slide_120_img_184.png) {left=66.61 top=52.17 width=32.52 height=20.85}
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_120_img_181.png) {left=16.83 top=0.00 width=72.15 height=33.89}
+
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_120_img_182.png) {left=15.78 top=50.00 width=20.31 height=25.19}
+
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_120_img_183.png) {left=36.09 top=50.00 width=30.52 height=27.22}
+
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_120_img_184.png) {left=66.61 top=52.17 width=32.52 height=20.85}
 
 <div style="position: absolute; left: 17.70%; top: 79.76%; width: 77.79%; height: 11.22%;">
 
@@ -2631,7 +2631,7 @@ to a batch of synthetic heroin that contained MPTP (1-methyl-4-phenyl-1,2,3,6-te
 
 </div>
 
-![](images/slide_121_img_185.png) {left=63.15 top=47.38 width=36.09 height=49.54}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_121_img_185.png) {left=63.15 top=47.38 width=36.09 height=49.54}
 
 <div style="position: absolute; left: 20.48%; top: 64.58%; width: 29.52%; height: 32.34%;">
 
@@ -2645,7 +2645,7 @@ Rotanone used for fishing by indigenous people <u>https://www.primitiveways.com/
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=nmoLoiFakxY) {left=21.70 top=11.73 width=76.54 height=76.54}
+![youtube](nmoLoiFakxY) {left=21.70 top=11.73 width=76.54 height=76.54}
 
 </div>
 
@@ -2693,7 +2693,7 @@ HINT: return to the slide with glycolysis and trace fate of each carbon atom by 
 
 </div>
 
-![](images/slide_125_img_186.png) {left=16.07 top=15.73 width=81.24 height=34.90}
+![](./lecture_06_bioenergetics_and_metabolism/images/slide_125_img_186.png) {left=16.07 top=15.73 width=81.24 height=34.90}
 
 </div>
 

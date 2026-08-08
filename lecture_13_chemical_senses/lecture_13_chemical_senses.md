@@ -90,7 +90,7 @@ A bit of anatomy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_4_img_1.png) {left=48.43 top=0.00 width=51.57 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_4_img_1.png) {left=48.43 top=0.00 width=51.57 height=100.00}
 
 <div style="position: absolute; left: 16.08%; top: 0.00%; width: 29.68%; height: 80.20%;">
 
@@ -108,7 +108,7 @@ A bit of anatomy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_2.png) {left=35.06 top=0.00 width=64.94 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_5_img_2.png) {left=35.06 top=0.00 width=64.94 height=100.00}
 
 </div>
 
@@ -116,7 +116,7 @@ A bit of anatomy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_3.png) {left=16.08 top=0.00 width=83.92 height=88.44}
+![](./lecture_13_chemical_senses/images/slide_6_img_3.png) {left=16.08 top=0.00 width=83.92 height=88.44}
 
 <div style="position: absolute; left: 21.88%; top: 91.62%; width: 21.83%; height: 8.38%;">
 
@@ -130,7 +130,7 @@ Longitudinal fissure
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_4.png) {left=18.53 top=0.00 width=81.47 height=60.02}
+![](./lecture_13_chemical_senses/images/slide_7_img_4.png) {left=18.53 top=0.00 width=81.47 height=60.02}
 
 </div>
 
@@ -138,7 +138,7 @@ Longitudinal fissure
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_5.png) {left=27.11 top=0.00 width=72.89 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_8_img_5.png) {left=27.11 top=0.00 width=72.89 height=100.00}
 
 </div>
 
@@ -146,7 +146,7 @@ Longitudinal fissure
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_6.png) {left=42.38 top=0.00 width=57.62 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_9_img_6.png) {left=42.38 top=0.00 width=57.62 height=100.00}
 
 <div style="position: absolute; left: 17.52%; top: 3.18%; width: 24.51%; height: 96.82%;">
 
@@ -160,7 +160,7 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_7.png) {left=31.30 top=-0.00 width=68.70 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_10_img_7.png) {left=31.30 top=-0.00 width=68.70 height=100.00}
 
 </div>
 
@@ -168,7 +168,7 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_8.png) {left=20.31 top=0.00 width=79.69 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_11_img_8.png) {left=20.31 top=0.00 width=79.69 height=100.00}
 
 </div>
 
@@ -176,7 +176,7 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_9.png) {left=16.31 top=2.37 width=83.69 height=70.97}
+![](./lecture_13_chemical_senses/images/slide_12_img_9.png) {left=16.31 top=2.37 width=83.69 height=70.97}
 
 </div>
 
@@ -184,7 +184,7 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_10.png) {left=16.28 top=0.00 width=83.72 height=98.41}
+![](./lecture_13_chemical_senses/images/slide_13_img_10.png) {left=16.28 top=0.00 width=83.72 height=98.41}
 
 </div>
 
@@ -192,11 +192,11 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_11.png) {left=17.52 top=0.00 width=35.87 height=56.28}
+![](./lecture_13_chemical_senses/images/slide_14_img_11.png) {left=17.52 top=0.00 width=35.87 height=56.28}
 
-![](images/slide_14_img_12.png) {left=64.13 top=0.00 width=35.87 height=52.71}
+![](./lecture_13_chemical_senses/images/slide_14_img_12.png) {left=64.13 top=0.00 width=35.87 height=52.71}
 
-![](images/slide_14_img_13.png) {left=63.33 top=56.71 width=35.87 height=43.29}
+![](./lecture_13_chemical_senses/images/slide_14_img_13.png) {left=63.33 top=56.71 width=35.87 height=43.29}
 
 <div style="position: absolute; left: 21.75%; top: 59.25%; width: 9.35%; height: 8.38%;">
 
@@ -222,7 +222,7 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_14.png) {left=20.01 top=0.00 width=79.99 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_15_img_14.png) {left=20.01 top=0.00 width=79.99 height=100.00}
 
 </div>
 
@@ -230,9 +230,9 @@ Cerebrospinal fluid (CSF) is produced by the choroid plexus, a specialized vascu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_16_img_15.png) {left=38.18 top=0.00 width=61.82 height=77.81}
+![](./lecture_13_chemical_senses/images/slide_16_img_15.png) {left=38.18 top=0.00 width=61.82 height=77.81}
 
-![](images/slide_16_img_16.png) {left=0.00 top=0.00 width=36.98 height=74.44}
+![](./lecture_13_chemical_senses/images/slide_16_img_16.png) {left=0.00 top=0.00 width=36.98 height=74.44}
 
 <div style="position: absolute; left: 23.06%; top: 79.60%; width: 75.73%; height: 14.03%;">
 
@@ -246,7 +246,7 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_17.png) {left=30.24 top=0.00 width=69.76 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_17_img_17.png) {left=30.24 top=0.00 width=69.76 height=100.00}
 
 </div>
 
@@ -254,7 +254,7 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_18.png) {left=16.01 top=0.00 width=83.99 height=88.26}
+![](./lecture_13_chemical_senses/images/slide_18_img_18.png) {left=16.01 top=0.00 width=83.99 height=88.26}
 
 </div>
 
@@ -262,7 +262,7 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_19.png) {left=30.72 top=0.00 width=69.28 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_19_img_19.png) {left=30.72 top=0.00 width=69.28 height=100.00}
 
 </div>
 
@@ -270,7 +270,7 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_20.png) {left=40.42 top=0.00 width=59.58 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_20_img_20.png) {left=40.42 top=0.00 width=59.58 height=100.00}
 
 </div>
 
@@ -278,9 +278,9 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_21.png) {left=0.00 top=41.48 width=35.73 height=58.52}
+![](./lecture_13_chemical_senses/images/slide_21_img_21.png) {left=0.00 top=41.48 width=35.73 height=58.52}
 
-![](images/slide_21_img_22.png) {left=35.73 top=-0.00 width=64.27 height=76.43}
+![](./lecture_13_chemical_senses/images/slide_21_img_22.png) {left=35.73 top=-0.00 width=64.27 height=76.43}
 
 </div>
 
@@ -288,9 +288,9 @@ Somatosensory cortex homunculus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_23.png) {left=38.89 top=0.00 width=61.11 height=67.09}
+![](./lecture_13_chemical_senses/images/slide_22_img_23.png) {left=38.89 top=0.00 width=61.11 height=67.09}
 
-![](images/slide_22_img_24.png) {left=0.00 top=43.60 width=38.89 height=56.40}
+![](./lecture_13_chemical_senses/images/slide_22_img_24.png) {left=0.00 top=43.60 width=38.89 height=56.40}
 
 </div>
 
@@ -310,7 +310,7 @@ Gustating the chemical
 
 </div>
 
-![](images/slide_23_img_25.png) {left=66.91 top=50.00 width=33.09 height=50.00}
+![](./lecture_13_chemical_senses/images/slide_23_img_25.png) {left=66.91 top=50.00 width=33.09 height=50.00}
 
 </div>
 
@@ -361,7 +361,7 @@ Smell greatly shapes flavor (onion tastes similar to apple without smell).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_26.png) {left=43.10 top=0.00 width=56.90 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_25_img_26.png) {left=43.10 top=0.00 width=56.90 height=100.00}
 
 <div style="position: absolute; left: 17.41%; top: 2.57%; width: 27.04%; height: 84.99%;">
 
@@ -376,7 +376,7 @@ Taste is primarily a function of the tongue, but regions of the pharynx, palate,
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_27.png) {left=56.31 top=10.58 width=43.69 height=80.22}
+![](./lecture_13_chemical_senses/images/slide_26_img_27.png) {left=56.31 top=10.58 width=43.69 height=80.22}
 
 <div style="position: absolute; left: 15.91%; top: 2.28%; width: 40.40%; height: 94.56%;">
 
@@ -390,7 +390,7 @@ The tongue, its papillae, and its taste buds. **(a)** Papillae are the taste-sen
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_28.png) {left=18.42 top=0.00 width=81.58 height=70.98}
+![](./lecture_13_chemical_senses/images/slide_27_img_28.png) {left=18.42 top=0.00 width=81.58 height=70.98}
 
 <div style="position: absolute; left: 16.58%; top: 70.52%; width: 83.42%; height: 29.48%;">
 
@@ -488,9 +488,9 @@ Insects have clear water receptors.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_29.png) {left=51.87 top=21.86 width=48.13 height=78.14}
+![](./lecture_13_chemical_senses/images/slide_30_img_29.png) {left=51.87 top=21.86 width=48.13 height=78.14}
 
-![](images/slide_30_img_30.png) {left=48.50 top=0.00 width=26.52 height=36.21}
+![](./lecture_13_chemical_senses/images/slide_30_img_30.png) {left=48.50 top=0.00 width=26.52 height=36.21}
 
 <div style="position: absolute; left: 16.41%; top: 3.76%; width: 33.59%; height: 99.35%;">
 
@@ -542,7 +542,7 @@ Response patterns depend on **specific transduction mechanisms** expressed in ea
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_31.png) {left=82.54 top=0.00 width=17.46 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_32_img_31.png) {left=82.54 top=0.00 width=17.46 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 0.49%; width: 65.79%; height: 100.00%;">
 
@@ -572,7 +572,7 @@ Example: **Sodium saccharin** tastes sweet (anion activates sweet receptors)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_32.png) {left=82.33 top=0.00 width=17.67 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_33_img_32.png) {left=82.33 top=0.00 width=17.67 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 0.49%; width: 65.58%; height: 9.79%;">
 
@@ -596,9 +596,9 @@ Likely that **multiple mechanisms together** create the perception of sourness
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_33.png) {left=82.41 top=0.00 width=17.59 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_34_img_33.png) {left=82.41 top=0.00 width=17.59 height=100.00}
 
-![](images/slide_34_img_34.png) {left=58.27 top=33.73 width=24.14 height=66.27}
+![](./lecture_13_chemical_senses/images/slide_34_img_34.png) {left=58.27 top=33.73 width=24.14 height=66.27}
 
 <div style="position: absolute; left: 13.41%; top: 0.00%; width: 52.58%; height: 69.14%;">
 
@@ -627,7 +627,7 @@ Brain receives a simple message: **“Bitter = avoid!”**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_35.png) {left=82.41 top=0.00 width=17.59 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_35_img_35.png) {left=82.41 top=0.00 width=17.59 height=100.00}
 
 <div style="position: absolute; left: 13.41%; top: 0.00%; width: 43.86%; height: 76.46%;">
 
@@ -643,9 +643,8 @@ Although they use **the same intracellular pathway**, **receptors are expressed
 
 </div>
 
-![](images/slide_35_img_36.png) {left=57.27 top=75.07 width=25.15 height=24.93}
+![](./lecture_13_chemical_senses/images/slide_35_img_36.png) {left=57.27 top=75.07 width=25.15 height=24.93}
 
-![youtube](None) {left=57.74 top=-1.39 width=24.19 height=76.46}
 
 <div style="position: absolute; left: 85.71%; top: 69.00%; width: 12.36%; height: 6.59%;">
 
@@ -659,7 +658,7 @@ Although they use **the same intracellular pathway**, **receptors are expressed
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_37.png) {left=82.41 top=0.00 width=17.59 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_36_img_37.png) {left=82.41 top=0.00 width=17.59 height=100.00}
 
 <div style="position: absolute; left: 13.41%; top: 0.00%; width: 52.58%; height: 96.63%;">
 
@@ -680,7 +679,7 @@ Loss of these genes is species-specific and evolutionary
 
 </div>
 
-![](images/slide_36_img_38.png) {left=56.27 top=35.17 width=26.15 height=26.30}
+![](./lecture_13_chemical_senses/images/slide_36_img_38.png) {left=56.27 top=35.17 width=26.15 height=26.30}
 
 <div style="position: absolute; left: 85.71%; top: 69.00%; width: 12.36%; height: 6.59%;">
 
@@ -694,7 +693,7 @@ Loss of these genes is species-specific and evolutionary
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_39.png) {left=70.60 top=0.00 width=29.40 height=55.98}
+![](./lecture_13_chemical_senses/images/slide_37_img_39.png) {left=70.60 top=0.00 width=29.40 height=55.98}
 
 <div style="position: absolute; left: 16.41%; top: 45.44%; width: 33.94%; height: 56.26%;">
 
@@ -702,7 +701,7 @@ Synsepalum dulcificum is a plant in the Sapotaceae family, native to tropical Af
 
 </div>
 
-![](images/slide_37_img_40.png) {left=16.06 top=0.00 width=33.94 height=45.44}
+![](./lecture_13_chemical_senses/images/slide_37_img_40.png) {left=16.06 top=0.00 width=33.94 height=45.44}
 
 <div style="position: absolute; left: 60.65%; top: 52.42%; width: 39.50%; height: 41.90%;">
 
@@ -716,9 +715,9 @@ Miraculin is a taste modifier, a glycoprotein extracted from the fruit of Synsep
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=HlgDJZIJ7xs) {left=55.84 top=29.02 width=67.12 height=67.12}
+![youtube](HlgDJZIJ7xs) {left=55.84 top=29.02 width=67.12 height=67.12}
 
-![youtube](http://www.youtube.com/watch?v=kHo30QC8OSM) {left=18.20 top=0.00 width=60.44 height=60.44}
+![youtube](kHo30QC8OSM) {left=18.20 top=0.00 width=60.44 height=60.44}
 
 </div>
 
@@ -726,7 +725,7 @@ Miraculin is a taste modifier, a glycoprotein extracted from the fruit of Synsep
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_41.png) {left=51.24 top=0.00 width=48.76 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_39_img_41.png) {left=51.24 top=0.00 width=48.76 height=100.00}
 
 <div style="position: absolute; left: 16.41%; top: 1.68%; width: 34.38%; height: 89.61%;">
 
@@ -835,9 +834,9 @@ Similar coding strategies exist throughout **sensory/motor systems**
 
 </div>
 
-![](images/slide_42_img_42.png) {left=57.47 top=3.18 width=17.07 height=31.56}
+![](./lecture_13_chemical_senses/images/slide_42_img_42.png) {left=57.47 top=3.18 width=17.07 height=31.56}
 
-![](images/slide_42_img_43.png) {left=75.87 top=3.18 width=22.92 height=31.56}
+![](./lecture_13_chemical_senses/images/slide_42_img_43.png) {left=75.87 top=3.18 width=22.92 height=31.56}
 
 <div style="position: absolute; left: 79.98%; top: 30.65%; width: 7.89%; height: 6.73%;">
 
@@ -872,7 +871,7 @@ PTC
 
 </div>
 
-![](images/slide_43_img_44.png) {left=32.23 top=55.85 width=45.51 height=41.18}
+![](./lecture_13_chemical_senses/images/slide_43_img_44.png) {left=32.23 top=55.85 width=45.51 height=41.18}
 
 <div style="position: absolute; left: 33.38%; top: 85.87%; width: 16.62%; height: 8.38%;">
 
@@ -904,7 +903,7 @@ Olfaction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_45.png) {left=20.11 top=0.00 width=79.89 height=58.65}
+![](./lecture_13_chemical_senses/images/slide_45_img_45.png) {left=20.11 top=0.00 width=79.89 height=58.65}
 
 <div style="position: absolute; left: 19.75%; top: 64.59%; width: 80.40%; height: 27.53%;">
 
@@ -959,9 +958,9 @@ Dogs detect molecular traces hours old
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_46.png) {left=15.77 top=0.00 width=33.20 height=94.07}
+![](./lecture_13_chemical_senses/images/slide_47_img_46.png) {left=15.77 top=0.00 width=33.20 height=94.07}
 
-![](images/slide_47_img_47.png) {left=78.36 top=0.00 width=21.64 height=65.27}
+![](./lecture_13_chemical_senses/images/slide_47_img_47.png) {left=78.36 top=0.00 width=21.64 height=65.27}
 
 <div style="position: absolute; left: 48.97%; top: 3.78%; width: 29.39%; height: 70.63%;">
 
@@ -975,7 +974,7 @@ Dogs detect molecular traces hours old
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_48.png) {left=18.25 top=0.00 width=81.75 height=90.45}
+![](./lecture_13_chemical_senses/images/slide_48_img_48.png) {left=18.25 top=0.00 width=81.75 height=90.45}
 
 </div>
 
@@ -1016,7 +1015,7 @@ Olfactory receptor neurons are **true neurons** capable of generating action pot
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_50_img_49.png) {left=50.76 top=0.00 width=49.24 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_50_img_49.png) {left=50.76 top=0.00 width=49.24 height=100.00}
 
 <div style="position: absolute; left: 17.75%; top: 3.46%; width: 32.25%; height: 96.54%;">
 
@@ -1068,7 +1067,7 @@ Knockout of key pathway proteins (e.g., **Golf**) causes **anosmia**.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_50.png) {left=20.52 top=0.00 width=75.24 height=71.02}
+![](./lecture_13_chemical_senses/images/slide_52_img_50.png) {left=20.52 top=0.00 width=75.24 height=71.02}
 
 <div style="position: absolute; left: 19.42%; top: 71.02%; width: 77.45%; height: 28.98%;">
 
@@ -1082,7 +1081,7 @@ Knockout of key pathway proteins (e.g., **Golf**) causes **anosmia**.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_51.png) {left=69.12 top=-0.00 width=30.88 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_53_img_51.png) {left=69.12 top=-0.00 width=30.88 height=100.00}
 
 <div style="position: absolute; left: 17.75%; top: 5.24%; width: 52.08%; height: 94.76%;">
 
@@ -1126,7 +1125,7 @@ Response strength increases with **odorant concentration**, until saturation.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_52.png) {left=60.20 top=0.00 width=39.80 height=100.00}
+![](./lecture_13_chemical_senses/images/slide_55_img_52.png) {left=60.20 top=0.00 width=39.80 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 1.09%; width: 43.45%; height: 100.00%;">
 
@@ -1188,7 +1187,7 @@ Olfactory tubercle → **medial dorsal thalamus** → **orbitofrontal cortex** 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_53.png) {left=27.54 top=0.00 width=60.28 height=75.27}
+![](./lecture_13_chemical_senses/images/slide_57_img_53.png) {left=27.54 top=0.00 width=60.28 height=75.27}
 
 <div style="position: absolute; left: 16.58%; top: 73.19%; width: 83.57%; height: 27.53%;">
 
@@ -1202,7 +1201,7 @@ Olfactory tubercle → **medial dorsal thalamus** → **orbitofrontal cortex** 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_54.png) {left=18.92 top=0.00 width=81.08 height=61.99}
+![](./lecture_13_chemical_senses/images/slide_58_img_54.png) {left=18.92 top=0.00 width=81.08 height=61.99}
 
 <div style="position: absolute; left: 18.75%; top: 59.84%; width: 81.40%; height: 46.68%;">
 
@@ -1217,7 +1216,7 @@ receptor neurons expressing a particular receptor gene all send their axons to t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_55.png) {left=50.00 top=2.96 width=50.41 height=94.07}
+![](./lecture_13_chemical_senses/images/slide_59_img_55.png) {left=50.00 top=2.96 width=50.41 height=94.07}
 
 <div style="position: absolute; left: 16.75%; top: 2.28%; width: 32.55%; height: 94.07%;">
 
@@ -1233,9 +1232,9 @@ Each glomerulus receives input only from receptor cells expressing a particular 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_60_img_56.png) {left=50.54 top=0.00 width=49.46 height=69.26}
+![](./lecture_13_chemical_senses/images/slide_60_img_56.png) {left=50.54 top=0.00 width=49.46 height=69.26}
 
-![](images/slide_60_img_57.png) {left=14.58 top=0.00 width=35.42 height=67.14}
+![](./lecture_13_chemical_senses/images/slide_60_img_57.png) {left=14.58 top=0.00 width=35.42 height=67.14}
 
 <div style="position: absolute; left: 16.68%; top: 73.93%; width: 83.56%; height: 13.16%;">
 
@@ -1249,7 +1248,7 @@ Neurons that have a particular type of a receptor are randomly scattered (left),
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_58.png) {left=16.76 top=6.53 width=83.09 height=60.78}
+![](./lecture_13_chemical_senses/images/slide_61_img_58.png) {left=16.76 top=6.53 width=83.09 height=60.78}
 
 <div style="position: absolute; left: 17.60%; top: 71.71%; width: 82.40%; height: 17.95%;">
 
@@ -1302,7 +1301,7 @@ This shows that **odor identity persists** beyond the bulb as a pattern across m
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_59.png) {left=41.45 top=0.00 width=58.55 height=60.25}
+![](./lecture_13_chemical_senses/images/slide_63_img_59.png) {left=41.45 top=0.00 width=58.55 height=60.25}
 
 <div style="position: absolute; left: 17.08%; top: 4.98%; width: 25.37%; height: 50.28%;">
 
@@ -1325,11 +1324,11 @@ Maps of neural activation of the olfactory bulb. The activity of neurons in the 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_60.png) {left=18.19 top=0.00 width=37.54 height=39.67}
+![](./lecture_13_chemical_senses/images/slide_64_img_60.png) {left=18.19 top=0.00 width=37.54 height=39.67}
 
-![](images/slide_64_img_61.png) {left=59.54 top=-0.00 width=40.46 height=36.97}
+![](./lecture_13_chemical_senses/images/slide_64_img_61.png) {left=59.54 top=-0.00 width=40.46 height=36.97}
 
-![](images/slide_64_img_62.png) {left=59.54 top=40.90 width=41.81 height=38.43}
+![](./lecture_13_chemical_senses/images/slide_64_img_62.png) {left=59.54 top=40.90 width=41.81 height=38.43}
 
 <div style="position: absolute; left: 16.41%; top: 34.32%; width: 43.12%; height: 48.07%;">
 
@@ -1385,7 +1384,7 @@ But can still distinguish *very different* odors → Timing improves **fine dis
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_63.png) {left=50.96 top=8.21 width=49.04 height=70.03}
+![](./lecture_13_chemical_senses/images/slide_66_img_63.png) {left=50.96 top=8.21 width=49.04 height=70.03}
 
 <div style="position: absolute; left: 16.12%; top: 2.87%; width: 36.35%; height: 89.78%;">
 
@@ -1439,7 +1438,7 @@ As we move to light, sound, and mechanical sensation, you’ll see the **same co
 
 </div>
 
-![](images/slide_68_img_64.png) {left=59.81 top=63.33 width=40.19 height=36.67}
+![](./lecture_13_chemical_senses/images/slide_68_img_64.png) {left=59.81 top=63.33 width=40.19 height=36.67}
 
 <div style="position: absolute; left: 60.50%; top: 77.47%; width: 36.72%; height: 8.38%;">
 
@@ -1447,11 +1446,11 @@ metabolism
 
 </div>
 
-![](images/slide_68_img_65.png) {left=45.53 top=0.00 width=26.27 height=50.00}
+![](./lecture_13_chemical_senses/images/slide_68_img_65.png) {left=45.53 top=0.00 width=26.27 height=50.00}
 
-![](images/slide_68_img_66.png) {left=22.59 top=0.00 width=22.94 height=50.00}
+![](./lecture_13_chemical_senses/images/slide_68_img_66.png) {left=22.59 top=0.00 width=22.94 height=50.00}
 
-![](images/slide_68_img_67.png) {left=71.79 top=0.00 width=28.21 height=50.00}
+![](./lecture_13_chemical_senses/images/slide_68_img_67.png) {left=71.79 top=0.00 width=28.21 height=50.00}
 
 </div>
 
@@ -1459,9 +1458,9 @@ metabolism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_68.png) {left=41.89 top=53.88 width=56.83 height=15.85}
+![](./lecture_13_chemical_senses/images/slide_69_img_68.png) {left=41.89 top=53.88 width=56.83 height=15.85}
 
-![](images/slide_69_img_69.png) {left=43.17 top=37.66 width=54.28 height=17.32}
+![](./lecture_13_chemical_senses/images/slide_69_img_69.png) {left=43.17 top=37.66 width=54.28 height=17.32}
 
 <div style="position: absolute; left: 56.87%; top: 17.32%; width: 22.57%; height: 8.38%;">
 
@@ -1469,7 +1468,7 @@ trans-2-decenal
 
 </div>
 
-![](images/slide_69_img_70.png) {left=77.43 top=0.00 width=22.57 height=31.25}
+![](./lecture_13_chemical_senses/images/slide_69_img_70.png) {left=77.43 top=0.00 width=22.57 height=31.25}
 
 <div style="position: absolute; left: 15.45%; top: 0.00%; width: 45.22%; height: 25.70%;">
 
@@ -1480,15 +1479,15 @@ trans-2-decenal
 
 </div>
 
-![](images/slide_69_img_71.png) {left=45.30 top=28.37 width=54.28 height=11.09}
+![](./lecture_13_chemical_senses/images/slide_69_img_71.png) {left=45.30 top=28.37 width=54.28 height=11.09}
 
-![](images/slide_69_img_72.png) {left=16.96 top=25.70 width=26.21 height=41.23}
+![](./lecture_13_chemical_senses/images/slide_69_img_72.png) {left=16.96 top=25.70 width=26.21 height=41.23}
 
-![](images/slide_69_img_73.png) {left=41.03 top=84.15 width=58.55 height=15.85}
+![](./lecture_13_chemical_senses/images/slide_69_img_73.png) {left=41.03 top=84.15 width=58.55 height=15.85}
 
-![](images/slide_69_img_74.png) {left=43.17 top=70.75 width=54.28 height=14.67}
+![](./lecture_13_chemical_senses/images/slide_69_img_74.png) {left=43.17 top=70.75 width=54.28 height=14.67}
 
-![](images/slide_69_img_75.png) {left=25.17 top=80.87 width=12.11 height=9.40}
+![](./lecture_13_chemical_senses/images/slide_69_img_75.png) {left=25.17 top=80.87 width=12.11 height=9.40}
 
 </div>
 
@@ -1521,7 +1520,7 @@ Some anosmic
 
 </div>
 
-![](images/slide_70_img_76.png) {left=66.76 top=33.96 width=17.25 height=23.38}
+![](./lecture_13_chemical_senses/images/slide_70_img_76.png) {left=66.76 top=33.96 width=17.25 height=23.38}
 
 <div style="position: absolute; left: 85.11%; top: 36.07%; width: 14.89%; height: 19.15%;">
 
@@ -1529,9 +1528,9 @@ R(+)-limonene (left) and D(-)-limonene (right)
 
 </div>
 
-![](images/slide_70_img_77.png) {left=72.45 top=-0.00 width=26.39 height=19.15}
+![](./lecture_13_chemical_senses/images/slide_70_img_77.png) {left=72.45 top=-0.00 width=26.39 height=19.15}
 
-![](images/slide_70_img_78.png) {left=57.28 top=59.55 width=23.04 height=28.21}
+![](./lecture_13_chemical_senses/images/slide_70_img_78.png) {left=57.28 top=59.55 width=23.04 height=28.21}
 
 </div>
 
@@ -1551,7 +1550,7 @@ R(+)-limonene (left) and D(-)-limonene (right)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=je456Ka8ZRo) {left=17.52 top=5.04 width=82.48 height=82.48}
+![youtube](je456Ka8ZRo) {left=17.52 top=5.04 width=82.48 height=82.48}
 
 </div>
 
@@ -1567,7 +1566,7 @@ R(+)-limonene (left) and D(-)-limonene (right)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=M8neHyvkYyQ) {left=16.12 top=8.06 width=83.88 height=83.88}
+![youtube](M8neHyvkYyQ) {left=16.12 top=8.06 width=83.88 height=83.88}
 
 </div>
 
@@ -1593,9 +1592,9 @@ R(+)-limonene (left) and D(-)-limonene (right)
 
 </div>
 
-![](images/slide_76_img_79.png) {left=16.07 top=13.33 width=41.75 height=54.56}
+![](./lecture_13_chemical_senses/images/slide_76_img_79.png) {left=16.07 top=13.33 width=41.75 height=54.56}
 
-![](images/slide_76_img_80.png) {left=56.13 top=13.33 width=44.56 height=78.73}
+![](./lecture_13_chemical_senses/images/slide_76_img_80.png) {left=56.13 top=13.33 width=44.56 height=78.73}
 
 <div style="position: absolute; left: 17.35%; top: 64.68%; width: 29.72%; height: 33.43%;">
 
@@ -1633,9 +1632,9 @@ Fortunately, you paid attention in biochemistry: TPPO is known to block TRPM5 ch
 
 </div>
 
-![](images/slide_77_img_81.png) {left=79.62 top=1.57 width=20.38 height=50.52}
+![](./lecture_13_chemical_senses/images/slide_77_img_81.png) {left=79.62 top=1.57 width=20.38 height=50.52}
 
-![](images/slide_77_img_82.png) {left=75.09 top=55.72 width=24.91 height=44.28}
+![](./lecture_13_chemical_senses/images/slide_77_img_82.png) {left=75.09 top=55.72 width=24.91 height=44.28}
 
 </div>
 

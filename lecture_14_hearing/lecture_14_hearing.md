@@ -42,9 +42,9 @@ A bit of physics
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_3_img_1.png) {left=21.00 top=33.58 width=20.48 height=32.83}
+![](./lecture_14_hearing/images/slide_3_img_1.png) {left=21.00 top=33.58 width=20.48 height=32.83}
 
-![](images/slide_3_img_2.png) {left=48.99 top=31.66 width=29.46 height=32.83}
+![](./lecture_14_hearing/images/slide_3_img_2.png) {left=48.99 top=31.66 width=29.46 height=32.83}
 
 <div style="position: absolute; left: 14.93%; top: 1.98%; width: 46.49%; height: 35.01%;">
 
@@ -52,7 +52,7 @@ A bit of physics
 
 </div>
 
-![](images/slide_3_img_3.png) {left=61.88 top=5.87 width=34.97 height=20.72}
+![](./lecture_14_hearing/images/slide_3_img_3.png) {left=61.88 top=5.87 width=34.97 height=20.72}
 
 <div style="position: absolute; left: 15.81%; top: 70.66%; width: 79.61%; height: 10.77%;">
 
@@ -75,9 +75,9 @@ exaggerated for
 
 </div>
 
-![](images/slide_3_img_4.png) {left=62.29 top=83.63 width=34.50 height=9.33}
+![](./lecture_14_hearing/images/slide_3_img_4.png) {left=62.29 top=83.63 width=34.50 height=9.33}
 
-![](images/slide_3_img_5.png) {left=21.00 top=85.50 width=31.18 height=7.00}
+![](./lecture_14_hearing/images/slide_3_img_5.png) {left=21.00 top=85.50 width=31.18 height=7.00}
 
 </div>
 
@@ -85,7 +85,7 @@ exaggerated for
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=px3oVGXr4mo) {left=19.03 top=11.58 width=76.83 height=76.83}
+![youtube](px3oVGXr4mo) {left=19.03 top=11.58 width=76.83 height=76.83}
 
 </div>
 
@@ -113,9 +113,9 @@ The waveforms of the most sounds have a more complex shape than a sine wave; nev
 
 </div>
 
-![](images/slide_6_img_6.png) {left=20.66 top=48.82 width=38.90 height=49.47}
+![](./lecture_14_hearing/images/slide_6_img_6.png) {left=20.66 top=48.82 width=38.90 height=49.47}
 
-![](images/slide_6_img_7.png) {left=69.44 top=23.33 width=28.42 height=73.25}
+![](./lecture_14_hearing/images/slide_6_img_7.png) {left=69.44 top=23.33 width=28.42 height=73.25}
 
 <div style="position: absolute; left: 16.19%; top: 21.09%; width: 52.38%; height: 28.73%;">
 
@@ -136,7 +136,7 @@ Digitally sampled data, in the time domain, is broken up into chunks, which usua
 
 </div>
 
-![](images/slide_7_img_8.png) {left=18.68 top=37.00 width=39.11 height=53.64}
+![](./lecture_14_hearing/images/slide_7_img_8.png) {left=18.68 top=37.00 width=39.11 height=53.64}
 
 <div style="position: absolute; left: 22.50%; top: 91.61%; width: 32.81%; height: 7.18%;">
 
@@ -144,7 +144,7 @@ Spectrogram of dolphin vocalizations
 
 </div>
 
-![](images/slide_7_img_9.png) {left=58.82 top=38.95 width=38.87 height=39.70}
+![](./lecture_14_hearing/images/slide_7_img_9.png) {left=58.82 top=38.95 width=38.87 height=39.70}
 
 <div style="position: absolute; left: 66.50%; top: 89.97%; width: 27.04%; height: 7.03%;">
 
@@ -158,7 +158,7 @@ Spectrogram of dolphin vocalizations
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_10.png) {left=64.93 top=3.72 width=30.46 height=55.45}
+![](./lecture_14_hearing/images/slide_8_img_10.png) {left=64.93 top=3.72 width=30.46 height=55.45}
 
 <div style="position: absolute; left: 15.88%; top: 2.45%; width: 50.60%; height: 71.82%;">
 
@@ -174,7 +174,7 @@ Vogler, an 18th-century organist, applied this to create the illusion of deep ba
 
 </div>
 
-![](images/slide_8_img_11.png) {left=69.86 top=60.07 width=23.47 height=37.84}
+![](./lecture_14_hearing/images/slide_8_img_11.png) {left=69.86 top=60.07 width=23.47 height=37.84}
 
 </div>
 
@@ -188,9 +188,9 @@ For ordinary conditions (near STP, ordinary temperatures and frequencies) treati
 
 </div>
 
-![](images/slide_9_img_12.png) {left=56.64 top=47.80 width=41.11 height=28.46}
+![](./lecture_14_hearing/images/slide_9_img_12.png) {left=56.64 top=47.80 width=41.11 height=28.46}
 
-![](images/slide_9_img_13.png) {left=17.01 top=46.89 width=35.95 height=40.10}
+![](./lecture_14_hearing/images/slide_9_img_13.png) {left=17.01 top=46.89 width=35.95 height=40.10}
 
 <div style="position: absolute; left: 56.64%; top: 80.52%; width: 41.11%; height: 17.95%;">
 
@@ -200,9 +200,9 @@ For ordinary conditions (near STP, ordinary temperatures and frequencies) treati
 
 </div>
 
-![](images/slide_9_img_14.png) {left=16.63 top=22.56 width=36.71 height=12.61}
+![](./lecture_14_hearing/images/slide_9_img_14.png) {left=16.63 top=22.56 width=36.71 height=12.61}
 
-![](images/slide_9_img_15.png) {left=56.64 top=18.65 width=42.89 height=20.44}
+![](./lecture_14_hearing/images/slide_9_img_15.png) {left=56.64 top=18.65 width=42.89 height=20.44}
 
 </div>
 
@@ -210,7 +210,7 @@ For ordinary conditions (near STP, ordinary temperatures and frequencies) treati
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_16.png) {left=30.38 top=20.95 width=23.46 height=8.44}
+![](./lecture_14_hearing/images/slide_10_img_16.png) {left=30.38 top=20.95 width=23.46 height=8.44}
 
 <div style="position: absolute; left: 14.42%; top: 7.61%; width: 54.59%; height: 10.77%;">
 
@@ -218,9 +218,9 @@ The speed of sound in meters per second can be estimated using the formula, wher
 
 </div>
 
-![](images/slide_10_img_17.png) {left=69.56 top=4.86 width=26.06 height=48.38}
+![](./lecture_14_hearing/images/slide_10_img_17.png) {left=69.56 top=4.86 width=26.06 height=48.38}
 
-![](images/slide_10_img_18.png) {left=23.91 top=31.69 width=33.38 height=18.31}
+![](./lecture_14_hearing/images/slide_10_img_18.png) {left=23.91 top=31.69 width=33.38 height=18.31}
 
 <div style="position: absolute; left: 16.65%; top: 58.70%; width: 79.52%; height: 21.55%;">
 
@@ -240,7 +240,7 @@ The speed of sound is **faster **in** humid air** than in dry air because water 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=FvvSIAqOkIw) {left=16.65 top=47.70 width=42.69 height=42.69}
+![youtube](FvvSIAqOkIw) {left=16.65 top=47.70 width=42.69 height=42.69}
 
 <div style="position: absolute; left: 16.65%; top: 1.28%; width: 46.55%; height: 10.77%;">
 
@@ -248,17 +248,17 @@ The resonant frequency of a resonator:
 
 </div>
 
-![](images/slide_11_img_19.png) {left=17.73 top=24.19 width=36.52 height=12.02}
+![](./lecture_14_hearing/images/slide_11_img_19.png) {left=17.73 top=24.19 width=36.52 height=12.02}
 
-![](images/slide_11_img_20.png) {left=17.73 top=8.97 width=11.33 height=5.41}
+![](./lecture_14_hearing/images/slide_11_img_20.png) {left=17.73 top=8.97 width=11.33 height=5.41}
 
-![](images/slide_11_img_21.png) {left=17.29 top=15.23 width=35.76 height=9.62}
+![](./lecture_14_hearing/images/slide_11_img_21.png) {left=17.29 top=15.23 width=35.76 height=9.62}
 
-![](images/slide_11_img_22.png) {left=68.67 top=1.28 width=27.39 height=10.77}
+![](./lecture_14_hearing/images/slide_11_img_22.png) {left=68.67 top=1.28 width=27.39 height=10.77}
 
-![](images/slide_11_img_23.png) {left=51.20 top=2.57 width=7.56 height=8.18}
+![](./lecture_14_hearing/images/slide_11_img_23.png) {left=51.20 top=2.57 width=7.56 height=8.18}
 
-![](images/slide_11_img_24.png) {left=61.00 top=15.01 width=37.33 height=46.27}
+![](./lecture_14_hearing/images/slide_11_img_24.png) {left=61.00 top=15.01 width=37.33 height=46.27}
 
 </div>
 
@@ -272,7 +272,7 @@ The resonant frequency of a resonator:
 
 </div>
 
-![](images/slide_12_img_25.png) {left=37.50 top=45.51 width=19.88 height=4.71}
+![](./lecture_14_hearing/images/slide_12_img_25.png) {left=37.50 top=45.51 width=19.88 height=4.71}
 
 <div style="position: absolute; left: 15.22%; top: 21.06%; width: 81.24%; height: 10.77%;">
 
@@ -286,9 +286,9 @@ The resonant frequency of a resonator:
 
 </div>
 
-![](images/slide_12_img_26.png) {left=34.85 top=33.17 width=42.66 height=10.95}
+![](./lecture_14_hearing/images/slide_12_img_26.png) {left=34.85 top=33.17 width=42.66 height=10.95}
 
-![](images/slide_12_img_27.png) {left=35.87 top=78.69 width=42.66 height=16.91}
+![](./lecture_14_hearing/images/slide_12_img_27.png) {left=35.87 top=78.69 width=42.66 height=16.91}
 
 <div style="position: absolute; left: 16.01%; top: 71.51%; width: 62.88%; height: 7.18%;">
 
@@ -308,9 +308,9 @@ Acoustic intensity is proportional to acoustic pressure (effective) squared.
 
 </div>
 
-![](images/slide_13_img_28.png) {left=34.22 top=25.29 width=11.80 height=5.14}
+![](./lecture_14_hearing/images/slide_13_img_28.png) {left=34.22 top=25.29 width=11.80 height=5.14}
 
-![](images/slide_13_img_29.png) {left=34.22 top=14.27 width=47.49 height=9.41}
+![](./lecture_14_hearing/images/slide_13_img_29.png) {left=34.22 top=14.27 width=47.49 height=9.41}
 
 <div style="position: absolute; left: 15.71%; top: 32.58%; width: 62.25%; height: 7.18%;">
 
@@ -324,9 +324,9 @@ The proper notations for sound pressure level using this reference are Lp/(20 μ
 
 </div>
 
-![](images/slide_13_img_30.png) {left=58.23 top=33.90 width=40.75 height=63.31}
+![](./lecture_14_hearing/images/slide_13_img_30.png) {left=58.23 top=33.90 width=40.75 height=63.31}
 
-![](images/slide_13_img_31.png) {left=28.55 top=44.54 width=20.39 height=14.63}
+![](./lecture_14_hearing/images/slide_13_img_31.png) {left=28.55 top=44.54 width=20.39 height=14.63}
 
 </div>
 
@@ -346,7 +346,7 @@ This means that if you double the distance from a sound source, the sound intens
 
 </div>
 
-![](images/slide_14_img_32.png) {left=23.75 top=37.68 width=61.73 height=54.21}
+![](./lecture_14_hearing/images/slide_14_img_32.png) {left=23.75 top=37.68 width=61.73 height=54.21}
 
 </div>
 
@@ -354,7 +354,7 @@ This means that if you double the distance from a sound source, the sound intens
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_33.png) {left=56.23 top=13.44 width=9.79 height=24.62}
+![](./lecture_14_hearing/images/slide_15_img_33.png) {left=56.23 top=13.44 width=9.79 height=24.62}
 
 <div style="position: absolute; left: 15.54%; top: 0.00%; width: 80.84%; height: 14.37%;">
 
@@ -362,7 +362,7 @@ A **sound level meter (**sound pressure level meter**) **- diaphragm of the micr
 
 </div>
 
-![](images/slide_15_img_34.png) {left=20.52 top=13.02 width=24.77 height=25.46}
+![](./lecture_14_hearing/images/slide_15_img_34.png) {left=20.52 top=13.02 width=24.77 height=25.46}
 
 <div style="position: absolute; left: 17.76%; top: 39.54%; width: 37.43%; height: 14.37%;">
 
@@ -370,7 +370,7 @@ Type 2203 (1962) - arguably the first portable sound measurement device (weight 
 
 </div>
 
-![](images/slide_15_img_35.png) {left=68.09 top=12.64 width=13.74 height=26.22}
+![](./lecture_14_hearing/images/slide_15_img_35.png) {left=68.09 top=12.64 width=13.74 height=26.22}
 
 <div style="position: absolute; left: 66.02%; top: 39.54%; width: 19.44%; height: 14.37%;">
 
@@ -378,9 +378,9 @@ Most sound level measuring apps are not very accurate
 
 </div>
 
-![](images/slide_15_img_36.png) {left=19.06 top=55.91 width=38.66 height=43.11}
+![](./lecture_14_hearing/images/slide_15_img_36.png) {left=19.06 top=55.91 width=38.66 height=43.11}
 
-![](images/slide_15_img_37.png) {left=58.81 top=53.91 width=39.26 height=32.09}
+![](./lecture_14_hearing/images/slide_15_img_37.png) {left=58.81 top=53.91 width=39.26 height=32.09}
 
 <div style="position: absolute; left: 59.32%; top: 87.04%; width: 38.36%; height: 10.77%;">
 
@@ -388,7 +388,7 @@ Most sound level measuring apps are not very accurate
 
 </div>
 
-![](images/slide_15_img_38.png) {left=82.64 top=10.70 width=13.74 height=32.45}
+![](./lecture_14_hearing/images/slide_15_img_38.png) {left=82.64 top=10.70 width=13.74 height=32.45}
 
 </div>
 
@@ -410,7 +410,7 @@ An explosion was so powerful that it was heard 3,110 km away in Perth, Western A
 
 </div>
 
-![](images/slide_16_img_39.png) {left=76.31 top=12.51 width=19.37 height=46.95}
+![](./lecture_14_hearing/images/slide_16_img_39.png) {left=76.31 top=12.51 width=19.37 height=46.95}
 
 <div style="position: absolute; left: 14.87%; top: 65.24%; width: 81.22%; height: 46.68%;">
 
@@ -438,7 +438,7 @@ The **phon **is a logarithmic unit of **loudness **level, that is equal to the s
 
 </div>
 
-![](images/slide_17_img_40.png) {left=15.56 top=19.91 width=48.29 height=78.63}
+![](./lecture_14_hearing/images/slide_17_img_40.png) {left=15.56 top=19.91 width=48.29 height=78.63}
 
 <div style="position: absolute; left: 65.94%; top: 70.13%; width: 32.21%; height: 17.95%;">
 
@@ -470,9 +470,9 @@ The result of such a test is an **audiogram**, a graphical depiction of auditory
 
 </div>
 
-![](images/slide_18_img_41.png) {left=17.27 top=46.29 width=35.23 height=49.74}
+![](./lecture_14_hearing/images/slide_18_img_41.png) {left=17.27 top=46.29 width=35.23 height=49.74}
 
-![](images/slide_18_img_42.png) {left=56.45 top=53.06 width=34.65 height=41.26}
+![](./lecture_14_hearing/images/slide_18_img_42.png) {left=56.45 top=53.06 width=34.65 height=41.26}
 
 </div>
 
@@ -480,9 +480,9 @@ The result of such a test is an **audiogram**, a graphical depiction of auditory
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_43.png) {left=39.90 top=15.06 width=58.95 height=59.81}
+![](./lecture_14_hearing/images/slide_19_img_43.png) {left=39.90 top=15.06 width=58.95 height=59.81}
 
-![](images/slide_19_img_44.png) {left=62.09 top=76.85 width=12.86 height=19.48}
+![](./lecture_14_hearing/images/slide_19_img_44.png) {left=62.09 top=76.85 width=12.86 height=19.48}
 
 <div style="position: absolute; left: 77.37%; top: 74.86%; width: 21.48%; height: 25.14%;">
 
@@ -490,7 +490,7 @@ The first "dog whistle" (1876) invented by sir Francis Galton (Galton board, reg
 
 </div>
 
-![](images/slide_19_img_45.png) {left=33.85 top=72.01 width=5.56 height=27.21}
+![](./lecture_14_hearing/images/slide_19_img_45.png) {left=33.85 top=72.01 width=5.56 height=27.21}
 
 <div style="position: absolute; left: 18.95%; top: 89.69%; width: 36.88%; height: 10.77%;">
 
@@ -498,7 +498,7 @@ A dog ultrasonic whistle (silent whistle / Galton's whistle)
 
 </div>
 
-![](images/slide_19_img_46.png) {left=56.32 top=1.56 width=27.59 height=11.52}
+![](./lecture_14_hearing/images/slide_19_img_46.png) {left=56.32 top=1.56 width=27.59 height=11.52}
 
 <div style="position: absolute; left: 18.67%; top: 17.25%; width: 19.21%; height: 33.51%;">
 
@@ -512,9 +512,9 @@ Many insects (moths, beetles) have good ultrasonic hearing, and most of these ar
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_47.png) {left=17.50 top=6.74 width=21.46 height=25.94}
+![](./lecture_14_hearing/images/slide_20_img_47.png) {left=17.50 top=6.74 width=21.46 height=25.94}
 
-![](images/slide_20_img_48.png) {left=40.77 top=6.74 width=18.85 height=24.75}
+![](./lecture_14_hearing/images/slide_20_img_48.png) {left=40.77 top=6.74 width=18.85 height=24.75}
 
 <div style="position: absolute; left: 39.84%; top: 36.40%; width: 32.81%; height: 14.37%;">
 
@@ -531,7 +531,7 @@ Echolocation (bats)
 
 </div>
 
-![](images/slide_20_img_49.png) {left=61.43 top=5.45 width=36.70 height=28.52}
+![](./lecture_14_hearing/images/slide_20_img_49.png) {left=61.43 top=5.45 width=36.70 height=28.52}
 
 <div style="position: absolute; left: 68.80%; top: 36.40%; width: 18.85%; height: 10.77%;">
 
@@ -547,9 +547,9 @@ Whale communication (100 km)
 
 </div>
 
-![](images/slide_20_img_50.png) {left=18.29 top=52.09 width=30.00 height=30.45}
+![](./lecture_14_hearing/images/slide_20_img_50.png) {left=18.29 top=52.09 width=30.00 height=30.45}
 
-![](images/slide_20_img_51.png) {left=63.88 top=51.83 width=24.65 height=31.99}
+![](./lecture_14_hearing/images/slide_20_img_51.png) {left=63.88 top=51.83 width=24.65 height=31.99}
 
 <div style="position: absolute; left: 62.16%; top: 88.48%; width: 32.81%; height: 10.77%;">
 
@@ -582,9 +582,9 @@ Anatomy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_52.png) {left=43.54 top=11.49 width=54.80 height=83.91}
+![](./lecture_14_hearing/images/slide_22_img_52.png) {left=43.54 top=11.49 width=54.80 height=83.91}
 
-![](images/slide_22_img_53.png) {left=16.04 top=25.72 width=25.68 height=48.56}
+![](./lecture_14_hearing/images/slide_22_img_53.png) {left=16.04 top=25.72 width=25.68 height=48.56}
 
 <div style="position: absolute; left: 51.64%; top: 9.84%; width: 10.79%; height: 6.28%;">
 
@@ -608,9 +608,9 @@ Anatomy
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_54.png) {left=61.19 top=1.53 width=41.61 height=94.07}
+![](./lecture_14_hearing/images/slide_23_img_54.png) {left=61.19 top=1.53 width=41.61 height=94.07}
 
-![](images/slide_23_img_55.png) {left=50.51 top=27.51 width=32.04 height=46.98}
+![](./lecture_14_hearing/images/slide_23_img_55.png) {left=50.51 top=27.51 width=32.04 height=46.98}
 
 <div style="position: absolute; left: 33.08%; top: 1.53%; width: 16.22%; height: 8.38%;">
 
@@ -624,9 +624,9 @@ Compare ^^
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_56.png) {left=21.03 top=4.85 width=28.97 height=43.09}
+![](./lecture_14_hearing/images/slide_24_img_56.png) {left=21.03 top=4.85 width=28.97 height=43.09}
 
-![](images/slide_24_img_57.png) {left=55.37 top=3.59 width=39.26 height=45.60}
+![](./lecture_14_hearing/images/slide_24_img_57.png) {left=55.37 top=3.59 width=39.26 height=45.60}
 
 <div style="position: absolute; left: 19.05%; top: 53.70%; width: 78.16%; height: 43.09%;">
 
@@ -640,9 +640,9 @@ Air vibrates more easily than fluid in the cochlea so there is a problem getting
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_58.png) {left=17.87 top=4.64 width=15.01 height=7.84}
+![](./lecture_14_hearing/images/slide_25_img_58.png) {left=17.87 top=4.64 width=15.01 height=7.84}
 
-![](images/slide_25_img_59.png) {left=36.57 top=2.58 width=19.73 height=21.45}
+![](./lecture_14_hearing/images/slide_25_img_59.png) {left=36.57 top=2.58 width=19.73 height=21.45}
 
 <div style="position: absolute; left: 37.19%; top: 56.34%; width: 60.64%; height: 43.09%;">
 
@@ -652,15 +652,15 @@ Sometimes a single layer is sufficient to significantly improve the optical perf
 
 </div>
 
-![](images/slide_25_img_60.png) {left=58.58 top=2.58 width=17.89 height=23.78}
+![](./lecture_14_hearing/images/slide_25_img_60.png) {left=58.58 top=2.58 width=17.89 height=23.78}
 
-![](images/slide_25_img_61.png) {left=59.07 top=32.30 width=15.01 height=22.40}
+![](./lecture_14_hearing/images/slide_25_img_61.png) {left=59.07 top=32.30 width=15.01 height=22.40}
 
-![](images/slide_25_img_62.png) {left=17.87 top=36.54 width=29.94 height=12.88}
+![](./lecture_14_hearing/images/slide_25_img_62.png) {left=17.87 top=36.54 width=29.94 height=12.88}
 
-![](images/slide_25_img_63.png) {left=79.48 top=8.48 width=19.22 height=45.70}
+![](./lecture_14_hearing/images/slide_25_img_63.png) {left=79.48 top=8.48 width=19.22 height=45.70}
 
-![](images/slide_25_img_64.png) {left=14.65 top=65.12 width=21.45 height=25.53}
+![](./lecture_14_hearing/images/slide_25_img_64.png) {left=14.65 top=65.12 width=21.45 height=25.53}
 
 </div>
 
@@ -676,7 +676,7 @@ Sometimes a single layer is sufficient to significantly improve the optical perf
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_65.png) {left=17.80 top=3.54 width=26.34 height=33.83}
+![](./lecture_14_hearing/images/slide_27_img_65.png) {left=17.80 top=3.54 width=26.34 height=33.83}
 
 <div style="position: absolute; left: 50.72%; top: 3.54%; width: 47.87%; height: 32.32%;">
 
@@ -692,9 +692,9 @@ If we cannot change the masses of bodies, then we can match their impedance with
 
 </div>
 
-![](images/slide_27_img_66.png) {left=78.76 top=37.43 width=17.54 height=21.55}
+![](./lecture_14_hearing/images/slide_27_img_66.png) {left=78.76 top=37.43 width=17.54 height=21.55}
 
-![](images/slide_27_img_67.png) {left=33.67 top=70.55 width=43.52 height=22.15}
+![](./lecture_14_hearing/images/slide_27_img_67.png) {left=33.67 top=70.55 width=43.52 height=22.15}
 
 </div>
 
@@ -702,7 +702,7 @@ If we cannot change the masses of bodies, then we can match their impedance with
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_68.png) {left=17.69 top=22.73 width=81.15 height=62.22}
+![](./lecture_14_hearing/images/slide_28_img_68.png) {left=17.69 top=22.73 width=81.15 height=62.22}
 
 <div style="position: absolute; left: 23.74%; top: 2.87%; width: 22.85%; height: 25.14%;">
 
@@ -739,9 +739,9 @@ Conductive hearing loss can also be caused by **otosclerosis**, a growth of bone
 
 </div>
 
-![](images/slide_29_img_69.png) {left=72.51 top=1.77 width=21.39 height=32.88}
+![](./lecture_14_hearing/images/slide_29_img_69.png) {left=72.51 top=1.77 width=21.39 height=32.88}
 
-![](images/slide_29_img_70.png) {left=73.13 top=38.55 width=25.99 height=26.57}
+![](./lecture_14_hearing/images/slide_29_img_70.png) {left=73.13 top=38.55 width=25.99 height=26.57}
 
 </div>
 
@@ -770,7 +770,7 @@ The treatments for tinnitus are equally variable, and not surprisingly, no singl
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=qfyYOS_h9g0) {left=40.86 top=66.85 width=28.80 height=28.80}
+![youtube](qfyYOS_h9g0) {left=40.86 top=66.85 width=28.80 height=28.80}
 
 </div>
 
@@ -798,7 +798,7 @@ Reduced cochlear blood flow due to mechanical damage to the wall of the cochlea,
 
 </div>
 
-![](images/slide_31_img_71.png) {left=79.95 top=0.00 width=20.05 height=31.18}
+![](./lecture_14_hearing/images/slide_31_img_71.png) {left=79.95 top=0.00 width=20.05 height=31.18}
 
 </div>
 
@@ -806,7 +806,7 @@ Reduced cochlear blood flow due to mechanical damage to the wall of the cochlea,
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_72.png) {left=17.64 top=4.13 width=28.02 height=60.40}
+![](./lecture_14_hearing/images/slide_32_img_72.png) {left=17.64 top=4.13 width=28.02 height=60.40}
 
 <div style="position: absolute; left: 49.30%; top: 19.06%; width: 48.96%; height: 10.77%;">
 
@@ -847,7 +847,7 @@ genetic component.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_73.png) {left=27.06 top=3.14 width=60.30 height=67.14}
+![](./lecture_14_hearing/images/slide_33_img_73.png) {left=27.06 top=3.14 width=60.30 height=67.14}
 
 <div style="position: absolute; left: 16.99%; top: 69.33%; width: 79.36%; height: 25.14%;">
 
@@ -870,7 +870,7 @@ Unfortunately, the reflex has a delay of **50–100 msec** from the time that so
 
 </div>
 
-![](images/slide_34_img_74.png) {left=13.64 top=1.65 width=47.68 height=85.22}
+![](./lecture_14_hearing/images/slide_34_img_74.png) {left=13.64 top=1.65 width=47.68 height=85.22}
 
 <div style="position: absolute; left: 58.03%; top: 3.16%; width: 32.81%; height: 21.55%;">
 
@@ -892,7 +892,7 @@ Endolymph in the labyrinth is drained into the endolymphatic sinus via small duc
 
 </div>
 
-![](images/slide_35_img_75.png) {left=50.52 top=44.51 width=45.89 height=50.25}
+![](./lecture_14_hearing/images/slide_35_img_75.png) {left=50.52 top=44.51 width=45.89 height=50.25}
 
 <div style="position: absolute; left: 16.85%; top: 39.88%; width: 31.94%; height: 17.95%;">
 
@@ -900,7 +900,7 @@ The endolymphatic spaces of the vestibular labyrinth are also connected to the c
 
 </div>
 
-![](images/slide_35_img_76.png) {left=17.38 top=58.93 width=29.42 height=35.83}
+![](./lecture_14_hearing/images/slide_35_img_76.png) {left=17.38 top=58.93 width=29.42 height=35.83}
 
 </div>
 
@@ -908,9 +908,9 @@ The endolymphatic spaces of the vestibular labyrinth are also connected to the c
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_77.png) {left=50.52 top=2.64 width=49.06 height=45.72}
+![](./lecture_14_hearing/images/slide_36_img_77.png) {left=50.52 top=2.64 width=49.06 height=45.72}
 
-![](images/slide_36_img_78.png) {left=15.85 top=2.64 width=41.69 height=86.38}
+![](./lecture_14_hearing/images/slide_36_img_78.png) {left=15.85 top=2.64 width=41.69 height=86.38}
 
 </div>
 
@@ -918,7 +918,7 @@ The endolymphatic spaces of the vestibular labyrinth are also connected to the c
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_79.png) {left=19.70 top=12.34 width=51.42 height=40.58}
+![](./lecture_14_hearing/images/slide_37_img_79.png) {left=19.70 top=12.34 width=51.42 height=40.58}
 
 <div style="position: absolute; left: 19.46%; top: 52.27%; width: 78.26%; height: 17.95%;">
 
@@ -985,13 +985,13 @@ Because of the ionic concentration differences and the permeability of Reissner�
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_80.png) {left=20.28 top=1.82 width=32.12 height=38.97}
+![](./lecture_14_hearing/images/slide_38_img_80.png) {left=20.28 top=1.82 width=32.12 height=38.97}
 
-![](images/slide_38_img_81.png) {left=55.07 top=1.24 width=30.52 height=36.11}
+![](./lecture_14_hearing/images/slide_38_img_81.png) {left=55.07 top=1.24 width=30.52 height=36.11}
 
-![](images/slide_38_img_82.png) {left=14.56 top=42.38 width=42.35 height=33.61}
+![](./lecture_14_hearing/images/slide_38_img_82.png) {left=14.56 top=42.38 width=42.35 height=33.61}
 
-![](images/slide_38_img_83.png) {left=58.20 top=41.30 width=39.22 height=42.38}
+![](./lecture_14_hearing/images/slide_38_img_83.png) {left=58.20 top=41.30 width=39.22 height=42.38}
 
 <div style="position: absolute; left: 58.20%; top: 91.28%; width: 41.02%; height: 7.18%;">
 
@@ -1011,7 +1011,7 @@ The holes in the lower shelf of the **osseous spiral lamina** were named the “
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_84.png) {left=15.61 top=3.85 width=32.81 height=52.46}
+![](./lecture_14_hearing/images/slide_39_img_84.png) {left=15.61 top=3.85 width=32.81 height=52.46}
 
 <div style="position: absolute; left: 50.00%; top: 35.76%; width: 46.60%; height: 17.95%;">
 
@@ -1028,7 +1028,7 @@ Systematic organization of sound frequency within an auditory structure is calle
 
 </div>
 
-![](images/slide_39_img_85.png) {left=48.42 top=1.73 width=50.58 height=29.61}
+![](./lecture_14_hearing/images/slide_39_img_85.png) {left=48.42 top=1.73 width=50.58 height=29.61}
 
 </div>
 
@@ -1036,7 +1036,7 @@ Systematic organization of sound frequency within an auditory structure is calle
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_86.png) {left=18.07 top=2.06 width=76.42 height=94.07}
+![](./lecture_14_hearing/images/slide_40_img_86.png) {left=18.07 top=2.06 width=76.42 height=94.07}
 
 </div>
 
@@ -1044,11 +1044,11 @@ Systematic organization of sound frequency within an auditory structure is calle
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=KnqviAjqrXc) {left=15.75 top=18.81 width=54.75 height=59.48}
+![youtube](KnqviAjqrXc) {left=15.75 top=18.81 width=54.75 height=59.48}
 
-![youtube](http://www.youtube.com/watch?v=rv52VJUkvzE) {left=70.49 top=9.91 width=33.33 height=33.33}
+![youtube](rv52VJUkvzE) {left=70.49 top=9.91 width=33.33 height=33.33}
 
-![youtube](http://www.youtube.com/watch?v=CmGx3tusDQQ) {left=70.49 top=53.02 width=33.33 height=33.33}
+![youtube](CmGx3tusDQQ) {left=70.49 top=53.02 width=33.33 height=33.33}
 
 </div>
 
@@ -1092,7 +1092,7 @@ Hair cells between the modiolus and the rods of Corti are called **inner hair ce
 
 </div>
 
-![](images/slide_43_img_87.png) {left=51.30 top=23.55 width=48.56 height=70.57}
+![](./lecture_14_hearing/images/slide_43_img_87.png) {left=51.30 top=23.55 width=48.56 height=70.57}
 
 </div>
 
@@ -1100,7 +1100,7 @@ Hair cells between the modiolus and the rods of Corti are called **inner hair ce
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_88.png) {left=24.08 top=2.96 width=62.37 height=94.07}
+![](./lecture_14_hearing/images/slide_44_img_88.png) {left=24.08 top=2.96 width=62.37 height=94.07}
 
 </div>
 
@@ -1120,9 +1120,9 @@ Hair cells form synapses on neurons whose cell bodies are located in the **spira
 
 </div>
 
-![](images/slide_45_img_89.png) {left=22.23 top=4.32 width=35.53 height=71.10}
+![](./lecture_14_hearing/images/slide_45_img_89.png) {left=22.23 top=4.32 width=35.53 height=71.10}
 
-![](images/slide_45_img_90.png) {left=59.42 top=32.26 width=36.81 height=42.40}
+![](./lecture_14_hearing/images/slide_45_img_90.png) {left=59.42 top=32.26 width=36.81 height=42.40}
 
 </div>
 
@@ -1130,9 +1130,9 @@ Hair cells form synapses on neurons whose cell bodies are located in the **spira
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_91.png) {left=18.51 top=-0.00 width=35.28 height=98.10}
+![](./lecture_14_hearing/images/slide_46_img_91.png) {left=18.51 top=-0.00 width=35.28 height=98.10}
 
-![](images/slide_46_img_92.png) {left=59.75 top=1.92 width=33.96 height=94.26}
+![](./lecture_14_hearing/images/slide_46_img_92.png) {left=59.75 top=1.92 width=33.96 height=94.26}
 
 </div>
 
@@ -1151,9 +1151,9 @@ Because of this tapered structure, a mechanical force applied at the stereociliu
 
 </div>
 
-![](images/slide_47_img_93.png) {left=56.79 top=2.30 width=35.18 height=37.13}
+![](./lecture_14_hearing/images/slide_47_img_93.png) {left=56.79 top=2.30 width=35.18 height=37.13}
 
-![](images/slide_47_img_94.png) {left=59.12 top=41.90 width=30.52 height=57.42}
+![](./lecture_14_hearing/images/slide_47_img_94.png) {left=59.12 top=41.90 width=30.52 height=57.42}
 
 </div>
 
@@ -1167,7 +1167,7 @@ When a sound wave causes the stereocilia to bend back and forth (**0.3-20 nm**),
 
 </div>
 
-![](images/slide_48_img_95.png) {left=16.06 top=42.81 width=22.96 height=54.47}
+![](./lecture_14_hearing/images/slide_48_img_95.png) {left=16.06 top=42.81 width=22.96 height=54.47}
 
 <div style="position: absolute; left: 41.75%; top: 50.00%; width: 55.71%; height: 28.73%;">
 
@@ -1196,7 +1196,7 @@ Inner and outer hair cells differ in a number of ways, both anatomically and fun
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_96.png) {left=44.82 top=22.06 width=51.60 height=71.39}
+![](./lecture_14_hearing/images/slide_49_img_96.png) {left=44.82 top=22.06 width=51.60 height=71.39}
 
 <div style="position: absolute; left: 17.28%; top: 2.58%; width: 75.34%; height: 10.17%;">
 
@@ -1217,7 +1217,7 @@ K⁺ flows down its electrochemical gradient through.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=qrk7OyAB_ss) {left=21.31 top=14.71 width=70.57 height=70.57}
+![youtube](qrk7OyAB_ss) {left=21.31 top=14.71 width=70.57 height=70.57}
 
 <div style="position: absolute; left: 47.37%; top: 4.60%; width: 21.44%; height: 8.38%;">
 
@@ -1231,7 +1231,7 @@ Meniere’s disease
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_97.png) {left=19.82 top=0.00 width=14.49 height=44.37}
+![](./lecture_14_hearing/images/slide_51_img_97.png) {left=19.82 top=0.00 width=14.49 height=44.37}
 
 <div style="position: absolute; left: 38.02%; top: 2.26%; width: 60.81%; height: 26.93%;">
 
@@ -1245,7 +1245,7 @@ There are about **35,000–50,000 neurons** altogether in the spiral ganglion. D
 
 </div>
 
-![](images/slide_51_img_98.png) {left=13.94 top=45.17 width=36.06 height=52.75}
+![](./lecture_14_hearing/images/slide_51_img_98.png) {left=13.94 top=45.17 width=36.06 height=52.75}
 
 </div>
 
@@ -1271,11 +1271,11 @@ The purpose of lateral line organs in many animals is to sense vibrations or pre
 
 </div>
 
-![](images/slide_52_img_99.png) {left=67.69 top=5.84 width=27.44 height=44.16}
+![](./lecture_14_hearing/images/slide_52_img_99.png) {left=67.69 top=5.84 width=27.44 height=44.16}
 
-![](images/slide_52_img_100.png) {left=16.53 top=39.71 width=40.52 height=29.13}
+![](./lecture_14_hearing/images/slide_52_img_100.png) {left=16.53 top=39.71 width=40.52 height=29.13}
 
-![](images/slide_52_img_101.png) {left=65.13 top=53.54 width=32.56 height=44.16}
+![](./lecture_14_hearing/images/slide_52_img_101.png) {left=65.13 top=53.54 width=32.56 height=44.16}
 
 </div>
 
@@ -1283,7 +1283,7 @@ The purpose of lateral line organs in many animals is to sense vibrations or pre
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_102.png) {left=78.59 top=1.66 width=16.60 height=29.51}
+![](./lecture_14_hearing/images/slide_53_img_102.png) {left=78.59 top=1.66 width=16.60 height=29.51}
 
 <div style="position: absolute; left: 15.33%; top: 3.13%; width: 56.57%; height: 19.15%;">
 
@@ -1307,7 +1307,7 @@ Motor proteins can change the length of outer hair cells, and outer hair cells r
 
 </div>
 
-![](images/slide_53_img_103.png) {left=59.01 top=28.17 width=37.87 height=69.17}
+![](./lecture_14_hearing/images/slide_53_img_103.png) {left=59.01 top=28.17 width=37.87 height=69.17}
 
 </div>
 
@@ -1325,7 +1325,7 @@ amplifier plays.
 
 </div>
 
-![](images/slide_54_img_104.png) {left=71.71 top=9.13 width=27.24 height=36.37}
+![](./lecture_14_hearing/images/slide_54_img_104.png) {left=71.71 top=9.13 width=27.24 height=36.37}
 
 <div style="position: absolute; left: 18.06%; top: 10.65%; width: 34.36%; height: 25.14%;">
 
@@ -1335,7 +1335,7 @@ By stretching and bending the legs in phase with the swing’s natural frequency
 
 </div>
 
-![](images/slide_54_img_105.png) {left=53.36 top=3.17 width=17.42 height=48.29}
+![](./lecture_14_hearing/images/slide_54_img_105.png) {left=53.36 top=3.17 width=17.42 height=48.29}
 
 </div>
 
@@ -1351,9 +1351,9 @@ The microphone is typically placed above the ear and pointed forward, to pick up
 
 </div>
 
-![](images/slide_55_img_106.png) {left=10.65 top=53.04 width=56.84 height=43.50}
+![](./lecture_14_hearing/images/slide_55_img_106.png) {left=10.65 top=53.04 width=56.84 height=43.50}
 
-![](images/slide_55_img_107.png) {left=70.72 top=53.04 width=27.01 height=47.10}
+![](./lecture_14_hearing/images/slide_55_img_107.png) {left=70.72 top=53.04 width=27.01 height=47.10}
 
 </div>
 
@@ -1361,7 +1361,7 @@ The microphone is typically placed above the ear and pointed forward, to pick up
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=bDx12M5u4uY) {left=23.40 top=33.72 width=63.85 height=63.85}
+![youtube](bDx12M5u4uY) {left=23.40 top=33.72 width=63.85 height=63.85}
 
 <div style="position: absolute; left: 16.23%; top: 3.01%; width: 79.83%; height: 10.77%;">
 
@@ -1394,7 +1394,7 @@ Methods for stimulating the auditory nerve fibers so as to maximize the ability 
 
 </div>
 
-![](images/slide_57_img_108.png) {left=53.16 top=31.22 width=46.84 height=64.06}
+![](./lecture_14_hearing/images/slide_57_img_108.png) {left=53.16 top=31.22 width=46.84 height=64.06}
 
 <div style="position: absolute; left: 14.19%; top: 51.13%; width: 39.07%; height: 43.09%;">
 
@@ -1408,9 +1408,9 @@ The sound spectrogram shows the frequencies present in the sound of the spoken w
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_109.png) {left=62.17 top=2.96 width=37.19 height=94.07}
+![](./lecture_14_hearing/images/slide_58_img_109.png) {left=62.17 top=2.96 width=37.19 height=94.07}
 
-![](images/slide_58_img_110.png) {left=19.00 top=2.21 width=38.76 height=94.07}
+![](./lecture_14_hearing/images/slide_58_img_110.png) {left=19.00 top=2.21 width=38.76 height=94.07}
 
 </div>
 
@@ -1470,9 +1470,9 @@ In humans, a brain structure called the medial superior olive (MSO), part of the
 
 </div>
 
-![](images/slide_60_img_111.png) {left=17.55 top=27.86 width=26.81 height=61.57}
+![](./lecture_14_hearing/images/slide_60_img_111.png) {left=17.55 top=27.86 width=26.81 height=61.57}
 
-![](images/slide_60_img_112.png) {left=49.29 top=66.34 width=19.49 height=30.60}
+![](./lecture_14_hearing/images/slide_60_img_112.png) {left=49.29 top=66.34 width=19.49 height=30.60}
 
 <div style="position: absolute; left: 16.99%; top: 89.43%; width: 32.81%; height: 10.77%;">
 
@@ -1499,7 +1499,7 @@ By arriving at precisely the same time, action potentials from the two sides pro
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_113.png) {left=53.95 top=1.06 width=40.79 height=59.52}
+![](./lecture_14_hearing/images/slide_61_img_113.png) {left=53.95 top=1.06 width=40.79 height=59.52}
 
 <div style="position: absolute; left: 13.60%; top: 0.29%; width: 39.17%; height: 61.05%;">
 
@@ -1509,7 +1509,7 @@ into the **lateral sulcus**, which separates the temporal lobe from the frontal 
 
 </div>
 
-![](images/slide_61_img_114.png) {left=52.15 top=55.29 width=47.11 height=43.69}
+![](./lecture_14_hearing/images/slide_61_img_114.png) {left=52.15 top=55.29 width=47.11 height=43.69}
 
 <div style="position: absolute; left: 13.60%; top: 64.09%; width: 38.71%; height: 35.91%;">
 
@@ -1541,7 +1541,7 @@ This pattern of impaired performance—a double dissociation—supports the conc
 
 </div>
 
-![](images/slide_62_img_115.png) {left=59.04 top=30.70 width=38.62 height=40.60}
+![](./lecture_14_hearing/images/slide_62_img_115.png) {left=59.04 top=30.70 width=38.62 height=40.60}
 
 <div style="position: absolute; left: 14.19%; top: 81.42%; width: 80.55%; height: 17.95%;">
 
@@ -1556,7 +1556,7 @@ The anterior ROI contains neurons that responded more strongly when the listener
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_116.png) {left=62.11 top=9.41 width=35.73 height=64.91}
+![](./lecture_14_hearing/images/slide_63_img_116.png) {left=62.11 top=9.41 width=35.73 height=64.91}
 
 <div style="position: absolute; left: 15.97%; top: 77.75%; width: 78.00%; height: 10.77%;">
 
@@ -1588,7 +1588,7 @@ Plan B: https://youtu.be/q-p4lWoWBcY
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=q-p4lWoWBcY) {left=18.49 top=13.89 width=75.51 height=75.51}
+![youtube](q-p4lWoWBcY) {left=18.49 top=13.89 width=75.51 height=75.51}
 
 </div>
 
@@ -1604,7 +1604,7 @@ Plan B: https://youtu.be/q-p4lWoWBcY
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_117.png) {left=71.65 top=1.36 width=24.60 height=46.90}
+![](./lecture_14_hearing/images/slide_66_img_117.png) {left=71.65 top=1.36 width=24.60 height=46.90}
 
 <div style="position: absolute; left: 14.74%; top: 9.29%; width: 56.49%; height: 53.86%;">
 
@@ -1624,7 +1624,7 @@ Frequency sensitivity is largely a consequence of the mechanics of the **basilar
 
 </div>
 
-![](images/slide_66_img_118.png) {left=68.71 top=64.29 width=31.29 height=32.41}
+![](./lecture_14_hearing/images/slide_66_img_118.png) {left=68.71 top=64.29 width=31.29 height=32.41}
 
 </div>
 
@@ -1648,7 +1648,7 @@ The timing of neural firing provides an additional type of information about sou
 
 </div>
 
-![](images/slide_67_img_119.png) {left=59.67 top=53.71 width=37.44 height=35.61}
+![](./lecture_14_hearing/images/slide_67_img_119.png) {left=59.67 top=53.71 width=37.44 height=35.61}
 
 </div>
 
@@ -1671,7 +1671,7 @@ Phase locking can still occur even if an action potential has not fired on every
 
 </div>
 
-![](images/slide_68_img_120.png) {left=16.26 top=2.70 width=36.58 height=23.85}
+![](./lecture_14_hearing/images/slide_68_img_120.png) {left=16.26 top=2.70 width=36.58 height=23.85}
 
 <div style="position: absolute; left: 55.30%; top: 30.23%; width: 41.83%; height: 39.50%;">
 
@@ -1679,9 +1679,9 @@ It is likely that intermediate sound frequencies are represented by the pooled a
 
 </div>
 
-![](images/slide_68_img_121.png) {left=15.58 top=30.23 width=37.94 height=27.21}
+![](./lecture_14_hearing/images/slide_68_img_121.png) {left=15.58 top=30.23 width=37.94 height=27.21}
 
-![](images/slide_68_img_122.png) {left=17.01 top=61.12 width=29.74 height=35.10}
+![](./lecture_14_hearing/images/slide_68_img_122.png) {left=17.01 top=61.12 width=29.74 height=35.10}
 
 </div>
 
@@ -1689,7 +1689,7 @@ It is likely that intermediate sound frequencies are represented by the pooled a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_123.png) {left=68.97 top=5.66 width=23.23 height=25.26}
+![](./lecture_14_hearing/images/slide_69_img_123.png) {left=68.97 top=5.66 width=23.23 height=25.26}
 
 <div style="position: absolute; left: 14.43%; top: 1.34%; width: 53.35%; height: 28.73%;">
 
@@ -1705,9 +1705,9 @@ the **interaural intensity difference**).
 
 </div>
 
-![](images/slide_69_img_124.png) {left=24.32 top=56.01 width=23.23 height=39.59}
+![](./lecture_14_hearing/images/slide_69_img_124.png) {left=24.32 top=56.01 width=23.23 height=39.59}
 
-![](images/slide_69_img_125.png) {left=61.55 top=32.65 width=35.97 height=65.77}
+![](./lecture_14_hearing/images/slide_69_img_125.png) {left=61.55 top=32.65 width=35.97 height=65.77}
 
 </div>
 
@@ -1721,7 +1721,7 @@ Sounds emitted by sources to the left or right of the median plane must travel d
 
 </div>
 
-![](images/slide_70_img_126.png) {left=23.41 top=42.28 width=65.64 height=50.66}
+![](./lecture_14_hearing/images/slide_70_img_126.png) {left=23.41 top=42.28 width=65.64 height=50.66}
 
 <div style="position: absolute; left: 15.42%; top: 27.56%; width: 77.21%; height: 10.77%;">
 
@@ -1735,9 +1735,9 @@ Together, ITD and ILD provide complementary sources of information about the loc
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_127.png) {left=60.50 top=41.61 width=38.33 height=56.77}
+![](./lecture_14_hearing/images/slide_71_img_127.png) {left=60.50 top=41.61 width=38.33 height=56.77}
 
-![](images/slide_71_img_128.png) {left=68.16 top=5.11 width=27.04 height=33.28}
+![](./lecture_14_hearing/images/slide_71_img_128.png) {left=68.16 top=5.11 width=27.04 height=33.28}
 
 <div style="position: absolute; left: 16.17%; top: 15.29%; width: 43.82%; height: 17.95%;">
 
@@ -1763,9 +1763,9 @@ The ears of many animals, including human ears, have an external part—the pinn
 
 </div>
 
-![](images/slide_72_img_129.png) {left=64.82 top=44.86 width=35.36 height=45.47}
+![](./lecture_14_hearing/images/slide_72_img_129.png) {left=64.82 top=44.86 width=35.36 height=45.47}
 
-![](images/slide_72_img_130.png) {left=67.03 top=17.95 width=30.94 height=13.70}
+![](./lecture_14_hearing/images/slide_72_img_130.png) {left=67.03 top=17.95 width=30.94 height=13.70}
 
 <div style="position: absolute; left: 14.36%; top: 16.59%; width: 54.13%; height: 25.14%;">
 
@@ -1787,7 +1787,7 @@ Spectral shape cues depend on hearing how the pinna modifies the shape of the so
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_131.png) {left=94.59 top=69.90 width=20.04 height=25.91}
+![](./lecture_14_hearing/images/slide_73_img_131.png) {left=94.59 top=69.90 width=20.04 height=25.91}
 
 <div style="position: absolute; left: 16.14%; top: 3.02%; width: 50.64%; height: 51.18%;">
 
@@ -1796,7 +1796,7 @@ Some owl species, such as barn owls, have **asymmetrically set ear opening**s (o
 
 </div>
 
-![](images/slide_73_img_132.png) {left=73.99 top=39.58 width=20.74 height=29.55}
+![](./lecture_14_hearing/images/slide_73_img_132.png) {left=73.99 top=39.58 width=20.74 height=29.55}
 
 <div style="position: absolute; left: 73.99%; top: 27.79%; width: 19.63%; height: 7.18%;">
 
@@ -1804,7 +1804,7 @@ Not ears, just feathers
 
 </div>
 
-![](images/slide_73_img_133.png) {left=73.37 top=3.02 width=20.87 height=22.70}
+![](./lecture_14_hearing/images/slide_73_img_133.png) {left=73.37 top=3.02 width=20.87 height=22.70}
 
 <div style="position: absolute; left: 15.93%; top: 54.20%; width: 51.07%; height: 14.37%;">
 
@@ -1812,7 +1812,7 @@ Apart from owls, no extant bird species is known to possess consistently asymmet
 
 </div>
 
-![](images/slide_73_img_134.png) {left=29.65 top=69.90 width=25.66 height=27.37}
+![](./lecture_14_hearing/images/slide_73_img_134.png) {left=29.65 top=69.90 width=25.66 height=27.37}
 
 </div>
 
@@ -1844,11 +1844,11 @@ Random miscellaneous facts
 
 </div>
 
-![](images/slide_74_img_135.png) {left=82.00 top=9.82 width=14.51 height=16.92}
+![](./lecture_14_hearing/images/slide_74_img_135.png) {left=82.00 top=9.82 width=14.51 height=16.92}
 
-![](images/slide_74_img_136.png) {left=81.20 top=40.79 width=15.31 height=16.92}
+![](./lecture_14_hearing/images/slide_74_img_136.png) {left=81.20 top=40.79 width=15.31 height=16.92}
 
-![](images/slide_74_img_137.png) {left=81.20 top=71.75 width=15.31 height=23.35}
+![](./lecture_14_hearing/images/slide_74_img_137.png) {left=81.20 top=71.75 width=15.31 height=23.35}
 
 </div>
 
@@ -1866,9 +1866,9 @@ Moreover,the reduction in level is greater for high frequencies than for low fre
 
 </div>
 
-![](images/slide_75_img_138.png) {left=69.50 top=67.65 width=24.57 height=24.81}
+![](./lecture_14_hearing/images/slide_75_img_138.png) {left=69.50 top=67.65 width=24.57 height=24.81}
 
-![](images/slide_75_img_139.png) {left=66.35 top=14.01 width=28.98 height=41.74}
+![](./lecture_14_hearing/images/slide_75_img_139.png) {left=66.35 top=14.01 width=28.98 height=41.74}
 
 <div style="position: absolute; left: 25.41%; top: 1.51%; width: 32.81%; height: 7.18%;">
 
@@ -1924,7 +1924,7 @@ The vestibular labyrinth includes two types of structures with different functio
 
 </div>
 
-![](images/slide_78_img_140.png) {left=59.67 top=50.00 width=39.92 height=48.83}
+![](./lecture_14_hearing/images/slide_78_img_140.png) {left=59.67 top=50.00 width=39.92 height=48.83}
 
 <div style="position: absolute; left: 14.78%; top: 27.30%; width: 42.83%; height: 61.05%;">
 
@@ -1950,7 +1950,7 @@ Each hair cell of the vestibular organs makes an excitatory synapse with the end
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_79_img_141.png) {left=17.13 top=5.69 width=39.35 height=53.49}
+![](./lecture_14_hearing/images/slide_79_img_141.png) {left=17.13 top=5.69 width=39.35 height=53.49}
 
 <div style="position: absolute; left: 17.53%; top: 68.46%; width: 75.87%; height: 28.73%;">
 
@@ -1958,7 +1958,7 @@ There are two types of hair cells, and they differ in their pattern of innervati
 
 </div>
 
-![](images/slide_79_img_142.png) {left=61.45 top=1.75 width=27.21 height=65.20}
+![](./lecture_14_hearing/images/slide_79_img_142.png) {left=61.45 top=1.75 width=27.21 height=65.20}
 
 </div>
 
@@ -1974,7 +1974,7 @@ The saccule and utricle detect changes of head angle, as well as linear accelera
 
 </div>
 
-![](images/slide_80_img_143.png) {left=64.55 top=6.38 width=31.38 height=30.21}
+![](./lecture_14_hearing/images/slide_80_img_143.png) {left=64.55 top=6.38 width=31.38 height=30.21}
 
 <div style="position: absolute; left: 15.35%; top: 29.70%; width: 46.48%; height: 68.23%;">
 
@@ -1987,7 +1987,7 @@ Movements are transduced by hair cells in the maculae when the hair bundles are 
 
 </div>
 
-![](images/slide_80_img_144.png) {left=60.13 top=45.40 width=40.23 height=42.32}
+![](./lecture_14_hearing/images/slide_80_img_144.png) {left=60.13 top=45.40 width=40.23 height=42.32}
 
 <div style="position: absolute; left: 15.35%; top: 60.23%; width: 43.65%; height: 10.77%;">
 
@@ -2023,7 +2023,7 @@ In the saccule, they face towards the striola.
 
 </div>
 
-![](images/slide_81_img_145.png) {left=55.28 top=2.08 width=48.72 height=63.26}
+![](./lecture_14_hearing/images/slide_81_img_145.png) {left=55.28 top=2.08 width=48.72 height=63.26}
 
 </div>
 
@@ -2031,11 +2031,11 @@ In the saccule, they face towards the striola.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_146.png) {left=19.26 top=37.87 width=19.17 height=57.99}
+![](./lecture_14_hearing/images/slide_82_img_146.png) {left=19.26 top=37.87 width=19.17 height=57.99}
 
-![](images/slide_82_img_147.png) {left=44.45 top=36.69 width=21.17 height=57.99}
+![](./lecture_14_hearing/images/slide_82_img_147.png) {left=44.45 top=36.69 width=21.17 height=57.99}
 
-![](images/slide_82_img_148.png) {left=66.23 top=54.00 width=30.45 height=34.88}
+![](./lecture_14_hearing/images/slide_82_img_148.png) {left=66.23 top=54.00 width=30.45 height=34.88}
 
 <div style="position: absolute; left: 17.50%; top: 1.05%; width: 80.70%; height: 39.50%;">
 
@@ -2056,7 +2056,7 @@ calcium carbonate
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_83_img_149.png) {left=13.32 top=0.00 width=44.98 height=100.00}
+![](./lecture_14_hearing/images/slide_83_img_149.png) {left=13.32 top=0.00 width=44.98 height=100.00}
 
 <div style="position: absolute; left: 58.30%; top: 73.77%; width: 39.27%; height: 23.34%;">
 
@@ -2084,9 +2084,9 @@ The semicircular canals detect turning movements of the head, such as shaking yo
 
 </div>
 
-![](images/slide_84_img_150.png) {left=81.59 top=9.67 width=17.39 height=85.32}
+![](./lecture_14_hearing/images/slide_84_img_150.png) {left=81.59 top=9.67 width=17.39 height=85.32}
 
-![](images/slide_84_img_151.png) {left=54.19 top=41.24 width=26.47 height=52.71}
+![](./lecture_14_hearing/images/slide_84_img_151.png) {left=54.19 top=41.24 width=26.47 height=52.71}
 
 <div style="position: absolute; left: 15.06%; top: 36.23%; width: 40.87%; height: 57.46%;">
 
@@ -2102,9 +2102,9 @@ Bending of the cilia occurs when the canal is suddenly rotated about its axis li
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_85_img_152.png) {left=17.01 top=2.96 width=34.08 height=94.07}
+![](./lecture_14_hearing/images/slide_85_img_152.png) {left=17.01 top=2.96 width=34.08 height=94.07}
 
-![](images/slide_85_img_153.png) {left=51.75 top=5.12 width=45.58 height=57.12}
+![](./lecture_14_hearing/images/slide_85_img_153.png) {left=51.75 top=5.12 width=45.58 height=57.12}
 
 <div style="position: absolute; left: 51.09%; top: 65.61%; width: 48.39%; height: 32.32%;">
 
@@ -2118,7 +2118,7 @@ In humans, the horizontal semicircular canal and the utricle both lie in a plane
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_86_img_154.png) {left=27.23 top=0.25 width=53.17 height=99.50}
+![](./lecture_14_hearing/images/slide_86_img_154.png) {left=27.23 top=0.25 width=53.17 height=99.50}
 
 </div>
 
@@ -2142,7 +2142,7 @@ While rotation excites the hair cells of one canal, it inhibits the hair cells o
 
 </div>
 
-![](images/slide_87_img_155.png) {left=63.60 top=47.36 width=27.44 height=49.71}
+![](./lecture_14_hearing/images/slide_87_img_155.png) {left=63.60 top=47.36 width=27.44 height=49.71}
 
 </div>
 
@@ -2167,7 +2167,7 @@ The processing of positional and movement information for control of visual and 
 
 </div>
 
-![](images/slide_88_img_156.png) {left=51.75 top=26.56 width=41.84 height=70.42}
+![](./lecture_14_hearing/images/slide_88_img_156.png) {left=51.75 top=26.56 width=41.84 height=70.42}
 
 </div>
 
@@ -2184,7 +2184,7 @@ prefrontal cortex, area 6 and the superior frontal gyrus receive vestibular sign
 
 </div>
 
-![](images/slide_89_img_157.png) {left=59.92 top=0.00 width=39.57 height=46.51}
+![](./lecture_14_hearing/images/slide_89_img_157.png) {left=59.92 top=0.00 width=39.57 height=46.51}
 
 <div style="position: absolute; left: 14.87%; top: 3.14%; width: 45.91%; height: 32.32%;">
 
@@ -2204,7 +2204,7 @@ Although vestibular signals are widely distributed to a number of cortical regio
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=j_R0LcPnZ_w) {left=58.47 top=51.03 width=39.97 height=39.97}
+![youtube](j_R0LcPnZ_w) {left=58.47 top=51.03 width=39.97 height=39.97}
 
 <div style="position: absolute; left: 17.38%; top: 42.81%; width: 39.97%; height: 53.86%;">
 
@@ -2235,7 +2235,7 @@ One very important function of the central vestibular system is to keep your eye
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_91_img_158.png) {left=16.54 top=2.96 width=31.34 height=94.07}
+![](./lecture_14_hearing/images/slide_91_img_158.png) {left=16.54 top=2.96 width=31.34 height=94.07}
 
 <div style="position: absolute; left: 48.25%; top: 1.44%; width: 50.75%; height: 96.96%;">
 

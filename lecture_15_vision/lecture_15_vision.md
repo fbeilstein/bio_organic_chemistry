@@ -52,7 +52,7 @@ Ames Window
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=uREz5GNr5AM) {left=19.28 top=18.40 width=73.93 height=73.93}
+![youtube](uREz5GNr5AM) {left=19.28 top=18.40 width=73.93 height=73.93}
 
 </div>
 
@@ -66,7 +66,7 @@ Ames Window
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=7SN_Ga36xuM) {left=23.17 top=20.32 width=72.12 height=72.12}
+![youtube](7SN_Ga36xuM) {left=23.17 top=20.32 width=72.12 height=72.12}
 
 </div>
 
@@ -74,7 +74,7 @@ Ames Window
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=e4qsX4XDtYY) {left=16.08 top=8.04 width=83.92 height=83.92}
+![youtube](e4qsX4XDtYY) {left=16.08 top=8.04 width=83.92 height=83.92}
 
 </div>
 
@@ -82,7 +82,7 @@ Ames Window
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_1.png) {left=17.34 top=17.71 width=82.66 height=71.68}
+![](./lecture_15_vision/images/slide_6_img_1.png) {left=17.34 top=17.71 width=82.66 height=71.68}
 
 <div style="position: absolute; left: 21.31%; top: 79.88%; width: 78.86%; height: 7.14%;">
 
@@ -113,7 +113,7 @@ Model
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=ZapmK0uft8U) {left=20.53 top=22.18 width=71.43 height=71.43}
+![youtube](ZapmK0uft8U) {left=20.53 top=22.18 width=71.43 height=71.43}
 
 </div>
 
@@ -127,7 +127,7 @@ Refocus
 
 </div>
 
-![youtube](http://www.youtube.com/watch?v=N1k4Vh2zgvc) {left=18.89 top=18.69 width=74.70 height=74.70}
+![youtube](N1k4Vh2zgvc) {left=18.89 top=18.69 width=74.70 height=74.70}
 
 </div>
 
@@ -135,7 +135,7 @@ Refocus
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_2.png) {left=22.63 top=2.69 width=68.27 height=94.62}
+![](./lecture_15_vision/images/slide_9_img_2.png) {left=22.63 top=2.69 width=68.27 height=94.62}
 
 <div style="position: absolute; left: 19.31%; top: 64.26%; width: 21.89%; height: 33.05%;">
 
@@ -149,7 +149,7 @@ Note: lite should pass few layers of cells before reaching photoreceptors
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_3.png) {left=21.63 top=0.00 width=69.86 height=100.00}
+![](./lecture_15_vision/images/slide_10_img_3.png) {left=21.63 top=0.00 width=69.86 height=100.00}
 
 </div>
 
@@ -157,11 +157,11 @@ Note: lite should pass few layers of cells before reaching photoreceptors
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_4.png) {left=39.00 top=0.00 width=40.82 height=51.39}
+![](./lecture_15_vision/images/slide_11_img_4.png) {left=39.00 top=0.00 width=40.82 height=51.39}
 
-![](images/slide_11_img_5.png) {left=49.89 top=50.31 width=18.46 height=48.05}
+![](./lecture_15_vision/images/slide_11_img_5.png) {left=49.89 top=50.31 width=18.46 height=48.05}
 
-![](images/slide_11_img_6.png) {left=68.35 top=57.37 width=15.25 height=40.41}
+![](./lecture_15_vision/images/slide_11_img_6.png) {left=68.35 top=57.37 width=15.25 height=40.41}
 
 <div style="position: absolute; left: 17.23%; top: 4.84%; width: 23.59%; height: 107.03%;">
 
@@ -187,7 +187,7 @@ Blind Spot. Close right eye, look at the cross
 
 </div>
 
-![](images/slide_12_img_7.png) {left=4.54 top=30.83 width=95.45 height=44.96}
+![](./lecture_15_vision/images/slide_12_img_7.png) {left=4.54 top=30.83 width=95.45 height=44.96}
 
 </div>
 
@@ -195,7 +195,7 @@ Blind Spot. Close right eye, look at the cross
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_8.png) {left=18.84 top=1.56 width=76.16 height=71.85}
+![](./lecture_15_vision/images/slide_13_img_8.png) {left=18.84 top=1.56 width=76.16 height=71.85}
 
 <div style="position: absolute; left: 18.84%; top: 71.33%; width: 70.75%; height: 28.67%;">
 
@@ -209,11 +209,11 @@ The outer segment consists of a stack of membranous discs that contain the light
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_9.png) {left=16.69 top=3.06 width=42.81 height=93.89}
+![](./lecture_15_vision/images/slide_14_img_9.png) {left=16.69 top=3.06 width=42.81 height=93.89}
 
-![](images/slide_14_img_10.png) {left=61.17 top=2.96 width=37.17 height=43.69}
+![](./lecture_15_vision/images/slide_14_img_10.png) {left=61.17 top=2.96 width=37.17 height=43.69}
 
-![](images/slide_14_img_11.png) {left=61.17 top=49.62 width=34.74 height=47.42}
+![](./lecture_15_vision/images/slide_14_img_11.png) {left=61.17 top=49.62 width=34.74 height=47.42}
 
 <div style="position: absolute; left: 67.01%; top: 90.06%; width: 14.50%; height: 6.88%;">
 
@@ -227,7 +227,7 @@ Lys tail is shown !
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_12.png) {left=48.44 top=0.00 width=51.56 height=47.96}
+![](./lecture_15_vision/images/slide_15_img_12.png) {left=48.44 top=0.00 width=51.56 height=47.96}
 
 <div style="position: absolute; left: 17.08%; top: 6.47%; width: 31.36%; height: 35.01%;">
 
@@ -237,7 +237,7 @@ rhodopsin, this Schiff base is protonated.
 
 </div>
 
-![](images/slide_15_img_13.png) {left=17.08 top=55.23 width=82.92 height=40.02}
+![](./lecture_15_vision/images/slide_15_img_13.png) {left=17.08 top=55.23 width=82.92 height=40.02}
 
 </div>
 
@@ -251,7 +251,7 @@ Natural Pigments (see what’s common?)
 
 </div>
 
-![](images/slide_16_img_14.png) {left=17.23 top=20.96 width=65.13 height=74.57}
+![](./lecture_15_vision/images/slide_16_img_14.png) {left=17.23 top=20.96 width=65.13 height=74.57}
 
 </div>
 
@@ -259,23 +259,11 @@ Natural Pigments (see what’s common?)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_15.png) {left=0.00 top=0.00 width=52.61 height=49.27}
+![](./lecture_15_vision/images/slide_17_img_15.png) {left=0.00 top=0.00 width=52.61 height=49.27}
 
-![](images/slide_17_img_16.png) {left=64.40 top=28.45 width=35.38 height=42.50}
+![](./lecture_15_vision/images/slide_17_img_16.png) {left=64.40 top=28.45 width=35.38 height=42.50}
 
-![](images/slide_17_img_17.png) {left=0.00 top=49.49 width=52.61 height=50.46}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_18_img_18.png) {left=19.05 top=4.84 width=63.50 height=25.69}
-
-![](images/slide_18_img_19.png) {left=18.55 top=31.04 width=71.25 height=46.36}
-
-![](images/slide_18_img_20.png) {left=71.78 top=79.01 width=10.77 height=14.61}
+![](./lecture_15_vision/images/slide_17_img_17.png) {left=0.00 top=49.49 width=52.61 height=50.46}
 
 </div>
 
@@ -283,23 +271,11 @@ Natural Pigments (see what’s common?)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_21.png) {left=18.13 top=1.38 width=41.73 height=87.31}
+![](./lecture_15_vision/images/slide_18_img_18.png) {left=19.05 top=4.84 width=63.50 height=25.69}
 
-![](images/slide_19_img_22.png) {left=59.87 top=8.28 width=39.49 height=75.57}
+![](./lecture_15_vision/images/slide_18_img_19.png) {left=18.55 top=31.04 width=71.25 height=46.36}
 
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_20_img_23.png) {left=17.52 top=14.31 width=33.44 height=85.69}
-
-![](images/slide_20_img_24.png) {left=63.22 top=0.01 width=36.78 height=99.98}
-
-![](images/slide_20_img_25.png) {left=23.42 top=4.41 width=8.32 height=14.17}
-
-![](images/slide_20_img_26.png) {left=45.84 top=23.04 width=15.37 height=17.40}
+![](./lecture_15_vision/images/slide_18_img_20.png) {left=71.78 top=79.01 width=10.77 height=14.61}
 
 </div>
 
@@ -307,9 +283,33 @@ Natural Pigments (see what’s common?)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_27.png) {left=18.26 top=36.32 width=60.86 height=58.55}
+![](./lecture_15_vision/images/slide_19_img_21.png) {left=18.13 top=1.38 width=41.73 height=87.31}
 
-![](images/slide_21_img_28.png) {left=18.26 top=1.87 width=77.07 height=30.39}
+![](./lecture_15_vision/images/slide_19_img_22.png) {left=59.87 top=8.28 width=39.49 height=75.57}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_15_vision/images/slide_20_img_23.png) {left=17.52 top=14.31 width=33.44 height=85.69}
+
+![](./lecture_15_vision/images/slide_20_img_24.png) {left=63.22 top=0.01 width=36.78 height=99.98}
+
+![](./lecture_15_vision/images/slide_20_img_25.png) {left=23.42 top=4.41 width=8.32 height=14.17}
+
+![](./lecture_15_vision/images/slide_20_img_26.png) {left=45.84 top=23.04 width=15.37 height=17.40}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_15_vision/images/slide_21_img_27.png) {left=18.26 top=36.32 width=60.86 height=58.55}
+
+![](./lecture_15_vision/images/slide_21_img_28.png) {left=18.26 top=1.87 width=77.07 height=30.39}
 
 <div style="position: absolute; left: 63.23%; top: 70.57%; width: 32.10%; height: 19.45%;">
 
@@ -323,7 +323,7 @@ Blue or green polyenes are rare, and dyes of these colours rely on more elaborat
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_29.png) {left=18.14 top=4.84 width=47.02 height=87.52}
+![](./lecture_15_vision/images/slide_22_img_29.png) {left=18.14 top=4.84 width=47.02 height=87.52}
 
 <div style="position: absolute; left: 68.03%; top: 12.90%; width: 29.03%; height: 74.18%;">
 
@@ -339,11 +339,11 @@ Blue or green polyenes are rare, and dyes of these colours rely on more elaborat
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_30.png) {left=17.79 top=0.00 width=82.21 height=56.28}
+![](./lecture_15_vision/images/slide_23_img_30.png) {left=17.79 top=0.00 width=82.21 height=56.28}
 
-![](images/slide_23_img_31.png) {left=16.45 top=56.28 width=44.88 height=37.79}
+![](./lecture_15_vision/images/slide_23_img_31.png) {left=16.45 top=56.28 width=44.88 height=37.79}
 
-![](images/slide_23_img_32.png) {left=74.60 top=57.45 width=25.40 height=42.55}
+![](./lecture_15_vision/images/slide_23_img_32.png) {left=74.60 top=57.45 width=25.40 height=42.55}
 
 </div>
 
@@ -379,7 +379,7 @@ Rhodopsin
 
 </div>
 
-![](images/slide_25_img_33.png) {left=22.18 top=15.10 width=68.13 height=73.74}
+![](./lecture_15_vision/images/slide_25_img_33.png) {left=22.18 top=15.10 width=68.13 height=73.74}
 
 <div style="position: absolute; left: 20.87%; top: 85.05%; width: 70.75%; height: 21.04%;">
 
@@ -393,7 +393,7 @@ Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_34.png) {left=17.23 top=1.61 width=82.54 height=55.70}
+![](./lecture_15_vision/images/slide_26_img_34.png) {left=17.23 top=1.61 width=82.54 height=55.70}
 
 <div style="position: absolute; left: 18.14%; top: 64.50%; width: 73.47%; height: 24.16%;">
 
@@ -407,7 +407,7 @@ The L and M opsins are most closely related, with 96% identity in their amino ac
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_35.png) {left=18.14 top=0.00 width=81.85 height=46.08}
+![](./lecture_15_vision/images/slide_27_img_35.png) {left=18.14 top=0.00 width=81.85 height=46.08}
 
 <div style="position: absolute; left: 18.14%; top: 46.76%; width: 73.47%; height: 46.08%;">
 
@@ -423,7 +423,7 @@ Wavelength regulation mechanisms.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_36.png) {left=18.14 top=0.00 width=81.85 height=46.08}
+![](./lecture_15_vision/images/slide_28_img_36.png) {left=18.14 top=0.00 width=81.85 height=46.08}
 
 <div style="position: absolute; left: 18.14%; top: 46.76%; width: 73.47%; height: 42.22%;">
 
@@ -439,7 +439,7 @@ Wavelength regulation mechanisms.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_29_img_37.png) {left=18.14 top=0.00 width=81.85 height=46.08}
+![](./lecture_15_vision/images/slide_29_img_37.png) {left=18.14 top=0.00 width=81.85 height=46.08}
 
 <div style="position: absolute; left: 18.14%; top: 46.76%; width: 73.47%; height: 50.65%;">
 
@@ -458,7 +458,7 @@ which absorbs at 610 nm.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_38.png) {left=20.86 top=2.96 width=79.14 height=94.07}
+![](./lecture_15_vision/images/slide_30_img_38.png) {left=20.86 top=2.96 width=79.14 height=94.07}
 
 </div>
 
@@ -466,7 +466,7 @@ which absorbs at 610 nm.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_39.png) {left=17.41 top=-0.00 width=82.59 height=87.74}
+![](./lecture_15_vision/images/slide_31_img_39.png) {left=17.41 top=-0.00 width=82.59 height=87.74}
 
 <div style="position: absolute; left: 15.91%; top: 86.25%; width: 84.24%; height: 13.16%;">
 
@@ -486,9 +486,9 @@ How female **capuchins **see the world: sympatric primates (Ateles geoffroyi), r
 
 </div>
 
-![](images/slide_32_img_40.png) {left=16.25 top=13.12 width=80.25 height=20.28}
+![](./lecture_15_vision/images/slide_32_img_40.png) {left=16.25 top=13.12 width=80.25 height=20.28}
 
-![](images/slide_32_img_41.png) {left=16.25 top=44.61 width=84.59 height=23.77}
+![](./lecture_15_vision/images/slide_32_img_41.png) {left=16.25 top=44.61 width=84.59 height=23.77}
 
 <div style="position: absolute; left: 16.25%; top: 35.63%; width: 75.11%; height: 8.98%;">
 
@@ -496,7 +496,7 @@ How female **capuchins **see the world: sympatric primates (Ateles geoffroyi), r
 
 </div>
 
-![](images/slide_32_img_42.png) {left=16.25 top=76.94 width=84.59 height=23.06}
+![](./lecture_15_vision/images/slide_32_img_42.png) {left=16.25 top=76.94 width=84.59 height=23.06}
 
 <div style="position: absolute; left: 16.00%; top: 69.93%; width: 83.40%; height: 8.38%;">
 
@@ -564,9 +564,9 @@ How female **capuchins **see the world: sympatric primates (Ateles geoffroyi), r
 
 </div>
 
-![](images/slide_33_img_43.png) {left=16.81 top=68.29 width=42.05 height=18.67}
+![](./lecture_15_vision/images/slide_33_img_43.png) {left=16.81 top=68.29 width=42.05 height=18.67}
 
-![](images/slide_33_img_44.png) {left=63.30 top=64.95 width=36.02 height=22.63}
+![](./lecture_15_vision/images/slide_33_img_44.png) {left=63.30 top=64.95 width=36.02 height=22.63}
 
 <div style="position: absolute; left: 20.20%; top: 35.03%; width: 25.26%; height: 8.98%;">
 
@@ -592,11 +592,11 @@ How female **capuchins **see the world: sympatric primates (Ateles geoffroyi), r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_45.png) {left=50.00 top=0.00 width=49.83 height=94.07}
+![](./lecture_15_vision/images/slide_34_img_45.png) {left=50.00 top=0.00 width=49.83 height=94.07}
 
-![](images/slide_34_img_46.png) {left=18.25 top=62.51 width=29.91 height=15.40}
+![](./lecture_15_vision/images/slide_34_img_46.png) {left=18.25 top=62.51 width=29.91 height=15.40}
 
-![](images/slide_34_img_47.png) {left=18.25 top=82.30 width=29.91 height=14.17}
+![](./lecture_15_vision/images/slide_34_img_47.png) {left=18.25 top=82.30 width=29.91 height=14.17}
 
 <div style="position: absolute; left: 17.41%; top: 3.46%; width: 32.59%; height: 56.26%;">
 
@@ -616,9 +616,9 @@ recombination
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_48.png) {left=56.47 top=9.79 width=43.53 height=54.81}
+![](./lecture_15_vision/images/slide_35_img_48.png) {left=56.47 top=9.79 width=43.53 height=54.81}
 
-![](images/slide_35_img_49.png) {left=14.72 top=9.79 width=41.76 height=54.81}
+![](./lecture_15_vision/images/slide_35_img_49.png) {left=14.72 top=9.79 width=41.76 height=54.81}
 
 <div style="position: absolute; left: 19.08%; top: 73.49%; width: 80.92%; height: 13.95%;">
 
@@ -632,7 +632,7 @@ Comparison of RGB-cones in retina and Bayer filter for CCd matrix in photo camer
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_50.png) {left=19.05 top=2.05 width=72.48 height=65.68}
+![](./lecture_15_vision/images/slide_36_img_50.png) {left=19.05 top=2.05 width=72.48 height=65.68}
 
 <div style="position: absolute; left: 19.96%; top: 74.09%; width: 70.75%; height: 21.04%;">
 
@@ -646,7 +646,7 @@ Rhodopsin consists of opsin, a protein with seven transmembrane alpha helices, a
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_51.png) {left=43.82 top=0.00 width=56.18 height=100.00}
+![](./lecture_15_vision/images/slide_37_img_51.png) {left=43.82 top=0.00 width=56.18 height=100.00}
 
 <div style="position: absolute; left: 17.41%; top: 9.69%; width: 26.40%; height: 80.20%;">
 
@@ -663,7 +663,7 @@ of neurotransmitter activates G-proteins and effector enzymes.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_52.png) {left=41.33 top=-0.02 width=58.82 height=55.28}
+![](./lecture_15_vision/images/slide_38_img_52.png) {left=41.33 top=-0.02 width=58.82 height=55.28}
 
 <div style="position: absolute; left: 15.58%; top: 53.61%; width: 84.57%; height: 46.39%;">
 
@@ -683,7 +683,7 @@ GPCRs provide signal specificity, and their interaction with G proteins provides
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_53.png) {left=14.63 top=1.61 width=83.33 height=64.52}
+![](./lecture_15_vision/images/slide_39_img_53.png) {left=14.63 top=1.61 width=83.33 height=64.52}
 
 <div style="position: absolute; left: 16.33%; top: 67.73%; width: 81.63%; height: 29.99%;">
 
@@ -699,7 +699,7 @@ GPCRs provide signal specificity, and their interaction with G proteins provides
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_54.png) {left=19.05 top=1.24 width=72.92 height=98.75}
+![](./lecture_15_vision/images/slide_40_img_54.png) {left=19.05 top=1.24 width=72.92 height=98.75}
 
 </div>
 
@@ -707,7 +707,7 @@ GPCRs provide signal specificity, and their interaction with G proteins provides
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_41_img_55.png) {left=31.89 top=0.00 width=56.11 height=100.00}
+![](./lecture_15_vision/images/slide_41_img_55.png) {left=31.89 top=0.00 width=56.11 height=100.00}
 
 </div>
 
@@ -715,7 +715,7 @@ GPCRs provide signal specificity, and their interaction with G proteins provides
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_42_img_56.png) {left=31.55 top=0.00 width=56.25 height=100.00}
+![](./lecture_15_vision/images/slide_42_img_56.png) {left=31.55 top=0.00 width=56.25 height=100.00}
 
 </div>
 
@@ -744,7 +744,7 @@ Newly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_57.png) {left=21.63 top=0.00 width=69.86 height=100.00}
+![](./lecture_15_vision/images/slide_44_img_57.png) {left=21.63 top=0.00 width=69.86 height=100.00}
 
 </div>
 
@@ -752,7 +752,7 @@ Newly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_58.png) {left=18.69 top=3.81 width=38.46 height=94.24}
+![](./lecture_15_vision/images/slide_45_img_58.png) {left=18.69 top=3.81 width=38.46 height=94.24}
 
 <div style="position: absolute; left: 58.05%; top: 6.45%; width: 41.95%; height: 77.76%;">
 
@@ -770,7 +770,7 @@ Newly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_59.png) {left=31.17 top=0.00 width=68.83 height=90.41}
+![](./lecture_15_vision/images/slide_46_img_59.png) {left=31.17 top=0.00 width=68.83 height=90.41}
 
 <div style="position: absolute; left: 16.25%; top: 0.00%; width: 18.19%; height: 84.99%;">
 
@@ -790,7 +790,7 @@ Newly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_60.png) {left=17.51 top=2.23 width=79.78 height=76.94}
+![](./lecture_15_vision/images/slide_47_img_60.png) {left=17.51 top=2.23 width=79.78 height=76.94}
 
 <div style="position: absolute; left: 18.08%; top: 80.98%; width: 79.22%; height: 15.34%;">
 
@@ -804,7 +804,7 @@ Newly generated 11-cis-retinal binds to apo-opsins and reconstitute the 11-cis-r
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_61.png) {left=17.24 top=8.53 width=80.00 height=82.95}
+![](./lecture_15_vision/images/slide_48_img_61.png) {left=17.24 top=8.53 width=80.00 height=82.95}
 
 <div style="position: absolute; left: 56.81%; top: 87.94%; width: 15.56%; height: 12.06%;">
 
@@ -819,7 +819,7 @@ excitation
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_62.png) {left=31.20 top=29.39 width=27.92 height=91.58}
+![](./lecture_15_vision/images/slide_49_img_62.png) {left=31.20 top=29.39 width=27.92 height=91.58}
 
 <div style="position: absolute; left: 70.92%; top: 73.58%; width: 27.23%; height: 8.04%;">
 
@@ -845,7 +845,7 @@ Cornsweet illusion
 
 </div>
 
-![](images/slide_50_img_63.png) {left=16.76 top=21.99 width=34.04 height=76.91}
+![](./lecture_15_vision/images/slide_50_img_63.png) {left=16.76 top=21.99 width=34.04 height=76.91}
 
 </div>
 
@@ -853,9 +853,9 @@ Cornsweet illusion
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_64.png) {left=74.05 top=0.00 width=25.95 height=100.00}
+![](./lecture_15_vision/images/slide_51_img_64.png) {left=74.05 top=0.00 width=25.95 height=100.00}
 
-![](images/slide_51_img_65.png) {left=21.28 top=-1.49 width=51.51 height=101.49}
+![](./lecture_15_vision/images/slide_51_img_65.png) {left=21.28 top=-1.49 width=51.51 height=101.49}
 
 </div>
 
@@ -863,7 +863,7 @@ Cornsweet illusion
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_66.png) {left=44.12 top=0.00 width=55.88 height=61.23}
+![](./lecture_15_vision/images/slide_52_img_66.png) {left=44.12 top=0.00 width=55.88 height=61.23}
 
 <div style="position: absolute; left: 16.25%; top: 3.32%; width: 28.87%; height: 46.68%;">
 
@@ -883,7 +883,7 @@ Cornsweet illusion
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_67.png) {left=31.44 top=0.00 width=68.56 height=70.06}
+![](./lecture_15_vision/images/slide_53_img_67.png) {left=31.44 top=0.00 width=68.56 height=70.06}
 
 <div style="position: absolute; left: 16.08%; top: 68.15%; width: 84.07%; height: 32.32%;">
 
@@ -905,9 +905,9 @@ Convolution used in artificial NNs
 
 </div>
 
-![](images/slide_54_img_68.png) {left=39.47 top=34.62 width=56.95 height=41.10}
+![](./lecture_15_vision/images/slide_54_img_68.png) {left=39.47 top=34.62 width=56.95 height=41.10}
 
-![](images/slide_54_img_69.png) {left=16.07 top=29.43 width=25.39 height=52.67}
+![](./lecture_15_vision/images/slide_54_img_69.png) {left=16.07 top=29.43 width=25.39 height=52.67}
 
 </div>
 
@@ -915,11 +915,11 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_70.png) {left=17.19 top=0.00 width=35.78 height=46.22}
+![](./lecture_15_vision/images/slide_55_img_70.png) {left=17.19 top=0.00 width=35.78 height=46.22}
 
-![](images/slide_55_img_71.png) {left=66.82 top=1.33 width=32.35 height=51.50}
+![](./lecture_15_vision/images/slide_55_img_71.png) {left=66.82 top=1.33 width=32.35 height=51.50}
 
-![](images/slide_55_img_72.png) {left=17.19 top=46.22 width=32.35 height=52.54}
+![](./lecture_15_vision/images/slide_55_img_72.png) {left=17.19 top=46.22 width=32.35 height=52.54}
 
 <div style="position: absolute; left: 51.80%; top: 53.02%; width: 48.35%; height: 27.53%;">
 
@@ -936,7 +936,7 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_56_img_73.png) {left=22.19 top=0.00 width=74.64 height=100.00}
+![](./lecture_15_vision/images/slide_56_img_73.png) {left=22.19 top=0.00 width=74.64 height=100.00}
 
 </div>
 
@@ -944,7 +944,7 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_74.png) {left=19.35 top=0.00 width=75.14 height=100.00}
+![](./lecture_15_vision/images/slide_57_img_74.png) {left=19.35 top=0.00 width=75.14 height=100.00}
 
 </div>
 
@@ -952,7 +952,7 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_75.png) {left=16.74 top=0.00 width=83.26 height=63.70}
+![](./lecture_15_vision/images/slide_58_img_75.png) {left=16.74 top=0.00 width=83.26 height=63.70}
 
 <div style="position: absolute; left: 18.92%; top: 67.56%; width: 81.23%; height: 22.74%;">
 
@@ -968,9 +968,9 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_76.png) {left=20.69 top=0.00 width=64.52 height=50.00}
+![](./lecture_15_vision/images/slide_59_img_76.png) {left=20.69 top=0.00 width=64.52 height=50.00}
 
-![](images/slide_59_img_77.png) {left=41.37 top=50.00 width=29.34 height=51.48}
+![](./lecture_15_vision/images/slide_59_img_77.png) {left=41.37 top=50.00 width=29.34 height=51.48}
 
 </div>
 
@@ -978,7 +978,7 @@ Convolution used in artificial NNs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_60_img_78.png) {left=18.08 top=-0.00 width=81.92 height=84.04}
+![](./lecture_15_vision/images/slide_60_img_78.png) {left=18.08 top=-0.00 width=81.92 height=84.04}
 
 <div style="position: absolute; left: 17.08%; top: 64.89%; width: 54.41%; height: 32.32%;">
 
@@ -992,7 +992,7 @@ The retinotopic map in the striate cortex. **(a)** Neighboring locations on the 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_79.png) {left=22.57 top=0.00 width=51.81 height=96.77}
+![](./lecture_15_vision/images/slide_61_img_79.png) {left=22.57 top=0.00 width=51.81 height=96.77}
 
 <div style="position: absolute; left: 73.61%; top: 41.99%; width: 25.40%; height: 51.86%;">
 
@@ -1006,7 +1006,7 @@ center seems ok for 5-6, because representation of foveal stimuli is projected t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_80.png) {left=36.75 top=0.00 width=63.25 height=100.00}
+![](./lecture_15_vision/images/slide_62_img_80.png) {left=36.75 top=0.00 width=63.25 height=100.00}
 
 <div style="position: absolute; left: 15.75%; top: 4.65%; width: 22.70%; height: 65.84%;">
 
@@ -1022,17 +1022,9 @@ and the larger size of the cells in the two ventral layers (layers 1 and 2).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_81.png) {left=42.12 top=14.30 width=57.88 height=85.70}
+![](./lecture_15_vision/images/slide_63_img_81.png) {left=42.12 top=14.30 width=57.88 height=85.70}
 
-![](images/slide_63_img_82.png) {left=15.25 top=0.00 width=52.08 height=47.38}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](images/slide_64_img_83.png) {left=18.51 top=0.00 width=81.49 height=94.07}
+![](./lecture_15_vision/images/slide_63_img_82.png) {left=15.25 top=0.00 width=52.08 height=47.38}
 
 </div>
 
@@ -1040,13 +1032,7 @@ and the larger size of the cells in the two ventral layers (layers 1 and 2).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_84.png) {left=26.93 top=0.00 width=73.07 height=54.09}
-
-![](images/slide_65_img_85.png) {left=15.91 top=45.91 width=25.75 height=54.09}
-
-![](images/slide_65_img_86.png) {left=43.33 top=57.05 width=27.99 height=39.99}
-
-![](images/slide_65_img_87.png) {left=72.98 top=57.05 width=25.35 height=36.71}
+![](./lecture_15_vision/images/slide_64_img_83.png) {left=18.51 top=0.00 width=81.49 height=94.07}
 
 </div>
 
@@ -1054,7 +1040,13 @@ and the larger size of the cells in the two ventral layers (layers 1 and 2).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_88.png) {left=20.79 top=0.00 width=79.21 height=100.00}
+![](./lecture_15_vision/images/slide_65_img_84.png) {left=26.93 top=0.00 width=73.07 height=54.09}
+
+![](./lecture_15_vision/images/slide_65_img_85.png) {left=15.91 top=45.91 width=25.75 height=54.09}
+
+![](./lecture_15_vision/images/slide_65_img_86.png) {left=43.33 top=57.05 width=27.99 height=39.99}
+
+![](./lecture_15_vision/images/slide_65_img_87.png) {left=72.98 top=57.05 width=25.35 height=36.71}
 
 </div>
 
@@ -1062,7 +1054,7 @@ and the larger size of the cells in the two ventral layers (layers 1 and 2).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_89.png) {left=18.57 top=0.00 width=81.43 height=98.42}
+![](./lecture_15_vision/images/slide_66_img_88.png) {left=20.79 top=0.00 width=79.21 height=100.00}
 
 </div>
 
@@ -1070,7 +1062,15 @@ and the larger size of the cells in the two ventral layers (layers 1 and 2).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_68_img_90.png) {left=16.81 top=0.00 width=83.19 height=94.07}
+![](./lecture_15_vision/images/slide_67_img_89.png) {left=18.57 top=0.00 width=81.43 height=98.42}
+
+</div>
+
+---
+
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+
+![](./lecture_15_vision/images/slide_68_img_90.png) {left=16.81 top=0.00 width=83.19 height=94.07}
 
 <div style="position: absolute; left: 46.46%; top: 0.00%; width: 7.51%; height: 8.38%;">
 
@@ -1096,7 +1096,7 @@ Cytochrome oxidase visualized (ETC, complex IV)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_91.png) {left=40.53 top=0.00 width=58.01 height=71.71}
+![](./lecture_15_vision/images/slide_69_img_91.png) {left=40.53 top=0.00 width=58.01 height=71.71}
 
 <div style="position: absolute; left: 16.91%; top: 29.37%; width: 35.39%; height: 70.63%;">
 
@@ -1129,7 +1129,7 @@ Red arrows - object recognition
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_70_img_92.png) {left=24.94 top=0.00 width=75.06 height=100.00}
+![](./lecture_15_vision/images/slide_70_img_92.png) {left=24.94 top=0.00 width=75.06 height=100.00}
 
 <div style="position: absolute; left: 51.95%; top: 41.62%; width: 18.69%; height: 8.38%;">
 
@@ -1155,7 +1155,7 @@ Not face
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_93.png) {left=15.59 top=9.20 width=84.41 height=70.23}
+![](./lecture_15_vision/images/slide_71_img_93.png) {left=15.59 top=9.20 width=84.41 height=70.23}
 
 </div>
 
@@ -1163,7 +1163,7 @@ Not face
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_72_img_94.png) {left=32.60 top=0.00 width=50.17 height=100.00}
+![](./lecture_15_vision/images/slide_72_img_94.png) {left=32.60 top=0.00 width=50.17 height=100.00}
 
 </div>
 
@@ -1171,7 +1171,7 @@ Not face
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_95.png) {left=30.77 top=0.00 width=52.97 height=100.00}
+![](./lecture_15_vision/images/slide_73_img_95.png) {left=30.77 top=0.00 width=52.97 height=100.00}
 
 </div>
 
@@ -1179,13 +1179,13 @@ Not face
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_74_img_96.png) {left=15.85 top=4.45 width=42.85 height=94.07}
+![](./lecture_15_vision/images/slide_74_img_96.png) {left=15.85 top=4.45 width=42.85 height=94.07}
 
-![](images/slide_74_img_97.png) {left=65.88 top=4.45 width=32.84 height=94.07}
+![](./lecture_15_vision/images/slide_74_img_97.png) {left=65.88 top=4.45 width=32.84 height=94.07}
 
-![](images/slide_74_img_98.png) {left=12.76 top=4.45 width=16.58 height=26.73}
+![](./lecture_15_vision/images/slide_74_img_98.png) {left=12.76 top=4.45 width=16.58 height=26.73}
 
-![](images/slide_74_img_99.png) {left=55.31 top=70.00 width=16.58 height=30.00}
+![](./lecture_15_vision/images/slide_74_img_99.png) {left=55.31 top=70.00 width=16.58 height=30.00}
 
 </div>
 
@@ -1298,7 +1298,7 @@ Measure the distance of disappearance and estimate the angular displacement of t
 
 </div>
 
-![](images/slide_79_img_100.png) {left=29.45 top=68.08 width=70.55 height=33.23}
+![](./lecture_15_vision/images/slide_79_img_100.png) {left=29.45 top=68.08 width=70.55 height=33.23}
 
 <div style="position: absolute; left: 58.89%; top: 75.79%; width: 19.36%; height: 8.38%;">
 
@@ -1330,9 +1330,9 @@ HINT: for small x, tan(x)≈x; neglect size of the eye (consider it a point).
 
 </div>
 
-![](images/slide_80_img_101.png) {left=-0.00 top=10.57 width=49.88 height=89.43}
+![](./lecture_15_vision/images/slide_80_img_101.png) {left=-0.00 top=10.57 width=49.88 height=89.43}
 
-![](images/slide_80_img_102.png) {left=49.88 top=10.57 width=50.12 height=89.43}
+![](./lecture_15_vision/images/slide_80_img_102.png) {left=49.88 top=10.57 width=50.12 height=89.43}
 
 <div style="position: absolute; left: 0.00%; top: 10.57%; width: 99.15%; height: 13.16%;">
 
@@ -1358,7 +1358,7 @@ You are observing a clear, starry night and notice a very dim star in the periph
 
 </div>
 
-![](images/slide_81_img_103.png) {left=47.68 top=43.57 width=40.82 height=51.39}
+![](./lecture_15_vision/images/slide_81_img_103.png) {left=47.68 top=43.57 width=40.82 height=51.39}
 
 <div style="position: absolute; left: 37.11%; top: 65.07%; width: 8.51%; height: 8.38%;">
 

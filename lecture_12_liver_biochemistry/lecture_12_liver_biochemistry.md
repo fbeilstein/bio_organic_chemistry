@@ -42,9 +42,9 @@ Positioning in the organism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_3_img_1.png) {left=53.30 top=8.61 width=46.70 height=68.12}
+![](./lecture_12_liver_biochemistry/images/slide_3_img_1.png) {left=53.30 top=8.61 width=46.70 height=68.12}
 
-![](images/slide_3_img_2.png) {left=15.80 top=9.33 width=37.50 height=66.67}
+![](./lecture_12_liver_biochemistry/images/slide_3_img_2.png) {left=15.80 top=9.33 width=37.50 height=66.67}
 
 </div>
 
@@ -52,9 +52,9 @@ Positioning in the organism
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_4_img_3.png) {left=50.91 top=2.96 width=49.09 height=84.77}
+![](./lecture_12_liver_biochemistry/images/slide_4_img_3.png) {left=50.91 top=2.96 width=49.09 height=84.77}
 
-![](images/slide_4_img_4.png) {left=17.28 top=0.00 width=33.63 height=87.44}
+![](./lecture_12_liver_biochemistry/images/slide_4_img_4.png) {left=17.28 top=0.00 width=33.63 height=87.44}
 
 <div style="position: absolute; left: 27.17%; top: 81.34%; width: 33.63%; height: 17.95%;">
 
@@ -68,11 +68,11 @@ Typical blood flow through the splanchnic circulation in a fasting adult human.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_5.png) {left=16.35 top=25.89 width=48.77 height=74.11}
+![](./lecture_12_liver_biochemistry/images/slide_5_img_5.png) {left=16.35 top=25.89 width=48.77 height=74.11}
 
-![](images/slide_5_img_6.png) {left=46.56 top=0.00 width=42.29 height=38.16}
+![](./lecture_12_liver_biochemistry/images/slide_5_img_6.png) {left=46.56 top=0.00 width=42.29 height=38.16}
 
-![](images/slide_5_img_7.png) {left=65.12 top=38.28 width=34.88 height=61.72}
+![](./lecture_12_liver_biochemistry/images/slide_5_img_7.png) {left=65.12 top=38.28 width=34.88 height=61.72}
 
 </div>
 
@@ -80,9 +80,9 @@ Typical blood flow through the splanchnic circulation in a fasting adult human.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_8.png) {left=51.41 top=2.96 width=47.65 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_6_img_8.png) {left=51.41 top=2.96 width=47.65 height=94.07}
 
-![](images/slide_6_img_9.png) {left=3.33 top=0.00 width=48.07 height=56.45}
+![](./lecture_12_liver_biochemistry/images/slide_6_img_9.png) {left=3.33 top=0.00 width=48.07 height=56.45}
 
 <div style="position: absolute; left: 18.42%; top: 62.51%; width: 31.58%; height: 32.32%;">
 
@@ -101,9 +101,9 @@ HA  hepatic arteriole
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_10.png) {left=62.13 top=0.00 width=37.87 height=76.01}
+![](./lecture_12_liver_biochemistry/images/slide_7_img_10.png) {left=62.13 top=0.00 width=37.87 height=76.01}
 
-![](images/slide_7_img_11.png) {left=19.54 top=0.00 width=40.91 height=78.97}
+![](./lecture_12_liver_biochemistry/images/slide_7_img_11.png) {left=19.54 top=0.00 width=40.91 height=78.97}
 
 </div>
 
@@ -111,11 +111,11 @@ HA  hepatic arteriole
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_12.png) {left=16.06 top=-1.20 width=41.23 height=81.02}
+![](./lecture_12_liver_biochemistry/images/slide_8_img_12.png) {left=16.06 top=-1.20 width=41.23 height=81.02}
 
-![](images/slide_8_img_13.png) {left=68.74 top=0.00 width=31.26 height=58.88}
+![](./lecture_12_liver_biochemistry/images/slide_8_img_13.png) {left=68.74 top=0.00 width=31.26 height=58.88}
 
-![](images/slide_8_img_14.png) {left=58.47 top=41.12 width=20.98 height=58.88}
+![](./lecture_12_liver_biochemistry/images/slide_8_img_14.png) {left=58.47 top=41.12 width=20.98 height=58.88}
 
 <div style="position: absolute; left: 15.38%; top: 65.77%; width: 24.92%; height: 36.51%;">
 
@@ -141,7 +141,7 @@ Getting Energy from Fats
 
 </div>
 
-![](images/slide_9_img_15.png) {left=70.64 top=61.43 width=29.36 height=38.57}
+![](./lecture_12_liver_biochemistry/images/slide_9_img_15.png) {left=70.64 top=61.43 width=29.36 height=38.57}
 
 </div>
 
@@ -172,7 +172,7 @@ Fatty acid derivatives act as:
 
 </div>
 
-![](images/slide_10_img_16.png) {left=66.30 top=26.59 width=33.70 height=73.02}
+![](./lecture_12_liver_biochemistry/images/slide_10_img_16.png) {left=66.30 top=26.59 width=33.70 height=73.02}
 
 </div>
 
@@ -180,7 +180,7 @@ Fatty acid derivatives act as:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_17.png) {left=19.65 top=0.00 width=74.34 height=97.04}
+![](./lecture_12_liver_biochemistry/images/slide_11_img_17.png) {left=19.65 top=0.00 width=74.34 height=97.04}
 
 </div>
 
@@ -188,11 +188,11 @@ Fatty acid derivatives act as:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_18.png) {left=52.23 top=0.00 width=47.77 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_12_img_18.png) {left=52.23 top=0.00 width=47.77 height=100.00}
 
-![](images/slide_12_img_19.png) {left=-0.00 top=51.53 width=52.23 height=48.47}
+![](./lecture_12_liver_biochemistry/images/slide_12_img_19.png) {left=-0.00 top=51.53 width=52.23 height=48.47}
 
-![](images/slide_12_img_20.png) {left=18.33 top=8.21 width=33.89 height=40.06}
+![](./lecture_12_liver_biochemistry/images/slide_12_img_20.png) {left=18.33 top=8.21 width=33.89 height=40.06}
 
 </div>
 
@@ -200,7 +200,7 @@ Fatty acid derivatives act as:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_21.png) {left=17.75 top=0.00 width=57.75 height=36.49}
+![](./lecture_12_liver_biochemistry/images/slide_13_img_21.png) {left=17.75 top=0.00 width=57.75 height=36.49}
 
 <div style="position: absolute; left: 17.75%; top: 64.89%; width: 81.12%; height: 33.53%;">
 
@@ -208,7 +208,7 @@ Fatty acid derivatives act as:
 
 </div>
 
-![](images/slide_13_img_22.png) {left=53.47 top=22.43 width=39.35 height=40.38}
+![](./lecture_12_liver_biochemistry/images/slide_13_img_22.png) {left=53.47 top=22.43 width=39.35 height=40.38}
 
 <div style="position: absolute; left: 21.92%; top: 27.57%; width: 35.72%; height: 38.61%;">
 
@@ -318,9 +318,9 @@ Fatty acid derivatives act as:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_23.png) {left=36.27 top=-0.00 width=63.73 height=98.53}
+![](./lecture_12_liver_biochemistry/images/slide_17_img_23.png) {left=36.27 top=-0.00 width=63.73 height=98.53}
 
-![](images/slide_17_img_24.png) {left=0.00 top=35.41 width=36.27 height=64.59}
+![](./lecture_12_liver_biochemistry/images/slide_17_img_24.png) {left=0.00 top=35.41 width=36.27 height=64.59}
 
 <div style="position: absolute; left: 17.58%; top: 3.46%; width: 33.88%; height: 12.57%;">
 
@@ -364,7 +364,7 @@ About 95% of the biologically available energy of triacylglycerols resides in th
 
 </div>
 
-![](images/slide_19_img_25.png) {left=67.77 top=0.00 width=32.23 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_19_img_25.png) {left=67.77 top=0.00 width=32.23 height=100.00}
 
 <div style="position: absolute; left: 17.92%; top: 4.95%; width: 46.90%; height: 14.37%;">
 
@@ -393,7 +393,7 @@ The carnitine-mediated entry process is the rate-limiting step for oxidation of 
 
 </div>
 
-![](images/slide_20_img_26.png) {left=72.08 top=77.04 width=27.92 height=22.96}
+![](./lecture_12_liver_biochemistry/images/slide_20_img_26.png) {left=72.08 top=77.04 width=27.92 height=22.96}
 
 </div>
 
@@ -401,7 +401,7 @@ The carnitine-mediated entry process is the rate-limiting step for oxidation of 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_27.png) {left=34.12 top=0.00 width=65.88 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_21_img_27.png) {left=34.12 top=0.00 width=65.88 height=100.00}
 
 <div style="position: absolute; left: 13.90%; top: -0.00%; width: 80.35%; height: 16.51%;">
 
@@ -421,7 +421,7 @@ The first reaction is catalyzed by a family of isozymes of acyl-CoA synthetase, 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_28.png) {left=36.11 top=9.60 width=63.89 height=44.31}
+![](./lecture_12_liver_biochemistry/images/slide_22_img_28.png) {left=36.11 top=9.60 width=63.89 height=44.31}
 
 <div style="position: absolute; left: 16.07%; top: 3.81%; width: 63.10%; height: 7.96%;">
 
@@ -449,7 +449,7 @@ can be used in the cytosol to synthesize membrane lipids.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_29.png) {left=25.69 top=11.77 width=63.89 height=44.31}
+![](./lecture_12_liver_biochemistry/images/slide_23_img_29.png) {left=25.69 top=11.77 width=63.89 height=44.31}
 
 <div style="position: absolute; left: 16.07%; top: 3.81%; width: 63.10%; height: 7.96%;">
 
@@ -485,11 +485,11 @@ In the third and final step of the carnitine shuttle, the fatty acyl group is tr
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_30.png) {left=65.36 top=0.00 width=34.64 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_25_img_30.png) {left=65.36 top=0.00 width=34.64 height=100.00}
 
-![](images/slide_25_img_31.png) {left=15.35 top=0.00 width=41.74 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_25_img_31.png) {left=15.35 top=0.00 width=41.74 height=100.00}
 
-![](images/slide_25_img_32.png) {left=47.81 top=70.23 width=18.67 height=29.77}
+![](./lecture_12_liver_biochemistry/images/slide_25_img_32.png) {left=47.81 top=70.23 width=18.67 height=29.77}
 
 <div style="position: absolute; left: 46.79%; top: 5.84%; width: 14.86%; height: 8.38%;">
 
@@ -509,9 +509,9 @@ In the third and final step of the carnitine shuttle, the fatty acyl group is tr
 
 </div>
 
-![](images/slide_26_img_33.png) {left=37.44 top=13.55 width=62.56 height=62.15}
+![](./lecture_12_liver_biochemistry/images/slide_26_img_33.png) {left=37.44 top=13.55 width=62.56 height=62.15}
 
-![](images/slide_26_img_34.png) {left=16.01 top=70.12 width=67.98 height=29.88}
+![](./lecture_12_liver_biochemistry/images/slide_26_img_34.png) {left=16.01 top=70.12 width=67.98 height=29.88}
 
 </div>
 
@@ -519,7 +519,7 @@ In the third and final step of the carnitine shuttle, the fatty acyl group is tr
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_35.png) {left=43.18 top=15.63 width=28.67 height=84.37}
+![](./lecture_12_liver_biochemistry/images/slide_27_img_35.png) {left=43.18 top=15.63 width=28.67 height=84.37}
 
 <div style="position: absolute; left: 36.17%; top: 2.47%; width: 35.68%; height: 11.37%;">
 
@@ -527,9 +527,9 @@ First three rounds in the degradation of palmitate. Full oxidation yields 106 AT
 
 </div>
 
-![](images/slide_27_img_36.png) {left=16.35 top=0.00 width=19.82 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_27_img_36.png) {left=16.35 top=0.00 width=19.82 height=100.00}
 
-![](images/slide_27_img_37.png) {left=75.19 top=31.40 width=24.81 height=68.60}
+![](./lecture_12_liver_biochemistry/images/slide_27_img_37.png) {left=75.19 top=31.40 width=24.81 height=68.60}
 
 <div style="position: absolute; left: 73.35%; top: 15.63%; width: 26.65%; height: 17.95%;">
 
@@ -544,7 +544,7 @@ of fatty acids with a single double bond
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_38.png) {left=17.41 top=0.00 width=82.59 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_28_img_38.png) {left=17.41 top=0.00 width=82.59 height=100.00}
 
 <div style="position: absolute; left: 53.80%; top: 17.08%; width: 19.86%; height: 45.49%;">
 
@@ -570,7 +570,7 @@ Odd-chain fatty acids yield propionyl CoA in the final thiolysis step
 
 </div>
 
-![](images/slide_29_img_39.png) {left=16.85 top=15.06 width=80.75 height=26.69}
+![](./lecture_12_liver_biochemistry/images/slide_29_img_39.png) {left=16.85 top=15.06 width=80.75 height=26.69}
 
 <div style="position: absolute; left: 16.85%; top: 49.16%; width: 37.29%; height: 48.12%;">
 
@@ -616,9 +616,9 @@ Hydrogen swaps positions with the migrating group
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_40.png) {left=16.86 top=0.00 width=37.45 height=72.28}
+![](./lecture_12_liver_biochemistry/images/slide_30_img_40.png) {left=16.86 top=0.00 width=37.45 height=72.28}
 
-![](images/slide_30_img_41.png) {left=66.82 top=0.00 width=33.18 height=43.60}
+![](./lecture_12_liver_biochemistry/images/slide_30_img_41.png) {left=66.82 top=0.00 width=33.18 height=43.60}
 
 <div style="position: absolute; left: 51.13%; top: 43.60%; width: 48.87%; height: 56.40%;">
 
@@ -638,9 +638,9 @@ Hydrogen swaps positions with the migrating group
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_42.png) {left=65.13 top=15.03 width=34.87 height=76.07}
+![](./lecture_12_liver_biochemistry/images/slide_31_img_42.png) {left=65.13 top=15.03 width=34.87 height=76.07}
 
-![](images/slide_31_img_43.png) {left=16.50 top=12.07 width=46.80 height=82.00}
+![](./lecture_12_liver_biochemistry/images/slide_31_img_43.png) {left=16.50 top=12.07 width=46.80 height=82.00}
 
 </div>
 
@@ -648,11 +648,11 @@ Hydrogen swaps positions with the migrating group
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_44.png) {left=16.35 top=0.00 width=50.80 height=29.05}
+![](./lecture_12_liver_biochemistry/images/slide_32_img_44.png) {left=16.35 top=0.00 width=50.80 height=29.05}
 
-![](images/slide_32_img_45.png) {left=16.35 top=32.89 width=83.65 height=38.02}
+![](./lecture_12_liver_biochemistry/images/slide_32_img_45.png) {left=16.35 top=32.89 width=83.65 height=38.02}
 
-![](images/slide_32_img_46.png) {left=69.49 top=9.61 width=30.51 height=17.72}
+![](./lecture_12_liver_biochemistry/images/slide_32_img_46.png) {left=69.49 top=9.61 width=30.51 height=17.72}
 
 <div style="position: absolute; left: 50.80%; top: 0.00%; width: 17.69%; height: 8.38%;">
 
@@ -672,7 +672,7 @@ The role of coenzyme B12 in such intramolecular migrations is to serve as a sour
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_47.png) {left=16.86 top=4.45 width=72.02 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_33_img_47.png) {left=16.86 top=4.45 width=72.02 height=94.07}
 
 <div style="position: absolute; left: 58.48%; top: 0.49%; width: 41.53%; height: 52.23%;">
 
@@ -720,7 +720,7 @@ The role of coenzyme B12 in such intramolecular migrations is to serve as a sour
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_48.png) {left=32.46 top=2.96 width=67.54 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_35_img_48.png) {left=32.46 top=2.96 width=67.54 height=94.07}
 
 </div>
 
@@ -743,7 +743,7 @@ Medical & Scientific Relevance: Insights into organ preservation for transplanta
 
 </div>
 
-![](images/slide_36_img_49.png) {left=61.82 top=5.84 width=38.18 height=83.67}
+![](./lecture_12_liver_biochemistry/images/slide_36_img_49.png) {left=61.82 top=5.84 width=38.18 height=83.67}
 
 </div>
 
@@ -751,7 +751,7 @@ Medical & Scientific Relevance: Insights into organ preservation for transplanta
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_50.png) {left=17.58 top=16.43 width=44.29 height=38.07}
+![](./lecture_12_liver_biochemistry/images/slide_37_img_50.png) {left=17.58 top=16.43 width=44.29 height=38.07}
 
 <div style="position: absolute; left: 19.92%; top: 4.95%; width: 80.23%; height: 8.38%;">
 
@@ -759,7 +759,7 @@ Peroxisomes degrade Very Long Chain Fatty Acids (≥ C20)
 
 </div>
 
-![](images/slide_37_img_51.png) {left=72.00 top=14.13 width=26.34 height=42.68}
+![](./lecture_12_liver_biochemistry/images/slide_37_img_51.png) {left=72.00 top=14.13 width=26.34 height=42.68}
 
 <div style="position: absolute; left: 16.08%; top: 54.50%; width: 46.74%; height: 46.68%;">
 
@@ -784,7 +784,7 @@ from b oxidation in the initial dehydrogenation reaction. Peroxisomes do NOT mak
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_52.png) {left=63.42 top=2.96 width=36.58 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_38_img_52.png) {left=63.42 top=2.96 width=36.58 height=94.07}
 
 <div style="position: absolute; left: 16.91%; top: 1.68%; width: 46.51%; height: 98.32%;">
 
@@ -799,7 +799,7 @@ The peroxisomal/glyoxysomal system differs from the mitochondrial system in thre
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_53.png) {left=32.00 top=0.00 width=66.58 height=51.24}
+![](./lecture_12_liver_biochemistry/images/slide_39_img_53.png) {left=32.00 top=0.00 width=66.58 height=51.24}
 
 <div style="position: absolute; left: 15.24%; top: 50.00%; width: 84.75%; height: 50.00%;">
 
@@ -825,13 +825,13 @@ When the diet provides a ready source of carbohydrate as fuel, β oxidation of f
 
 </div>
 
-![](images/slide_40_img_54.png) {left=38.54 top=7.24 width=27.12 height=49.26}
+![](./lecture_12_liver_biochemistry/images/slide_40_img_54.png) {left=38.54 top=7.24 width=27.12 height=49.26}
 
-![](images/slide_40_img_55.png) {left=40.01 top=59.92 width=32.54 height=36.37}
+![](./lecture_12_liver_biochemistry/images/slide_40_img_55.png) {left=40.01 top=59.92 width=32.54 height=36.37}
 
-![](images/slide_40_img_56.png) {left=65.66 top=7.24 width=35.01 height=38.45}
+![](./lecture_12_liver_biochemistry/images/slide_40_img_56.png) {left=65.66 top=7.24 width=35.01 height=38.45}
 
-![](images/slide_40_img_57.png) {left=73.55 top=56.82 width=27.12 height=42.57}
+![](./lecture_12_liver_biochemistry/images/slide_40_img_57.png) {left=73.55 top=56.82 width=27.12 height=42.57}
 
 <div style="position: absolute; left: 15.41%; top: 24.22%; width: 24.59%; height: 65.38%;">
 
@@ -875,7 +875,7 @@ in mammals, all seven activities are part of a single, huge polypeptide chain
 
 </div>
 
-![](images/slide_42_img_58.png) {left=71.16 top=0.00 width=28.84 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_42_img_58.png) {left=71.16 top=0.00 width=28.84 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 8.80%; width: 55.42%; height: 91.20%;">
 
@@ -905,7 +905,7 @@ Shortened to acetyl-CoA and **succinic acid** → **citric acid cycle**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_59.png) {left=67.17 top=0.00 width=32.83 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_43_img_59.png) {left=67.17 top=0.00 width=32.83 height=100.00}
 
 <div style="position: absolute; left: 17.42%; top: 14.85%; width: 49.75%; height: 82.97%;">
 
@@ -968,7 +968,7 @@ Plants have additional enzymes (glyoxylate cycle) → allow **conversion of ace
 
 </div>
 
-![](images/slide_45_img_60.png) {left=75.67 top=13.79 width=24.33 height=86.21}
+![](./lecture_12_liver_biochemistry/images/slide_45_img_60.png) {left=75.67 top=13.79 width=24.33 height=86.21}
 
 </div>
 
@@ -976,7 +976,7 @@ Plants have additional enzymes (glyoxylate cycle) → allow **conversion of ace
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_61.png) {left=16.44 top=0.00 width=83.56 height=50.00}
+![](./lecture_12_liver_biochemistry/images/slide_46_img_61.png) {left=16.44 top=0.00 width=83.56 height=50.00}
 
 <div style="position: absolute; left: 18.08%; top: 56.87%; width: 82.07%; height: 41.90%;">
 
@@ -995,9 +995,9 @@ hydroxybutyrate, and acetone—are formed from acetyl CoA primarily in the **liv
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_62.png) {left=47.29 top=2.96 width=52.71 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_47_img_62.png) {left=47.29 top=2.96 width=52.71 height=94.07}
 
-![](images/slide_47_img_63.png) {left=20.35 top=0.00 width=20.27 height=50.00}
+![](./lecture_12_liver_biochemistry/images/slide_47_img_63.png) {left=20.35 top=0.00 width=20.27 height=50.00}
 
 <div style="position: absolute; left: 15.72%; top: 51.70%; width: 31.57%; height: 46.68%;">
 
@@ -1111,15 +1111,15 @@ the fuel for brain, skeletal muscle, and other tissues.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_64.png) {left=61.71 top=0.00 width=38.29 height=75.67}
+![](./lecture_12_liver_biochemistry/images/slide_51_img_64.png) {left=61.71 top=0.00 width=38.29 height=75.67}
 
-![](images/slide_51_img_65.png) {left=15.58 top=0.00 width=40.26 height=84.11}
+![](./lecture_12_liver_biochemistry/images/slide_51_img_65.png) {left=15.58 top=0.00 width=40.26 height=84.11}
 
-![](images/slide_51_img_66.png) {left=33.43 top=79.55 width=13.63 height=20.45}
+![](./lecture_12_liver_biochemistry/images/slide_51_img_66.png) {left=33.43 top=79.55 width=13.63 height=20.45}
 
-![](images/slide_51_img_67.png) {left=48.56 top=75.67 width=17.81 height=24.33}
+![](./lecture_12_liver_biochemistry/images/slide_51_img_67.png) {left=48.56 top=75.67 width=17.81 height=24.33}
 
-![](images/slide_51_img_68.png) {left=65.53 top=66.86 width=17.81 height=33.14}
+![](./lecture_12_liver_biochemistry/images/slide_51_img_68.png) {left=65.53 top=66.86 width=17.81 height=33.14}
 
 </div>
 
@@ -1162,7 +1162,7 @@ When other tissues generate ammonia, they send it to the liver in the form of **
 
 </div>
 
-![](images/slide_53_img_69.png) {left=55.47 top=2.96 width=42.86 height=87.17}
+![](./lecture_12_liver_biochemistry/images/slide_53_img_69.png) {left=55.47 top=2.96 width=42.86 height=87.17}
 
 </div>
 
@@ -1170,7 +1170,7 @@ When other tissues generate ammonia, they send it to the liver in the form of **
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_70.png) {left=54.33 top=0.00 width=45.67 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_54_img_70.png) {left=54.33 top=0.00 width=45.67 height=100.00}
 
 <div style="position: absolute; left: 15.77%; top: 2.08%; width: 38.56%; height: 94.56%;">
 
@@ -1189,9 +1189,9 @@ ketoglutarate, it is readily reversible (ΔG′ ≈ 0 kJ/mol).
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_71.png) {left=81.62 top=0.00 width=18.38 height=45.16}
+![](./lecture_12_liver_biochemistry/images/slide_55_img_71.png) {left=81.62 top=0.00 width=18.38 height=45.16}
 
-![](images/slide_55_img_72.png) {left=77.67 top=45.16 width=22.33 height=54.84}
+![](./lecture_12_liver_biochemistry/images/slide_55_img_72.png) {left=77.67 top=45.16 width=22.33 height=54.84}
 
 <div style="position: absolute; left: 16.41%; top: 1.09%; width: 61.26%; height: 56.26%;">
 
@@ -1202,9 +1202,9 @@ group, and its aminated form, pyridoxamine phosphate, which can donate its amino
 
 </div>
 
-![](images/slide_55_img_73.png) {left=18.54 top=59.17 width=27.54 height=20.15}
+![](./lecture_12_liver_biochemistry/images/slide_55_img_73.png) {left=18.54 top=59.17 width=27.54 height=20.15}
 
-![](images/slide_55_img_74.png) {left=16.41 top=81.14 width=57.29 height=10.00}
+![](./lecture_12_liver_biochemistry/images/slide_55_img_74.png) {left=16.41 top=81.14 width=57.29 height=10.00}
 
 </div>
 
@@ -1212,7 +1212,7 @@ group, and its aminated form, pyridoxamine phosphate, which can donate its amino
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_56_img_75.png) {left=37.70 top=0.00 width=62.30 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_56_img_75.png) {left=37.70 top=0.00 width=62.30 height=94.07}
 
 <div style="position: absolute; left: 15.91%; top: 6.43%; width: 20.70%; height: 80.20%;">
 
@@ -1232,7 +1232,7 @@ The highly conjugated structure of PLP (an electron sink) permits delocalization
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_76.png) {left=60.92 top=0.00 width=39.08 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_57_img_76.png) {left=60.92 top=0.00 width=39.08 height=100.00}
 
 <div style="position: absolute; left: 16.08%; top: 3.46%; width: 40.39%; height: 95.25%;">
 
@@ -1248,7 +1248,7 @@ Alanine serves as a carrier of ammonia and of the carbon skeleton of pyruvate fr
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_77.png) {left=54.46 top=0.00 width=45.54 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_58_img_77.png) {left=54.46 top=0.00 width=45.54 height=100.00}
 
 <div style="position: absolute; left: 17.25%; top: 2.28%; width: 36.22%; height: 65.84%;">
 
@@ -1265,7 +1265,7 @@ and microorganisms are generally specific for one or the other. The mammalian en
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_78.png) {left=69.01 top=0.00 width=30.99 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_59_img_78.png) {left=69.01 top=0.00 width=30.99 height=100.00}
 
 <div style="position: absolute; left: 16.08%; top: 2.28%; width: 52.93%; height: 97.73%;">
 
@@ -1324,7 +1324,7 @@ Persistent NH₄⁺ → astrocyte channel dysfunction → water influx → **ast
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_79.png) {left=58.82 top=0.00 width=41.18 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_61_img_79.png) {left=58.82 top=0.00 width=41.18 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 2.87%; width: 41.18%; height: 86.19%;">
 
@@ -1352,7 +1352,7 @@ Ornithine re-enters mitochondria to start the next cycle.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_80.png) {left=37.25 top=2.96 width=62.75 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_62_img_80.png) {left=37.25 top=2.96 width=62.75 height=94.07}
 
 <div style="position: absolute; left: 15.08%; top: 58.10%; width: 31.38%; height: 41.90%;">
 
@@ -1410,7 +1410,7 @@ Sensitive marker of **bile duct injury** and **alcohol abuse**.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_81.png) {left=37.48 top=0.00 width=62.52 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_64_img_81.png) {left=37.48 top=0.00 width=62.52 height=100.00}
 
 <div style="position: absolute; left: 16.75%; top: 1.68%; width: 20.74%; height: 91.57%;">
 
@@ -1444,7 +1444,7 @@ For vampires
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_82.png) {left=46.87 top=0.00 width=52.89 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_66_img_82.png) {left=46.87 top=0.00 width=52.89 height=100.00}
 
 <div style="position: absolute; left: 16.91%; top: 2.87%; width: 28.71%; height: 97.13%;">
 
@@ -1453,7 +1453,7 @@ premature, often become jaundiced because their livers do not yet make sufficien
 
 </div>
 
-![](images/slide_66_img_83.png) {left=54.28 top=59.25 width=11.38 height=24.45}
+![](./lecture_12_liver_biochemistry/images/slide_66_img_83.png) {left=54.28 top=59.25 width=11.38 height=24.45}
 
 <div style="position: absolute; left: 58.98%; top: 18.60%; width: 37.17%; height: 11.67%;">
 
@@ -1499,9 +1499,9 @@ requires the participation of a three-carbon intermediate, **malonyl-CoA**, that
 
 </div>
 
-![](images/slide_68_img_84.png) {left=21.77 top=67.86 width=28.23 height=27.04}
+![](./lecture_12_liver_biochemistry/images/slide_68_img_84.png) {left=21.77 top=67.86 width=28.23 height=27.04}
 
-![](images/slide_68_img_85.png) {left=60.98 top=67.86 width=26.56 height=22.24}
+![](./lecture_12_liver_biochemistry/images/slide_68_img_85.png) {left=60.98 top=67.86 width=26.56 height=22.24}
 
 <div style="position: absolute; left: 66.25%; top: 91.62%; width: 16.02%; height: 8.38%;">
 
@@ -1515,7 +1515,7 @@ Acetyl-CoA
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_86.png) {left=17.63 top=0.00 width=82.37 height=64.00}
+![](./lecture_12_liver_biochemistry/images/slide_69_img_86.png) {left=17.63 top=0.00 width=82.37 height=64.00}
 
 <div style="position: absolute; left: 16.91%; top: 64.59%; width: 82.37%; height: 35.41%;">
 
@@ -1529,7 +1529,7 @@ Acetyl-CoA
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_70_img_87.png) {left=70.16 top=0.00 width=29.01 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_70_img_87.png) {left=70.16 top=0.00 width=29.01 height=100.00}
 
 <div style="position: absolute; left: 19.42%; top: 8.80%; width: 50.74%; height: 75.42%;">
 
@@ -1544,7 +1544,7 @@ carboxylase, which activates CO2 by attaching it to a nitrogen in the biotin rin
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_88.png) {left=72.19 top=0.00 width=27.81 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_71_img_88.png) {left=72.19 top=0.00 width=27.81 height=100.00}
 
 <div style="position: absolute; left: 15.75%; top: 2.28%; width: 57.42%; height: 94.56%;">
 
@@ -1563,7 +1563,7 @@ reaction is given to illustrate the role of decarboxylation in facilitating cond
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_72_img_89.png) {left=50.00 top=0.00 width=50.00 height=73.88}
+![](./lecture_12_liver_biochemistry/images/slide_72_img_89.png) {left=50.00 top=0.00 width=50.00 height=73.88}
 
 <div style="position: absolute; left: 16.75%; top: 3.76%; width: 32.55%; height: 65.84%;">
 
@@ -1590,7 +1590,7 @@ reaction is given to illustrate the role of decarboxylation in facilitating cond
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_90.png) {left=24.05 top=0.00 width=75.95 height=78.24}
+![](./lecture_12_liver_biochemistry/images/slide_73_img_90.png) {left=24.05 top=0.00 width=75.95 height=78.24}
 
 <div style="position: absolute; left: 17.92%; top: 41.15%; width: 47.90%; height: 56.38%;">
 
@@ -1605,9 +1605,9 @@ CO2 at each step. The initial acetyl group is shaded yellow; C-1 and C-2 of malo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_74_img_91.png) {left=56.75 top=0.00 width=43.25 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_74_img_91.png) {left=56.75 top=0.00 width=43.25 height=100.00}
 
-![](images/slide_74_img_92.png) {left=38.52 top=0.00 width=17.81 height=53.91}
+![](./lecture_12_liver_biochemistry/images/slide_74_img_92.png) {left=38.52 top=0.00 width=17.81 height=53.91}
 
 <div style="position: absolute; left: 15.41%; top: 4.35%; width: 22.70%; height: 32.32%;">
 
@@ -1633,9 +1633,9 @@ The use of activated malonyl groups rather than acetyl groups (add CO2 then lose
 
 </div>
 
-![](images/slide_75_img_93.png) {left=46.18 top=-0.00 width=53.82 height=46.97}
+![](./lecture_12_liver_biochemistry/images/slide_75_img_93.png) {left=46.18 top=-0.00 width=53.82 height=46.97}
 
-![](images/slide_75_img_94.png) {left=16.07 top=43.52 width=50.92 height=56.48}
+![](./lecture_12_liver_biochemistry/images/slide_75_img_94.png) {left=16.07 top=43.52 width=50.92 height=56.48}
 
 </div>
 
@@ -1643,7 +1643,7 @@ The use of activated malonyl groups rather than acetyl groups (add CO2 then lose
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_95.png) {left=43.64 top=2.96 width=56.36 height=94.07}
+![](./lecture_12_liver_biochemistry/images/slide_76_img_95.png) {left=43.64 top=2.96 width=56.36 height=94.07}
 
 <div style="position: absolute; left: 16.41%; top: 20.67%; width: 27.22%; height: 32.32%;">
 
@@ -1658,7 +1658,7 @@ The use of activated malonyl groups rather than acetyl groups (add CO2 then lose
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_96.png) {left=65.53 top=0.00 width=34.47 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_77_img_96.png) {left=65.53 top=0.00 width=34.47 height=100.00}
 
 <div style="position: absolute; left: 16.41%; top: 1.38%; width: 58.09%; height: 33.53%;">
 
@@ -1666,7 +1666,7 @@ The use of activated malonyl groups rather than acetyl groups (add CO2 then lose
 
 </div>
 
-![](images/slide_77_img_97.png) {left=17.41 top=31.65 width=48.95 height=28.49}
+![](./lecture_12_liver_biochemistry/images/slide_77_img_97.png) {left=17.41 top=31.65 width=48.95 height=28.49}
 
 <div style="position: absolute; left: 17.41%; top: 60.14%; width: 48.95%; height: 41.90%;">
 
@@ -1680,7 +1680,7 @@ Electron transfer in the desaturation of fatty acids in vertebrates. Blue arrows
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_98.png) {left=18.42 top=0.00 width=81.58 height=73.82}
+![](./lecture_12_liver_biochemistry/images/slide_78_img_98.png) {left=18.42 top=0.00 width=81.58 height=73.82}
 
 <div style="position: absolute; left: 19.75%; top: 81.21%; width: 80.40%; height: 13.16%;">
 
@@ -1712,7 +1712,7 @@ Facilitating digestion of fats
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_80_img_99.png) {left=23.66 top=0.00 width=73.67 height=100.00}
+![](./lecture_12_liver_biochemistry/images/slide_80_img_99.png) {left=23.66 top=0.00 width=73.67 height=100.00}
 
 </div>
 
@@ -1801,7 +1801,7 @@ HINT: 𝝎-oxidation is **not** possible, consider **only** 𝜷-oxidation.
 
 </div>
 
-![](images/slide_84_img_100.png) {left=32.64 top=24.81 width=40.73 height=21.30}
+![](./lecture_12_liver_biochemistry/images/slide_84_img_100.png) {left=32.64 top=24.81 width=40.73 height=21.30}
 
 </div>
 

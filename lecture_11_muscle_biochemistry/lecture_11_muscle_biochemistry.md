@@ -24,7 +24,7 @@ Lecture 11: Biochemistry of the Muscle
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_2_img_1.png) {left=57.02 top=2.44 width=41.50 height=95.13}
+![](./lecture_11_muscle_biochemistry/images/slide_2_img_1.png) {left=57.02 top=2.44 width=41.50 height=95.13}
 
 <div style="position: absolute; left: 19.08%; top: 15.33%; width: 34.55%; height: 73.59%;">
 
@@ -56,7 +56,7 @@ Doing physical work
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_4_img_2.png) {left=49.58 top=10.03 width=50.42 height=82.22}
+![](./lecture_11_muscle_biochemistry/images/slide_4_img_2.png) {left=49.58 top=10.03 width=50.42 height=82.22}
 
 <div style="position: absolute; left: 17.58%; top: 2.28%; width: 32.00%; height: 97.73%;">
 
@@ -79,7 +79,7 @@ Force depends on cross-section and type:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_3.png) {left=54.86 top=2.96 width=45.14 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_5_img_3.png) {left=54.86 top=2.96 width=45.14 height=94.07}
 
 <div style="position: absolute; left: 17.08%; top: 3.46%; width: 37.78%; height: 99.35%;">
 
@@ -93,7 +93,7 @@ Each **motoneuron **that leaves the spinal cord innervates multiple muscle fiber
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_4.png) {left=16.75 top=2.96 width=83.25 height=95.62}
+![](./lecture_11_muscle_biochemistry/images/slide_6_img_4.png) {left=16.75 top=2.96 width=83.25 height=95.62}
 
 </div>
 
@@ -101,9 +101,9 @@ Each **motoneuron **that leaves the spinal cord innervates multiple muscle fiber
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_5.png) {left=37.93 top=2.96 width=62.07 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_7_img_5.png) {left=37.93 top=2.96 width=62.07 height=94.07}
 
-![](images/slide_7_img_6.png) {left=2.33 top=46.55 width=34.60 height=53.45}
+![](./lecture_11_muscle_biochemistry/images/slide_7_img_6.png) {left=2.33 top=46.55 width=34.60 height=53.45}
 
 </div>
 
@@ -139,9 +139,9 @@ hence, the name red muscle.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_7.png) {left=66.97 top=36.99 width=35.09 height=63.01}
+![](./lecture_11_muscle_biochemistry/images/slide_9_img_7.png) {left=66.97 top=36.99 width=35.09 height=63.01}
 
-![](images/slide_9_img_8.png) {left=77.79 top=-1.29 width=22.21 height=38.28}
+![](./lecture_11_muscle_biochemistry/images/slide_9_img_8.png) {left=77.79 top=-1.29 width=22.21 height=38.28}
 
 <div style="position: absolute; left: 19.08%; top: 2.87%; width: 18.86%; height: 11.87%;">
 
@@ -195,7 +195,7 @@ name white muscle.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_9.png) {left=20.25 top=20.08 width=80.39 height=59.84}
+![](./lecture_11_muscle_biochemistry/images/slide_11_img_9.png) {left=20.25 top=20.08 width=80.39 height=59.84}
 
 <div style="position: absolute; left: 20.75%; top: 2.87%; width: 79.40%; height: 8.38%;">
 
@@ -221,7 +221,7 @@ Mitochondria, capillaries, enzymes, and myoglobin content are highly plastic, ev
 
 </div>
 
-![](images/slide_12_img_10.png) {left=50.90 top=0.00 width=49.10 height=51.04}
+![](./lecture_11_muscle_biochemistry/images/slide_12_img_10.png) {left=50.90 top=0.00 width=49.10 height=51.04}
 
 <div style="position: absolute; left: 53.80%; top: 55.39%; width: 43.90%; height: 40.90%;">
 
@@ -238,7 +238,7 @@ Genetics strongly influences the sport where you can excel — but training dete
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_11.png) {left=57.81 top=0.00 width=42.19 height=24.55}
+![](./lecture_11_muscle_biochemistry/images/slide_13_img_11.png) {left=57.81 top=0.00 width=42.19 height=24.55}
 
 <div style="position: absolute; left: 16.08%; top: 4.95%; width: 40.73%; height: 96.06%;">
 
@@ -249,7 +249,7 @@ When cooked, myoglobin changes color (left to right): In raw meat, the oxygen-ca
 
 </div>
 
-![](images/slide_13_img_12.png) {left=57.81 top=24.55 width=42.19 height=75.45}
+![](./lecture_11_muscle_biochemistry/images/slide_13_img_12.png) {left=57.81 top=24.55 width=42.19 height=75.45}
 
 </div>
 
@@ -257,7 +257,7 @@ When cooked, myoglobin changes color (left to right): In raw meat, the oxygen-ca
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_13.png) {left=64.07 top=2.96 width=35.93 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_14_img_13.png) {left=64.07 top=2.96 width=35.93 height=94.07}
 
 <div style="position: absolute; left: 15.75%; top: 1.68%; width: 43.40%; height: 95.36%;">
 
@@ -322,9 +322,9 @@ Telling muscles to contract
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_14.png) {left=16.52 top=-0.00 width=31.45 height=65.17}
+![](./lecture_11_muscle_biochemistry/images/slide_17_img_14.png) {left=16.52 top=-0.00 width=31.45 height=65.17}
 
-![](images/slide_17_img_15.png) {left=64.42 top=4.35 width=31.45 height=92.69}
+![](./lecture_11_muscle_biochemistry/images/slide_17_img_15.png) {left=64.42 top=4.35 width=31.45 height=92.69}
 
 <div style="position: absolute; left: 18.42%; top: 82.39%; width: 40.39%; height: 13.05%;">
 
@@ -338,9 +338,9 @@ Telling muscles to contract
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_16.png) {left=58.78 top=1.47 width=41.22 height=57.48}
+![](./lecture_11_muscle_biochemistry/images/slide_18_img_16.png) {left=58.78 top=1.47 width=41.22 height=57.48}
 
-![](images/slide_18_img_17.png) {left=20.07 top=0.00 width=38.72 height=71.71}
+![](./lecture_11_muscle_biochemistry/images/slide_18_img_17.png) {left=20.07 top=0.00 width=38.72 height=71.71}
 
 <div style="position: absolute; left: 19.58%; top: 74.09%; width: 38.22%; height: 23.74%;">
 
@@ -361,7 +361,7 @@ Structure of a neuromuscular junction. ACh, acetylcholine.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_18.png) {left=53.32 top=5.34 width=47.52 height=71.12}
+![](./lecture_11_muscle_biochemistry/images/slide_19_img_18.png) {left=53.32 top=5.34 width=47.52 height=71.12}
 
 <div style="position: absolute; left: 16.41%; top: 0.00%; width: 36.90%; height: 87.38%;">
 
@@ -500,9 +500,9 @@ AChE inhibitors: limited effect
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_19.png) {left=62.82 top=2.96 width=37.18 height=57.25}
+![](./lecture_11_muscle_biochemistry/images/slide_24_img_19.png) {left=62.82 top=2.96 width=37.18 height=57.25}
 
-![](images/slide_24_img_20.png) {left=17.24 top=0.00 width=45.58 height=51.78}
+![](./lecture_11_muscle_biochemistry/images/slide_24_img_20.png) {left=17.24 top=0.00 width=45.58 height=51.78}
 
 <div style="position: absolute; left: 16.75%; top: 58.06%; width: 83.40%; height: 41.90%;">
 
@@ -520,7 +520,7 @@ Sarcomere → contains actin (thin) and myosin (thick) filaments
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_25_img_21.png) {left=41.12 top=2.96 width=58.88 height=69.53}
+![](./lecture_11_muscle_biochemistry/images/slide_25_img_21.png) {left=41.12 top=2.96 width=58.88 height=69.53}
 
 <div style="position: absolute; left: 15.08%; top: 2.57%; width: 26.04%; height: 97.43%;">
 
@@ -541,9 +541,9 @@ interaction gates the RyR and allows for Ca2+ release from the SR.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_26_img_22.png) {left=66.49 top=0.00 width=33.51 height=48.35}
+![](./lecture_11_muscle_biochemistry/images/slide_26_img_22.png) {left=66.49 top=0.00 width=33.51 height=48.35}
 
-![](images/slide_26_img_23.png) {left=17.51 top=0.46 width=47.81 height=47.44}
+![](./lecture_11_muscle_biochemistry/images/slide_26_img_23.png) {left=17.51 top=0.46 width=47.81 height=47.44}
 
 <div style="position: absolute; left: 15.58%; top: 48.35%; width: 84.42%; height: 51.22%;">
 
@@ -563,7 +563,7 @@ Excitation-contraction coupling in the muscle, showing an action potential that 
 
 </div>
 
-![](images/slide_27_img_24.png) {left=23.95 top=0.00 width=76.05 height=79.09}
+![](./lecture_11_muscle_biochemistry/images/slide_27_img_24.png) {left=23.95 top=0.00 width=76.05 height=79.09}
 
 </div>
 
@@ -595,9 +595,9 @@ Carriers are usually asymptomatic until exposed to triggering agents.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_29_img_25.png) {left=61.81 top=0.00 width=38.19 height=65.19}
+![](./lecture_11_muscle_biochemistry/images/slide_29_img_25.png) {left=61.81 top=0.00 width=38.19 height=65.19}
 
-![](images/slide_29_img_26.png) {left=15.98 top=0.00 width=40.23 height=65.19}
+![](./lecture_11_muscle_biochemistry/images/slide_29_img_26.png) {left=15.98 top=0.00 width=40.23 height=65.19}
 
 <div style="position: absolute; left: 18.42%; top: 65.19%; width: 38.19%; height: 22.74%;">
 
@@ -630,7 +630,7 @@ Physiological role: Allows smooth, sustained muscle contractions for posture and
 
 </div>
 
-![](images/slide_30_img_27.png) {left=19.42 top=0.00 width=80.58 height=21.63}
+![](./lecture_11_muscle_biochemistry/images/slide_30_img_27.png) {left=19.42 top=0.00 width=80.58 height=21.63}
 
 <div style="position: absolute; left: 15.56%; top: 21.86%; width: 84.59%; height: 27.53%;">
 
@@ -662,7 +662,7 @@ On the molecular level
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_28.png) {left=53.53 top=0.00 width=46.47 height=100.00}
+![](./lecture_11_muscle_biochemistry/images/slide_32_img_28.png) {left=53.53 top=0.00 width=46.47 height=100.00}
 
 <div style="position: absolute; left: 16.08%; top: 1.38%; width: 37.45%; height: 97.33%;">
 
@@ -721,7 +721,7 @@ The motor proteins cycle between forms having high or low affinity for the filam
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_29.png) {left=19.25 top=0.00 width=80.75 height=59.40}
+![](./lecture_11_muscle_biochemistry/images/slide_35_img_29.png) {left=19.25 top=0.00 width=80.75 height=59.40}
 
 <div style="position: absolute; left: 16.08%; top: 57.76%; width: 83.92%; height: 42.23%;">
 
@@ -762,9 +762,9 @@ These shared motifs suggest related molecular mechanisms across all three motor 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_30.png) {left=33.80 top=1.48 width=66.20 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_37_img_30.png) {left=33.80 top=1.48 width=66.20 height=94.07}
 
-![](images/slide_37_img_31.png) {left=0.00 top=-0.00 width=40.95 height=34.76}
+![](./lecture_11_muscle_biochemistry/images/slide_37_img_31.png) {left=0.00 top=-0.00 width=40.95 height=34.76}
 
 </div>
 
@@ -772,7 +772,7 @@ These shared motifs suggest related molecular mechanisms across all three motor 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_38_img_32.png) {left=65.65 top=0.00 width=32.88 height=45.02}
+![](./lecture_11_muscle_biochemistry/images/slide_38_img_32.png) {left=65.65 top=0.00 width=32.88 height=45.02}
 
 <div style="position: absolute; left: 16.41%; top: 1.68%; width: 49.24%; height: 71.51%;">
 
@@ -788,9 +788,9 @@ Actin filament composed of two helical strands of F- **actin **molecules and two
 
 </div>
 
-![](images/slide_38_img_33.png) {left=65.65 top=45.23 width=34.35 height=54.77}
+![](./lecture_11_muscle_biochemistry/images/slide_38_img_33.png) {left=65.65 top=45.23 width=34.35 height=54.77}
 
-![](images/slide_38_img_34.png) {left=16.41 top=75.41 width=46.40 height=24.59}
+![](./lecture_11_muscle_biochemistry/images/slide_38_img_34.png) {left=16.41 top=75.41 width=46.40 height=24.59}
 
 </div>
 
@@ -819,7 +819,7 @@ Myosin head acts as an **ATPase**, splitting ATP to power contraction
 
 </div>
 
-![](images/slide_39_img_35.png) {left=57.84 top=31.37 width=42.16 height=37.27}
+![](./lecture_11_muscle_biochemistry/images/slide_39_img_35.png) {left=57.84 top=31.37 width=42.16 height=37.27}
 
 </div>
 
@@ -827,9 +827,9 @@ Myosin head acts as an **ATPase**, splitting ATP to power contraction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_36.png) {left=15.52 top=0.00 width=24.21 height=59.45}
+![](./lecture_11_muscle_biochemistry/images/slide_40_img_36.png) {left=15.52 top=0.00 width=24.21 height=59.45}
 
-![](images/slide_40_img_37.png) {left=39.73 top=-0.00 width=60.27 height=29.34}
+![](./lecture_11_muscle_biochemistry/images/slide_40_img_37.png) {left=39.73 top=-0.00 width=60.27 height=29.34}
 
 <div style="position: absolute; left: 41.12%; top: 32.54%; width: 32.38%; height: 50.45%;">
 
@@ -837,9 +837,9 @@ Treatment of muscle myosin with proteases forms stable fragments, including subf
 
 </div>
 
-![](images/slide_40_img_38.png) {left=15.52 top=61.75 width=24.21 height=28.70}
+![](./lecture_11_muscle_biochemistry/images/slide_40_img_38.png) {left=15.52 top=61.75 width=24.21 height=28.70}
 
-![](images/slide_40_img_39.png) {left=72.17 top=28.85 width=27.83 height=71.15}
+![](./lecture_11_muscle_biochemistry/images/slide_40_img_39.png) {left=72.17 top=28.85 width=27.83 height=71.15}
 
 </div>
 
@@ -868,7 +868,7 @@ Ca²⁺ binding to TnC → conformational change → moves tropomyosin → start
 
 </div>
 
-![](images/slide_41_img_40.png) {left=58.14 top=56.75 width=40.73 height=21.58}
+![](./lecture_11_muscle_biochemistry/images/slide_41_img_40.png) {left=58.14 top=56.75 width=40.73 height=21.58}
 
 </div>
 
@@ -876,7 +876,7 @@ Ca²⁺ binding to TnC → conformational change → moves tropomyosin → start
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_42_img_41.png) {left=66.26 top=33.78 width=36.79 height=51.07}
+![](./lecture_11_muscle_biochemistry/images/slide_42_img_41.png) {left=66.26 top=33.78 width=36.79 height=51.07}
 
 <div style="position: absolute; left: 17.41%; top: 0.00%; width: 85.63%; height: 96.56%;">
 
@@ -901,15 +901,15 @@ The process requires **ATP**.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_42.png) {left=17.52 top=0.00 width=41.57 height=28.39}
+![](./lecture_11_muscle_biochemistry/images/slide_43_img_42.png) {left=17.52 top=0.00 width=41.57 height=28.39}
 
-![](images/slide_43_img_43.png) {left=17.85 top=28.10 width=40.92 height=28.39}
+![](./lecture_11_muscle_biochemistry/images/slide_43_img_43.png) {left=17.85 top=28.10 width=40.92 height=28.39}
 
-![](images/slide_43_img_44.png) {left=17.52 top=58.56 width=30.77 height=24.09}
+![](./lecture_11_muscle_biochemistry/images/slide_43_img_44.png) {left=17.52 top=58.56 width=30.77 height=24.09}
 
-![](images/slide_43_img_45.png) {left=60.14 top=-0.00 width=21.64 height=22.80}
+![](./lecture_11_muscle_biochemistry/images/slide_43_img_45.png) {left=60.14 top=-0.00 width=21.64 height=22.80}
 
-![](images/slide_43_img_46.png) {left=60.14 top=28.39 width=21.98 height=22.80}
+![](./lecture_11_muscle_biochemistry/images/slide_43_img_46.png) {left=60.14 top=28.39 width=21.98 height=22.80}
 
 <div style="position: absolute; left: 49.80%; top: 50.00%; width: 50.20%; height: 50.00%;">
 
@@ -925,9 +925,9 @@ myosin head
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_47.png) {left=68.82 top=-1.48 width=32.34 height=81.79}
+![](./lecture_11_muscle_biochemistry/images/slide_44_img_47.png) {left=68.82 top=-1.48 width=32.34 height=81.79}
 
-![](images/slide_44_img_48.png) {left=25.89 top=51.58 width=36.47 height=46.64}
+![](./lecture_11_muscle_biochemistry/images/slide_44_img_48.png) {left=25.89 top=51.58 width=36.47 height=46.64}
 
 <div style="position: absolute; left: 16.75%; top: 0.00%; width: 54.75%; height: 52.97%;">
 
@@ -942,9 +942,9 @@ myosin head
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_49.png) {left=38.67 top=50.00 width=61.33 height=50.00}
+![](./lecture_11_muscle_biochemistry/images/slide_45_img_49.png) {left=38.67 top=50.00 width=61.33 height=50.00}
 
-![](images/slide_45_img_50.png) {left=66.06 top=0.00 width=33.94 height=52.31}
+![](./lecture_11_muscle_biochemistry/images/slide_45_img_50.png) {left=66.06 top=0.00 width=33.94 height=52.31}
 
 <div style="position: absolute; left: 15.75%; top: 1.98%; width: 48.74%; height: 48.02%;">
 
@@ -978,7 +978,7 @@ The mechanism explains actomyosin energy coupling without invoking large interna
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_51.png) {left=17.83 top=6.62 width=80.92 height=30.38}
+![](./lecture_11_muscle_biochemistry/images/slide_46_img_51.png) {left=17.83 top=6.62 width=80.92 height=30.38}
 
 <div style="position: absolute; left: 16.58%; top: 42.04%; width: 83.42%; height: 52.23%;">
 
@@ -1027,9 +1027,9 @@ This persistence allows tight coupling between chemical energy and mechanical mo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_52.png) {left=20.42 top=0.00 width=78.24 height=21.09}
+![](./lecture_11_muscle_biochemistry/images/slide_48_img_52.png) {left=20.42 top=0.00 width=78.24 height=21.09}
 
-![](images/slide_48_img_53.png) {left=34.44 top=27.73 width=65.56 height=63.94}
+![](./lecture_11_muscle_biochemistry/images/slide_48_img_53.png) {left=34.44 top=27.73 width=65.56 height=63.94}
 
 <div style="position: absolute; left: 15.75%; top: 16.31%; width: 24.04%; height: 75.36%;">
 
@@ -1043,9 +1043,9 @@ For myosin, more than one atom of oxygen from water is incorporated in inorganic
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_54.png) {left=72.43 top=0.00 width=27.57 height=53.61}
+![](./lecture_11_muscle_biochemistry/images/slide_49_img_54.png) {left=72.43 top=0.00 width=27.57 height=53.61}
 
-![](images/slide_49_img_55.png) {left=17.30 top=48.77 width=65.39 height=51.23}
+![](./lecture_11_muscle_biochemistry/images/slide_49_img_55.png) {left=17.30 top=48.77 width=65.39 height=51.23}
 
 <div style="position: absolute; left: 17.75%; top: 2.87%; width: 51.41%; height: 40.36%;">
 
@@ -1150,13 +1150,13 @@ Very long duration (hours+): mostly from fats
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_56.png) {left=17.19 top=0.00 width=47.96 height=37.02}
+![](./lecture_11_muscle_biochemistry/images/slide_53_img_56.png) {left=17.19 top=0.00 width=47.96 height=37.02}
 
-![](images/slide_53_img_57.png) {left=69.62 top=5.93 width=30.38 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_53_img_57.png) {left=69.62 top=5.93 width=30.38 height=94.07}
 
-![](images/slide_53_img_58.png) {left=17.19 top=37.02 width=38.35 height=22.35}
+![](./lecture_11_muscle_biochemistry/images/slide_53_img_58.png) {left=17.19 top=37.02 width=38.35 height=22.35}
 
-![](images/slide_53_img_59.png) {left=40.01 top=59.37 width=29.61 height=40.63}
+![](./lecture_11_muscle_biochemistry/images/slide_53_img_59.png) {left=40.01 top=59.37 width=29.61 height=40.63}
 
 <div style="position: absolute; left: 16.45%; top: 62.98%; width: 23.56%; height: 37.02%;">
 
@@ -1170,7 +1170,7 @@ Very long duration (hours+): mostly from fats
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_60.png) {left=50.00 top=0.00 width=50.00 height=75.52}
+![](./lecture_11_muscle_biochemistry/images/slide_54_img_60.png) {left=50.00 top=0.00 width=50.00 height=75.52}
 
 <div style="position: absolute; left: 18.07%; top: 0.55%; width: 31.93%; height: 95.71%;">
 
@@ -1190,9 +1190,9 @@ of glucose (energy) from liver to muscle is affected.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_61.png) {left=20.86 top=1.48 width=65.73 height=31.30}
+![](./lecture_11_muscle_biochemistry/images/slide_55_img_61.png) {left=20.86 top=1.48 width=65.73 height=31.30}
 
-![](images/slide_55_img_62.png) {left=18.36 top=39.30 width=72.40 height=34.81}
+![](./lecture_11_muscle_biochemistry/images/slide_55_img_62.png) {left=18.36 top=39.30 width=72.40 height=34.81}
 
 <div style="position: absolute; left: 39.45%; top: 48.57%; width: 26.37%; height: 7.18%;">
 
@@ -1206,9 +1206,9 @@ Creatine phosphokinase (CPK)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_56_img_63.png) {left=54.35 top=0.00 width=45.65 height=38.59}
+![](./lecture_11_muscle_biochemistry/images/slide_56_img_63.png) {left=54.35 top=0.00 width=45.65 height=38.59}
 
-![](images/slide_56_img_64.png) {left=54.35 top=50.00 width=45.65 height=49.95}
+![](./lecture_11_muscle_biochemistry/images/slide_56_img_64.png) {left=54.35 top=50.00 width=45.65 height=49.95}
 
 <div style="position: absolute; left: 15.08%; top: 1.38%; width: 40.06%; height: 98.56%;">
 
@@ -1223,9 +1223,9 @@ phosphates giving a signal). The series of plots represents the passage of time,
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_65.png) {left=62.76 top=0.00 width=37.24 height=47.68}
+![](./lecture_11_muscle_biochemistry/images/slide_57_img_65.png) {left=62.76 top=0.00 width=37.24 height=47.68}
 
-![](images/slide_57_img_66.png) {left=63.65 top=46.44 width=36.35 height=53.56}
+![](./lecture_11_muscle_biochemistry/images/slide_57_img_66.png) {left=63.65 top=46.44 width=36.35 height=53.56}
 
 <div style="position: absolute; left: 20.25%; top: 4.06%; width: 37.24%; height: 17.51%;">
 
@@ -1239,7 +1239,7 @@ The effect of duration of exercise, as well as type of diet, on relative percent
 
 </div>
 
-![](images/slide_57_img_67.png) {left=18.84 top=27.50 width=40.07 height=44.52}
+![](./lecture_11_muscle_biochemistry/images/slide_57_img_67.png) {left=18.84 top=27.50 width=40.07 height=44.52}
 
 <div style="position: absolute; left: 25.93%; top: 47.68%; width: 14.86%; height: 13.16%;">
 
@@ -1253,7 +1253,7 @@ world track records
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_68.png) {left=16.53 top=0.00 width=48.29 height=29.11}
+![](./lecture_11_muscle_biochemistry/images/slide_58_img_68.png) {left=16.53 top=0.00 width=48.29 height=29.11}
 
 <div style="position: absolute; left: 66.82%; top: 41.44%; width: 33.33%; height: 56.26%;">
 
@@ -1264,7 +1264,7 @@ glycogen molecule form the surface of the glycogen granule. Degradation takes pl
 
 </div>
 
-![](images/slide_58_img_69.png) {left=75.79 top=-0.00 width=24.21 height=39.86}
+![](./lecture_11_muscle_biochemistry/images/slide_58_img_69.png) {left=75.79 top=-0.00 width=24.21 height=39.86}
 
 <div style="position: absolute; left: 16.53%; top: 31.95%; width: 45.73%; height: 68.37%;">
 
@@ -1286,7 +1286,7 @@ Present in **bacteria, archaea, and eukaryotes** (plants store glucose as **star
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_70.png) {left=30.85 top=0.00 width=69.15 height=33.74}
+![](./lecture_11_muscle_biochemistry/images/slide_59_img_70.png) {left=30.85 top=0.00 width=69.15 height=33.74}
 
 <div style="position: absolute; left: 16.25%; top: 36.55%; width: 47.24%; height: 55.59%;">
 
@@ -1320,11 +1320,11 @@ Works at **non-reducing ends** (free –OH on C4)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_60_img_71.png) {left=16.07 top=0.00 width=44.22 height=52.67}
+![](./lecture_11_muscle_biochemistry/images/slide_60_img_71.png) {left=16.07 top=0.00 width=44.22 height=52.67}
 
-![](images/slide_60_img_72.png) {left=75.46 top=0.00 width=24.40 height=46.74}
+![](./lecture_11_muscle_biochemistry/images/slide_60_img_72.png) {left=75.46 top=0.00 width=24.40 height=46.74}
 
-![](images/slide_60_img_73.png) {left=16.07 top=54.86 width=60.43 height=45.14}
+![](./lecture_11_muscle_biochemistry/images/slide_60_img_73.png) {left=16.07 top=54.86 width=60.43 height=45.14}
 
 <div style="position: absolute; left: 75.17%; top: 49.75%; width: 24.98%; height: 23.34%;">
 
@@ -1338,7 +1338,7 @@ A pyridoxal phosphate (PLP, B6 derivative) group (red) forms a Schiff base with 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_74.png) {left=66.23 top=17.65 width=28.09 height=61.33}
+![](./lecture_11_muscle_biochemistry/images/slide_61_img_74.png) {left=66.23 top=17.65 width=28.09 height=61.33}
 
 <div style="position: absolute; left: 16.07%; top: 0.00%; width: 48.44%; height: 96.63%;">
 
@@ -1368,7 +1368,7 @@ a-form favors **R**; b-form favors **T**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_75.png) {left=47.79 top=0.00 width=52.21 height=56.88}
+![](./lecture_11_muscle_biochemistry/images/slide_62_img_75.png) {left=47.79 top=0.00 width=52.21 height=56.88}
 
 <div style="position: absolute; left: 13.58%; top: 7.72%; width: 37.56%; height: 35.00%;">
 
@@ -1418,7 +1418,7 @@ Muscle responds to **energy charge**, not blood glucose
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_63_img_76.png) {left=42.62 top=12.07 width=57.38 height=68.25}
+![](./lecture_11_muscle_biochemistry/images/slide_63_img_76.png) {left=42.62 top=12.07 width=57.38 height=68.25}
 
 <div style="position: absolute; left: 15.08%; top: 16.82%; width: 24.70%; height: 58.75%;">
 
@@ -1460,13 +1460,13 @@ Muscle relevance: Ca²⁺ from SR during contraction
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_77.png) {left=50.00 top=0.00 width=50.00 height=71.85}
+![](./lecture_11_muscle_biochemistry/images/slide_64_img_77.png) {left=50.00 top=0.00 width=50.00 height=71.85}
 
-![](images/slide_64_img_78.png) {left=15.88 top=32.64 width=44.94 height=67.36}
+![](./lecture_11_muscle_biochemistry/images/slide_64_img_78.png) {left=15.88 top=32.64 width=44.94 height=67.36}
 
-![](images/slide_64_img_79.png) {left=20.03 top=0.00 width=25.02 height=26.72}
+![](./lecture_11_muscle_biochemistry/images/slide_64_img_79.png) {left=20.03 top=0.00 width=25.02 height=26.72}
 
-![](images/slide_64_img_80.png) {left=63.11 top=73.28 width=36.89 height=26.72}
+![](./lecture_11_muscle_biochemistry/images/slide_64_img_80.png) {left=63.11 top=73.28 width=36.89 height=26.72}
 
 <div style="position: absolute; left: 33.00%; top: 14.44%; width: 10.68%; height: 8.38%;">
 
@@ -1505,9 +1505,9 @@ transmembrane (7TM) receptors in the plasma membranes of target cells. Epinephri
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_81.png) {left=65.15 top=0.00 width=34.85 height=54.74}
+![](./lecture_11_muscle_biochemistry/images/slide_66_img_81.png) {left=65.15 top=0.00 width=34.85 height=54.74}
 
-![](images/slide_66_img_82.png) {left=16.18 top=0.00 width=41.13 height=35.51}
+![](./lecture_11_muscle_biochemistry/images/slide_66_img_82.png) {left=16.18 top=0.00 width=41.13 height=35.51}
 
 <div style="position: absolute; left: 16.58%; top: 34.32%; width: 52.41%; height: 66.15%;">
 
@@ -1539,7 +1539,7 @@ In eukaryotes, **transferase + α-1,6-glucosidase** = one **bifunctional enzyme 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_83.png) {left=25.70 top=2.60 width=59.78 height=36.02}
+![](./lecture_11_muscle_biochemistry/images/slide_67_img_83.png) {left=25.70 top=2.60 width=59.78 height=36.02}
 
 <div style="position: absolute; left: 17.43%; top: 38.63%; width: 82.57%; height: 22.74%;">
 
@@ -1548,7 +1548,7 @@ is transferred back to restore the enzyme to its initial state.
 
 </div>
 
-![](images/slide_67_img_84.png) {left=16.24 top=56.92 width=83.76 height=39.13}
+![](./lecture_11_muscle_biochemistry/images/slide_67_img_84.png) {left=16.24 top=56.92 width=83.76 height=39.13}
 
 </div>
 
@@ -1564,9 +1564,9 @@ This reaction is readily reversible. However, pyrophosphate is rapidly hydrolyze
 
 </div>
 
-![](images/slide_68_img_85.png) {left=77.76 top=0.00 width=22.24 height=61.39}
+![](./lecture_11_muscle_biochemistry/images/slide_68_img_85.png) {left=77.76 top=0.00 width=22.24 height=61.39}
 
-![](images/slide_68_img_86.png) {left=16.40 top=68.17 width=84.90 height=31.83}
+![](./lecture_11_muscle_biochemistry/images/slide_68_img_86.png) {left=16.40 top=68.17 width=84.90 height=31.83}
 
 <div style="position: absolute; left: 34.73%; top: 70.84%; width: 34.89%; height: 13.16%;">
 
@@ -1574,7 +1574,7 @@ UDP-glucose pyrophosphorylase
 
 </div>
 
-![](images/slide_68_img_87.png) {left=16.40 top=45.38 width=63.54 height=19.81}
+![](./lecture_11_muscle_biochemistry/images/slide_68_img_87.png) {left=16.40 top=45.38 width=63.54 height=19.81}
 
 </div>
 
@@ -1582,7 +1582,7 @@ UDP-glucose pyrophosphorylase
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_69_img_88.png) {left=53.30 top=0.00 width=46.70 height=54.32}
+![](./lecture_11_muscle_biochemistry/images/slide_69_img_88.png) {left=53.30 top=0.00 width=46.70 height=54.32}
 
 <div style="position: absolute; left: 56.81%; top: 25.12%; width: 16.19%; height: 7.18%;">
 
@@ -1626,9 +1626,9 @@ After the primer is built, **glycogen synthase takes over**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_70_img_89.png) {left=58.81 top=35.09 width=41.19 height=64.91}
+![](./lecture_11_muscle_biochemistry/images/slide_70_img_89.png) {left=58.81 top=35.09 width=41.19 height=64.91}
 
-![](images/slide_70_img_90.png) {left=79.28 top=0.00 width=20.72 height=35.09}
+![](./lecture_11_muscle_biochemistry/images/slide_70_img_90.png) {left=79.28 top=0.00 width=20.72 height=35.09}
 
 <div style="position: absolute; left: 81.51%; top: 1.98%; width: 19.46%; height: 22.26%;">
 
@@ -1663,7 +1663,7 @@ Result: **much faster synthesis and degradation**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_91.png) {left=18.25 top=0.00 width=71.98 height=40.93}
+![](./lecture_11_muscle_biochemistry/images/slide_71_img_91.png) {left=18.25 top=0.00 width=71.98 height=40.93}
 
 <div style="position: absolute; left: 18.25%; top: 45.90%; width: 81.90%; height: 46.68%;">
 
@@ -1681,9 +1681,9 @@ Result: **much faster synthesis and degradation**
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_72_img_92.png) {left=17.96 top=0.00 width=82.04 height=96.64}
+![](./lecture_11_muscle_biochemistry/images/slide_72_img_92.png) {left=17.96 top=0.00 width=82.04 height=96.64}
 
-![](images/slide_72_img_93.png) {left=73.87 top=0.00 width=26.13 height=50.00}
+![](./lecture_11_muscle_biochemistry/images/slide_72_img_93.png) {left=73.87 top=0.00 width=26.13 height=50.00}
 
 <div style="position: absolute; left: 76.84%; top: 26.61%; width: 12.02%; height: 9.58%;">
 
@@ -1713,7 +1713,7 @@ PKA **inhibits PP1**: – phosphorylates GM → PP1 released from glycogen –
 
 </div>
 
-![](images/slide_73_img_94.png) {left=54.79 top=32.91 width=44.37 height=48.89}
+![](./lecture_11_muscle_biochemistry/images/slide_73_img_94.png) {left=54.79 top=32.91 width=44.37 height=48.89}
 
 <div style="position: absolute; left: 54.79%; top: 72.22%; width: 21.20%; height: 9.58%;">
 
@@ -1749,7 +1749,7 @@ PP1 binding to phosphorylase a prevents premature glycogen synthesis.
 
 </div>
 
-![](images/slide_74_img_95.png) {left=59.65 top=16.82 width=40.35 height=64.19}
+![](./lecture_11_muscle_biochemistry/images/slide_74_img_95.png) {left=59.65 top=16.82 width=40.35 height=64.19}
 
 </div>
 
@@ -1775,7 +1775,7 @@ Not all contractions done consciously
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_96.png) {left=58.48 top=0.00 width=35.52 height=55.64}
+![](./lecture_11_muscle_biochemistry/images/slide_76_img_96.png) {left=58.48 top=0.00 width=35.52 height=55.64}
 
 <div style="position: absolute; left: 17.41%; top: 0.00%; width: 38.06%; height: 42.67%;">
 
@@ -1819,7 +1819,7 @@ Found in **walls of visceral organs: **GI tract, bile ducts, ureters, uterus, bl
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_97.png) {left=70.98 top=0.00 width=29.02 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_77_img_97.png) {left=70.98 top=0.00 width=29.02 height=94.07}
 
 <div style="position: absolute; left: 16.41%; top: 10.29%; width: 53.08%; height: 89.71%;">
 
@@ -1876,7 +1876,7 @@ Allows hollow organs (e.g. bladder) to **maintain pressure** despite volume chan
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_79_img_98.png) {left=65.85 top=2.96 width=34.15 height=81.21}
+![](./lecture_11_muscle_biochemistry/images/slide_79_img_98.png) {left=65.85 top=2.96 width=34.15 height=81.21}
 
 <div style="position: absolute; left: 14.08%; top: 1.48%; width: 52.58%; height: 100.00%;">
 
@@ -1910,7 +1910,7 @@ More developed SR → **faster contraction**.
 
 </div>
 
-![](images/slide_80_img_99.png) {left=63.82 top=13.95 width=36.18 height=66.79}
+![](./lecture_11_muscle_biochemistry/images/slide_80_img_99.png) {left=63.82 top=13.95 width=36.18 height=66.79}
 
 </div>
 
@@ -1932,7 +1932,7 @@ Result: → **Force maintained (latched)** → **Energy conserved (low ATP use
 
 </div>
 
-![](images/slide_81_img_100.png) {left=57.83 top=3.85 width=42.17 height=96.15}
+![](./lecture_11_muscle_biochemistry/images/slide_81_img_100.png) {left=57.83 top=3.85 width=42.17 height=96.15}
 
 </div>
 
@@ -1946,7 +1946,7 @@ Result: → **Force maintained (latched)** → **Energy conserved (low ATP use
 
 </div>
 
-![](images/slide_82_img_101.png) {left=44.64 top=12.37 width=55.36 height=60.53}
+![](./lecture_11_muscle_biochemistry/images/slide_82_img_101.png) {left=44.64 top=12.37 width=55.36 height=60.53}
 
 <div style="position: absolute; left: 15.41%; top: 11.18%; width: 35.39%; height: 61.05%;">
 
@@ -1983,7 +1983,7 @@ Some contain **other modulators** (e.g. peptides).
 
 </div>
 
-![](images/slide_83_img_102.png) {left=58.47 top=0.00 width=39.69 height=65.39}
+![](./lecture_11_muscle_biochemistry/images/slide_83_img_102.png) {left=58.47 top=0.00 width=39.69 height=65.39}
 
 <div style="position: absolute; left: 60.14%; top: 64.59%; width: 38.02%; height: 35.41%;">
 
@@ -2035,9 +2035,9 @@ Pumping for the great good
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_86_img_103.png) {left=59.03 top=2.96 width=40.97 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_86_img_103.png) {left=59.03 top=2.96 width=40.97 height=94.07}
 
-![](images/slide_86_img_104.png) {left=25.26 top=1.48 width=33.02 height=43.46}
+![](./lecture_11_muscle_biochemistry/images/slide_86_img_104.png) {left=25.26 top=1.48 width=33.02 height=43.46}
 
 <div style="position: absolute; left: 11.74%; top: 46.19%; width: 47.96%; height: 55.24%;">
 
@@ -2071,7 +2071,7 @@ When Ca²⁺/Na⁺ channels close → ↑ K⁺ efflux → **rapid repolarization
 
 </div>
 
-![](images/slide_87_img_105.png) {left=67.65 top=0.00 width=32.35 height=51.63}
+![](./lecture_11_muscle_biochemistry/images/slide_87_img_105.png) {left=67.65 top=0.00 width=32.35 height=51.63}
 
 <div style="position: absolute; left: 61.48%; top: 52.13%; width: 37.39%; height: 47.87%;">
 
@@ -2083,7 +2083,7 @@ When Ca²⁺/Na⁺ channels close → ↑ K⁺ efflux → **rapid repolarization
 
 </div>
 
-![](images/slide_87_img_106.png) {left=17.17 top=64.70 width=36.69 height=33.23}
+![](./lecture_11_muscle_biochemistry/images/slide_87_img_106.png) {left=17.17 top=64.70 width=36.69 height=33.23}
 
 </div>
 
@@ -2091,9 +2091,9 @@ When Ca²⁺/Na⁺ channels close → ↑ K⁺ efflux → **rapid repolarization
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_88_img_107.png) {left=30.24 top=3.82 width=49.55 height=45.32}
+![](./lecture_11_muscle_biochemistry/images/slide_88_img_107.png) {left=30.24 top=3.82 width=49.55 height=45.32}
 
-![](images/slide_88_img_108.png) {left=27.03 top=49.14 width=64.31 height=41.49}
+![](./lecture_11_muscle_biochemistry/images/slide_88_img_108.png) {left=27.03 top=49.14 width=64.31 height=41.49}
 
 </div>
 
@@ -2101,7 +2101,7 @@ When Ca²⁺/Na⁺ channels close → ↑ K⁺ efflux → **rapid repolarization
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_89_img_109.png) {left=53.74 top=0.00 width=46.26 height=61.03}
+![](./lecture_11_muscle_biochemistry/images/slide_89_img_109.png) {left=53.74 top=0.00 width=46.26 height=61.03}
 
 <div style="position: absolute; left: 15.75%; top: 1.68%; width: 38.00%; height: 98.32%;">
 
@@ -2136,9 +2136,9 @@ Skeletal muscle contraction **not affected** by moderate Ca²⁺ changes
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_90_img_110.png) {left=70.59 top=0.00 width=29.41 height=50.00}
+![](./lecture_11_muscle_biochemistry/images/slide_90_img_110.png) {left=70.59 top=0.00 width=29.41 height=50.00}
 
-![](images/slide_90_img_111.png) {left=65.93 top=58.46 width=34.07 height=40.16}
+![](./lecture_11_muscle_biochemistry/images/slide_90_img_111.png) {left=65.93 top=58.46 width=34.07 height=40.16}
 
 <div style="position: absolute; left: 15.75%; top: 0.00%; width: 59.59%; height: 97.23%;">
 
@@ -2170,7 +2170,7 @@ This **spontaneous cycle repeats continuously** → rhythmic heartbeat
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_91_img_112.png) {left=20.24 top=13.93 width=66.41 height=77.96}
+![](./lecture_11_muscle_biochemistry/images/slide_91_img_112.png) {left=20.24 top=13.93 width=66.41 height=77.96}
 
 </div>
 
@@ -2178,9 +2178,9 @@ This **spontaneous cycle repeats continuously** → rhythmic heartbeat
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_92_img_113.png) {left=75.70 top=0.00 width=24.28 height=46.19}
+![](./lecture_11_muscle_biochemistry/images/slide_92_img_113.png) {left=75.70 top=0.00 width=24.28 height=46.19}
 
-![](images/slide_92_img_114.png) {left=77.12 top=46.19 width=21.45 height=53.81}
+![](./lecture_11_muscle_biochemistry/images/slide_92_img_114.png) {left=77.12 top=46.19 width=21.45 height=53.81}
 
 <div style="position: absolute; left: 16.75%; top: 4.65%; width: 56.42%; height: 92.36%;">
 
@@ -2205,7 +2205,7 @@ Prevents **re-entry circuits** → protects from arrhythmias.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_93_img_115.png) {left=16.02 top=2.96 width=44.17 height=94.07}
+![](./lecture_11_muscle_biochemistry/images/slide_93_img_115.png) {left=16.02 top=2.96 width=44.17 height=94.07}
 
 <div style="position: absolute; left: 18.42%; top: 8.21%; width: 13.35%; height: 17.95%;">
 
@@ -2213,9 +2213,9 @@ Single muscle fiber
 
 </div>
 
-![](images/slide_93_img_116.png) {left=71.66 top=59.89 width=28.34 height=40.11}
+![](./lecture_11_muscle_biochemistry/images/slide_93_img_116.png) {left=71.66 top=59.89 width=28.34 height=40.11}
 
-![](images/slide_93_img_117.png) {left=71.66 top=0.00 width=28.34 height=61.00}
+![](./lecture_11_muscle_biochemistry/images/slide_93_img_117.png) {left=71.66 top=0.00 width=28.34 height=61.00}
 
 </div>
 
@@ -2223,11 +2223,11 @@ Single muscle fiber
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_94_img_118.png) {left=16.75 top=0.00 width=50.24 height=41.22}
+![](./lecture_11_muscle_biochemistry/images/slide_94_img_118.png) {left=16.75 top=0.00 width=50.24 height=41.22}
 
-![](images/slide_94_img_119.png) {left=68.32 top=0.00 width=31.68 height=82.40}
+![](./lecture_11_muscle_biochemistry/images/slide_94_img_119.png) {left=68.32 top=0.00 width=31.68 height=82.40}
 
-![](images/slide_94_img_120.png) {left=16.75 top=42.66 width=22.87 height=57.34}
+![](./lecture_11_muscle_biochemistry/images/slide_94_img_120.png) {left=16.75 top=42.66 width=22.87 height=57.34}
 
 <div style="position: absolute; left: 39.61%; top: 82.05%; width: 60.39%; height: 17.95%;">
 
@@ -2282,7 +2282,7 @@ Lead I potential + Lead III potential = Lead II potential
 
 </div>
 
-![](images/slide_97_img_121.png) {left=14.11 top=34.42 width=40.55 height=64.20}
+![](./lecture_11_muscle_biochemistry/images/slide_97_img_121.png) {left=14.11 top=34.42 width=40.55 height=64.20}
 
 <div style="position: absolute; left: 14.11%; top: 9.84%; width: 81.99%; height: 24.54%;">
 
@@ -2290,7 +2290,7 @@ A person holds a load of weight *P*. The upper arm of length *L* is perpendicula
 
 </div>
 
-![](images/slide_97_img_122.png) {left=58.25 top=37.95 width=40.05 height=59.69}
+![](./lecture_11_muscle_biochemistry/images/slide_97_img_122.png) {left=58.25 top=37.95 width=40.05 height=59.69}
 
 </div>
 

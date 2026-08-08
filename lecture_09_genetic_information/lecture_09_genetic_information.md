@@ -24,7 +24,7 @@ Lecture 9: Genetic Information Flow
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_2_img_1.png) {left=21.80 top=0.00 width=74.69 height=94.07}
+![](./lecture_09_genetic_information/images/slide_2_img_1.png) {left=21.80 top=0.00 width=74.69 height=94.07}
 
 </div>
 
@@ -50,7 +50,7 @@ Passing information down the generations
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_4_img_2.png) {left=41.74 top=0.00 width=58.26 height=94.07}
+![](./lecture_09_genetic_information/images/slide_4_img_2.png) {left=41.74 top=0.00 width=58.26 height=94.07}
 
 <div style="position: absolute; left: 15.41%; top: 1.38%; width: 25.20%; height: 100.00%;">
 
@@ -70,11 +70,11 @@ Passing information down the generations
 
 </div>
 
-![](images/slide_5_img_3.png) {left=67.62 top=7.92 width=32.38 height=36.74}
+![](./lecture_09_genetic_information/images/slide_5_img_3.png) {left=67.62 top=7.92 width=32.38 height=36.74}
 
-![](images/slide_5_img_4.png) {left=61.65 top=44.66 width=38.35 height=28.46}
+![](./lecture_09_genetic_information/images/slide_5_img_4.png) {left=61.65 top=44.66 width=38.35 height=28.46}
 
-![](images/slide_5_img_5.png) {left=61.65 top=73.12 width=38.35 height=26.88}
+![](./lecture_09_genetic_information/images/slide_5_img_5.png) {left=61.65 top=73.12 width=38.35 height=26.88}
 
 <div style="position: absolute; left: 17.25%; top: 13.55%; width: 44.40%; height: 86.45%;">
 
@@ -92,7 +92,7 @@ to a medium containing only light nitrogen, 14N, cellular DNA isolated after one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_6_img_6.png) {left=19.15 top=14.74 width=80.85 height=85.26}
+![](./lecture_09_genetic_information/images/slide_6_img_6.png) {left=19.15 top=14.74 width=80.85 height=85.26}
 
 <div style="position: absolute; left: 19.25%; top: 2.28%; width: 80.85%; height: 7.42%;">
 
@@ -106,13 +106,13 @@ to a medium containing only light nitrogen, 14N, cellular DNA isolated after one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_7.png) {left=18.52 top=2.96 width=35.23 height=94.07}
+![](./lecture_09_genetic_information/images/slide_7_img_7.png) {left=18.52 top=2.96 width=35.23 height=94.07}
 
-![](images/slide_7_img_8.png) {left=57.93 top=2.96 width=23.86 height=94.07}
+![](./lecture_09_genetic_information/images/slide_7_img_8.png) {left=57.93 top=2.96 width=23.86 height=94.07}
 
-![](images/slide_7_img_9.png) {left=87.09 top=2.96 width=12.91 height=46.88}
+![](./lecture_09_genetic_information/images/slide_7_img_9.png) {left=87.09 top=2.96 width=12.91 height=46.88}
 
-![](images/slide_7_img_10.png) {left=87.09 top=50.16 width=12.91 height=46.88}
+![](./lecture_09_genetic_information/images/slide_7_img_10.png) {left=87.09 top=50.16 width=12.91 height=46.88}
 
 </div>
 
@@ -120,7 +120,7 @@ to a medium containing only light nitrogen, 14N, cellular DNA isolated after one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_11.png) {left=34.11 top=1.39 width=52.87 height=57.79}
+![](./lecture_09_genetic_information/images/slide_8_img_11.png) {left=34.11 top=1.39 width=52.87 height=57.79}
 
 <div style="position: absolute; left: 17.25%; top: 59.25%; width: 82.75%; height: 40.75%;">
 
@@ -141,11 +141,11 @@ to a medium containing only light nitrogen, 14N, cellular DNA isolated after one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_9_img_12.png) {left=50.00 top=2.96 width=50.13 height=94.07}
+![](./lecture_09_genetic_information/images/slide_9_img_12.png) {left=50.00 top=2.96 width=50.13 height=94.07}
 
-![](images/slide_9_img_13.png) {left=15.97 top=2.96 width=34.03 height=47.04}
+![](./lecture_09_genetic_information/images/slide_9_img_13.png) {left=15.97 top=2.96 width=34.03 height=47.04}
 
-![](images/slide_9_img_14.png) {left=15.97 top=64.65 width=34.03 height=30.90}
+![](./lecture_09_genetic_information/images/slide_9_img_14.png) {left=15.97 top=64.65 width=34.03 height=30.90}
 
 </div>
 
@@ -153,7 +153,7 @@ to a medium containing only light nitrogen, 14N, cellular DNA isolated after one
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_15.png) {left=16.69 top=2.96 width=52.98 height=94.07}
+![](./lecture_09_genetic_information/images/slide_10_img_15.png) {left=16.69 top=2.96 width=52.98 height=94.07}
 
 <div style="position: absolute; left: 43.45%; top: 2.96%; width: 56.55%; height: 47.13%;">
 
@@ -175,9 +175,9 @@ polymerase structure shows the insertion and postinsertion parts of the active s
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_16.png) {left=55.34 top=6.23 width=20.80 height=58.07}
+![](./lecture_09_genetic_information/images/slide_11_img_16.png) {left=55.34 top=6.23 width=20.80 height=58.07}
 
-![](images/slide_11_img_17.png) {left=77.81 top=2.96 width=22.19 height=94.07}
+![](./lecture_09_genetic_information/images/slide_11_img_17.png) {left=77.81 top=2.96 width=22.19 height=94.07}
 
 <div style="position: absolute; left: 17.41%; top: 4.06%; width: 37.92%; height: 92.98%;">
 
@@ -196,7 +196,7 @@ sometimes occur because a base is briefly in an unusual tautomeric form.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_18.png) {left=64.26 top=0.00 width=35.74 height=100.00}
+![](./lecture_09_genetic_information/images/slide_12_img_18.png) {left=64.26 top=0.00 width=35.74 height=100.00}
 
 <div style="position: absolute; left: 16.25%; top: 0.49%; width: 47.40%; height: 100.00%;">
 
@@ -212,9 +212,9 @@ When base selection and proofreading are combined, DNA polymerase leaves behind 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_19.png) {left=54.02 top=17.57 width=45.98 height=31.95}
+![](./lecture_09_genetic_information/images/slide_13_img_19.png) {left=54.02 top=17.57 width=45.98 height=31.95}
 
-![](images/slide_13_img_20.png) {left=54.02 top=49.52 width=45.98 height=50.48}
+![](./lecture_09_genetic_information/images/slide_13_img_20.png) {left=54.02 top=49.52 width=45.98 height=50.48}
 
 <div style="position: absolute; left: 54.47%; top: 1.09%; width: 44.73%; height: 16.48%;">
 
@@ -237,7 +237,7 @@ polymerases are slowed when a DNA lesion is present in the DNA template strand.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_21.png) {left=59.03 top=0.00 width=40.97 height=94.07}
+![](./lecture_09_genetic_information/images/slide_14_img_21.png) {left=59.03 top=0.00 width=40.97 height=94.07}
 
 <div style="position: absolute; left: 17.58%; top: 0.00%; width: 40.97%; height: 98.12%;">
 
@@ -251,9 +251,9 @@ polymerases are slowed when a DNA lesion is present in the DNA template strand.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_15_img_22.png) {left=52.96 top=0.00 width=44.94 height=55.40}
+![](./lecture_09_genetic_information/images/slide_15_img_22.png) {left=52.96 top=0.00 width=44.94 height=55.40}
 
-![](images/slide_15_img_23.png) {left=52.96 top=54.20 width=47.04 height=24.93}
+![](./lecture_09_genetic_information/images/slide_15_img_23.png) {left=52.96 top=54.20 width=47.04 height=24.93}
 
 <div style="position: absolute; left: 16.75%; top: 1.38%; width: 34.22%; height: 98.62%;">
 
@@ -271,7 +271,7 @@ Clamp-loading complexes incorporating γ subunits may operate independently of t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_16_img_24.png) {left=17.72 top=0.00 width=82.28 height=56.28}
+![](./lecture_09_genetic_information/images/slide_16_img_24.png) {left=17.72 top=0.00 width=82.28 height=56.28}
 
 <div style="position: absolute; left: 16.75%; top: 55.69%; width: 83.25%; height: 44.31%;">
 
@@ -286,7 +286,7 @@ subunits are shown in two shades of purple as ribbon structures (left) and surfa
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=sKe3UgH1AKg) {left=15.60 top=3.26 width=84.40 height=84.40}
+![youtube](sKe3UgH1AKg) {left=15.60 top=3.26 width=84.40 height=84.40}
 
 </div>
 
@@ -294,7 +294,7 @@ subunits are shown in two shades of purple as ribbon structures (left) and surfa
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_25.png) {left=68.66 top=5.93 width=31.96 height=94.07}
+![](./lecture_09_genetic_information/images/slide_18_img_25.png) {left=68.66 top=5.93 width=31.96 height=94.07}
 
 <div style="position: absolute; left: 17.58%; top: 20.64%; width: 51.08%; height: 79.36%;">
 
@@ -304,7 +304,7 @@ Hexamers of the DnaB protein bind to each strand, with the aid of DnaC protein. 
 
 </div>
 
-![](images/slide_18_img_26.png) {left=8.04 top=0.00 width=64.62 height=20.64}
+![](./lecture_09_genetic_information/images/slide_18_img_26.png) {left=8.04 top=0.00 width=64.62 height=20.64}
 
 <div style="position: absolute; left: 54.39%; top: 1.88%; width: 17.25%; height: 8.29%;">
 
@@ -325,9 +325,9 @@ Hexamers of the DnaB protein bind to each strand, with the aid of DnaC protein. 
 
 </div>
 
-![](images/slide_19_img_27.png) {left=67.05 top=14.45 width=32.95 height=9.74}
+![](./lecture_09_genetic_information/images/slide_19_img_27.png) {left=67.05 top=14.45 width=32.95 height=9.74}
 
-![](images/slide_19_img_28.png) {left=67.05 top=25.10 width=32.94 height=74.90}
+![](./lecture_09_genetic_information/images/slide_19_img_28.png) {left=67.05 top=25.10 width=32.94 height=74.90}
 
 <div style="position: absolute; left: 13.41%; top: 15.92%; width: 52.91%; height: 40.41%;">
 
@@ -336,7 +336,7 @@ In the case of DnaA, the ATP-bound form is active and the ADP-bound form is inac
 
 </div>
 
-![](images/slide_19_img_29.png) {left=16.07 top=58.71 width=21.13 height=38.80}
+![](./lecture_09_genetic_information/images/slide_19_img_29.png) {left=16.07 top=58.71 width=21.13 height=38.80}
 
 <div style="position: absolute; left: 40.12%; top: 60.73%; width: 24.45%; height: 36.78%;">
 
@@ -350,7 +350,7 @@ Prepriming complex
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_20_img_30.png) {left=19.04 top=9.99 width=71.67 height=62.57}
+![](./lecture_09_genetic_information/images/slide_20_img_30.png) {left=19.04 top=9.99 width=71.67 height=62.57}
 
 <div style="position: absolute; left: 18.58%; top: 1.38%; width: 72.57%; height: 8.60%;">
 
@@ -370,7 +370,7 @@ Two distinct polymerases are needed to copy a eukaryotic replicon . An initiator
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_21_img_31.png) {left=59.75 top=2.96 width=39.52 height=94.07}
+![](./lecture_09_genetic_information/images/slide_21_img_31.png) {left=59.75 top=2.96 width=39.52 height=94.07}
 
 <div style="position: absolute; left: 15.75%; top: 2.28%; width: 43.73%; height: 95.25%;">
 
@@ -386,9 +386,9 @@ subunits, so one or two Okazaki fragments can be synthesized simultaneously, alo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_32.png) {left=16.69 top=1.48 width=50.93 height=94.07}
+![](./lecture_09_genetic_information/images/slide_22_img_32.png) {left=16.69 top=1.48 width=50.93 height=94.07}
 
-![](images/slide_22_img_33.png) {left=52.03 top=0.00 width=47.97 height=32.40}
+![](./lecture_09_genetic_information/images/slide_22_img_33.png) {left=52.03 top=0.00 width=47.97 height=32.40}
 
 <div style="position: absolute; left: 67.99%; top: 37.29%; width: 32.01%; height: 62.71%;">
 
@@ -402,7 +402,7 @@ subunits, so one or two Okazaki fragments can be synthesized simultaneously, alo
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_34.png) {left=18.63 top=0.00 width=31.37 height=47.83}
+![](./lecture_09_genetic_information/images/slide_23_img_34.png) {left=18.63 top=0.00 width=31.37 height=47.83}
 
 <div style="position: absolute; left: 50.30%; top: 1.68%; width: 48.57%; height: 44.81%;">
 
@@ -411,7 +411,7 @@ RNA primers in the lagging strand are removed by the 5′→3′ exonuclease act
 
 </div>
 
-![](images/slide_23_img_35.png) {left=51.43 top=41.41 width=48.57 height=58.59}
+![](./lecture_09_genetic_information/images/slide_23_img_35.png) {left=51.43 top=41.41 width=48.57 height=58.59}
 
 <div style="position: absolute; left: 15.08%; top: 47.83%; width: 37.17%; height: 50.25%;">
 
@@ -432,7 +432,7 @@ RNA primers in the lagging strand are removed by the 5′→3′ exonuclease act
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_36.png) {left=17.01 top=0.00 width=32.28 height=42.77}
+![](./lecture_09_genetic_information/images/slide_24_img_36.png) {left=17.01 top=0.00 width=32.28 height=42.77}
 
 <div style="position: absolute; left: 49.43%; top: 2.51%; width: 49.82%; height: 97.49%;">
 
@@ -493,7 +493,7 @@ Evolutionary innovation and adaptability.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_37.png) {left=58.91 top=2.96 width=41.09 height=94.07}
+![](./lecture_09_genetic_information/images/slide_27_img_37.png) {left=58.91 top=2.96 width=41.09 height=94.07}
 
 <div style="position: absolute; left: 17.14%; top: 6.62%; width: 42.81%; height: 86.75%;">
 
@@ -511,9 +511,9 @@ replication fork. The replisome is reloaded onto this structure (not shown), and
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_38.png) {left=75.17 top=4.69 width=24.83 height=94.07}
+![](./lecture_09_genetic_information/images/slide_28_img_38.png) {left=75.17 top=4.69 width=24.83 height=94.07}
 
-![](images/slide_28_img_39.png) {left=16.12 top=1.23 width=25.80 height=37.29}
+![](./lecture_09_genetic_information/images/slide_28_img_39.png) {left=16.12 top=1.23 width=25.80 height=37.29}
 
 <div style="position: absolute; left: 14.52%; top: 42.94%; width: 61.28%; height: 57.06%;">
 
@@ -521,7 +521,7 @@ In E. coli, the DNA end-processing is promoted by the RecBCD nuclease/helicase. 
 
 </div>
 
-![](images/slide_28_img_40.png) {left=42.71 top=6.14 width=32.47 height=27.47}
+![](./lecture_09_genetic_information/images/slide_28_img_40.png) {left=42.71 top=6.14 width=32.47 height=27.47}
 
 </div>
 
@@ -529,7 +529,7 @@ In E. coli, the DNA end-processing is promoted by the RecBCD nuclease/helicase. 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_29_img_41.png) {left=24.31 top=2.96 width=74.71 height=94.07}
+![](./lecture_09_genetic_information/images/slide_29_img_41.png) {left=24.31 top=2.96 width=74.71 height=94.07}
 
 </div>
 
@@ -537,7 +537,7 @@ In E. coli, the DNA end-processing is promoted by the RecBCD nuclease/helicase. 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_30_img_42.png) {left=57.57 top=0.00 width=42.43 height=94.07}
+![](./lecture_09_genetic_information/images/slide_30_img_42.png) {left=57.57 top=0.00 width=42.43 height=94.07}
 
 <div style="position: absolute; left: 17.07%; top: 2.21%; width: 37.28%; height: 47.79%;">
 
@@ -552,15 +552,15 @@ reconstructed.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_43.png) {left=16.49 top=6.00 width=40.65 height=40.65}
+![](./lecture_09_genetic_information/images/slide_31_img_43.png) {left=16.49 top=6.00 width=40.65 height=40.65}
 
-![](images/slide_31_img_44.png) {left=16.49 top=59.34 width=40.65 height=40.65}
+![](./lecture_09_genetic_information/images/slide_31_img_44.png) {left=16.49 top=59.34 width=40.65 height=40.65}
 
-![](images/slide_31_img_45.png) {left=64.44 top=2.67 width=35.56 height=35.56}
+![](./lecture_09_genetic_information/images/slide_31_img_45.png) {left=64.44 top=2.67 width=35.56 height=35.56}
 
-![](images/slide_31_img_46.png) {left=62.26 top=62.22 width=37.78 height=37.78}
+![](./lecture_09_genetic_information/images/slide_31_img_46.png) {left=62.26 top=62.22 width=37.78 height=37.78}
 
-![](images/slide_31_img_47.png) {left=53.37 top=38.23 width=23.91 height=28.27}
+![](./lecture_09_genetic_information/images/slide_31_img_47.png) {left=53.37 top=38.23 width=23.91 height=28.27}
 
 <div style="position: absolute; left: 15.28%; top: 0.00%; width: 18.58%; height: 8.38%;">
 
@@ -592,9 +592,9 @@ Resection
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_48.png) {left=16.60 top=26.26 width=35.22 height=35.22}
+![](./lecture_09_genetic_information/images/slide_32_img_48.png) {left=16.60 top=26.26 width=35.22 height=35.22}
 
-![](images/slide_32_img_49.png) {left=16.60 top=-1.98 width=35.22 height=35.22}
+![](./lecture_09_genetic_information/images/slide_32_img_49.png) {left=16.60 top=-1.98 width=35.22 height=35.22}
 
 <div style="position: absolute; left: 18.42%; top: 0.00%; width: 31.58%; height: 8.50%;">
 
@@ -602,7 +602,7 @@ Resection
 
 </div>
 
-![](images/slide_32_img_50.png) {left=15.15 top=66.67 width=33.33 height=33.33}
+![](./lecture_09_genetic_information/images/slide_32_img_50.png) {left=15.15 top=66.67 width=33.33 height=33.33}
 
 <div style="position: absolute; left: 15.15%; top: 60.18%; width: 28.27%; height: 13.16%;">
 
@@ -610,9 +610,9 @@ Resection
 
 </div>
 
-![](images/slide_32_img_51.png) {left=61.88 top=54.80 width=38.12 height=38.12}
+![](./lecture_09_genetic_information/images/slide_32_img_51.png) {left=61.88 top=54.80 width=38.12 height=38.12}
 
-![](images/slide_32_img_52.png) {left=61.88 top=16.68 width=38.12 height=38.12}
+![](./lecture_09_genetic_information/images/slide_32_img_52.png) {left=61.88 top=16.68 width=38.12 height=38.12}
 
 <div style="position: absolute; left: 67.49%; top: 8.50%; width: 31.66%; height: 13.16%;">
 
@@ -626,9 +626,9 @@ Resection
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_33_img_53.png) {left=1.67 top=50.00 width=100.00 height=50.65}
+![](./lecture_09_genetic_information/images/slide_33_img_53.png) {left=1.67 top=50.00 width=100.00 height=50.65}
 
-![](images/slide_33_img_54.png) {left=3.33 top=11.32 width=96.67 height=29.79}
+![](./lecture_09_genetic_information/images/slide_33_img_54.png) {left=3.33 top=11.32 width=96.67 height=29.79}
 
 <div style="position: absolute; left: 20.32%; top: 1.49%; width: 9.72%; height: 8.38%;">
 
@@ -681,7 +681,7 @@ Gel Electrophoresis: <u>https://dnalc.cshl.edu/resources/animations/gelelectroph
 
 </div>
 
-![](images/slide_35_img_55.png) {left=61.85 top=0.00 width=38.15 height=100.00}
+![](./lecture_09_genetic_information/images/slide_35_img_55.png) {left=61.85 top=0.00 width=38.15 height=100.00}
 
 <div style="position: absolute; left: 16.58%; top: 15.63%; width: 44.40%; height: 82.79%;">
 
@@ -725,7 +725,7 @@ Transcription
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_37_img_56.png) {left=19.18 top=18.44 width=78.02 height=79.04}
+![](./lecture_09_genetic_information/images/slide_37_img_56.png) {left=19.18 top=18.44 width=78.02 height=79.04}
 
 <div style="position: absolute; left: 19.18%; top: 1.34%; width: 76.35%; height: 14.41%;">
 
@@ -762,9 +762,9 @@ RNA synthesis, like all biological polymerization reactions, takes place in thre
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_39_img_57.png) {left=18.05 top=0.00 width=81.95 height=61.72}
+![](./lecture_09_genetic_information/images/slide_39_img_57.png) {left=18.05 top=0.00 width=81.95 height=61.72}
 
-![](images/slide_39_img_58.png) {left=23.40 top=58.89 width=62.83 height=41.11}
+![](./lecture_09_genetic_information/images/slide_39_img_58.png) {left=23.40 top=58.89 width=62.83 height=41.11}
 
 <div style="position: absolute; left: 60.84%; top: 58.12%; width: 35.34%; height: 26.52%;">
 
@@ -779,9 +779,9 @@ RNA synthesis:
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_40_img_59.png) {left=15.12 top=2.96 width=28.49 height=94.07}
+![](./lecture_09_genetic_information/images/slide_40_img_59.png) {left=15.12 top=2.96 width=28.49 height=94.07}
 
-![](images/slide_40_img_60.png) {left=45.93 top=2.96 width=54.07 height=30.54}
+![](./lecture_09_genetic_information/images/slide_40_img_60.png) {left=45.93 top=2.96 width=54.07 height=30.54}
 
 <div style="position: absolute; left: 44.47%; top: 33.50%; width: 55.53%; height: 66.50%;">
 
@@ -795,11 +795,11 @@ By convention, the site on the DNA template at which RNA polymerase begins trans
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_41_img_61.png) {left=15.87 top=0.00 width=41.76 height=57.43}
+![](./lecture_09_genetic_information/images/slide_41_img_61.png) {left=15.87 top=0.00 width=41.76 height=57.43}
 
-![](images/slide_41_img_62.png) {left=58.24 top=0.00 width=41.76 height=20.75}
+![](./lecture_09_genetic_information/images/slide_41_img_62.png) {left=58.24 top=0.00 width=41.76 height=20.75}
 
-![](images/slide_41_img_63.png) {left=58.24 top=23.50 width=41.76 height=22.39}
+![](./lecture_09_genetic_information/images/slide_41_img_63.png) {left=58.24 top=23.50 width=41.76 height=22.39}
 
 <div style="position: absolute; left: 16.91%; top: 60.13%; width: 83.09%; height: 39.87%;">
 
@@ -823,7 +823,7 @@ By convention, the site on the DNA template at which RNA polymerase begins trans
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_42_img_64.png) {left=50.00 top=2.96 width=49.99 height=94.07}
+![](./lecture_09_genetic_information/images/slide_42_img_64.png) {left=50.00 top=2.96 width=49.99 height=94.07}
 
 <div style="position: absolute; left: 15.41%; top: 1.98%; width: 37.05%; height: 94.07%;">
 
@@ -853,11 +853,11 @@ RNA polymerase binds to promoter sites on the DNA template to initiate transcrip
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_65.png) {left=18.26 top=7.91 width=53.29 height=22.00}
+![](./lecture_09_genetic_information/images/slide_44_img_65.png) {left=18.26 top=7.91 width=53.29 height=22.00}
 
-![](images/slide_44_img_66.png) {left=19.51 top=42.67 width=55.85 height=22.00}
+![](./lecture_09_genetic_information/images/slide_44_img_66.png) {left=19.51 top=42.67 width=55.85 height=22.00}
 
-![](images/slide_44_img_67.png) {left=18.26 top=77.43 width=57.95 height=19.58}
+![](./lecture_09_genetic_information/images/slide_44_img_67.png) {left=18.26 top=77.43 width=57.95 height=19.58}
 
 <div style="position: absolute; left: 78.34%; top: 13.25%; width: 16.86%; height: 13.35%;">
 
@@ -911,7 +911,7 @@ After the polymerase has backtracked, the phosphodiester bond one base pair befo
 
 </div>
 
-![](images/slide_46_img_68.png) {left=57.55 top=-0.00 width=42.45 height=80.52}
+![](./lecture_09_genetic_information/images/slide_46_img_68.png) {left=57.55 top=-0.00 width=42.45 height=80.52}
 
 <div style="position: absolute; left: 15.38%; top: 13.55%; width: 39.89%; height: 86.45%;">
 
@@ -927,7 +927,7 @@ Eukaryotes have a set of general transcription factors (GTFs) that assemble on t
 
 </div>
 
-![](images/slide_46_img_69.png) {left=55.27 top=82.84 width=44.73 height=12.60}
+![](./lecture_09_genetic_information/images/slide_46_img_69.png) {left=55.27 top=82.84 width=44.73 height=12.60}
 
 <div style="position: absolute; left: 52.82%; top: 84.52%; width: 5.84%; height: 12.57%;">
 
@@ -943,7 +943,7 @@ Eukaryotes have a set of general transcription factors (GTFs) that assemble on t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_70.png) {left=38.24 top=55.54 width=63.04 height=41.20}
+![](./lecture_09_genetic_information/images/slide_47_img_70.png) {left=38.24 top=55.54 width=63.04 height=41.20}
 
 <div style="position: absolute; left: 17.58%; top: 73.49%; width: 18.86%; height: 8.38%;">
 
@@ -951,7 +951,7 @@ Eukaryotes have a set of general transcription factors (GTFs) that assemble on t
 
 </div>
 
-![](images/slide_47_img_71.png) {left=39.52 top=6.23 width=60.48 height=32.99}
+![](./lecture_09_genetic_information/images/slide_47_img_71.png) {left=39.52 top=6.23 width=60.48 height=32.99}
 
 <div style="position: absolute; left: 18.25%; top: 16.50%; width: 15.52%; height: 12.46%;">
 
@@ -965,7 +965,7 @@ Eukaryotes have a set of general transcription factors (GTFs) that assemble on t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_72.png) {left=65.15 top=0.00 width=34.85 height=40.70}
+![](./lecture_09_genetic_information/images/slide_48_img_72.png) {left=65.15 top=0.00 width=34.85 height=40.70}
 
 <div style="position: absolute; left: 16.07%; top: 3.81%; width: 14.70%; height: 10.93%;">
 
@@ -999,7 +999,7 @@ RNA–DNA hybrid helix produced after the hairpin is unstable because its rU–d
 
 </div>
 
-![](images/slide_49_img_73.png) {left=31.75 top=0.00 width=68.25 height=45.40}
+![](./lecture_09_genetic_information/images/slide_49_img_73.png) {left=31.75 top=0.00 width=68.25 height=45.40}
 
 <div style="position: absolute; left: 16.91%; top: 46.79%; width: 83.09%; height: 53.22%;">
 
@@ -1028,7 +1028,7 @@ terminator is formed, leading to the production of full-length mRNA.
 
 </div>
 
-![](images/slide_50_img_74.png) {left=48.33 top=12.76 width=51.67 height=66.85}
+![](./lecture_09_genetic_information/images/slide_50_img_74.png) {left=48.33 top=12.76 width=51.67 height=66.85}
 
 <div style="position: absolute; left: 17.41%; top: 17.41%; width: 31.88%; height: 79.83%;">
 
@@ -1068,7 +1068,7 @@ Proteins in addition to rho may provoke termination. For example, the nusA prote
 
 </div>
 
-![](images/slide_52_img_75.png) {left=16.07 top=21.87 width=22.84 height=28.82}
+![](./lecture_09_genetic_information/images/slide_52_img_75.png) {left=16.07 top=21.87 width=22.84 height=28.82}
 
 <div style="position: absolute; left: 18.25%; top: 67.26%; width: 81.90%; height: 27.53%;">
 
@@ -1076,7 +1076,7 @@ This antibiotic specifically inhibits the initiation of RNA synthesis. Rifampici
 
 </div>
 
-![](images/slide_52_img_76.png) {left=39.78 top=17.05 width=60.22 height=38.47}
+![](./lecture_09_genetic_information/images/slide_52_img_76.png) {left=39.78 top=17.05 width=60.22 height=38.47}
 
 </div>
 
@@ -1084,7 +1084,7 @@ This antibiotic specifically inhibits the initiation of RNA synthesis. Rifampici
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_77.png) {left=22.20 top=0.00 width=72.29 height=72.41}
+![](./lecture_09_genetic_information/images/slide_53_img_77.png) {left=22.20 top=0.00 width=72.29 height=72.41}
 
 <div style="position: absolute; left: 16.23%; top: 72.41%; width: 84.24%; height: 22.74%;">
 
@@ -1098,7 +1098,7 @@ Actinomycin D, a peptide-containing antibiotic from a different strain of Strept
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_78.png) {left=22.05 top=2.60 width=72.60 height=71.48}
+![](./lecture_09_genetic_information/images/slide_54_img_78.png) {left=22.05 top=2.60 width=72.60 height=71.48}
 
 <div style="position: absolute; left: 16.98%; top: 74.09%; width: 82.75%; height: 22.85%;">
 
@@ -1149,7 +1149,7 @@ Translation
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_79.png) {left=19.89 top=0.00 width=80.11 height=100.00}
+![](./lecture_09_genetic_information/images/slide_57_img_79.png) {left=19.89 top=0.00 width=80.11 height=100.00}
 
 </div>
 
@@ -1157,7 +1157,7 @@ Translation
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_80.png) {left=21.68 top=0.00 width=78.32 height=50.00}
+![](./lecture_09_genetic_information/images/slide_58_img_80.png) {left=21.68 top=0.00 width=78.32 height=50.00}
 
 <div style="position: absolute; left: 18.75%; top: 52.42%; width: 81.25%; height: 47.58%;">
 
@@ -1175,11 +1175,11 @@ Both the 30S and the 50S subunits can be reconstituted in vitro from their const
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_81.png) {left=55.14 top=0.49 width=24.25 height=54.48}
+![](./lecture_09_genetic_information/images/slide_59_img_81.png) {left=55.14 top=0.49 width=24.25 height=54.48}
 
-![](images/slide_59_img_82.png) {left=54.14 top=54.97 width=25.25 height=45.43}
+![](./lecture_09_genetic_information/images/slide_59_img_82.png) {left=54.14 top=54.97 width=25.25 height=45.43}
 
-![](images/slide_59_img_83.png) {left=78.58 top=0.00 width=21.42 height=91.98}
+![](./lecture_09_genetic_information/images/slide_59_img_83.png) {left=78.58 top=0.00 width=21.42 height=91.98}
 
 <div style="position: absolute; left: 15.08%; top: 0.49%; width: 40.06%; height: 98.22%;">
 
@@ -1213,7 +1213,7 @@ Anticodon loop at opposite end of L exposes 3 anticodon bases for mRNA pairing.
 
 </div>
 
-![](images/slide_60_img_84.png) {left=49.90 top=-0.00 width=50.10 height=45.56}
+![](./lecture_09_genetic_information/images/slide_60_img_84.png) {left=49.90 top=-0.00 width=50.10 height=45.56}
 
 <div style="position: absolute; left: 16.08%; top: 17.71%; width: 30.88%; height: 22.55%;">
 
@@ -1227,9 +1227,9 @@ Retroviruses may use tRNA as primer.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_85.png) {left=71.16 top=0.00 width=28.84 height=52.73}
+![](./lecture_09_genetic_information/images/slide_61_img_85.png) {left=71.16 top=0.00 width=28.84 height=52.73}
 
-![](images/slide_61_img_86.png) {left=74.39 top=56.87 width=25.61 height=43.13}
+![](./lecture_09_genetic_information/images/slide_61_img_86.png) {left=74.39 top=56.87 width=25.61 height=43.13}
 
 <div style="position: absolute; left: 16.41%; top: 0.49%; width: 56.08%; height: 48.07%;">
 
@@ -1241,7 +1241,7 @@ Each of the tRNA molecules is in contact with both the 30S subunit and the 50S s
 
 </div>
 
-![](images/slide_61_img_87.png) {left=43.59 top=52.73 width=30.81 height=45.51}
+![](./lecture_09_genetic_information/images/slide_61_img_87.png) {left=43.59 top=52.73 width=30.81 height=45.51}
 
 <div style="position: absolute; left: 17.41%; top: 52.73%; width: 25.61%; height: 45.51%;">
 
@@ -1257,7 +1257,7 @@ Each of the tRNA molecules is in contact with both the 30S subunit and the 50S s
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_62_img_88.png) {left=56.64 top=0.00 width=42.54 height=40.43}
+![](./lecture_09_genetic_information/images/slide_62_img_88.png) {left=56.64 top=0.00 width=42.54 height=40.43}
 
 <div style="position: absolute; left: 16.41%; top: 1.68%; width: 40.23%; height: 38.75%;">
 
@@ -1300,9 +1300,9 @@ Result: Active 70S initiation complex (rate-limiting step)
 
 </div>
 
-![](images/slide_63_img_89.png) {left=59.14 top=8.25 width=21.50 height=83.50}
+![](./lecture_09_genetic_information/images/slide_63_img_89.png) {left=59.14 top=8.25 width=21.50 height=83.50}
 
-![](images/slide_63_img_90.png) {left=79.73 top=2.96 width=20.27 height=94.07}
+![](./lecture_09_genetic_information/images/slide_63_img_90.png) {left=79.73 top=2.96 width=20.27 height=94.07}
 
 </div>
 
@@ -1310,7 +1310,7 @@ Result: Active 70S initiation complex (rate-limiting step)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_91.png) {left=29.27 top=0.00 width=70.73 height=74.80}
+![](./lecture_09_genetic_information/images/slide_64_img_91.png) {left=29.27 top=0.00 width=70.73 height=74.80}
 
 <div style="position: absolute; left: 15.24%; top: 30.47%; width: 40.39%; height: 40.36%;">
 
@@ -1342,7 +1342,7 @@ EF-Tu does not bind fMet-tRNAᶠ → ensures initiator acts only in P site
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_92.png) {left=18.08 top=0.00 width=81.92 height=70.36}
+![](./lecture_09_genetic_information/images/slide_65_img_92.png) {left=18.08 top=0.00 width=81.92 height=70.36}
 
 <div style="position: absolute; left: 16.91%; top: 68.45%; width: 83.09%; height: 31.55%;">
 
@@ -1358,7 +1358,7 @@ EF-Tu does not bind fMet-tRNAᶠ → ensures initiator acts only in P site
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_93.png) {left=27.26 top=0.00 width=72.74 height=73.77}
+![](./lecture_09_genetic_information/images/slide_66_img_93.png) {left=27.26 top=0.00 width=72.74 height=73.77}
 
 <div style="position: absolute; left: 15.58%; top: 28.39%; width: 35.22%; height: 71.61%;">
 
@@ -1371,7 +1371,7 @@ tRNA in the P site.
 
 </div>
 
-![](images/slide_66_img_94.png) {left=50.50 top=78.17 width=49.50 height=21.83}
+![](./lecture_09_genetic_information/images/slide_66_img_94.png) {left=50.50 top=78.17 width=49.50 height=21.83}
 
 <div style="position: absolute; left: 56.31%; top: 73.79%; width: 34.22%; height: 8.38%;">
 
@@ -1385,7 +1385,7 @@ tRNA in the P site.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_95.png) {left=17.92 top=0.00 width=82.08 height=40.26}
+![](./lecture_09_genetic_information/images/slide_67_img_95.png) {left=17.92 top=0.00 width=82.08 height=40.26}
 
 <div style="position: absolute; left: 35.44%; top: 3.17%; width: 64.71%; height: 8.38%;">
 
@@ -1408,7 +1408,7 @@ Polypeptide released; ribosome dissociates via EF-G + RRF + GTP hydrolysis
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_68_img_96.png) {left=18.58 top=3.70 width=81.42 height=87.30}
+![](./lecture_09_genetic_information/images/slide_68_img_96.png) {left=18.58 top=3.70 width=81.42 height=87.30}
 
 </div>
 
@@ -1422,7 +1422,7 @@ Rescue of stalled bacterial ribosomes by tmRNA. In bacteria, tmRNA rescues stall
 
 </div>
 
-![](images/slide_69_img_97.png) {left=75.21 top=0.00 width=24.79 height=100.00}
+![](./lecture_09_genetic_information/images/slide_69_img_97.png) {left=75.21 top=0.00 width=24.79 height=100.00}
 
 </div>
 
@@ -1448,7 +1448,7 @@ Editing Genes
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_71_img_98.png) {left=38.78 top=0.00 width=61.22 height=61.05}
+![](./lecture_09_genetic_information/images/slide_71_img_98.png) {left=38.78 top=0.00 width=61.22 height=61.05}
 
 <div style="position: absolute; left: 15.58%; top: 0.00%; width: 23.20%; height: 61.05%;">
 
@@ -1494,7 +1494,7 @@ They degrade it until they hit Chi sites, which are abundant in host DNA but abs
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_99.png) {left=18.08 top=0.00 width=81.92 height=59.86}
+![](./lecture_09_genetic_information/images/slide_73_img_99.png) {left=18.08 top=0.00 width=81.92 height=59.86}
 
 <div style="position: absolute; left: 17.41%; top: 63.40%; width: 82.59%; height: 36.60%;">
 
@@ -1511,7 +1511,7 @@ gRNA = guide RNA = cr:tracrRNA + protein Cas9
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_74_img_100.png) {left=19.25 top=0.00 width=80.75 height=68.19}
+![](./lecture_09_genetic_information/images/slide_74_img_100.png) {left=19.25 top=0.00 width=80.75 height=68.19}
 
 <div style="position: absolute; left: 18.58%; top: 71.41%; width: 80.75%; height: 28.59%;">
 
@@ -1528,7 +1528,7 @@ The rest have structural function and hold DNA in place
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_75_img_101.png) {left=37.61 top=0.00 width=62.39 height=100.00}
+![](./lecture_09_genetic_information/images/slide_75_img_101.png) {left=37.61 top=0.00 width=62.39 height=100.00}
 
 </div>
 
@@ -1536,7 +1536,7 @@ The rest have structural function and hold DNA in place
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_102.png) {left=40.84 top=0.00 width=59.16 height=94.07}
+![](./lecture_09_genetic_information/images/slide_76_img_102.png) {left=40.84 top=0.00 width=59.16 height=94.07}
 
 <div style="position: absolute; left: 16.08%; top: 0.20%; width: 24.76%; height: 98.52%;">
 
@@ -1552,7 +1552,7 @@ Note the difference between artificially synthesized sgRNA and naturally occurri
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_103.png) {left=19.32 top=0.00 width=80.68 height=100.00}
+![](./lecture_09_genetic_information/images/slide_77_img_103.png) {left=19.32 top=0.00 width=80.68 height=100.00}
 
 <div style="position: absolute; left: 21.75%; top: 12.07%; width: 31.55%; height: 12.46%;">
 
@@ -1566,7 +1566,7 @@ Searches for the PAM site
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_104.png) {left=18.42 top=25.24 width=81.58 height=74.76}
+![](./lecture_09_genetic_information/images/slide_78_img_104.png) {left=18.42 top=25.24 width=81.58 height=74.76}
 
 <div style="position: absolute; left: 21.25%; top: 8.21%; width: 78.75%; height: 9.20%;">
 
@@ -1586,7 +1586,7 @@ If DNA was complementary to guide, it is cut 3-5 bases upstream the PAM (normall
 
 </div>
 
-![](images/slide_79_img_105.png) {left=19.05 top=26.24 width=80.95 height=73.76}
+![](./lecture_09_genetic_information/images/slide_79_img_105.png) {left=19.05 top=26.24 width=80.95 height=73.76}
 
 </div>
 
@@ -1600,7 +1600,7 @@ CAS9 than leaves searching for the next PAM and complementarity. It can be used 
 
 </div>
 
-![](images/slide_80_img_106.png) {left=16.92 top=14.14 width=83.08 height=85.86}
+![](./lecture_09_genetic_information/images/slide_80_img_106.png) {left=16.92 top=14.14 width=83.08 height=85.86}
 
 <div style="position: absolute; left: 52.30%; top: 67.85%; width: 22.20%; height: 7.12%;">
 
@@ -1614,7 +1614,7 @@ CAS9 than leaves searching for the next PAM and complementarity. It can be used 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=4YKFw2KZA5o) {left=17.71 top=8.36 width=83.29 height=83.29}
+![youtube](4YKFw2KZA5o) {left=17.71 top=8.36 width=83.29 height=83.29}
 
 </div>
 
@@ -1651,7 +1651,7 @@ HINT: note that only primer is labeled!
 
 </div>
 
-![](images/slide_83_img_107.png) {left=63.82 top=1.78 width=20.20 height=34.38}
+![](./lecture_09_genetic_information/images/slide_83_img_107.png) {left=63.82 top=1.78 width=20.20 height=34.38}
 
 <div style="position: absolute; left: 84.85%; top: 24.16%; width: 11.02%; height: 8.38%;">
 
@@ -1666,7 +1666,7 @@ primer
 
 </div>
 
-![](images/slide_83_img_108.png) {left=64.65 top=39.12 width=33.68 height=57.92}
+![](./lecture_09_genetic_information/images/slide_83_img_108.png) {left=64.65 top=39.12 width=33.68 height=57.92}
 
 </div>
 
@@ -1707,7 +1707,7 @@ Draw what you expect to see after developing the radiograph in case your assumpt
 
 </div>
 
-![](images/slide_85_img_109.png) {left=65.34 top=17.64 width=34.66 height=73.76}
+![](./lecture_09_genetic_information/images/slide_85_img_109.png) {left=65.34 top=17.64 width=34.66 height=73.76}
 
 <div style="position: absolute; left: 13.24%; top: 11.87%; width: 51.24%; height: 88.13%;">
 

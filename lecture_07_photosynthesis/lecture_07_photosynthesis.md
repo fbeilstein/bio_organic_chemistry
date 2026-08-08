@@ -65,7 +65,7 @@ Heliobacteria — Gram-positive phototrophs, rare in soils
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_3_img_1.png) {left=18.75 top=0.00 width=46.15 height=53.15}
+![](./lecture_07_photosynthesis/images/slide_3_img_1.png) {left=18.75 top=0.00 width=46.15 height=53.15}
 
 <div style="position: absolute; left: 64.89%; top: 55.67%; width: 46.15%; height: 16.17%;">
 
@@ -73,7 +73,7 @@ Microscope image of *Cylindrospermum*, a filamentous genus of cyanobacteria
 
 </div>
 
-![](images/slide_3_img_2.png) {left=66.56 top=2.96 width=31.77 height=58.74}
+![](./lecture_07_photosynthesis/images/slide_3_img_2.png) {left=66.56 top=2.96 width=31.77 height=58.74}
 
 <div style="position: absolute; left: 66.56%; top: 61.70%; width: 31.77%; height: 27.30%;">
 
@@ -93,7 +93,7 @@ Phytoplankton produces ~50% of the world’s oxygen
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_4_img_3.png) {left=16.52 top=0.00 width=23.89 height=47.04}
+![](./lecture_07_photosynthesis/images/slide_4_img_3.png) {left=16.52 top=0.00 width=23.89 height=47.04}
 
 <div style="position: absolute; left: 17.33%; top: 51.71%; width: 25.80%; height: 37.11%;">
 
@@ -101,7 +101,7 @@ Phytoplankton produces ~50% of the world’s oxygen
 
 </div>
 
-![](images/slide_4_img_4.png) {left=42.20 top=0.00 width=33.04 height=43.45}
+![](./lecture_07_photosynthesis/images/slide_4_img_4.png) {left=42.20 top=0.00 width=33.04 height=43.45}
 
 <div style="position: absolute; left: 43.69%; top: 50.71%; width: 30.63%; height: 44.89%;">
 
@@ -109,7 +109,7 @@ Phytoplankton produces ~50% of the world’s oxygen
 
 </div>
 
-![](images/slide_4_img_5.png) {left=77.85 top=0.00 width=22.15 height=60.26}
+![](./lecture_07_photosynthesis/images/slide_4_img_5.png) {left=77.85 top=0.00 width=22.15 height=60.26}
 
 <div style="position: absolute; left: 80.63%; top: 64.58%; width: 19.06%; height: 35.42%;">
 
@@ -123,7 +123,7 @@ Phytoplankton produces ~50% of the world’s oxygen
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_5_img_6.png) {left=45.30 top=2.96 width=54.70 height=80.76}
+![](./lecture_07_photosynthesis/images/slide_5_img_6.png) {left=45.30 top=2.96 width=54.70 height=80.76}
 
 <div style="position: absolute; left: 45.30%; top: 1.76%; width: 28.53%; height: 90.54%;">
 
@@ -155,7 +155,7 @@ Scale bars = 2 cm in a and b, 1 cm in c and 2
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_7_img_7.png) {left=34.85 top=2.96 width=65.15 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_7_img_7.png) {left=34.85 top=2.96 width=65.15 height=94.07}
 
 <div style="position: absolute; left: 16.40%; top: 10.45%; width: 18.45%; height: 84.49%;">
 
@@ -171,7 +171,7 @@ species alone, most undiscovered and unnamed
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_8_img_8.png) {left=23.75 top=0.00 width=76.25 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_8_img_8.png) {left=23.75 top=0.00 width=76.25 height=94.07}
 
 </div>
 
@@ -191,7 +191,7 @@ Vascular Plants
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_10_img_9.png) {left=22.16 top=2.96 width=77.84 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_10_img_9.png) {left=22.16 top=2.96 width=77.84 height=94.07}
 
 </div>
 
@@ -199,9 +199,9 @@ Vascular Plants
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_11_img_10.png) {left=51.42 top=0.00 width=48.58 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_11_img_10.png) {left=51.42 top=0.00 width=48.58 height=94.07}
 
-![](images/slide_11_img_11.png) {left=17.57 top=0.00 width=33.84 height=88.67}
+![](./lecture_07_photosynthesis/images/slide_11_img_11.png) {left=17.57 top=0.00 width=33.84 height=88.67}
 
 <div style="position: absolute; left: 16.21%; top: 72.47%; width: 16.34%; height: 27.53%;">
 
@@ -215,9 +215,9 @@ Stem from a lilac bush (Syringa sp.). Scale bar = 5 mm
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_12_img_12.png) {left=47.60 top=0.00 width=52.40 height=44.11}
+![](./lecture_07_photosynthesis/images/slide_12_img_12.png) {left=47.60 top=0.00 width=52.40 height=44.11}
 
-![](images/slide_12_img_13.png) {left=45.89 top=55.89 width=54.11 height=44.11}
+![](./lecture_07_photosynthesis/images/slide_12_img_13.png) {left=45.89 top=55.89 width=54.11 height=44.11}
 
 <div style="position: absolute; left: 16.40%; top: 1.87%; width: 28.03%; height: 49.83%;">
 
@@ -247,7 +247,7 @@ Scale bars = 10 cm in d, 5 cm in e, and 1 m in f
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_13_img_14.png) {left=43.64 top=-1.33 width=56.36 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_13_img_14.png) {left=43.64 top=-1.33 width=56.36 height=94.07}
 
 <div style="position: absolute; left: 16.03%; top: 2.53%; width: 27.61%; height: 95.71%;">
 
@@ -269,7 +269,7 @@ Scale bars = 1 cm in g, 0.5 cm in h, 1 cm in i, 3 cm in j, and 2 cm in k
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_14_img_15.png) {left=24.82 top=0.00 width=66.50 height=73.16}
+![](./lecture_07_photosynthesis/images/slide_14_img_15.png) {left=24.82 top=0.00 width=66.50 height=73.16}
 
 <div style="position: absolute; left: 16.96%; top: 77.78%; width: 82.24%; height: 22.22%;">
 
@@ -277,7 +277,7 @@ Colorado cinquefoil (*Potentilla subjuga*). M mesophyll, P palisade mesophyll, S
 
 </div>
 
-![](images/slide_14_img_16.png) {left=4.45 top=2.50 width=21.49 height=36.33}
+![](./lecture_07_photosynthesis/images/slide_14_img_16.png) {left=4.45 top=2.50 width=21.49 height=36.33}
 
 <div style="position: absolute; left: 84.34%; top: 27.34%; width: 15.66%; height: 18.48%;">
 
@@ -311,7 +311,7 @@ Chloroplast
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_17_img_17.png) {left=67.68 top=2.96 width=32.32 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_17_img_17.png) {left=67.68 top=2.96 width=32.32 height=94.07}
 
 <div style="position: absolute; left: 17.14%; top: 2.53%; width: 50.54%; height: 24.42%;">
 
@@ -320,7 +320,7 @@ membrane structure.
 
 </div>
 
-![](images/slide_17_img_18.png) {left=24.38 top=24.64 width=34.79 height=40.35}
+![](./lecture_07_photosynthesis/images/slide_17_img_18.png) {left=24.38 top=24.64 width=34.79 height=40.35}
 
 <div style="position: absolute; left: 18.20%; top: 64.99%; width: 47.15%; height: 32.04%;">
 
@@ -334,7 +334,7 @@ Starch-filled amyloplasts. This colorized scanning electron micrograph of a slic
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_18_img_19.png) {left=17.18 top=0.00 width=82.82 height=52.04}
+![](./lecture_07_photosynthesis/images/slide_18_img_19.png) {left=17.18 top=0.00 width=82.82 height=52.04}
 
 <div style="position: absolute; left: 20.30%; top: 59.30%; width: 79.95%; height: 27.53%;">
 
@@ -350,7 +350,7 @@ Chloroplast structures.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_19_img_20.png) {left=22.83 top=7.48 width=69.13 height=75.25}
+![](./lecture_07_photosynthesis/images/slide_19_img_20.png) {left=22.83 top=7.48 width=69.13 height=75.25}
 
 </div>
 
@@ -358,7 +358,7 @@ Chloroplast structures.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=Vo2BAkAIRu8) {left=17.62 top=5.99 width=80.20 height=80.20}
+![youtube](Vo2BAkAIRu8) {left=17.62 top=5.99 width=80.20 height=80.20}
 
 <div style="position: absolute; left: 40.24%; top: 90.06%; width: 39.32%; height: 7.78%;">
 
@@ -386,7 +386,7 @@ We now believe that, in a manner analogous to the evolution of mitochondria, chl
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_22_img_21.png) {left=18.00 top=0.00 width=75.21 height=90.00}
+![](./lecture_07_photosynthesis/images/slide_22_img_21.png) {left=18.00 top=0.00 width=75.21 height=90.00}
 
 <div style="position: absolute; left: 50.93%; top: 46.09%; width: 48.27%; height: 53.90%;">
 
@@ -400,9 +400,9 @@ We now believe that, in a manner analogous to the evolution of mitochondria, chl
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_23_img_22.png) {left=52.71 top=2.96 width=47.29 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_23_img_22.png) {left=52.71 top=2.96 width=47.29 height=94.07}
 
-![](images/slide_23_img_23.png) {left=19.51 top=2.96 width=25.58 height=47.04}
+![](./lecture_07_photosynthesis/images/slide_23_img_23.png) {left=19.51 top=2.96 width=25.58 height=47.04}
 
 <div style="position: absolute; left: 16.21%; top: 52.37%; width: 33.79%; height: 37.63%;">
 
@@ -417,7 +417,7 @@ flavins, and vitamins A, C, E, and K.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_24_img_24.png) {left=14.90 top=0.00 width=85.10 height=51.30}
+![](./lecture_07_photosynthesis/images/slide_24_img_24.png) {left=14.90 top=0.00 width=85.10 height=51.30}
 
 <div style="position: absolute; left: 15.84%; top: 54.68%; width: 84.16%; height: 45.33%;">
 
@@ -431,7 +431,7 @@ TEM of **v** high-light and **w** low-light chloroplasts from spinach (Spinacia 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=c7Ya5xoy2nw) {left=17.52 top=12.16 width=79.31 height=79.31}
+![youtube](c7Ya5xoy2nw) {left=17.52 top=12.16 width=79.31 height=79.31}
 
 </div>
 
@@ -451,7 +451,7 @@ C3 photosynthesis
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_27_img_25.png) {left=16.52 top=0.00 width=75.21 height=90.00}
+![](./lecture_07_photosynthesis/images/slide_27_img_25.png) {left=16.52 top=0.00 width=75.21 height=90.00}
 
 <div style="position: absolute; left: 50.00%; top: 45.88%; width: 50.00%; height: 50.28%;">
 
@@ -465,7 +465,7 @@ The typical C3 chloroplast is a round, plano-convex organelle approximately 5 to
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_28_img_26.png) {left=76.11 top=2.96 width=23.10 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_28_img_26.png) {left=76.11 top=2.96 width=23.10 height=94.07}
 
 <div style="position: absolute; left: 20.11%; top: 5.17%; width: 55.14%; height: 94.07%;">
 
@@ -514,7 +514,7 @@ Capturing Light
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_31_img_27.png) {left=18.44 top=0.00 width=81.56 height=66.33}
+![](./lecture_07_photosynthesis/images/slide_31_img_27.png) {left=18.44 top=0.00 width=81.56 height=66.33}
 
 <div style="position: absolute; left: 19.74%; top: 73.16%; width: 79.08%; height: 26.84%;">
 
@@ -522,7 +522,7 @@ Electromagnetic radiation. The spectrum of electromagnetic radiation, and the en
 
 </div>
 
-![](images/slide_31_img_28.png) {left=80.26 top=66.33 width=18.56 height=9.63}
+![](./lecture_07_photosynthesis/images/slide_31_img_28.png) {left=80.26 top=66.33 width=18.56 height=9.63}
 
 </div>
 
@@ -530,13 +530,13 @@ Electromagnetic radiation. The spectrum of electromagnetic radiation, and the en
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_32_img_29.png) {left=16.78 top=0.00 width=49.83 height=39.17}
+![](./lecture_07_photosynthesis/images/slide_32_img_29.png) {left=16.78 top=0.00 width=49.83 height=39.17}
 
-![](images/slide_32_img_30.png) {left=59.50 top=36.56 width=39.95 height=28.47}
+![](./lecture_07_photosynthesis/images/slide_32_img_30.png) {left=59.50 top=36.56 width=39.95 height=28.47}
 
-![](images/slide_32_img_31.png) {left=67.71 top=0.00 width=32.29 height=15.46}
+![](./lecture_07_photosynthesis/images/slide_32_img_31.png) {left=67.71 top=0.00 width=32.29 height=15.46}
 
-![](images/slide_32_img_32.png) {left=58.94 top=19.12 width=41.06 height=16.93}
+![](./lecture_07_photosynthesis/images/slide_32_img_32.png) {left=58.94 top=19.12 width=41.06 height=16.93}
 
 <div style="position: absolute; left: 16.58%; top: 39.82%; width: 41.06%; height: 57.43%;">
 
@@ -546,7 +546,7 @@ in cyanobacteria and red algae. **(c)** β-Carotene (a carotenoid) and **(d)** l
 
 </div>
 
-![](images/slide_32_img_33.png) {left=73.79 top=65.54 width=25.65 height=34.46}
+![](./lecture_07_photosynthesis/images/slide_32_img_33.png) {left=73.79 top=65.54 width=25.65 height=34.46}
 
 </div>
 
@@ -560,9 +560,9 @@ in cyanobacteria and red algae. **(c)** β-Carotene (a carotenoid) and **(d)** l
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_34_img_34.png) {left=15.80 top=1.48 width=41.57 height=95.67}
+![](./lecture_07_photosynthesis/images/slide_34_img_34.png) {left=15.80 top=1.48 width=41.57 height=95.67}
 
-![](images/slide_34_img_35.png) {left=57.37 top=1.64 width=42.63 height=95.37}
+![](./lecture_07_photosynthesis/images/slide_34_img_35.png) {left=57.37 top=1.64 width=42.63 height=95.37}
 
 <div style="position: absolute; left: 42.76%; top: 25.30%; width: 40.66%; height: 8.38%;">
 
@@ -576,7 +576,7 @@ Biosynthesis of chlorophylls and heme.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_35_img_36.png) {left=62.25 top=11.25 width=35.71 height=63.89}
+![](./lecture_07_photosynthesis/images/slide_35_img_36.png) {left=62.25 top=11.25 width=35.71 height=63.89}
 
 <div style="position: absolute; left: 16.77%; top: 3.85%; width: 45.48%; height: 96.15%;">
 
@@ -586,9 +586,9 @@ Each subunit of the  light-harvesting protein LHC-II this highly conserved, 232-
 
 </div>
 
-![](images/slide_35_img_37.png) {left=73.45 top=-0.00 width=26.55 height=15.76}
+![](./lecture_07_photosynthesis/images/slide_35_img_37.png) {left=73.45 top=-0.00 width=26.55 height=15.76}
 
-![](images/slide_35_img_38.png) {left=64.67 top=67.55 width=14.89 height=17.49}
+![](./lecture_07_photosynthesis/images/slide_35_img_38.png) {left=64.67 top=67.55 width=14.89 height=17.49}
 
 <div style="position: absolute; left: 62.25%; top: 87.35%; width: 38.12%; height: 10.89%;">
 
@@ -602,9 +602,9 @@ Some plants additionally synthesize anthocyanins in the autumn
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_36_img_39.png) {left=18.19 top=0.00 width=34.60 height=35.67}
+![](./lecture_07_photosynthesis/images/slide_36_img_39.png) {left=18.19 top=0.00 width=34.60 height=35.67}
 
-![](images/slide_36_img_40.png) {left=56.30 top=4.47 width=43.70 height=91.06}
+![](./lecture_07_photosynthesis/images/slide_36_img_40.png) {left=56.30 top=4.47 width=43.70 height=91.06}
 
 <div style="position: absolute; left: 16.03%; top: 36.19%; width: 42.33%; height: 63.81%;">
 
@@ -618,9 +618,8 @@ Some plants additionally synthesize anthocyanins in the autumn
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![youtube](http://www.youtube.com/watch?v=aNQErG18huE) {left=16.58 top=0.00 width=56.87 height=56.87}
+![youtube](aNQErG18huE) {left=16.58 top=0.00 width=56.87 height=56.87}
 
-![youtube](None) {left=73.46 top=-0.00 width=26.30 height=83.13}
 
 <div style="position: absolute; left: 16.58%; top: 56.87%; width: 56.87%; height: 40.71%;">
 
@@ -642,9 +641,9 @@ act as light-harvesting antennas. These antenna chlorophylls pass the energy of 
 
 </div>
 
-![](images/slide_38_img_41.png) {left=57.37 top=2.30 width=40.35 height=55.68}
+![](./lecture_07_photosynthesis/images/slide_38_img_41.png) {left=57.37 top=2.30 width=40.35 height=55.68}
 
-![](images/slide_38_img_42.png) {left=21.34 top=2.30 width=33.13 height=55.68}
+![](./lecture_07_photosynthesis/images/slide_38_img_42.png) {left=21.34 top=2.30 width=33.13 height=55.68}
 
 </div>
 
@@ -670,7 +669,7 @@ Photosynthesis is more complicated in green plants than in photosynthetic bacter
 
 </div>
 
-![](images/slide_40_img_43.png) {left=30.44 top=0.00 width=57.44 height=68.21}
+![](./lecture_07_photosynthesis/images/slide_40_img_43.png) {left=30.44 top=0.00 width=57.44 height=68.21}
 
 </div>
 
@@ -678,7 +677,7 @@ Photosynthesis is more complicated in green plants than in photosynthetic bacter
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_41_img_44.png) {left=44.62 top=48.62 width=56.13 height=40.57}
+![](./lecture_07_photosynthesis/images/slide_41_img_44.png) {left=44.62 top=48.62 width=56.13 height=40.57}
 
 <div style="position: absolute; left: 47.77%; top: 8.05%; width: 52.97%; height: 40.57%;">
 
@@ -688,9 +687,9 @@ Photosynthesis is more complicated in green plants than in photosynthetic bacter
 
 </div>
 
-![](images/slide_41_img_45.png) {left=16.21 top=53.22 width=29.33 height=38.73}
+![](./lecture_07_photosynthesis/images/slide_41_img_45.png) {left=16.21 top=53.22 width=29.33 height=38.73}
 
-![](images/slide_41_img_46.png) {left=16.70 top=8.05 width=28.35 height=36.19}
+![](./lecture_07_photosynthesis/images/slide_41_img_46.png) {left=16.70 top=8.05 width=28.35 height=36.19}
 
 </div>
 
@@ -713,9 +712,9 @@ These two reaction centers in plants act in tandem to catalyze the light-driven 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_43_img_47.png) {left=55.93 top=15.58 width=43.43 height=51.67}
+![](./lecture_07_photosynthesis/images/slide_43_img_47.png) {left=55.93 top=15.58 width=43.43 height=51.67}
 
-![](images/slide_43_img_48.png) {left=13.51 top=15.58 width=41.13 height=51.67}
+![](./lecture_07_photosynthesis/images/slide_43_img_48.png) {left=13.51 top=15.58 width=41.13 height=51.67}
 
 <div style="position: absolute; left: 19.82%; top: 76.36%; width: 32.81%; height: 10.77%;">
 
@@ -741,9 +740,9 @@ Ligands-only view from an X-ray crystal structure of photosystem I in spinach.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_44_img_49.png) {left=13.00 top=6.74 width=38.10 height=60.19}
+![](./lecture_07_photosynthesis/images/slide_44_img_49.png) {left=13.00 top=6.74 width=38.10 height=60.19}
 
-![](images/slide_44_img_50.png) {left=51.72 top=6.25 width=47.99 height=60.69}
+![](./lecture_07_photosynthesis/images/slide_44_img_50.png) {left=51.72 top=6.25 width=47.99 height=60.69}
 
 <div style="position: absolute; left: 14.75%; top: 72.98%; width: 32.81%; height: 17.95%;">
 
@@ -769,7 +768,7 @@ Results from an X-ray crystal structure of photosystem II showing ligands only
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_45_img_51.png) {left=26.62 top=0.00 width=62.76 height=63.59}
+![](./lecture_07_photosynthesis/images/slide_45_img_51.png) {left=26.62 top=0.00 width=62.76 height=63.59}
 
 <div style="position: absolute; left: 16.26%; top: 66.78%; width: 83.48%; height: 33.22%;">
 
@@ -783,7 +782,7 @@ Schematic representation of the thylakoid membrane showing the components of its
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_46_img_52.png) {left=43.78 top=0.00 width=56.22 height=61.83}
+![](./lecture_07_photosynthesis/images/slide_46_img_52.png) {left=43.78 top=0.00 width=56.22 height=61.83}
 
 <div style="position: absolute; left: 17.14%; top: 61.83%; width: 82.86%; height: 38.17%;">
 
@@ -803,7 +802,7 @@ Poor e donor
 
 </div>
 
-![](images/slide_46_img_53.png) {left=15.93 top=0.00 width=29.42 height=61.83}
+![](./lecture_07_photosynthesis/images/slide_46_img_53.png) {left=15.93 top=0.00 width=29.42 height=61.83}
 
 </div>
 
@@ -811,7 +810,7 @@ Poor e donor
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_47_img_54.png) {left=16.03 top=7.26 width=81.55 height=82.62}
+![](./lecture_07_photosynthesis/images/slide_47_img_54.png) {left=16.03 top=7.26 width=81.55 height=82.62}
 
 </div>
 
@@ -819,9 +818,9 @@ Poor e donor
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_48_img_55.png) {left=73.01 top=0.00 width=26.99 height=36.19}
+![](./lecture_07_photosynthesis/images/slide_48_img_55.png) {left=73.01 top=0.00 width=26.99 height=36.19}
 
-![](images/slide_48_img_56.png) {left=17.36 top=0.00 width=55.64 height=49.75}
+![](./lecture_07_photosynthesis/images/slide_48_img_56.png) {left=17.36 top=0.00 width=55.64 height=49.75}
 
 <div style="position: absolute; left: 18.25%; top: 48.07%; width: 43.07%; height: 51.93%;">
 
@@ -847,7 +846,7 @@ These are the same Tyr as in OEC!
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_49_img_57.png) {left=17.34 top=17.36 width=46.02 height=47.42}
+![](./lecture_07_photosynthesis/images/slide_49_img_57.png) {left=17.34 top=17.36 width=46.02 height=47.42}
 
 <div style="position: absolute; left: 14.38%; top: 72.63%; width: 47.30%; height: 10.17%;">
 
@@ -856,7 +855,7 @@ derived from X-ray crystallography.
 
 </div>
 
-![](images/slide_49_img_58.png) {left=64.21 top=14.61 width=33.68 height=51.03}
+![](./lecture_07_photosynthesis/images/slide_49_img_58.png) {left=64.21 top=14.61 width=33.68 height=51.03}
 
 <div style="position: absolute; left: 64.21%; top: 72.07%; width: 32.81%; height: 16.76%;">
 
@@ -870,7 +869,7 @@ View of the PSII monomer along the membrane normal from the lumenal side showing
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_50_img_59.png) {left=26.87 top=0.87 width=58.19 height=71.80}
+![](./lecture_07_photosynthesis/images/slide_50_img_59.png) {left=26.87 top=0.87 width=58.19 height=71.80}
 
 <div style="position: absolute; left: 15.05%; top: 72.37%; width: 82.67%; height: 26.63%;">
 
@@ -884,7 +883,7 @@ Cofactors involved in electron transfer visualized perpendicular to the internal
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_51_img_60.png) {left=19.74 top=0.00 width=80.26 height=73.80}
+![](./lecture_07_photosynthesis/images/slide_51_img_60.png) {left=19.74 top=0.00 width=80.26 height=73.80}
 
 <div style="position: absolute; left: 47.59%; top: 43.45%; width: 52.41%; height: 55.12%;">
 
@@ -904,7 +903,7 @@ The detailed mechanism of water oxidation by the Mn4CaO5 cluster is not known bu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_52_img_61.png) {left=19.67 top=2.96 width=75.18 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_52_img_61.png) {left=19.67 top=2.96 width=75.18 height=94.07}
 
 <div style="position: absolute; left: 38.98%; top: 43.78%; width: 36.57%; height: 17.95%;">
 
@@ -924,7 +923,7 @@ The detailed mechanism of water oxidation by the Mn4CaO5 cluster is not known bu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_53_img_62.png) {left=16.03 top=7.26 width=81.55 height=82.62}
+![](./lecture_07_photosynthesis/images/slide_53_img_62.png) {left=16.03 top=7.26 width=81.55 height=82.62}
 
 </div>
 
@@ -932,7 +931,7 @@ The detailed mechanism of water oxidation by the Mn4CaO5 cluster is not known bu
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_54_img_63.png) {left=15.96 top=0.00 width=51.63 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_54_img_63.png) {left=15.96 top=0.00 width=51.63 height=94.07}
 
 <div style="position: absolute; left: 42.39%; top: 43.78%; width: 57.61%; height: 53.14%;">
 
@@ -940,9 +939,9 @@ The detailed mechanism of water oxidation by the Mn4CaO5 cluster is not known bu
 
 </div>
 
-![](images/slide_54_img_64.png) {left=82.29 top=0.00 width=17.71 height=19.03}
+![](./lecture_07_photosynthesis/images/slide_54_img_64.png) {left=82.29 top=0.00 width=17.71 height=19.03}
 
-![](images/slide_54_img_65.png) {left=68.75 top=25.89 width=31.25 height=15.46}
+![](./lecture_07_photosynthesis/images/slide_54_img_65.png) {left=68.75 top=25.89 width=31.25 height=15.46}
 
 <div style="position: absolute; left: 70.79%; top: 9.13%; width: 29.46%; height: 8.38%;">
 
@@ -956,9 +955,9 @@ PQ
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_55_img_66.png) {left=9.98 top=5.04 width=42.98 height=62.32}
+![](./lecture_07_photosynthesis/images/slide_55_img_66.png) {left=9.98 top=5.04 width=42.98 height=62.32}
 
-![](images/slide_55_img_67.png) {left=53.66 top=5.04 width=45.71 height=62.32}
+![](./lecture_07_photosynthesis/images/slide_55_img_67.png) {left=53.66 top=5.04 width=45.71 height=62.32}
 
 <div style="position: absolute; left: 13.63%; top: 72.21%; width: 32.81%; height: 14.37%;">
 
@@ -978,7 +977,7 @@ Ligand-only view of the X-Ray crystallographic structure of cytochrome b6f from 
 
 </div>
 
-![](images/slide_55_img_68.png) {left=82.58 top=83.79 width=15.88 height=15.01}
+![](./lecture_07_photosynthesis/images/slide_55_img_68.png) {left=82.58 top=83.79 width=15.88 height=15.01}
 
 </div>
 
@@ -992,9 +991,9 @@ Ligand-only view of the X-Ray crystallographic structure of cytochrome b6f from 
 
 </div>
 
-![](images/slide_56_img_69.png) {left=13.00 top=15.53 width=42.81 height=53.28}
+![](./lecture_07_photosynthesis/images/slide_56_img_69.png) {left=13.00 top=15.53 width=42.81 height=53.28}
 
-![](images/slide_56_img_70.png) {left=58.53 top=15.53 width=42.56 height=53.28}
+![](./lecture_07_photosynthesis/images/slide_56_img_70.png) {left=58.53 top=15.53 width=42.56 height=53.28}
 
 </div>
 
@@ -1002,7 +1001,7 @@ Ligand-only view of the X-Ray crystallographic structure of cytochrome b6f from 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_57_img_71.png) {left=17.63 top=0.80 width=37.52 height=71.76}
+![](./lecture_07_photosynthesis/images/slide_57_img_71.png) {left=17.63 top=0.80 width=37.52 height=71.76}
 
 <div style="position: absolute; left: 19.54%; top: 74.39%; width: 32.81%; height: 14.37%;">
 
@@ -1010,9 +1009,9 @@ X-ray crystal structure of a ferredoxin, a small protein containing a FeS cluste
 
 </div>
 
-![](images/slide_57_img_72.png) {left=58.73 top=2.09 width=37.36 height=38.25}
+![](./lecture_07_photosynthesis/images/slide_57_img_72.png) {left=58.73 top=2.09 width=37.36 height=38.25}
 
-![](images/slide_57_img_73.png) {left=58.85 top=40.97 width=37.11 height=32.27}
+![](./lecture_07_photosynthesis/images/slide_57_img_73.png) {left=58.85 top=40.97 width=37.11 height=32.27}
 
 <div style="position: absolute; left: 58.40%; top: 75.65%; width: 34.64%; height: 14.37%;">
 
@@ -1038,7 +1037,7 @@ X-ray crystal structure (and ligand view) of a ferredoxin NADP+ reductase from *
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_58_img_74.png) {left=16.03 top=7.26 width=81.55 height=82.62}
+![](./lecture_07_photosynthesis/images/slide_58_img_74.png) {left=16.03 top=7.26 width=81.55 height=82.62}
 
 </div>
 
@@ -1046,11 +1045,11 @@ X-ray crystal structure (and ligand view) of a ferredoxin NADP+ reductase from *
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_59_img_75.png) {left=18.26 top=0.00 width=31.74 height=37.29}
+![](./lecture_07_photosynthesis/images/slide_59_img_75.png) {left=18.26 top=0.00 width=31.74 height=37.29}
 
-![](images/slide_59_img_76.png) {left=51.98 top=1.04 width=28.49 height=35.22}
+![](./lecture_07_photosynthesis/images/slide_59_img_76.png) {left=51.98 top=1.04 width=28.49 height=35.22}
 
-![](images/slide_59_img_77.png) {left=19.30 top=37.29 width=34.33 height=37.29}
+![](./lecture_07_photosynthesis/images/slide_59_img_77.png) {left=19.30 top=37.29 width=34.33 height=37.29}
 
 <div style="position: absolute; left: 31.00%; top: 74.58%; width: 20.98%; height: 6.88%;">
 
@@ -1068,7 +1067,7 @@ the N side of the membrane. From FB, electrons move through two more Fe-S center
 
 </div>
 
-![](images/slide_59_img_78.png) {left=0.00 top=48.54 width=18.13 height=51.46}
+![](./lecture_07_photosynthesis/images/slide_59_img_78.png) {left=0.00 top=48.54 width=18.13 height=51.46}
 
 </div>
 
@@ -1076,9 +1075,9 @@ the N side of the membrane. From FB, electrons move through two more Fe-S center
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_60_img_79.png) {left=46.03 top=12.66 width=52.97 height=50.71}
+![](./lecture_07_photosynthesis/images/slide_60_img_79.png) {left=46.03 top=12.66 width=52.97 height=50.71}
 
-![](images/slide_60_img_80.png) {left=16.60 top=7.93 width=29.42 height=61.83}
+![](./lecture_07_photosynthesis/images/slide_60_img_80.png) {left=16.60 top=7.93 width=29.42 height=61.83}
 
 <div style="position: absolute; left: 18.74%; top: 73.94%; width: 78.90%; height: 14.39%;">
 
@@ -1093,7 +1092,7 @@ PS2 is regulated to balance NADPH/ATP production
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_61_img_81.png) {left=48.37 top=2.96 width=51.63 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_61_img_81.png) {left=48.37 top=2.96 width=51.63 height=94.07}
 
 <div style="position: absolute; left: 16.96%; top: 4.51%; width: 31.41%; height: 92.53%;">
 
@@ -1139,7 +1138,7 @@ Carbon Assimilation
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_64_img_82.png) {left=17.33 top=6.60 width=82.67 height=64.25}
+![](./lecture_07_photosynthesis/images/slide_64_img_82.png) {left=17.33 top=6.60 width=82.67 height=64.25}
 
 <div style="position: absolute; left: 50.56%; top: 51.38%; width: 47.34%; height: 33.67%;">
 
@@ -1154,7 +1153,7 @@ fixation of CO2 into trioses, from which all the carbon-containing compounds of 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_65_img_83.png) {left=54.39 top=6.67 width=45.61 height=74.41}
+![](./lecture_07_photosynthesis/images/slide_65_img_83.png) {left=54.39 top=6.67 width=45.61 height=74.41}
 
 <div style="position: absolute; left: 17.70%; top: -0.11%; width: 36.57%; height: 98.35%;">
 
@@ -1168,7 +1167,7 @@ Diagram of the relationship between the reductive photosynthetic (C3 or Calvin�
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_66_img_84.png) {left=55.67 top=10.45 width=45.63 height=84.61}
+![](./lecture_07_photosynthesis/images/slide_66_img_84.png) {left=55.67 top=10.45 width=45.63 height=84.61}
 
 <div style="position: absolute; left: 18.25%; top: 3.19%; width: 36.39%; height: 94.07%;">
 
@@ -1182,7 +1181,7 @@ Three phases of the Calvin–Benson cycle: carboxylation, reduction, and regener
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_67_img_85.png) {left=47.46 top=0.00 width=52.54 height=90.32}
+![](./lecture_07_photosynthesis/images/slide_67_img_85.png) {left=47.46 top=0.00 width=52.54 height=90.32}
 
 <div style="position: absolute; left: 17.33%; top: 0.88%; width: 31.19%; height: 96.37%;">
 
@@ -1214,7 +1213,7 @@ oxygenase reaction. The products of this reaction are phosphoglycolate and
 
 </div>
 
-![](images/slide_68_img_86.png) {left=36.08 top=64.18 width=63.92 height=35.82}
+![](./lecture_07_photosynthesis/images/slide_68_img_86.png) {left=36.08 top=64.18 width=63.92 height=35.82}
 
 </div>
 
@@ -1228,7 +1227,7 @@ The 3-phosphoglycerate product of rubisco is next converted into fructose 6-phos
 
 </div>
 
-![](images/slide_69_img_87.png) {left=72.02 top=1.54 width=27.98 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_69_img_87.png) {left=72.02 top=1.54 width=27.98 height=94.07}
 
 </div>
 
@@ -1245,9 +1244,9 @@ carbon atoms.
 
 </div>
 
-![](images/slide_70_img_88.png) {left=18.48 top=27.91 width=68.02 height=33.89}
+![](./lecture_07_photosynthesis/images/slide_70_img_88.png) {left=18.48 top=27.91 width=68.02 height=33.89}
 
-![](images/slide_70_img_89.png) {left=18.48 top=65.75 width=46.09 height=32.28}
+![](./lecture_07_photosynthesis/images/slide_70_img_89.png) {left=18.48 top=65.75 width=46.09 height=32.28}
 
 </div>
 
@@ -1261,9 +1260,9 @@ carbon atoms.
 
 </div>
 
-![](images/slide_71_img_90.png) {left=23.11 top=11.77 width=66.27 height=85.60}
+![](./lecture_07_photosynthesis/images/slide_71_img_90.png) {left=23.11 top=11.77 width=66.27 height=85.60}
 
-![](images/slide_71_img_91.png) {left=18.38 top=15.40 width=81.62 height=81.98}
+![](./lecture_07_photosynthesis/images/slide_71_img_91.png) {left=18.38 top=15.40 width=81.62 height=81.98}
 
 </div>
 
@@ -1277,7 +1276,7 @@ carbon atoms.
 
 </div>
 
-![](images/slide_72_img_92.png) {left=18.91 top=20.32 width=80.67 height=79.68}
+![](./lecture_07_photosynthesis/images/slide_72_img_92.png) {left=18.91 top=20.32 width=80.67 height=79.68}
 
 </div>
 
@@ -1285,7 +1284,7 @@ carbon atoms.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_73_img_93.png) {left=44.13 top=2.14 width=55.87 height=95.72}
+![](./lecture_07_photosynthesis/images/slide_73_img_93.png) {left=44.13 top=2.14 width=55.87 height=95.72}
 
 <div style="position: absolute; left: 16.03%; top: 1.21%; width: 28.10%; height: 96.65%;">
 
@@ -1307,7 +1306,7 @@ sugar. Finally, this seven-carbon sugar reacts with another three-carbon sugar t
 
 </div>
 
-![](images/slide_74_img_94.png) {left=20.60 top=20.32 width=70.68 height=78.25}
+![](./lecture_07_photosynthesis/images/slide_74_img_94.png) {left=20.60 top=20.32 width=70.68 height=78.25}
 
 </div>
 
@@ -1315,9 +1314,9 @@ sugar. Finally, this seven-carbon sugar reacts with another three-carbon sugar t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_75_img_95.png) {left=18.04 top=10.98 width=40.59 height=78.14}
+![](./lecture_07_photosynthesis/images/slide_75_img_95.png) {left=18.04 top=10.98 width=40.59 height=78.14}
 
-![](images/slide_75_img_96.png) {left=58.63 top=10.88 width=40.59 height=78.24}
+![](./lecture_07_photosynthesis/images/slide_75_img_96.png) {left=58.63 top=10.88 width=40.59 height=78.24}
 
 </div>
 
@@ -1325,7 +1324,7 @@ sugar. Finally, this seven-carbon sugar reacts with another three-carbon sugar t
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_76_img_97.png) {left=30.51 top=0.00 width=69.49 height=62.44}
+![](./lecture_07_photosynthesis/images/slide_76_img_97.png) {left=30.51 top=0.00 width=69.49 height=62.44}
 
 <div style="position: absolute; left: 18.63%; top: 64.91%; width: 80.20%; height: 35.09%;">
 
@@ -1339,9 +1338,9 @@ The Pi–triose phosphate antiport system of the inner chloroplast membrane. Thi
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_77_img_98.png) {left=33.26 top=0.00 width=66.74 height=100.00}
+![](./lecture_07_photosynthesis/images/slide_77_img_98.png) {left=33.26 top=0.00 width=66.74 height=100.00}
 
-![](images/slide_77_img_99.png) {left=16.21 top=61.15 width=27.67 height=38.85}
+![](./lecture_07_photosynthesis/images/slide_77_img_99.png) {left=16.21 top=61.15 width=27.67 height=38.85}
 
 </div>
 
@@ -1349,7 +1348,7 @@ The Pi–triose phosphate antiport system of the inner chloroplast membrane. Thi
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_78_img_100.png) {left=53.93 top=2.96 width=46.07 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_78_img_100.png) {left=53.93 top=2.96 width=46.07 height=94.07}
 
 <div style="position: absolute; left: 15.84%; top: 1.21%; width: 37.13%; height: 95.83%;">
 
@@ -1376,7 +1375,7 @@ C4 photosynthesis
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_80_img_101.png) {left=55.42 top=0.00 width=44.58 height=67.59}
+![](./lecture_07_photosynthesis/images/slide_80_img_101.png) {left=55.42 top=0.00 width=44.58 height=67.59}
 
 <div style="position: absolute; left: 17.14%; top: -0.11%; width: 36.57%; height: 100.00%;">
 
@@ -1393,7 +1392,7 @@ photorespiration in C3 plants and its virtual absence in C4 plants.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_81_img_102.png) {left=41.07 top=0.00 width=58.93 height=58.64}
+![](./lecture_07_photosynthesis/images/slide_81_img_102.png) {left=41.07 top=0.00 width=58.93 height=58.64}
 
 <div style="position: absolute; left: 16.03%; top: 0.22%; width: 25.25%; height: 56.10%;">
 
@@ -1414,7 +1413,7 @@ the bundle sheath cells of C3 plants are rather inconspicuous. In contrast, C4 b
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_82_img_103.png) {left=53.07 top=0.00 width=46.93 height=62.60}
+![](./lecture_07_photosynthesis/images/slide_82_img_103.png) {left=53.07 top=0.00 width=46.93 height=62.60}
 
 <div style="position: absolute; left: 17.51%; top: 1.21%; width: 34.71%; height: 60.73%;">
 
@@ -1436,7 +1435,7 @@ the mesophyll cells of the leaf. Mesophyll cell chloroplasts contain grana stack
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_83_img_104.png) {left=75.42 top=0.00 width=24.58 height=50.00}
+![](./lecture_07_photosynthesis/images/slide_83_img_104.png) {left=75.42 top=0.00 width=24.58 height=50.00}
 
 <div style="position: absolute; left: 16.21%; top: 24.26%; width: 57.80%; height: 51.47%;">
 
@@ -1446,7 +1445,7 @@ the mesophyll cells of the leaf. Mesophyll cell chloroplasts contain grana stack
 
 </div>
 
-![](images/slide_83_img_105.png) {left=74.01 top=50.00 width=25.99 height=52.85}
+![](./lecture_07_photosynthesis/images/slide_83_img_105.png) {left=74.01 top=50.00 width=25.99 height=52.85}
 
 </div>
 
@@ -1454,7 +1453,7 @@ the mesophyll cells of the leaf. Mesophyll cell chloroplasts contain grana stack
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_84_img_106.png) {left=25.68 top=23.40 width=74.32 height=76.60}
+![](./lecture_07_photosynthesis/images/slide_84_img_106.png) {left=25.68 top=23.40 width=74.32 height=76.60}
 
 <div style="position: absolute; left: 78.40%; top: 1.68%; width: 16.15%; height: 13.20%;">
 
@@ -1462,7 +1461,7 @@ C4 pathway
 
 </div>
 
-![](images/slide_84_img_107.png) {left=17.63 top=0.00 width=36.82 height=30.86}
+![](./lecture_07_photosynthesis/images/slide_84_img_107.png) {left=17.63 top=0.00 width=36.82 height=30.86}
 
 </div>
 
@@ -1512,11 +1511,11 @@ Starch synthesis
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_88_img_108.png) {left=66.00 top=2.96 width=34.00 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_88_img_108.png) {left=66.00 top=2.96 width=34.00 height=94.07}
 
-![](images/slide_88_img_109.png) {left=37.55 top=2.96 width=28.45 height=32.57}
+![](./lecture_07_photosynthesis/images/slide_88_img_109.png) {left=37.55 top=2.96 width=28.45 height=32.57}
 
-![](images/slide_88_img_110.png) {left=17.72 top=34.21 width=48.28 height=62.83}
+![](./lecture_07_photosynthesis/images/slide_88_img_110.png) {left=17.72 top=34.21 width=48.28 height=62.83}
 
 <div style="position: absolute; left: 17.88%; top: 1.87%; width: 20.42%; height: 32.57%;">
 
@@ -1531,7 +1530,7 @@ phosphate)
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_89_img_111.png) {left=41.74 top=2.96 width=58.26 height=94.07}
+![](./lecture_07_photosynthesis/images/slide_89_img_111.png) {left=41.74 top=2.96 width=58.26 height=94.07}
 
 <div style="position: absolute; left: 16.96%; top: 3.85%; width: 25.25%; height: 19.47%;">
 
@@ -1545,9 +1544,9 @@ Duplication of metabolic pathways between the plant cell cytosol and the stroma 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_90_img_112.png) {left=39.79 top=0.00 width=60.21 height=67.63}
+![](./lecture_07_photosynthesis/images/slide_90_img_112.png) {left=39.79 top=0.00 width=60.21 height=67.63}
 
-![](images/slide_90_img_113.png) {left=39.79 top=62.36 width=60.21 height=37.64}
+![](./lecture_07_photosynthesis/images/slide_90_img_113.png) {left=39.79 top=62.36 width=60.21 height=37.64}
 
 <div style="position: absolute; left: 16.96%; top: 1.21%; width: 22.83%; height: 95.71%;">
 
@@ -1566,7 +1565,7 @@ isomerase.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_91_img_114.png) {left=66.91 top=2.96 width=33.09 height=66.23}
+![](./lecture_07_photosynthesis/images/slide_91_img_114.png) {left=66.91 top=2.96 width=33.09 height=66.23}
 
 <div style="position: absolute; left: 14.17%; top: 2.53%; width: 51.98%; height: 94.06%;">
 
@@ -1598,7 +1597,7 @@ Central hub linking photosynthesis, respiration, and starch synthesis.
 
 </div>
 
-![](images/slide_92_img_115.png) {left=25.64 top=4.42 width=51.78 height=47.17}
+![](./lecture_07_photosynthesis/images/slide_92_img_115.png) {left=25.64 top=4.42 width=51.78 height=47.17}
 
 </div>
 
@@ -1606,11 +1605,11 @@ Central hub linking photosynthesis, respiration, and starch synthesis.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_93_img_116.png) {left=60.22 top=13.03 width=39.78 height=41.10}
+![](./lecture_07_photosynthesis/images/slide_93_img_116.png) {left=60.22 top=13.03 width=39.78 height=41.10}
 
-![](images/slide_93_img_117.png) {left=17.93 top=14.35 width=42.29 height=79.88}
+![](./lecture_07_photosynthesis/images/slide_93_img_117.png) {left=17.93 top=14.35 width=42.29 height=79.88}
 
-![](images/slide_93_img_118.png) {left=61.14 top=56.44 width=36.45 height=37.79}
+![](./lecture_07_photosynthesis/images/slide_93_img_118.png) {left=61.14 top=56.44 width=36.45 height=37.79}
 
 <div style="position: absolute; left: 72.46%; top: 74.31%; width: 14.85%; height: 8.38%;">
 
@@ -1630,9 +1629,9 @@ Starch drop
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_94_img_119.png) {left=50.00 top=0.00 width=50.00 height=46.62}
+![](./lecture_07_photosynthesis/images/slide_94_img_119.png) {left=50.00 top=0.00 width=50.00 height=46.62}
 
-![](images/slide_94_img_120.png) {left=45.94 top=46.62 width=54.06 height=53.38}
+![](./lecture_07_photosynthesis/images/slide_94_img_120.png) {left=45.94 top=46.62 width=54.06 height=53.38}
 
 <div style="position: absolute; left: 77.29%; top: 52.97%; width: 19.51%; height: 5.38%;">
 
@@ -1660,9 +1659,9 @@ In cereal endosperm, AGPase and ADP-glucose synthesis occur mainly in the cytoso
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_95_img_121.png) {left=46.84 top=0.00 width=52.09 height=52.80}
+![](./lecture_07_photosynthesis/images/slide_95_img_121.png) {left=46.84 top=0.00 width=52.09 height=52.80}
 
-![](images/slide_95_img_122.png) {left=58.31 top=55.34 width=40.63 height=43.92}
+![](./lecture_07_photosynthesis/images/slide_95_img_122.png) {left=58.31 top=55.34 width=40.63 height=43.92}
 
 <div style="position: absolute; left: 18.63%; top: 0.88%; width: 28.22%; height: 96.37%;">
 
@@ -1677,7 +1676,7 @@ During germination, the release of the hormone gibberellic acid from the embryo 
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_96_img_123.png) {left=50.52 top=0.00 width=49.48 height=100.00}
+![](./lecture_07_photosynthesis/images/slide_96_img_123.png) {left=50.52 top=0.00 width=49.48 height=100.00}
 
 <div style="position: absolute; left: 17.14%; top: 7.81%; width: 32.86%; height: 92.74%;">
 
@@ -1743,7 +1742,7 @@ HINT: look up “Planck equation” in the Wikipedia.
 
 </div>
 
-![](images/slide_99_img_124.png) {left=81.83 top=28.93 width=18.17 height=71.07}
+![](./lecture_07_photosynthesis/images/slide_99_img_124.png) {left=81.83 top=28.93 width=18.17 height=71.07}
 
 <div style="position: absolute; left: 15.66%; top: 50.00%; width: 65.07%; height: 44.22%;">
 
@@ -1757,7 +1756,7 @@ HINT: look up “Planck equation” in the Wikipedia.
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](images/slide_100_img_125.png) {left=43.78 top=38.17 width=56.22 height=61.83}
+![](./lecture_07_photosynthesis/images/slide_100_img_125.png) {left=43.78 top=38.17 width=56.22 height=61.83}
 
 <div style="position: absolute; left: 15.66%; top: 2.53%; width: 84.34%; height: 29.04%;">
 
