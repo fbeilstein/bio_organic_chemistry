@@ -16,280 +16,216 @@ Kinetics and catalytic strategies
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_105.png) {left=18.00 top=1.64 width=23.27 height=28.17}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_106.png) {left=42.05 top=1.64 width=20.03 height=28.17}
-
-<div style="position: absolute; left: 65.22%; top: 0.00%; width: 34.78%; height: 43.79%;">
-
-The activity of an enzyme is responsible for the glow of the luminescent jellyfish at left. The enzyme aequorin catalyzes the oxidation of a compound by oxygen in the presence of calcium to release CO2 and light.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_107.png) {left=18.00 top=29.82 width=23.27 height=36.99}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_108.png) {left=42.05 top=38.05 width=21.87 height=28.17}
-
-<div style="position: absolute; left: 67.08%; top: 42.79%; width: 31.19%; height: 20.46%;">
-
+:::matrix {cols="30/30/40" }
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_105.png)
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_106.png)
+[[0,2]] { justify-content: center; }
+The activity of an enzyme is responsible for the glow of the luminescent jellyfish at left. The enzyme aequorin catalyzes the oxidation of a compound by oxygen in the presence of calcium to release $\ce{CO2}$ and light.
+[[1,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_107.png)
+[[1,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_57_img_108.png)
+[[1,2]] { justify-content: center; }
 Papaya and papain (protease).
-
-</div>
-
-<div style="position: absolute; left: 18.00%; top: 66.81%; width: 81.19%; height: 28.17%;">
-
+[[2,0:3]]
 Meat tenderizers are protein-digesting enzymes extracted from a number of plants, including papaya, pineapple, fig, kiwi, and ginger. They are available either in the original fruit or leaf, or purified and powdered for the shaker,
-diluted in salt and sugar. The enzymes act slowly at refrigerator or room  temperature, and some five times faster between 60–70ºC, so nearly all the tenderizing action takes place during cooking
-
-</div>
-
-</div>
+diluted in salt and sugar. The enzymes act slowly at refrigerator or room  temperature, and some five times faster between $\ce{60-70^{\circ}C}$, so nearly all the tenderizing action takes place during cooking
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.63%; top: -2.13%; width: 80.35%; height: 41.95%;">
-
-Enzymes may couple catalytic activity with mechanic work.
+# Enzymes may couple catalytic activity with mechanic work.
 
 A kinesin is a protein complex belonging to a class of motor proteins found in eukaryotic cells. Kinesins move along microtubule (MT) filaments and are powered by the hydrolysis of adenosine triphosphate (ATP) (thus kinesins are ATPases, a type of enzyme).
 
-</div>
 
-![youtube](y-uuk4Pr2i8) {left=26.93 top=37.84 width=59.74 height=59.74}
-
-</div>
+![youtube](y-uuk4Pr2i8) {height="80%"}
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Enzymes
 
-<div style="position: absolute; left: 20.48%; top: 5.17%; width: 77.41%; height: 81.85%;">
+* The most striking characteristics of enzymes are their **catalytic power** and **specificity**. 
 
-Enzymes
-
-The most striking characteristics of enzymes are their **catalytic power** and **specificity**. 
-
-Catalysis takes place at a particular site on the enzyme called the **active site.**
+* Catalysis takes place at a particular site on the enzyme called the **active site.**
 Nearly all known enzymes are proteins. However, proteins do not have an
 absolute monopoly on catalysis; the discovery of catalytically active RNA
 molecules provides compelling evidence that RNA was a biocatalyst early in
 evolution. 
 
-Enzymes catalyze reactions by **stabilizing transition states**, the highest-energy species in reaction pathways. By selectively stabilizing a transition state, an enzyme determines which one of several potential chemical reactions actually takes place.
+* Enzymes catalyze reactions by **stabilizing transition states**, the highest-energy species in reaction pathways. By selectively stabilizing a transition state, an enzyme determines which one of several potential chemical reactions actually takes place.
 
-</div>
+## Six major classes of enzymes
 
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 20.00%; top: 21.96%; width: 34.45%; height: 9.28%;">
-
-**Six major classes of enzymes**
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_60_img_109.png) {left=17.40 top=31.24 width=82.60 height=45.22}
-
-</div>
+| Class | Type of reaction | Example |
+|---|---|---|
+| 1. Oxidoreductases | Oxidation–reduction | Lactate dehydrogenase |
+| 2. Transferases | Group transfer | Nucleoside monophosphate kinase (NMP kinase) |
+| 3. Hydrolases | Hydrolysis reactions (transfer of functional groups to water) | Chymotrypsin |
+| 4. Lyases | Addition or removal of groups to form double bonds | Fumarase |
+| 5. Isomerases | Isomerization (intramolecular group transfer) | Triose phosphate isomerase |
+| 6. Ligases | Ligation of two substrates at the expense of ATP hydrolysis | Aminoacyl-tRNA synthetase |
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Enzymes accelerate reactions by factors of as much as a million
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_61_img_110.png) {left=21.34 top=0.00 width=76.46 height=60.74}
+| Enzyme | Nonenzymatic half-life | Uncatalyzed rate ($k_{\text{un}}\text{ s}^{-1}$) | Catalyzed rate ($k_{\text{cat}}\text{ s}^{-1}$) | Rate enhancement ($k_{\text{cat}}\text{ s}^{-1}/k_{\text{un}}\text{ s}^{-1}$) |
+|---|---|---|---|---|
+| OMP decarboxylase | 78,000,000 years | $2.8 \times 10^{-16}$ | 39 | $1.4 \times 10^{17}$ |
+| Staphylococcal nuclease | 130,000 years | $1.7 \times 10^{-13}$ | 95 | $5.6 \times 10^{14}$ |
+| AMP nucleosidase | 69,000 years | $1.0 \times 10^{-11}$ | 60 | $6.0 \times 10^{12}$ |
+| Carboxypeptidase A | 7.3 years | $3.0 \times 10^{-9}$ | 578 | $1.9 \times 10^{11}$ |
+| Ketosteroid isomerase | 7 weeks | $1.7 \times 10^{-7}$ | 66,000 | $3.9 \times 10^{11}$ |
+| Triose phosphate isomerase | 1.9 days | $4.3 \times 10^{-6}$ | 4,300 | $1.0 \times 10^{9}$ |
+| Chorismate mutase | 7.4 hours | $2.6 \times 10^{-5}$ | 50 | $1.9 \times 10^{6}$ |
+| Carbonic anhydrase | 5 seconds | $1.3 \times 10^{-1}$ | $1 \times 10^{6}$ | $7.7 \times 10^{6}$ |
 
-<div style="position: absolute; left: 22.90%; top: 66.89%; width: 74.91%; height: 11.55%;">
+*Abbreviations:* OMP, orotidine monophosphate; AMP, adenosine monophosphate.
 
-Enzymes accelerate reactions by factors of as much as a million or more
-
-</div>
-
-</div>
+*Source:* After A. Radzicka and R. Wolfenden. *Science* 267:90–93, 1995.
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Many enzymes require cofactors for activity.
 
-<div style="position: absolute; left: 19.74%; top: 3.19%; width: 78.71%; height: 93.40%;">
-
-Many enzymes require cofactors for activity.
-
+:::matrix {cols="50/50"}
+[[0,0]]
 The catalytic activity of many enzymes depends on the presence of small
 molecules termed **cofactors**, although the precise role varies with the cofactor and the enzyme. 
 
 Generally, these cofactors augment repertoire of 20 amino acids. An enzyme without its cofactor is referred to as an **apoenzyme**; the complete, catalytically active enzyme is called a **holoenzyme**.
 
-
-Apoenzyme + cofactor = holoenzyme
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_63_img_111.png) {left=47.71 top=2.96 width=51.15 height=94.07}
-
-<div style="position: absolute; left: 18.07%; top: 5.17%; width: 28.78%; height: 91.87%;">
+$$
+\text{apoenzyme} + \text{cofactor} = \text{holoenzyme}
+$$
 
 Cofactors can be subdivided into two groups: 
-(1) metals and 
-(2) small organic molecules called **coenzymes**. 
+* (1) metals and 
+* (2) small organic molecules called **coenzymes**. 
 
 Often derived from **vitamins**, coenzymes can be either tightly or loosely bound to the enzyme.
 
-**Tightly **bound coenzymes are called **prosthetic groups**.
+**Tightly** bound coenzymes are called **prosthetic groups**.
 
-</div>
 
-</div>
+[[0,1]] {.dense}
+| Cofactor | Enzyme |
+|---|---|
+| **Coenzyme** | |
+| Thiamine pyrophosphate | Pyruvate dehydrogenase |
+| Flavin adenine dinucleotide | Monoamine oxidase |
+| Nicotinamide adenine dinucleotide | Lactate dehydrogenase |
+| Pyridoxal phosphate | Glycogen phosphorylase |
+| Coenzyme A (CoA) | Acetyl CoA carboxylase |
+| Biotin | Pyruvate carboxylase |
+| 5′-Deoxyadenosyl cobalamin | Methylmalonyl mutase |
+| Tetrahydrofolate | Thymidylate synthase |
+| **Metal** | |
+| $\ce{Zn^2+}$ | Carbonic anhydrase |
+| $\ce{Zn^2+}$ | Carboxypeptidase |
+| $\ce{Mg^2+}$ | *Eco*RV |
+| $\ce{Mg^2+}$ | Hexokinase |
+| $\ce{Ni^2+}$ | Urease |
+| $\ce{Mo}$ | Nitrogenase |
+| $\ce{Se}$ | Glutathione peroxidase |
+| $\ce{Mn}$ | Superoxide dismutase |
+| $\ce{K+}$ | Acetyl CoA thiolase |
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# The free-energy change provides information about the spontaneity but not the rate of a reaction
 
-<div style="position: absolute; left: 16.63%; top: 5.31%; width: 80.35%; height: 92.27%;">
-
-**The free-energy change provides information about the spontaneity**
-**but not the rate of a reaction**
-
-1. A reaction can take place spontaneously only if ΔG is negative. Such reactions are said to be **exergonic **.
-2. A system is at equilibrium and no net change can take place if ΔG is zero.
-3. A reaction cannot take place spontaneously if ΔG is positive. An input of
-free energy is required to drive such a reaction. These reactions are termed
+:::matrix {cols="40/30/30"}
+[[0:2,0]]
+1. A reaction can take place spontaneously only if $\Delta G$ is negative. Such reactions are said to be **exergonic**.
+2. A system is at equilibrium and no net change can take place if $\Delta G$ is zero.
+3. A reaction cannot take place spontaneously if $\Delta G$ is positive. An input of free energy is required to drive such a reaction. These reactions are termed
 **endergonic**.
-4. The ΔG of a reaction **depends **only on the free energy of the products (the
-final state) minus the free energy of the reactants (the initial state), but i**ndependent** of the molecular mechanism of the transformation.
-5. The ΔG provides **no** information about the rate of a reaction. A negative ΔG indicates that a reaction can take place spontaneously, but it does not signify whether it will proceed at a perceptible rate. The rate of a reaction depends on the free energy of activation ( ΔG ‡ ), which is largely unrelated to the ΔG of the reaction.
+4. The $\Delta G$ of a reaction **depends** only on the free energy of the products (the final state) minus the free energy of the reactants (the initial state), but **independent** of the molecular mechanism of the transformation.
+5. The $\Delta G$ provides **no** information about the rate of a reaction. A negative $\Delta G$ indicates that a reaction can take place spontaneously, but it does not signify whether it will proceed at a perceptible rate. The rate of a reaction depends on the free energy of activation ($\Delta G^\ddagger$), which is largely unrelated to the $\Delta G$ of the reaction.
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_112.png)
+[[0,2]]
+Enzymes accelerate the attainment of equilibria but do not shift their positions. The equilibrium position is a function only of the free-energy difference between reactants and products.
+[[1,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_113.png)
 
+<div style="position: absolute; top: 78%; left: 46.5%; color:black;">
+$$\Delta G^{\ddagger} = G_{\mathrm{X}}^{\ddagger} - G_{\mathrm{S}}$$
 </div>
 
+<div style="position: absolute; top: 83.5%; left: 46.5%; color:black;">
+$$\mathrm{S} \longrightarrow \mathrm{X}^{\ddagger} \longrightarrow \mathrm{P}$$
 </div>
+
+[[1,2]]
+The difference in free energy between the transition state and the substrate is called the Gibbs free energy of activation or simply the activation energy, symbolized by $\Delta G^\ddagger$ 
+
+Enzymes function to lower the activation energy, or, in other words, enzymes facilitate the formation of the transition state.
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_112.png) {left=67.99 top=0.00 width=32.01 height=44.56}
-
-<div style="position: absolute; left: 18.25%; top: 4.51%; width: 36.94%; height: 36.30%;">
-
-Enzymes accelerate the
-attainment of equilibria but do not shift their positions. The equilibrium position is a function only of the free-energy difference between reactants and products .
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_113.png) {left=65.75 top=44.56 width=34.25 height=55.44}
-
-<div style="position: absolute; left: 18.25%; top: 42.13%; width: 44.80%; height: 55.44%;">
-
-The difference in free energy between the transition state and the substrate is called the Gibbs free energy of activation or simply the activation energy, symbolized by ΔG‡ 
-
-
-Enzymes function to lower the activation energy, or, in other words, enzymes facilitate the formation of the transition state .
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_114.png) {left=70.12 top=76.13 width=15.42 height=7.21}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_115.png) {left=73.52 top=89.76 width=14.92 height=4.26}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-**The formation of an enzyme–substrate complex is the first step in enzymatic catalysis**
-
-</div>
-
-<div style="position: absolute; left: 16.07%; top: 20.32%; width: 80.35%; height: 34.84%;">
+# The formation of an enzyme–substrate complex is the first step in enzymatic catalysis
 
 Much of the catalytic power of enzymes comes from their binding to and then altering the structure of the substrate to promote the formation of the **transition state**. 
+$$
+\ce{S <=> X^{\ddagger} -> P}
+$$
+Substrates bind to a specific region of the enzyme called the **active site**. 
+Most enzymes are highly selective in the substrates that they bind.
 
-Substrates bind to a specific region of the enzyme called the **active site**. Most enzymes are highly selective in the substrates that they bind.
+:::matrix {cols="60/40"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_66_img_116.png) {width="100%"}
+[[0,1]]
+- **(Left)** The enzyme cytochrome P450 is illustrated bound to its substrate camphor. 
+- **(Right)** Notice that, in the active site, the substrate is surrounded by residues from the enzyme. Note also the presence of a heme cofactor.
+:::
 
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_66_img_116.png) {left=17.63 top=55.16 width=42.90 height=38.91}
-
-<div style="position: absolute; left: 63.18%; top: 55.67%; width: 34.34%; height: 40.59%;">
-
-(Left) The enzyme cytochrome P450 is illustrated bound to its substrate camphor. (Right) Notice that, in the active site, the substrate is surrounded by residues from the enzyme. Note also the presence of a heme
-cofactor.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_66_img_117.png) {left=45.82 top=34.66 width=18.75 height=6.67}
-
-</div>
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Active site
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_118.png) {left=17.63 top=0.00 width=35.52 height=55.08}
-
-<div style="position: absolute; left: 53.16%; top: 3.85%; width: 43.07%; height: 48.18%;">
-
+:::matrix {cols="50/50" gap="15px 20px"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_118.png)
+[[1,0]]
 Active sites may include distant residues.
-(A) Ribbon diagram of the enzyme lysozyme with several components of the active site shown in color. 
-(B) A schematic representation of the primary structure of lysozyme shows that the active site is composed of residues that come from different parts of the polypeptide chain.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_119.png) {left=17.63 top=55.08 width=23.18 height=42.04}
-
-<div style="position: absolute; left: 43.50%; top: 56.66%; width: 54.58%; height: 40.47%;">
-
+- **(A)** Ribbon diagram of the enzyme lysozyme with several components of the active site shown in color. 
+- **(B)** A schematic representation of the primary structure of lysozyme shows that the active site is composed of residues that come from different parts of the polypeptide chain.
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_67_img_119.png)
+[[1,1]]
 Active sites are unique microenvironments. Water is usually excluded unless it is a reactant.
 
 Substrates are bound to enzymes by multiple weak attractions. Image shows how ribonuclease forms hydrogen bonds with the uridine component of the substrate.
-
-</div>
-
-</div>
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Interaction models
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_120.png) {left=15.96 top=0.00 width=42.65 height=50.00}
-
-<div style="position: absolute; left: 64.29%; top: 3.63%; width: 35.71%; height: 41.90%;">
-
+:::matrix {cols="50/50"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_120.png)
+[[1,0]]
 Induced-fit model of enzyme–substrate binding.
 In this model, the enzyme changes shape on substrate binding. The active site forms a shape complementary to the substrate only after the substrate has been bound.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_121.png) {left=18.77 top=52.63 width=37.03 height=44.07}
-
-<div style="position: absolute; left: 64.29%; top: 68.54%; width: 34.16%; height: 15.51%;">
-
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_68_img_121.png)
+[[1,1]]
 Outdated lock-and-key model of enzyme–substrate binding.
-
-</div>
-
-</div>
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 2.53%; width: 80.35%; height: 94.39%;">
+# Additional Strategies
 
 In addition to the strategy involving binding energy, enzymes commonly employ one or more of the following four additional strategies to catalyze specific reactions:
 
@@ -302,80 +238,46 @@ In addition to the strategy involving binding energy, enzymes commonly employ on
 4. **Metal Ion Catalysis.** Metal ions can function catalytically in several ways. For instance, a metal ion may facilitate the formation of nucleophiles such as hydroxide ion by direct coordination (Zn2+ carbonic anhydrase). Alternatively, a metal ion may serve as an electrophile, stabilizing a negative charge on a reaction intermediate (Mg2+ in EcoRV). Finally, a metal ion may serve as a bridge between enzyme and substrate, increasing the binding energy and holding the substrate in a conformation
 appropriate for catalysis (almost all ATPases).
 
-</div>
+
+## Examples
+
+* **chymotrypsin:** cleaves peptide bonds selectively on the carboxyl-terminal side of the large hydrophobic amino acids such as tryptophan, tyrosine, phenylalanine, and methionine.
+     - **Uses:** Covalent Catalysis, General Acid–Base Catalysis (uses a histidine residue as a base catalyst to enhance the nucleophilic power of serine),
+
+* **carbonic anhydrase:** catalyzes the reversible hydration of $\ce{CO2}$, converting $\ce{CO2 + H2O <=> HCO3^- + H^+}$.
+     - **Uses:** General Acid–Base Catalysis (histidine residue facilitates the removal of a hydrogen ion from a zinc-bound water molecule to generate hydroxide ion), Catalysis by Approximation (binds carbon dioxide and water in adjacent sites to facilitate their reaction), Metal Ion Catalysis (zinc(II) ion facilitates the formation of hydroxide ion by direct coordination)
+
+---
+
+# Chymotrypsin
+
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_122.png)
+
+<div style="position: absolute; left: 35%; top: 40%; width: 30%; height: 20%; color:black;">
+
+:::matrix {cols="50/50"}
+[[0,0]] ![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_123.png)
+[[0,1]] stabilizes the tetrahedral intermediate of the chymotrypsin reaction
+:::
 
 </div>
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Specificity pocket of chymotrypsin
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Examples
-
-</div>
-
-<div style="position: absolute; left: 16.07%; top: 17.56%; width: 80.35%; height: 64.88%;">
-
-**chymotrypsin:** cleaves peptide bonds selectively on the carboxyl-terminal side of the large hydrophobic amino acids such as tryptophan, tyrosine, phenylalanine, and methionine. **Uses** Covalent Catalysis, General Acid–Base Catalysis (uses a histidine residue as a base catalyst to enhance the nucleophilic power of serine),
-
-**carbonic anhydrase:** General Acid–Base Catalysis (histidine residue facilitates the removal of a hydrogen ion from a zinc-bound water molecule to generate hydroxide ion), Catalysis by Approximation (binds carbon dioxide and water in adjacent sites to facilitate their reaction), Metal Ion Catalysis (zinc(II) ion facilitates the formation of hydroxide ion by direct coordination)
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_122.png) {left=17.60 top=0.00 width=82.40 height=100.00}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_71_img_123.png) {left=44.82 top=39.05 width=13.72 height=21.90}
-
-<div style="position: absolute; left: 59.47%; top: 40.59%; width: 11.70%; height: 18.82%;">
-
-stabilizes the tetrahedral
-intermediate of the chymotrypsin reaction
-
-</div>
-
-<div style="position: absolute; left: 1.18%; top: 42.13%; width: 15.59%; height: 57.87%;">
-
-<u>https://www.rcsb.org/3d-view/1GCT</u>
-
-Look for His57, Asp102, Ser195
-
-</div>
-
-<div style="position: absolute; left: 17.88%; top: 2.20%; width: 26.93%; height: 8.58%;">
-
-**chymotrypsin**
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_124.png) {left=64.67 top=0.00 width=35.33 height=69.91}
-
-<div style="position: absolute; left: 17.14%; top: 1.21%; width: 41.96%; height: 66.67%;">
-
+:::matrix {cols="70/30"}
+[[0,0]]
+![3dmol](1GCT) {highlight="57,102,195" zoomTo="highlight" label="true" style="cartoon" color="lightgray" pocket="45,46,47:lightblue:0.8"}
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_124.png)
+[[1,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_125.png)
+[[1,1]]
 This mechanism accounts for all characteristics of chymotrypsin action except the observed preference for cleaving the peptide bonds just past residues with large, hydrophobic side chains.
-
-**Specificity pocket** of chymotrypsin. Notice that this pocket is lined with hydrophobic residues and is deep, favoring the binding of residues with
-long hydrophobic side chains such as
-phenylalanine (shown in green).
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_72_img_125.png) {left=25.87 top=67.88 width=58.02 height=31.75}
-
-</div>
+[[2,0:2]]
+**Specificity pocket** of chymotrypsin. Notice that this pocket is lined with hydrophobic residues and is deep, favoring the binding of residues with long hydrophobic side chains such as phenylalanine (shown in green).
+:::
 
 ---
 
