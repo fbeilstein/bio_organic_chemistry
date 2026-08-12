@@ -280,362 +280,311 @@ This mechanism accounts for all characteristics of chymotrypsin action except th
 :::
 
 ---
+# Carbonic Anhydrase
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_126.png) {left=49.06 top=0.00 width=50.94 height=25.37}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_127.png) {left=42.01 top=40.48 width=57.99 height=59.52}
-
-<div style="position: absolute; left: 16.96%; top: 1.87%; width: 32.11%; height: 36.96%;">
-
+:::matrix {cols="30/20/50"}
+[[0,0:2]]
 The reaction catalyzed. 
-**Note: **enzymes do not have preferred direction, they speed up achievement of the equilibrium.
+**Note:** enzymes do not have preferred direction, they speed up achievement of the equilibrium.
+[[0,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_126.png) 
 
-</div>
-
-<div style="position: absolute; left: 16.77%; top: 38.50%; width: 25.24%; height: 61.49%;">
-
-Zinc is found only in the +2 state in biological systems. A zinc atom is essentially always bound to four or more ligands; here three His imidazole rings and an additional coordination site is occupied by a water
-molecule (or hydroxide ion, depending on pH).
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 79.39%; top: 0.00%; width: 20.61%; height: 35.56%;">
-
+[[1,0:2]]
+Zinc is found only in the $+2$ state in biological systems. 
+A zinc atom is essentially always bound to four or more ligands; 
+here three His imidazole rings and an additional coordination site is occupied by a water molecule (or hydroxide ion, depending on pH).
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_131.png)
 Binding to zinc lowers the pKa of water from 15.7 to 7.
+[[1:3,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_73_img_127.png)
 
-</div>
+[[2:4,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_129.png)
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_128.png) {left=17.51 top=35.56 width=36.25 height=64.44}
+[[3,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_130.png)
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_129.png) {left=64.38 top=38.89 width=35.62 height=61.11}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_130.png) {left=15.84 top=0.00 width=63.54 height=25.37}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_131.png) {left=64.38 top=22.40 width=35.62 height=14.99}
-
-<div style="position: absolute; left: 18.63%; top: 24.97%; width: 28.96%; height: 7.26%;">
-
-**carbonic anhydrase**
-
-</div>
-
-</div>
+[[2:4,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_74_img_128.png)
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Michaelis–Menten model
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
+:::matrix {cols="50/50"}
+[[0,0]]
 The **Michaelis–Menten** model accounts for the kinetic properties of many enzymes
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_132.png) {left=34.84 top=20.32 width=30.31 height=11.30}
-
-<div style="position: absolute; left: 17.51%; top: 32.23%; width: 78.91%; height: 11.30%;">
-
-at times close to zero (hence, V_0) when there is negligible product formation and thus no back reaction
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_133.png) {left=41.25 top=47.63 width=17.50 height=5.80}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_75_img_134.png) {left=63.00 top=53.43 width=35.62 height=37.59}
-
-<div style="position: absolute; left: 19.74%; top: 57.65%; width: 33.97%; height: 29.71%;">
-
+$$
+E + S \underset{k_{-1}}{\overset{k_1}{\rightleftharpoons}} ES \underset{k_{-2}}{\overset{k_2}{\rightleftharpoons}} E + P,
+$$
+at times close to zero (hence, $V_0$) when there is negligible product formation and thus no back reaction
+$$
+k_{-2} [E][P] \approx 0.
+$$
 Thus we get a system of differential equations that describe the process
+$$
+\begin{aligned} 
+\frac{d[E]}{dt} &= -k_1[E][S] + k_{-1}[ES] + k_2[ES], \\\\ 
+\frac{d[S]}{dt} &= -k_1[E][S] + k_{-1}[ES], \\\\ 
+\frac{d[ES]}{dt} &= k_1[E][S] - k_{-1}[ES] - k_2[ES], \\\\ 
+\frac{d[P]}{dt} &= k_2[ES]. 
+\end{aligned}
+$$
 
-</div>
+[[0,1]]
+**Assumption:** The total enzyme concentration remains constant, meaning that free enzyme plus enzyme bound in the enzyme–substrate complex is conserved
+$$
+[E]\_{\text{tot}} = [E] + [ES],
+$$
+where $[E]_{\text{tot}}$ is the total enzyme concentration during the reaction.
 
-</div>
 
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 19.65%; top: 0.00%; width: 80.35%; height: 14.05%;">
-
-**Assumption**: The total enzyme concentration remains constant, meaning that free enzyme plus enzyme bound in the enzyme–substrate complex is conserved
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_135.png) {left=48.78 top=14.05 width=22.08 height=7.59}
-
-<div style="position: absolute; left: 19.74%; top: 22.99%; width: 78.16%; height: 7.59%;">
-
-where [E]_tot is the total enzyme concentration during the reaction.
-
-</div>
-
-<div style="position: absolute; left: 19.37%; top: 37.18%; width: 78.16%; height: 16.50%;">
-
-**Assumption (Briggs-Haldane)**: It is assumed that the concentration of the enzyme--substrate complex remains approximately constant during the reaction:
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_136.png) {left=36.62 top=50.00 width=43.65 height=12.78}
-
-<div style="position: absolute; left: 19.93%; top: 62.60%; width: 77.60%; height: 7.59%;">
-
-From the above relations, the reaction velocity v is:
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_76_img_137.png) {left=38.33 top=73.75 width=44.11 height=18.42}
-
-</div>
+**Assumption (Briggs-Haldane):** It is assumed that the concentration of the enzyme--substrate complex remains approximately constant during the reaction:
+$$
+0 = \frac{d[ES]}{dt} = k_1[E][S] - (k_{-1} + k_2)[ES].
+$$
+From the above relations, the reaction velocity $V$ is:
+$$
+V\_0 = \frac{d[P]}{dt} = k\_2[ES] = \frac{k\_2 [E]\_{\text{tot}}[S]}{\dfrac{k\_{-1} + k\_2}{k\_1} + [S]}.
+$$
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Michaelis constant
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 9.57%;">
-
-**Michaelis constant**
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_138.png) {left=45.67 top=10.74 width=19.48 height=12.96}
-
-<div style="position: absolute; left: 16.96%; top: 21.82%; width: 83.04%; height: 9.57%;">
-
+:::matrix {cols="50/50"}
+[[0,0]]
+$$
+K_M = \frac{k_{-1} + k_2}{k_1}.
+$$
 At very high substrate concentration, essentially all enzyme is bound:
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_139.png) {left=33.75 top=31.39 width=16.25 height=8.70}
-
-<div style="position: absolute; left: 16.96%; top: 41.38%; width: 34.51%; height: 7.26%;">
-
+$$
+[ES] \approx [E]\_{\text{tot}}.
+$$
 Thus the maximum velocity is:
-
-</div>
-
-<div style="position: absolute; left: 15.96%; top: 59.99%; width: 43.51%; height: 12.96%;">
-
+$$
+V\_{\text{max}} = k\_2 [E]\_{\text{tot}}.
+$$
 Finally, the **Michaelis-Menten equation** is obtained:
+$$
+V\_0 = \frac{V\_{\text{max}}[S]}{K\_M + [S]}.
+$$
 
-</div>
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_140.png) {width="100%"}
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_140.png) {left=59.47 top=34.91 width=40.53 height=65.65}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_141.png) {left=33.75 top=49.65 width=19.48 height=9.33}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_77_img_142.png) {left=35.17 top=74.82 width=18.06 height=12.96}
-
-</div>
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# The significance of $K_M$
 
-<div style="position: absolute; left: 16.63%; top: 0.00%; width: 80.35%; height: 20.32%;">
+$$
+V\_0 = \frac{V\_{\text{max}}[S]}{K\_M + [S]}.
+$$
+The significance of $K_M$ is clear when we set $[S] = K\_M$: $V = v\_{\text{max}} / 2$, thus, $K\_M$ is equal to the substrate concentration at which the reaction rate is half its maximal value.
 
-The significance of KM is clear when we set [S]= KM: V = vmax / 2, thus, KM is equal to the substrate concentration at which the reaction rate is half its maximal value .
+## Example
 
-</div>
+$$
+\ce{\underset{\text{Ethanol}}{CH3CH2OH} + NAD+ 
+<=>[\substack{ \textcolor{#2b8cb8}{\text{Alcohol}} \\\\ \textcolor{#2b8cb8}{\text{dehydrogenase}} }] 
+\underset{\text{Acetaldehyde}}{CH3CHO} + NADH + H+}
+$$
+$$
+\ce{CH3CHO + NAD+ + H2O 
+<=>[\substack{ \textcolor{#2b8cb8}{\text{Aldehyde}} \\\\ \textcolor{#2b8cb8}{\text{dehydrogenase}} }]
+\underset{\text{Acetate}}{CH3COO-} + NADH + 2H+}
+$$
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_78_img_143.png) {left=23.83 top=17.34 width=65.94 height=16.85}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_78_img_144.png) {left=22.15 top=34.19 width=73.02 height=17.22}
-
-<div style="position: absolute; left: 17.33%; top: 50.00%; width: 82.67%; height: 46.82%;">
-
-Most people have two forms of the aldehyde dehydrogenase, a low KM mitochondrial form and a high KM cytoplasmic form. In susceptible persons, the mitochondrial enzyme is less active owing to the substitution of a single amino acid (ALDH2 gene, is a common trait in East Asian people), and acetaldehyde is processed only by the cytoplasmic enzyme. Because this enzyme has a high KM, it achieves a high rate of catalysis only at very high concentrations of acetaldehyde. Consequently, less acetaldehyde is converted into acetate; excess acetaldehyde escapes into the blood and accounts for the physiological effects: facial flushing and rapid heart rate (tachycardia) after ingesting even small amounts of alcohol.
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 9.94%;">
-
-**A double-reciprocal or Lineweaver–Burk equation**
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_145.png) {left=63.96 top=25.25 width=36.04 height=52.59}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_146.png) {left=18.93 top=28.17 width=41.21 height=46.76}
-
-<div style="position: absolute; left: 20.11%; top: 77.78%; width: 77.41%; height: 18.48%;">
-
-The KM values of enzymes range widely. For most enzymes, KM lies between 10-1 and 10-7 M. The KM value for an enzyme depends on the particular substrate and on environmental conditions such as pH, temperature, and ionic strength.
-
-</div>
-
-<div style="position: absolute; left: 48.33%; top: 10.45%; width: 50.31%; height: 21.78%;">
-
-For many enzymes, experimental evidence suggests that the KM value provides an approximation of the substrate concentration in vivo
-
-</div>
-
-<div style="position: absolute; left: 0.00%; top: 58.10%; width: 18.93%; height: 41.90%;">
-
-<u>https://learncheme.com/quiz-yourself/interactive-self-study-modules/enzyme-kinetics/enzyme-kinetics-simulation/</u>
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_147.png) {left=18.93 top=12.68 width=26.83 height=12.64}
-
-</div>
+Most people have two forms of the aldehyde dehydrogenase, a low $K\_M$ mitochondrial form and a high $K\_M$ cytoplasmic form. 
+In susceptible persons, the mitochondrial enzyme is less active owing to the substitution of a single amino acid (ALDH2 gene, is a common trait in East Asian people), and acetaldehyde is processed only by the cytoplasmic enzyme. 
+Because this enzyme has a high $K_M$, it achieves a high rate of catalysis only at very high concentrations of acetaldehyde. 
+Consequently, less acetaldehyde is converted into acetate; excess acetaldehyde escapes into the blood and accounts for the physiological effects: facial flushing and rapid heart rate (tachycardia) after ingesting even small amounts of alcohol.
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# A double-reciprocal or Lineweaver–Burk equation
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 9.94%;">
+:::matrix {cols="50/50"}
+[[0,0]]
+$$
+\frac{1}{V\_0} = \frac{K\_M}{V\_{\text{max}}} \cdot \frac{1}{[S]} + \frac{1}{V\_{\text{max}}}.
+$$
+[[0,1]]
+For many enzymes, experimental evidence suggests that the $K\_M$ value provides an approximation of the substrate concentration in vivo
+[[1,0]] {.dense}
+$K_{\text{M}}$ values of some enzymes
+| Enzyme | Substrate | $K_{\text{M}}$ (μM) |
+| --- | --- | --- |
+| Chymotrypsin | Acetyl-L-tryptophanamide | 5000 |
+| Lysozyme | Hexa-$N$-acetylglucosamine | 6 |
+| $\beta$-Galactosidase | Lactose | 4000 |
+| Threonine deaminase | Threonine | 5000 |
+| Carbonic anhydrase | $\ce{CO2}$ | 8000 |
+| Penicillinase | Benzylpenicillin | 50 |
+| Pyruvate carboxylase | Pyruvate | 400 |
+|  | $\ce{HCO3^-}$ | 1000 |
+|  | ATP | 60 |
+| Arginine-tRNA synthetase | Arginine | 3 |
+|  | tRNA | 0.4 |
+|  | ATP | 300 |
+[[1,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_79_img_145.png) {height="100%"}
+[[2,0:2]]
+The $K\_M$ values of enzymes range widely. 
+For most enzymes, $K\_M$ lies between $10^{-1}$ and $10^{-7}$ M. 
+The $K\_M$ value for an enzyme depends on the particular substrate and on environmental conditions such as pH, temperature, and ionic strength.
 
-**Allosteric enzymes do not obey Michaelis–Menten kinetics**
 
-</div>
+<button class="demo-btn" onclick="showDemo('https://learncheme.github.io/demos/EnzymeInhibitionKinetics/index.html')">
+    Launch 3rd Party Demo
+</button>
+:::
 
-<div style="position: absolute; left: 16.07%; top: 12.43%; width: 46.20%; height: 87.57%;">
+---
 
-An important group of enzymes that do not obey Michaelis–Menten kinetics are the **allosteric enzymes**. These enzymes consist of multiple subunits and multiple active sites. Allosteric enzymes often display **sigmoidal plots** of the reaction velocity V_0 versus substrate concentration [S]. In allosteric enzymes, the binding of substrate to one active site can alter the properties of other active sites in the same enzyme molecule. A possible outcome of this interaction between subunits is that the binding of substrate becomes cooperative; that is, the binding of substrate to one active site facilitates the binding of substrate to the other active sites. In addition, the activity of an allosteric enzyme may be altered by regulatory molecules that reversibly bind to specific sites other than the catalytic sites. The catalytic properties of allosteric enzymes can thus be adjusted to meet the immediate needs of a cell. For this reason, allosteric enzymes are key regulators of metabolic pathways.
+# Allosteric enzymes do not obey Michaelis–Menten kinetics
 
-</div>
+:::matrix {cols="50/50"}
+[[0:2,0]]
+An important group of enzymes that do not obey Michaelis–Menten kinetics are the **allosteric enzymes**. 
+These enzymes consist of multiple subunits and multiple active sites. 
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_148.png) {left=69.68 top=12.43 width=28.94 height=40.84}
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_149.png) {left=69.68 top=53.12 width=28.94 height=46.88}
+Allosteric enzymes often display **sigmoidal plots** of the reaction velocity $V\_0$ versus substrate concentration $[S]$. 
+In allosteric enzymes, the binding of substrate to one active site can alter the properties of other active sites in the same enzyme molecule. 
+A possible outcome of this interaction between subunits is that the binding of substrate becomes cooperative; that is, the binding of substrate to one active site facilitates the binding of substrate to the other active sites. 
 
-<div style="position: absolute; left: 82.49%; top: 35.53%; width: 17.76%; height: 8.38%;">
 
+In addition, the activity of an allosteric enzyme may be altered by regulatory molecules that reversibly bind to specific sites other than the catalytic sites. 
+The catalytic properties of allosteric enzymes can thus be adjusted to meet the immediate needs of a cell. 
+For this reason, allosteric enzymes are key regulators of metabolic pathways.
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_148.png) {width="50%"}
+[[1,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_80_img_149.png) {width="50%"}
+:::
+
+<div style="position: absolute; left: 75%; top: 30%;">
 allosteric
-
 </div>
 
-<div style="position: absolute; left: 85.83%; top: 80.09%; width: 14.42%; height: 8.38%;">
-
-MM
-
+<div style="position: absolute; left: 75%; top: 70%;">
+Michaelis-Menten
 </div>
 
-</div>
 
 ---
+# Michaelis–Menten kinetics
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_150.png) {left=18.00 top=2.96 width=14.90 height=27.78}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_151.png) {left=36.51 top=11.20 width=30.31 height=11.30}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_152.png) {left=66.83 top=2.96 width=28.94 height=46.88}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_153.png) {left=69.69 top=50.00 width=30.31 height=44.23}
-
-<div style="position: absolute; left: 15.73%; top: 34.54%; width: 48.59%; height: 13.15%;">
-
+:::matrix {cols="25/25/50"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_150.png) {width="90%"}
+[[0,1]]
+$$
+\ce{E + S <=>[$k_1$][$k_{-1}$] ES <=>[$k_2$][$k_{-2}$] E + P}
+$$
+[[1,0:2]]
 No inhibition, pure Michaelis-Menten kinetics
-
-</div>
-
-<div style="position: absolute; left: 19.00%; top: 59.73%; width: 47.83%; height: 33.00%;">
-
+[[0:2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_152.png) {width="60%"}
+[[2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_153.png) {width="60%"}
+[[2,0:2]]
+$$
+V\_0 = \frac{V\_{\text{max}}[S]}{K\_M + [S]}. \qquad 
+\frac{1}{V\_0} = \frac{K\_M}{V\_{\text{max}}} \cdot \frac{1}{[S]} + \frac{1}{V\_{\text{max}}}.
+$$
 **Inhibition**:
-**Irreversible **(dissociates very slowly from its target enzyme; tightly bound either covalently or noncovalently)
-**Reversible **(rapid dissociation; competitive, noncompetitive, uncompetitive)
+* **Irreversible** (dissociates very slowly from its target enzyme; tightly bound either covalently or noncovalently)
+* **Reversible** (rapid dissociation)
+   - competitive, 
+   - noncompetitive, 
+   - uncompetitive.
 
-</div>
+:::
+---
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_154.png) {left=36.68 top=47.15 width=27.91 height=13.15}
+# Competitive Inhibitor
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_81_img_155.png) {left=17.63 top=47.69 width=16.80 height=12.06}
+:::matrix {cols="25/25/50"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_157.png) {width="90%"}
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_159.png) {width="90%"}
+[[1,0:2]]
+A **competitive inhibitor** binds at the active site and thus prevents the substrate from binding;
+[[0:2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_156.png) {width="60%"}
+[[2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_160.png) {width="60%"}
+[[2,0:2]]
+$$
+K\_i = [\text{E}][\text{I}]/[\text{EI}] \qquad 
+K\_{\text{M}}^{\text{app}} = K\_{\text{M}}(1 + [\text{I}]/K\_i)
+$$
+$$
+\frac{1}{V\_0} = \frac{1}{V\_{\text{max}}} + \frac{K\_{\text{M}}}{V\_{\text{max}}} \left( 1 + \frac{[\text{I}]}{K\_i} \right) \left( \frac{1}{[\text{S}]} \right)
+$$
 
-</div>
+The effect of a competitive inhibitor is to increase the apparent value of $K\_M$
+:::
+
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_156.png) {left=69.69 top=0.00 width=30.31 height=42.92}
+# Uncompetitive Inhibitor
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_157.png) {left=15.40 top=0.00 width=14.90 height=28.15}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_158.png) {left=16.40 top=58.02 width=15.29 height=6.37}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_159.png) {left=35.31 top=2.47 width=22.60 height=27.04}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_160.png) {left=69.69 top=45.23 width=30.31 height=40.10}
-
-<div style="position: absolute; left: 16.40%; top: 29.50%; width: 53.29%; height: 67.56%;">
-
-a **competitive inhibitor** binds at the active site and thus prevents the substrate from binding;
-
-The effect of a competitive inhibitor is to increase the apparent value of KM
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_161.png) {left=39.35 top=58.02 width=24.28 height=6.37}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_82_img_162.png) {left=16.40 top=68.70 width=37.81 height=14.07}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_163.png) {left=16.37 top=0.00 width=24.90 height=28.70}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_164.png) {left=41.27 top=6.11 width=25.83 height=22.59}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_165.png) {left=73.02 top=0.00 width=26.98 height=48.24}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_166.png) {left=71.74 top=48.24 width=28.26 height=45.91}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_167.png) {left=18.37 top=79.52 width=35.52 height=14.63}
-
-<div style="position: absolute; left: 18.63%; top: 33.55%; width: 52.91%; height: 45.87%;">
-
+:::matrix {cols="25/25/50"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_163.png) {width="90%"}
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_164.png) {width="90%"}
+[[1,0:2]]
 In **uncompetitive inhibition**, the inhibitor binds only to the ES complex.
+[[0:2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_165.png) {width="50%"}
+[[2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_83_img_166.png) {width="50%"}
+[[2,0:2]]
+$$
+\frac{1}{V\_0} = \frac{K\_{\text{M}}}{V\_{\text{max}}} \frac{1}{[\text{S}]} + \frac{1}{V\_{\text{max}}} \left( 1 + \frac{[\text{I}]}{K\_{\text{i}}} \right)
+$$
+ESI, does not go on to form any product. Lowers $V\_\text{max}$ and $K\_M$ because unproductive ESI depletes ES
 
-ESI, does not go on to form any product. Lowers Vmax and KM because unproductive ESI depletes ES
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_168.png) {left=15.82 top=0.00 width=23.75 height=25.74}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_169.png) {left=41.39 top=2.78 width=22.81 height=20.19}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_170.png) {left=69.12 top=0.00 width=30.88 height=52.73}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_171.png) {left=69.12 top=54.12 width=30.88 height=40.84}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_172.png) {left=32.01 top=76.89 width=21.25 height=14.26}
-
-<div style="position: absolute; left: 18.32%; top: 28.93%; width: 48.64%; height: 52.80%;">
-
-In **noncompetitive inhibition**, substrate can bind either to the enzyme or the enzyme–inhibitor complex. However, the ESI does not proceed to form product. In pure
-noncompetitive inhibition, the K_i for the inhibitor binding to E is the same as for binding to ES complex. The value of V_max is decreased to a new value called V_max^app, whereas the value of K_M is unchanged.
-
-</div>
-
-</div>
+:::
 
 ---
 
+# Noncompetitive Inhibitor
+
+:::matrix {cols="25/25/50"}
+[[0,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_168.png) {width="90%"}
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_169.png) {width="90%"}
+[[1,0:2]]
+In **uncompetitive inhibition**, the inhibitor binds only to the ES complex.
+[[0:2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_170.png) {width="50%"}
+[[2,2]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_84_img_171.png) {width="50%"}
+[[2,0:2]]
+$$
+V\_{\text{max}}^{\text{app}} = \frac{V\_{\text{max}}}{1 + [\text{I}]/K\_{\text{i}}}
+$$
+However, the ESI does not proceed to form product. In pure
+noncompetitive inhibition, the $K\_i$ for the inhibitor binding to E is the same as for binding to ES complex. 
+The value of $V\_{\text{max}}$ is decreased to a new value called $V\_{\text{max}}^{\text{app}}$, whereas the value of $K\_M$ is unchanged.
+:::
+
+---
+
+<div class="matrix-cell dense">
 
 | Drug (example) | Inhibition type/class | Mechanism of action / Notes |
 | --- | --- | --- |
@@ -649,22 +598,17 @@ noncompetitive inhibition, the K_i for the inhibitor binding to E is the same as
 | Organophosphates (e.g. sarin, malathion) | Irreversible | Phosphorylate active-site serine in acetylcholinesterase → accumulation of acetylcholine (toxic). |
 | Disulfiram | Irreversible | Inhibits aldehyde dehydrogenase → acetaldehyde buildup after alcohol intake (used in alcoholism therapy). |
 | Sulfonamides | Competitive (antimetabolite) | Mimic PABA → inhibit dihydropteroate synthase in bacteria, blocking folate synthesis. |
-
----
-
-| Drug (example) | Inhibition type | Mechanism of action / Notes |
-|---|---|---|
 | Memantine | Uncompetitive (open-channel blocker) | Used in Alzheimer’s. Binds inside the NMDA receptor channel only when it’s open → prevents excessive Ca²⁺ influx without fully blocking normal activity. |
 | Ketamine | Noncompetitive (allosteric/open-channel block) | NMDA receptor antagonist; binds to a site distinct from glutamate → anesthetic and antidepressant effects. |
 | Theophylline (and caffeine) | Noncompetitive / allosteric | Inhibit phosphodiesterase (PDE) → increase cAMP levels; also antagonize adenosine receptors. |
 | NNRTIs (e.g., efavirenz, nevirapine) | Noncompetitive (allosteric) | Bind to a hydrophobic pocket on HIV reverse transcriptase distinct from the active site → distort the enzyme and block activity. |
 | Foscarnet | Noncompetitive | Antiviral; binds to the pyrophosphate binding site of viral DNA polymerase → prevents cleavage of pyrophosphate from dNTPs. |
 
+</div>
+
 ---
 
 # Biochemical systems theory, BST
-
-Bio switch: <a>https://colab.research.google.com/github/fbeilstein/machine_learning/blob/master/test_basic_functions.ipynb</a>
 
 **For curious mind**:
 * Mogilner, Alex, Roy Wollman, and Wallace F. Marshall. "Quantitative modeling in cell biology: what is it good for?." Developmental cell 11, no. 3 (2006): 279-287.
@@ -672,123 +616,89 @@ Bio switch: <a>https://colab.research.google.com/github/fbeilstein/machine_learn
 * Bier, Martin, Barbara M. Bakker, and Hans V. Westerhoff. "How yeast cells synchronize their glycolytic oscillations: a perturbation analytic treatment." Biophysical Journal 78, no. 3 (2000): 1087-1093.
 * Tyson, John J., Katherine C. Chen, and Bela Novak. "Sniffers, buzzers, toggles and blinkers: dynamics of regulatory and signaling pathways in the cell." Current opinion in cell biology 15, no. 2 (2003): 221-231.
 
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Inorganic chemical reactions may exhibit complicated dynamic behaviour as well. Briggs–Rauscher.
-
-</div>
-
-![youtube](oBGSMiHhdWw) {left=16.07 top=16.67 width=81.90 height=81.90}
-
-</div>
+<iframe src="./lecture_05_reaction_coordinate_and_catalysis/demos/bio_switch.html" width="100%" height="400px" style="border: none;"></iframe>
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Briggs–Rauscher
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
+## Inorganic chemical reactions may exhibit complicated dynamic behaviour as well.
 
-Inorganic chemical reactions may exhibit complicated dynamic behaviour as well. Belousov-Zhabotinsky.
-
-</div>
-
-![youtube](XU2AV5SSi6g) {left=17.63 top=18.99 width=77.93 height=77.93}
-
-</div>
+![youtube](oBGSMiHhdWw) {width="80%" left="10%"}
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Belousov-Zhabotinsky
 
-<div style="position: absolute; left: 17.74%; top: 74.77%; width: 80.35%; height: 16.51%;">
+## Inorganic chemical reactions may exhibit complicated dynamic behaviour as well.
 
-**Cleland notation** for lactate dehydrogenase and creatine kinase
+![youtube](XU2AV5SSi6g) {width="80%" left="10%"}
 
-</div>
 
-<div style="position: absolute; left: 16.44%; top: 3.99%; width: 80.35%; height: 16.51%;">
+---
+# Cleland notation
 
-**Sequential reactions. **In sequential reactions, all substrates must bind to the
-enzyme before any product is released.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_173.png) {left=16.44 top=20.50 width=71.15 height=18.15}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_174.png) {left=17.25 top=44.57 width=65.50 height=30.19}
-
-</div>
+:::matrix {cols="70/30"}
+[[0,0:2]]
+**Sequential reactions.** In sequential reactions, all substrates must bind to the enzyme before any product is released.
+[[1,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_173.png) {width="100%"}
+[[1,1]] { justify-content: center; align-items: center; }
+**lactate dehydrogenase**
+[[2,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_90_img_174.png) {width="100%"}
+[[2,1]] { justify-content: center; align-items: center; }
+**creatine kinase**
+[[3,0:2]]
+**Double-displacement (ping-pong)** reactions. In double- displacement, or ping-pong, reactions, one or more products are released before all substrates bind the enzyme. 
+The defining feature of double-displacement reactions is the existence of a substituted enzyme intermediate, in which the enzyme is temporarily modified.
+[[4,0]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_91_img_175.png) {width="100%"}
+[[4,1]] { justify-content: center; align-items: center; }
+**aspartate aminotransferase**
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 17.37%; top: 8.28%; width: 80.35%; height: 25.87%;">
-
-**Double-displacement (ping-pong)** reactions. In double- displacement,
-or ping-pong, reactions, one or more products are released before all substrates bind the enzyme. The defining feature of double-displacement reactions is the existence of a substituted enzyme intermediate, in which the enzyme is temporarily modified.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_91_img_175.png) {left=18.63 top=40.45 width=81.37 height=20.57}
-
-<div style="position: absolute; left: 17.74%; top: 74.77%; width: 80.35%; height: 11.60%;">
-
-**Cleland notation **for aspartate aminotransferase
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 11.26%;">
-
-**Activity regulation**
-
-</div>
-
-<div style="position: absolute; left: 16.07%; top: 15.07%; width: 80.35%; height: 84.93%;">
+# Activity regulation
 
 **1. Allosteric Control.** Allosteric proteins contain distinct regulatory sites and multiple functional sites. The binding of small signal molecules at regulatory sites controls the activity of these proteins. Moreover, allosteric proteins show the property of cooperativity: activity at one functional site affects the activity at others. 
 
-**2. Multiple Forms of Enzymes.** **Isozymes**, or **isoenzymes **are homologous enzymes within a single organism that catalyze the same reaction but differ slightly in structure and more obviously in K_M and V_max values as well as in regulatory properties. Often, isozymes are expressed in a distinct tissue or organelle or at a distinct stage of development.
+**2. Multiple Forms of Enzymes.** **Isozymes**, or **isoenzymes** are homologous enzymes within a single organism that catalyze the same reaction but differ slightly in structure and more obviously in $K\_M$ and $V\_\text{max}$ values as well as in regulatory properties. Often, isozymes are expressed in a distinct tissue or organelle or at a distinct stage of development.
 
 **3. Reversible Covalent Modification.** The catalytic properties of many enzymes are markedly altered by the covalent attachment of a modifying group, commonly a phosphoryl group. 
 
-**4. Proteolytic Activation.** A different regulatory strategy is used to irreversibly convert an inactive enzyme into an active one. Many enzymes are activated by the hydrolysis of a few peptide bonds or even one such bond in inactive precursors called **zymogens **or **proenzymes**. 
+**4. Proteolytic Activation.** A different regulatory strategy is used to irreversibly convert an inactive enzyme into an active one. Many enzymes are activated by the hydrolysis of a few peptide bonds or even one such bond in inactive precursors called **zymogens** or **proenzymes**. 
 
 **5. Controlling the Amount of Enzyme Present.** This important form of regulation usually takes place at the level of **transcription**.
 
-</div>
-
-</div>
-
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Allosteric effects and Hill equation
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_93_img_176.png) {left=15.98 top=25.19 width=79.02 height=74.81}
+:::matrix {cols="60/40"}
+[[0,0]]
+## Michaelis–Menten Kinetics
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_93_img_177.png) {left=71.72 top=0.00 width=29.51 height=43.48}
+$$
+v\_0 = \frac{d[P]}{dt} = k\_2[ES] = \frac{k\_2[E]\_{\text{tot}}[S]}{K\_M + [S]}
+\qquad\text{thus}\qquad
+[ES] = \frac{[E]\_{\text{tot}}[S]}{K\_M + [S]}.
+$$
 
-<div style="position: absolute; left: 19.18%; top: 4.51%; width: 49.20%; height: 19.14%;">
+## Hill Kinetics 
 
-**Allosteric effects and Hill equation**
+Describes allosteric effects (note: designations in Wikipedia and etc are different)
+$$
+\frac{[ES]}{[E]\_{\text{tot}}} = \frac{[S]^n}{K\_A^n + [S]^n}.
+$$
+[[0,1]]
+## The Bohr Effect (haemoglobin)
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_93_img_177.png?v=1) {width="80%"}
+[[1,0:2]]
+* $n > 1$ **Positively cooperative binding:** Once one ligand molecule is bound to the enzyme, its affinity for other ligand molecules increases. For example, the Hill coefficient of oxygen binding to haemoglobin (an example of positive cooperativity) falls within the range of 1.7–3.2.
+* $n < 1$ **Negatively cooperative binding:** Once one ligand molecule is bound to the enzyme, its affinity for other ligand molecules decreases.
+* $n = 1$ **Noncooperative (completely independent) binding:** The affinity of the enzyme for a ligand molecule is not dependent on whether or not other ligand molecules are already bound. When $n = 1$, we obtain a model that can be modeled by Michaelis–Menten kinetics in which $K\_A = K\_M$ the Michaelis–Menten constant.
+:::
 
-</div>
-
-<div style="position: absolute; left: 84.34%; top: 25.19%; width: 15.66%; height: 7.59%;">
-
-haemoglobin
-
-</div>
-
-</div>
 
