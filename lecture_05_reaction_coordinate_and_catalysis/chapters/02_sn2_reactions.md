@@ -1,18 +1,10 @@
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-<div style="position: absolute; left: 16.44%; top: 33.49%; width: 80.35%; height: 16.51%;">
-
+:::titlepage
+[[title]]
 SN2 reactions
-
-</div>
-
-<div style="position: absolute; left: 32.69%; top: 50.00%; width: 47.85%; height: 10.75%;">
-
+[[subcaption]]
 Nucleophilic substitution 2 order
-
-</div>
-
-</div>
+:::
 
 ---
 

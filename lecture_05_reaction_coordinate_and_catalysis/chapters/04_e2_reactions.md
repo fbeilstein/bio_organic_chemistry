@@ -1,24 +1,13 @@
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-<div style="position: absolute; left: 16.44%; top: 33.49%; width: 80.35%; height: 16.51%;">
-
+:::titlepage
+[[title]]
 E2 reactions
-
-</div>
-
-<div style="position: absolute; left: 36.31%; top: 50.00%; width: 47.85%; height: 10.75%;">
-
+[[subcaption]]
 Second-order* bimolecular reaction
+[[bottom]]
+\* the rate depends both on the concentration of the molecule and of the assisting base.
+:::
 
-</div>
-
-<div style="position: absolute; left: 21.52%; top: 90.54%; width: 74.75%; height: 7.18%;">
-
-* the rate depends both on the concentration of the molecule and of the assisting base.
-
-</div>
-
-</div>
 
 ---
 

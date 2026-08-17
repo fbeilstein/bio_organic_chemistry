@@ -1,13 +1,8 @@
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.22%; top: 38.88%; width: 80.35%; height: 16.51%;">
-
-**HOMEWORK**
-
-</div>
-
-</div>
+:::titlepage
+[[title]]
+HOMEWORK
+:::
 
 ---
 

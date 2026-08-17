@@ -1,228 +1,123 @@
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-<div style="position: absolute; left: 16.33%; top: 19.35%; width: 80.35%; height: 17.79%;">
 
-Bioorganic Chemistry
+# Statistical mechanics + Thermodynamics = POWER !!!
 
-</div>
+- Chemical thermodynamics
+- Chemical kinetics
+- Colloid and Surface Chemistry
+- Materials Science and Solid-State Chemistry
+- Quantum Chemistry and Molecular Modeling
+- Enzymatic Catalysis
+- Protein Thermodynamics
+- Biomolecular Thermodynamics in the Cell
+- Membrane Biophysics
+- ...
 
-<div style="position: absolute; left: 68.94%; top: 70.95%; width: 22.68%; height: 6.11%;">
-
-Tymchyshyn V.B.
-
-</div>
-
-<div style="position: absolute; left: 18.75%; top: 41.62%; width: 75.52%; height: 13.88%;">
-
-Lecture 5: Reaction Coordinate and Catalysis
-
-</div>
-
-</div>
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Statistical mechanics
 
-<div style="position: absolute; left: 21.23%; top: 15.31%; width: 67.78%; height: 8.98%;">
-
-**Statistical mechanics** + **Thermodynamics **= POWER !!!
-
-</div>
-
-<div style="position: absolute; left: 30.69%; top: 35.53%; width: 59.22%; height: 56.26%;">
-
-Chemical thermodynamics
-Chemical kinetics
-Colloid and Surface Chemistry
-Materials Science and Solid-State Chemistry
-Quantum Chemistry and Molecular Modeling
-Enzymatic Catalysis
-Protein Thermodynamics
-Biomolecular Thermodynamics in the Cell
-Membrane Biophysics
-…
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_1.png) {left=76.05 top=0.63 width=22.34 height=27.25}
-
-<div style="position: absolute; left: 31.34%; top: 4.15%; width: 26.52%; height: 8.08%;">
-
-**Statistical mechanics:**
-
-</div>
-
-<div style="position: absolute; left: 86.18%; top: 27.87%; width: 11.17%; height: 4.71%;">
-
-**microstate**
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_2.png) {left=81.60 top=32.58 width=17.46 height=40.38}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_3.png) {left=31.65 top=40.58 width=28.23 height=10.62}
-
-<div style="position: absolute; left: 25.87%; top: 32.89%; width: 38.88%; height: 7.72%;">
+:::matrix {cols="80/20"}
+[[0,0]]
+- assumes molecular (classical or quantum) composition of matter microstates
+- uses probability distributions to cope with huge number equations of motion
+- calculates measurable parameters as statistical / quantum mechanical averages
 
 **Maxwell–Boltzmann distribution:**
-
-</div>
-
-<div style="position: absolute; left: 16.81%; top: 12.53%; width: 60.50%; height: 20.05%;">
-
-assumes molecular (classical or quantum) composition of matter
-microstates
-uses probability distributions to cope with huge number equations of motion
-calculates measurable parameters as statistical / quantum mechanical averages
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_4.png) {left=85.32 top=75.13 width=12.88 height=22.90}
-
-<div style="position: absolute; left: 26.32%; top: 63.24%; width: 38.88%; height: 7.72%;">
+$$
+f(\mathbf{v}) \equiv \left[ \frac{2\pi k_{\text{B}} T}{m} \right]^{-3/2} \exp\left(-\frac{1}{2} \frac{m\mathbf{v}^2}{k_{\text{B}}T}\right).
+$$
+$$
+\mathbb{E}[v] = \sqrt{\frac{8k_B T}{\pi m}} \qquad \mathbb{E}[v^2] = \frac{3k_B T}{m}
+$$
 
 **Brownian motion:**
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_5.png) {left=31.55 top=68.76 width=23.75 height=10.62}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_6.png) {left=32.92 top=78.62 width=11.66 height=7.72}
-
-<div style="position: absolute; left: 17.83%; top: 87.46%; width: 63.77%; height: 11.44%;">
-
-**Other results**: blackbody radiation, Fermi-Dirac statistics, Bose-Einstein statistics, 
-Debye-Einstein** **heat capacity, etc.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_7.png) {left=32.05 top=51.87 width=26.52 height=10.26}
-
-</div>
+$$
+\rho(x,t) = \frac{N}{\sqrt{4\pi Dt}} \exp\left(-\frac{x^2}{4Dt}\right).
+$$
+$$
+\mathbb{E}[x^2] = 2Dt.
+$$
+**Other results**: blackbody radiation, Fermi-Dirac statistics, Bose-Einstein statistics, Debye-Einstein heat capacity, etc.
+[[0,1]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_1.png)
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_2.png) {width="70%"}
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_3_img_4.png) {width="70%"}
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Thermodynamics
 
-<div style="position: absolute; left: 44.30%; top: 0.79%; width: 26.52%; height: 8.38%;">
+* largely phenomenological branch of science that ignores molecular (classical or quantum) composition of matter
+* macrostates (thermodynamic states)
+* uses state functions aka potentials - quantities that depend on the macrostate and independent on the path
+* uses calculus to establish useful relations between the thermodynamic functions
+* key concepts: isolated system, thermodynamic equilibrium, quasistatic process, reversible process
 
-**Thermodynamics:**
-
-</div>
-
-<div style="position: absolute; left: 17.19%; top: 9.17%; width: 80.73%; height: 23.34%;">
-
-largely phenomenological branch of science that ignores molecular (classical or quantum) composition of matter
-macrostates (thermodynamic states)
-uses state functions aka potentials - quantities that depend on the macrostate and independent on the path
-uses calculus to establish useful relations between the thermodynamic functions
-key concepts: isolated system, thermodynamic equilibrium, quasistatic process, reversible process
-
-</div>
-
-<div style="position: absolute; left: 42.30%; top: 35.62%; width: 32.81%; height: 7.18%;">
-
-**3 Laws of Thermodynamics:**
-
-</div>
-
-<div style="position: absolute; left: 17.59%; top: 42.80%; width: 80.73%; height: 52.97%;">
+## 3 Laws of Thermodynamics
 
 **Zeroth law:** If two systems are each in thermal equilibrium with a third, they are also in thermal equilibrium with each other.
+$$
+T \text{ is a state variable}
+$$
 
+**First law:** In a process without transfer of matter, the change in internal energy, $\Delta U$ of a thermodynamic system is equal to the energy gained as heat, Q minus the thermodynamic work A, done by the system on its surroundings.
+$$
+\Delta U = \Delta Q - A
+$$
 
-**First law:** In a process without transfer of matter, the change in internal energy,  ΔU of a thermodynamic system is equal to the energy gained as heat, Q minus the thermodynamic work A, done by the system on its surroundings.
+**Second law:** Heat does not spontaneously flow from a colder body to a hotter body.
+$$
+\text{For a reversible process:} \qquad dS = \frac{\delta Q}{T}
+$$
 
-
-
-**Second law: **Heat does not spontaneously flow from a colder body to a hotter body.
-
-
-
-**Third law: **As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_8.png) {left=49.51 top=65.97 width=12.75 height=5.03}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_9.png) {left=49.51 top=93.47 width=12.56 height=5.03}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_10.png) {left=40.18 top=77.91 width=29.62 height=7.18}
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_4_img_11.png) {left=46.82 top=50.52 width=19.03 height=4.56}
-
-</div>
+**Third law:** As the temperature of a system approaches absolute zero, all processes cease and the entropy of the system approaches a minimum value.
+$$
+S(T = 0 \text{ K}) = 0
+$$
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# State variables / state functions
+## (macro coordinates of the system / properties that don’t depend on the path)
 
-<div style="position: absolute; left: 18.09%; top: 5.39%; width: 85.38%; height: 38.52%;">
+:::matrix {cols="33/33/33"}
+[[0,1::3]]
+![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_5_img_13.png)
+[[0,0:2]]
+- $\mathbf{P}$, $\mathbf{T}$, $\mathbf{V}$ --- pressure, temperature, volume
+- $\mathbf{U}$ --- internal energy
+- $\mathbf{S}$ --- entropy
+- $\mathbf{H}$ --- enthalpy
+- $\mathbf{G}$ --- Gibbs free energy
+- $\mathbf{F}$ --- Helmholtz free energy
 
-**State variables / state functions ****  **
-**(****macro coordinates of the system / properties that don’t depend on the path)**
-
-**P, T, V** - pressure, temperature, volume
-**U **- internal energy
-**S** - entropy**H** - enthalpy
-**G **- Gibbs free energy
-**F **- Helmholtz free energy
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_5_img_12.png) {left=18.41 top=43.91 width=4.42 height=7.63}
-
-<div style="position: absolute; left: 22.52%; top: 42.07%; width: 52.42%; height: 11.32%;">
-
-Heat is not a state
-function (no *heat fluid*)
-
-</div>
-
-<div style="position: absolute; left: 18.81%; top: 61.67%; width: 83.94%; height: 23.04%;">
-
-When property is **extensive ** (proportional to the size of the homogeneous system) we can define specific or molar quantity. 
-Ex: 
-**specific enthalpy** h = H/m* ***standard  molar enthalpy** H° = H/n at p=1atm
-
-</div>
-
-<div style="position: absolute; left: 18.72%; top: 85.79%; width: 76.36%; height: 12.27%;">
-
-**V, U, S, H, G, F** - extensive properties   -> **V**°, **U**°, **S**°, **H**°, **G**°, **F**°
-
-</div>
-
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_5_img_13.png) {left=51.85 top=14.12 width=50.95 height=35.37}
-
-<div style="position: absolute; left: 13.72%; top: 51.43%; width: 87.76%; height: 11.37%;">
-
+$ \color{red}{\xcancel{\color{black}{Q}}}$ Heat is not a state function (no *heat fluid*)
+[[1,0:3]]
 You don’t need all of them: for a homogeneous system in thermodynamic equilibrium you can pick any 2 of them (the rest are called state functions dependent on the chosen state variables).
 
-</div>
+When property is **extensive** (proportional to the size of the homogeneous system) we can define specific or molar quantity. 
+[[2,0:2]]
+Ex:<br>
+* **specific enthalpy** $h = H/m$<br>
+* **standard molar enthalpy** $H^\circ = H/n$ at $p = 1 \text{ atm}$
 
-<div style="position: absolute; left: 73.58%; top: 70.52%; width: 25.43%; height: 26.40%;">
+$\mathbf{V, U, S, H, G, F}$ - extensive properties $\rightarrow$ $\mathbf{V^\circ, U^\circ, S^\circ, H^\circ, G^\circ, F^\circ}$
+[[2,2]]
+**Standard conditions** for Gibbs free energy are a temperature of $25^\circ$ C ($298$ K) and a pressure of $1$ atm (or $100$ kPa) for gases, with $1$ M concentration for all aqueous solutions. Designated with $^\circ$.
 
-**Standard conditions** for Gibbs free energy are a temperature of 25°C (298 K) and a pressure of 1 atm (or 100 kPa) for gases, with 1 M concentration for all aqueous solutions. Designated with °.
-
-</div>
-
-</div>
-
+:::
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Explanation of Thermodynamic Quantities: $\Delta G^\circ = \Delta H^\circ - T\Delta S^\circ$
 
-![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_6_img_14.png) {left=20.01 top=10.50 width=74.90 height=70.74}
-
-</div>
+| Term | Name | Explanation |
+| :--- | :--- | :--- |
+| $\color{#279B61}{\Delta G^\circ}$ | <span style="color: #279B61; font-weight: bold;">Gibbs free-energy change</span> | Represents the difference in energy between products and reactants. A negative $\Delta G^\circ$ indicates an **exergonic** reaction that proceeds spontaneously with a favorable equilibrium constant. Conversely, a positive $\Delta G^\circ$ denotes an **endergonic** reaction, which is nonspontaneous and has an unfavorable equilibrium constant. |
+| $\color{#D91E76}{\Delta H^\circ}$ | <span style="color: #D91E76; font-weight: bold;">Enthalpy change</span> | The overall heat associated with a reaction, reflecting the net difference in bond strengths between newly formed bonds and those broken. A negative $\Delta H^\circ$ signifies an **exothermic** process where heat is released. A positive $\Delta H^\circ$ signifies an **endothermic** process where heat is absorbed. |
+| $\color{#2B8CBE}{\Delta S^\circ}$ | <span style="color: #2B8CBE; font-weight: bold;">Entropy change</span> | The shift in the system's molecular disorder or randomness resulting from a reaction. A negative $\Delta S^\circ$ means the system becomes less random; a positive $\Delta S^\circ$ indicates an increase in molecular randomness. |
 
 ---
 
