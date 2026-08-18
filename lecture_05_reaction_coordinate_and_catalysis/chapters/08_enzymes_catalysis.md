@@ -144,15 +144,8 @@ Often derived from **vitamins**, coenzymes can be either tightly or loosely boun
 Enzymes accelerate the attainment of equilibria but do not shift their positions. The equilibrium position is a function only of the free-energy difference between reactants and products.
 [[1,1]]
 ![](./lecture_05_reaction_coordinate_and_catalysis/images/slide_65_img_113.png)
-
-<div style="position: absolute; top: 78%; left: 46.5%; color:black;">
-$$\Delta G^{\ddagger} = G_{\mathrm{X}}^{\ddagger} - G_{\mathrm{S}}$$
-</div>
-
-<div style="position: absolute; top: 83.5%; left: 46.5%; color:black;">
-$$\mathrm{S} \longrightarrow \mathrm{X}^{\ddagger} \longrightarrow \mathrm{P}$$
-</div>
-
+![text](22% 48% $$\Delta G^{\ddagger} = G_{\mathrm{X}}^{\ddagger} - G_{\mathrm{S}}$$){color: black}
+![text](22% 61% $$\mathrm{S} \longrightarrow \mathrm{X}^{\ddagger} \longrightarrow \mathrm{P}$$){color: black}
 [[1,2]]
 The difference in free energy between the transition state and the substrate is called the Gibbs free energy of activation or simply the activation energy, symbolized by $\Delta G^\ddagger$ 
 
