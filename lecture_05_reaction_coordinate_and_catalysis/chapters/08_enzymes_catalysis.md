@@ -32,7 +32,7 @@ diluted in salt and sugar. The enzymes act slowly at refrigerator or room  tempe
 A kinesin is a protein complex belonging to a class of motor proteins found in eukaryotic cells. Kinesins move along microtubule (MT) filaments and are powered by the hydrolysis of adenosine triphosphate (ATP) (thus kinesins are ATPases, a type of enzyme).
 
 
-![youtube](y-uuk4Pr2i8) {height="80%"}
+![youtube](6e6Zk2dOE5M) {height="80%"}
 
 ---
 
