@@ -9,17 +9,69 @@
 <body>
 <script type="module" src="engine/js/slides.js?v=4"></script>
 <script type="text/markdown" id="markdown-source">
+
 <style>
+html, body {
+    font-size: 16px; 
+}
+
+.matrix-cell.dense table th,
+.matrix-cell.dense table td {
+    padding: 2px 6px !important;
+    line-height: 1.1;
+}
+.matrix-cell.dense table tr {
+    margin: 0;
+}
+
 .smaller-table table,
 .smaller-table th,
 .smaller-table td {
     font-size: 80%;
 }
+
+
+.dense-table table {
+    font-size: 75%;
+    width: 100%;
+}
+.dense-table th,
+.dense-table td {
+    padding: 4px 8px !important;
+    line-height: 1.2;
+}
 </style>
 
-<span style="display: none;">$\require{mathtools}$</span>
 
-!include(./lecture_06_bioenergetics_and_metabolism/lecture_06_bioenergetics_and_metabolism.md)
+<span style="display: none;">
+$\require{mathtools}$
+$\require{mhchem}$
+$\require{extpfeil}$
+</span>
+
+:::titlepage
+[[title]]
+Bioorganic Chemistry
+[[subcaption]]
+Lecture 6: Bioenergetics and metabolism
+[[right]]
+Tymchyshyn V.B.
+:::
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/01_general_metabolism.md)
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/02_glycolysis.md)  
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/03_gluconeogenesis.md)  
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/04_after_glycolysis.md)  
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/05_krebs_cycle.md)  
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/06_electron_transport_chain.md)
+---
+!include(./lecture_06_bioenergetics_and_metabolism/chapters/homework.md)
+
 
 </script>
 </body>

@@ -9,7 +9,21 @@
 <body>
 <script type="module" src="engine/js/slides.js?v=4"></script>
 <script type="text/markdown" id="markdown-source">
+
 <style>
+html, body {
+    font-size: 16px; 
+}
+
+.matrix-cell.dense table th,
+.matrix-cell.dense table td {
+    padding: 2px 6px !important;
+    line-height: 1.1;
+}
+.matrix-cell.dense table tr {
+    margin: 0;
+}
+
 .smaller-table table,
 .smaller-table th,
 .smaller-table td {
@@ -17,9 +31,42 @@
 }
 </style>
 
-<span style="display: none;">$\require{mathtools}$</span>
 
-!include(./lecture_08_molecular_signaling/lecture_08_molecular_signaling.md)
+<span style="display: none;">
+$\require{mathtools}$
+$\require{mhchem}$
+$\require{extpfeil}$
+</span>
+
+:::titlepage
+[[title]]
+Bioorganic Chemistry
+[[subcaption]]
+Lecture 8: Molecular Signaling
+[[right]]
+Tymchyshyn V.B.
+:::
+---
+!include(./lecture_08_molecular_signaling/chapters/01_cells_community.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/02_pharmacology_intro.md)  
+---
+!include(./lecture_08_molecular_signaling/chapters/03_receptor_types.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/04_ion_channels.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/05_gpcrs.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/06_rtks.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/07_other_pathways.md)  
+---
+!include(./lecture_08_molecular_signaling/chapters/08_hormones.md)
+---
+!include(./lecture_08_molecular_signaling/chapters/homework.md)
+
+
+
 
 </script>
 </body>
