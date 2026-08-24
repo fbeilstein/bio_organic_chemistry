@@ -8,46 +8,43 @@ Some of the most common types functioning
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Receptor Types
 
-![](./lecture_08_molecular_signaling/images/slide_28_img_39.png) {left=18.63 top=2.96 width=81.37 height=90.68}
-
-</div>
+![](./lecture_08_molecular_signaling/images/slide_28_img_39.png){width=100}
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# The Four Main Types of Receptor
 
-![](./lecture_08_molecular_signaling/images/slide_29_img_40.png) {left=18.07 top=0.00 width=74.50 height=46.60}
+:::matrix{cols="25/25/25/25"}
+[[0,0:4]]
 
-![](./lecture_08_molecular_signaling/images/slide_29_img_41.png) {left=20.83 top=46.12 width=30.17 height=25.55}
+|  | Type 1: ligand-gated ion channels | Type 2: G-protein-coupled receptors | Type 3: receptor kinases | Type 4: nuclear receptors |
+| --- | --- | --- | --- | --- |
+| Location | Membrane | Membrane | Membrane | Intracellular |
+| Effector | Ion channel | Channel or enzyme | Protein kinases | Gene transcription |
+| Coupling | Direct | G-protein | Direct | Via DNA |
+| Examples | Nicotinic acetylcholine receptor, GABAA receptor | Muscarinic acetylcholine receptor, adrenoceptors | Insulin, growth factors, cytokine receptors | Steroid receptors |
+| Structure | Oligomeric assembly of subunits surrounding central pore | Monomeric or oligomeric assembly of subunits comprising seven transmembrane helices with intracellular G-protein-coupling domain | Single transmembrane helix linking extracellular receptor domain to intracellular kinase domain | Monomeric structure with separate receptor- and DNA-binding domains |
 
-![](./lecture_08_molecular_signaling/images/slide_29_img_42.png) {left=61.14 top=45.91 width=30.53 height=25.96}
-
-![](./lecture_08_molecular_signaling/images/slide_29_img_43.png) {left=20.83 top=74.10 width=30.17 height=25.90}
-
-![](./lecture_08_molecular_signaling/images/slide_29_img_44.png) {left=61.14 top=74.10 width=30.53 height=25.90}
-
-</div>
+[[1,0]]
+![](./lecture_08_molecular_signaling/images/slide_29_img_41.png)
+[[1,1]]
+![](./lecture_08_molecular_signaling/images/slide_29_img_42.png)
+[[1,2]]
+![](./lecture_08_molecular_signaling/images/slide_29_img_43.png)
+[[1,3]]
+![](./lecture_08_molecular_signaling/images/slide_29_img_44.png)
+:::
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
+# Signal Transduction
 
 **Receptor signals are transduced inside the cell in one of three ways to initiate actions inside the cell:**
 
-</div>
-
-<div style="position: absolute; left: 16.07%; top: 20.32%; width: 80.35%; height: 73.64%;">
-
-**1. **Exchange of GDP for GTP by GTP-binding proteins (G proteins) on the cytoplasmic side of the plasma membrane, which leads to generation of second messengers, including cAMP, phospholipid breakdown products, and Ca2+.
-**2. **Receptor-mediated activation of phosphorylation cascades that in turn trigger activation of various enzymes. This is the action of the receptor tyrosine kinases. Protein kinases and protein phosphatases act as
+1. Exchange of GDP for GTP by GTP-binding proteins (G proteins) on the cytoplasmic side of the plasma membrane, which leads to generation of second messengers, including cAMP, phospholipid breakdown products, and Ca2+.
+2. Receptor-mediated activation of phosphorylation cascades that in turn trigger activation of various enzymes. This is the action of the receptor tyrosine kinases. Protein kinases and protein phosphatases act as
 effectors.
-**3. **Conformation changes that open ion channels or recruit proteins into nuclear transcription complexes.
-
-</div>
-
-</div>
+3. Conformation changes that open ion channels or recruit proteins into nuclear transcription complexes.
 
