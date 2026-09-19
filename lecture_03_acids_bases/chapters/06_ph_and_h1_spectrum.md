@@ -4,57 +4,58 @@ pH in Analysis
 [[subcaption]]
 $\ce{^1H}$ NMR Spectrum Reveals Acidic Protons
 :::
----
-
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-The same -OH shows very different chemical shifts depending on the functional group
-
-</div>
-
-![](./lecture_03_acids_bases/images/slide_56_img_95.png) {left=32.86 top=15.70 width=46.77 height=24.44}
-
-<div style="position: absolute; left: 17.51%; top: 43.45%; width: 81.31%; height: 46.86%;">
-
-This is a matter of acidity. The more acidic a proton is—that is, the more
-easily it releases H+ —the more the OH bond is polarized towards oxygen. 
-
-The more the RO–H bond is polarized, the closer we are to free H+, which would have no shielding electrons at all, and so the further the proton goes downfield. The OH chemical shifts and the acidity of the OH group are very roughly related.
-
-You can even try getting pKa from H1 spectrum: <u>https://www.sciencedirect.com/science/article/abs/pii/S0731708513005992</u>
-
-</div>
-
-</div>
 
 ---
+# Chemical Shifts of $\ce{-OH}$ Protons
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+The same $\ce{-OH}$ shows very different chemical shifts depending on the functional group
 
-<div style="position: absolute; left: 16.07%; top: -0.00%; width: 80.35%; height: 7.91%;">
+| Functional group | Alcohol<br>$\ce{ROH}$ | Phenol<br>$\ce{ArOH}$ | Carboxylic acid<br>$\ce{RCO2H}$ |
+| --- | --- | --- | --- |
+| p$K_\text{a}$ | 16 | 10 | 5 |
+| $\delta_\text{H}(\text{OH})$, p.p.m. | 2.0 | 5.0 | >10 |
 
-Chemical shifts in -OH protons
+This is a matter of acidity. The more acidic a proton is— that is, the more easily it releases $\ce{H+}$— the more the $\ce{OH}$ bond is polarized towards oxygen.
 
-</div>
+The more the $\ce{RO-H}$ bond is polarized, the closer we are to free $\ce{H+}$, which would have no shielding electrons at all, and so the further the proton goes downfield. The $\ce{OH}$ chemical shifts and the acidity of the $\ce{OH}$ group are very roughly related.
 
-![](./lecture_03_acids_bases/images/slide_57_img_96.png) {left=16.07 top=6.54 width=71.98 height=26.85}
+![](./lecture_03_acids_bases/images/slide_57_img_96.png){width=80}
 
-![](./lecture_03_acids_bases/images/slide_57_img_97.png) {left=16.07 top=63.84 width=75.85 height=29.56}
 
-<div style="position: absolute; left: 17.33%; top: 38.49%; width: 81.50%; height: 26.85%;">
+You can even try getting p$K_\text{a}$ from H1 spectrum:
+[Bezençon, J., et.al. "p$K_\text{a}$ determination by $^1$H NMR spectroscopy – An old methodology revisited"](https://www.sciencedirect.com/science/article/abs/pii/S0731708513005992)
 
-Amines and amides show a big variation, as you would expect for the variety of functional groups involved, and are summarized below. Amides are slightly acidic and amide protons resonate at quite low fields. Pyrroles are special—the aromaticity of the ring makes the NH proton unusually acidic and they appear at about 10 p.p.m.
+---
+# Chemical Shifts of $\ce{-NH}$ Protons
 
-</div>
+Amines and amides show a big variation, as you would expect for the variety of functional groups involved, and are summarized below. 
 
-<div style="position: absolute; left: 16.07%; top: 92.09%; width: 75.85%; height: 7.91%;">
+| Functional group | Alkyl amine<br>$\ce{Alkyl-NH2}$ | Aryl amine<br>$\ce{Aryl-NH2}$ | Primary amide<br>$\ce{RCONH2}$ | Sec. alkyl amide<br>$\ce{RCONH-Alkyl}$ | Sec. aryl amide<br>$\ce{RCONH-Aryl}$ | Pyrrole |
+| --- | --- | --- | --- | --- | --- | --- |
+| p$K_\text{a}$ | ~35–40 | ~27–30 | ~15–17 | ~16–17 | ~13–14 | 16.5 |
+| $\delta_\text{NH}$, p.p.m. | ~3 | ~6 | ~5 | ~7 | ~10 | ~10 |
 
-Amines                                   Amides                                    Pyrrol
+Amides are slightly acidic and amide protons resonate at quite low fields. 
+Pyrroles are special— the aromaticity of the ring makes the $\ce{NH}$ proton unusually acidic and they appear at about $10$ p.p.m.
 
-</div>
+:::matrix{cols="30/55/10" gap="30px"}
+[[0,0:3]]
+![](./lecture_03_acids_bases/images/slide_57_img_97.png){width=100}
+[[1,0]] 
+![line](0 0 -> 100 0){color=green width=4px} 
 
-</div>
+## Amines
+
+[[1,1]] 
+![line](0 0 -> 100 0){color=green width=4px} 
+
+## Amides
+
+[[1,2]] 
+![line](0 0 -> 100 0){color=green width=4px} 
+
+## Pyrrole
+
+:::
+
 

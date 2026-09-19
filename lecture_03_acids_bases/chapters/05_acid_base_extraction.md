@@ -4,41 +4,40 @@ pH in Chemistry
 [[subcaption]]
 Acid-Base extraction
 :::
----
-
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Charged compounds can be separated by acid–base extraction
-
-</div>
-
-![](./lecture_03_acids_bases/images/slide_52_img_93.png) {left=16.89 top=20.32 width=83.96 height=63.89}
-
-</div>
 
 ---
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+# Acid-Base Extraction
 
-![](./lecture_03_acids_bases/images/slide_53_img_94.png) {left=20.67 top=20.81 width=79.33 height=58.38}
+**Charged compounds can be separated by acid–base extraction**
 
-</div>
+:::matrix{cols="50/50"}
+[[0,0]]
+For a neutral weak organic acid $\ce{HA}$
+$$
+\ce{HA(aq) + H2O <=> H3O+(aq) + A-(aq)}
+$$
+* Anionic $\ce{A-}$ is more soluble **in water** than the neutral acid $\ce{HA}$
+* Neutral acid $\ce{HA}$ is more soluble **in organic solvents** than anionic $\ce{A-}$
+[[0,1]]
+For a neutral weak organic base $\ce{B}$
+$$
+\ce{HB+(aq) + H2O <=> H3O+(aq) + B(aq)}
+$$
+* The cationic acid $\ce{HB+}$ is more soluble **in water** than the neutral conjugate base $\ce{B}$
+* The neutral conjugate base, $\ce{B}$ is more soluble **in organic solvents** than the cationic acid $\ce{HB+}$
+:::
+
+Separating a mixture of benzoic acid ($\ce{PhCO2H}$) and toluene ($\ce{PhMe}$) is easy: dissolve the mixture in $\ce{CH2Cl2}$, add aqueous $\ce{NaOH}$, shake the mixture of solutions, and separate the layers. The $\ce{CH2Cl2}$ layer contains all the toluene. The aqueous layer contains the sodium salt of benzoic acid. Addition of $\ce{HCl}$ to the aqueous layer precipitates the insoluble benzoic acid.
+
+![](./lecture_03_acids_bases/images/slide_53_img_94.png){width=80}
+
+In the same way, any basic compounds dissolved in an organic layer could be extracted by washing the layer with dilute aqueous acid and recovered by raising the pH, which will precipitate out the less soluble neutral compound.
 
 ---
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 19.84%;">
+# Lab Technique
 
 A bit different reaction, but same idea. Note how separatory funnel is used. Green substance is food coloring added to make separation better visible.
 
-</div>
-
-![youtube](http://www.youtube.com/watch?v=wLtbfQcvwMk&t=147) {left=20.03 top=25.26 width=72.43 height=72.43}
-
-</div>
-
+![youtube](dKD89rgOQLY) {left=10 width=80 start=147}
 
