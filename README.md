@@ -19,8 +19,7 @@
 
 ### 3. Acids, Bases, Buffers, and pH in Biology
 * Lecture
-  - [Presentation (Google Slides)](https://docs.google.com/presentation/d/1EYppIPuivRiutKh0c1DFGEoffgdORFrI1XIX63AWz7U/edit?usp=sharing)
-  - [UNDER DEVELOPMENT (my engine)](https://fbeilstein.github.io/bio_organic_chemistry/lecture_03_acids_bases.html)
+  - [Presentation](https://fbeilstein.github.io/bio_organic_chemistry/lecture_03_acids_bases.html) 
 * Videos
   - [Part A](https://youtu.be/Xg2YT8dpunY)
   - [Part B](https://youtu.be/fU7Z2kVVY4Y)
@@ -132,3 +131,7 @@
 * Videos
   - [Part A](https://youtu.be/8K2TcaBmt1o)
   - [Part B](https://youtu.be/_G7lNVlgOsY)
+
+
+## Outdated Presentations (Google Slides) 
+  - [Lecture 3. Acids, Bases, Buffers, and pH in Biology](https://docs.google.com/presentation/d/1EYppIPuivRiutKh0c1DFGEoffgdORFrI1XIX63AWz7U/edit?usp=sharing)
