@@ -78,7 +78,7 @@ $$
 K_{a2} = \frac{[\ce{HPO3^{2-}}][\ce{H+}]}{\ce{H2PO3-}}
 $$
 [[0,1]]
-![](./lecture_03_acids_bases/images/slide_47_img_86.png){width=100}
+![](./lecture_03_acids_bases/images/slide_47_img_86.png){width=98}
 :::
 
 
