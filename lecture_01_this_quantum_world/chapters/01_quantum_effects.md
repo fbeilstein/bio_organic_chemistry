@@ -173,6 +173,5 @@ Notice the violet-bluish tint.
 ---
 # Photon Spin
 
-<iframe src="./lecture_01_this_quantum_world/demos/three_polarizers.html" style="width: 100%; height: 65vh; border: 1px solid #666; border-radius: 8px; margin-bottom: 0px;"></iframe>
+<iframe src="./lecture_01_this_quantum_world/demos/three_polarizers.html" style="width: 100%; height: 750px; border: 1px solid #666; border-radius: 8px; margin-bottom: 0px;"></iframe>
 
----

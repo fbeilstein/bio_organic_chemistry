@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Atomic Orbitals</title>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: transparent;
+            color: #fff;
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        #controls {
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        button {
+            padding: 8px 16px;
+            cursor: pointer;
+            background: #444;
+            color: #fff;
+            border: 1px solid #666;
+            border-radius: 4px;
+        }
+        button:hover {
+            background: #666;
+        }
+        button.active {
+            background: #007bff;
+            border-color: #0056b3;
+        }
+        #plot {
+            flex-grow: 1;
+            width: 100%;
+        }
+        .light-theme {
+            color: #333;
+        }
+        .light-theme #controls {
+            background: rgba(255, 255, 255, 0.8);
+        }
+        .light-theme button {
+            background: #e0e0e0;
+            color: #333;
+            border: 1px solid #ccc;
+        }
+        .light-theme button:hover {
+            background: #d0d0d0;
+        }
+        .light-theme button.active {
+            background: #007bff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="controls">
+        <button onclick="drawOrbital('s')" class="active" id="btn-s">s</button>
+        <button onclick="drawOrbital('px')" id="btn-px">p_x</button>
+        <button onclick="drawOrbital('py')" id="btn-py">p_y</button>
+        <button onclick="drawOrbital('pz')" id="btn-pz">p_z</button>
+        <button onclick="drawOrbital('dz2')" id="btn-dz2">d_z²</button>
+        <button onclick="drawOrbital('dxz')" id="btn-dxz">d_xz</button>
+        <button onclick="drawOrbital('dyz')" id="btn-dyz">d_yz</button>
+        <button onclick="drawOrbital('dxy')" id="btn-dxy">d_xy</button>
+        <button onclick="drawOrbital('dx2y2')" id="btn-dx2y2">d_x²-y²</button>
+    </div>
+    <div id="plot"></div>
+
+    <script>
+        const resolution = 80;
+        let currentTheme = 'dark';
+        
+        // Listen for theme changes from parent if inside iframe
+        window.addEventListener('message', function(event) {
+            if (event.data && event.data.theme) {
+                currentTheme = event.data.theme;
+                if (currentTheme === 'light') {
+                    document.body.classList.add('light-theme');
+                } else {
+                    document.body.classList.remove('light-theme');
+                }
+                // Redraw to update plot colors
+                const activeBtn = document.querySelector('button.active');
+                if(activeBtn) {
+                    activeBtn.click();
+                }
+            }
+        });
+
+        function sphericalHarmonic(type, theta, phi) {
+            let Y = 0;
+            switch (type) {
+                case 's':
+                    Y = 1;
+                    break;
+                case 'pz':
+                    Y = Math.cos(theta);
+                    break;
+                case 'px':
+                    Y = Math.sin(theta) * Math.cos(phi);
+                    break;
+                case 'py':
+                    Y = Math.sin(theta) * Math.sin(phi);
+                    break;
+                case 'dz2':
+                    Y = 3 * Math.cos(theta) * Math.cos(theta) - 1;
+                    break;
+                case 'dxz':
+                    Y = Math.sin(theta) * Math.cos(theta) * Math.cos(phi);
+                    break;
+                case 'dyz':
+                    Y = Math.sin(theta) * Math.cos(theta) * Math.sin(phi);
+                    break;
+                case 'dxy':
+                    Y = Math.sin(theta) * Math.sin(theta) * Math.sin(2 * phi);
+                    break;
+                case 'dx2y2':
+                    Y = Math.sin(theta) * Math.sin(theta) * Math.cos(2 * phi);
+                    break;
+            }
+            return Y;
+        }
+
+        function generateOrbitalData(type) {
+            let x = [], y = [], z = [], customdata = [];
+            
+            for (let i = 0; i <= resolution; i++) {
+                let theta = (i * Math.PI) / resolution;
+                let x_row = [], y_row = [], z_row = [], c_row = [];
+                for (let j = 0; j <= resolution; j++) {
+                    let phi = (j * 2 * Math.PI) / resolution;
+                    
+                    let Y = sphericalHarmonic(type, theta, phi);
+                    let r = Math.abs(Y);
+                    let phase = Y >= 0 ? 1 : -1;
+                    
+                    x_row.push(r * Math.sin(theta) * Math.cos(phi));
+                    y_row.push(r * Math.sin(theta) * Math.sin(phi));
+                    z_row.push(r * Math.cos(theta));
+                    c_row.push(phase);
+                }
+                x.push(x_row);
+                y.push(y_row);
+                z.push(z_row);
+                customdata.push(c_row);
+            }
+            return { x, y, z, customdata };
+        }
+
+        function drawOrbital(type) {
+            document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+            document.getElementById('btn-' + type).classList.add('active');
+
+            const dataObj = generateOrbitalData(type);
+            
+            const data = [{
+                x: dataObj.x,
+                y: dataObj.y,
+                z: dataObj.z,
+                surfacecolor: dataObj.customdata,
+                type: 'surface',
+                colorscale: [[0, 'rgb(255, 0, 0)'], [1, 'rgb(0, 0, 255)']], // Red for negative, Blue for positive
+                cmin: -1,
+                cmax: 1,
+                showscale: false,
+                lighting: {
+                    ambient: 0.6,
+                    diffuse: 0.8,
+                    specular: 0.5,
+                    roughness: 0.5,
+                    fresnel: 0.2
+                },
+                lightposition: { x: 100, y: 100, z: 100 }
+            }];
+
+            const fontColor = currentTheme === 'light' ? '#333' : '#fff';
+            const bgColor = 'transparent';
+            const gridColor = currentTheme === 'light' ? '#ddd' : '#444';
+            const zeroLineColor = currentTheme === 'light' ? '#aaa' : '#888';
+
+            const axisTemplate = {
+                showbackground: false,
+                gridcolor: gridColor,
+                zerolinecolor: zeroLineColor,
+                color: fontColor,
+                title: ''
+            };
+
+            const layout = {
+                autosize: true,
+                margin: { l: 0, r: 0, b: 0, t: 0 },
+                paper_bgcolor: bgColor,
+                scene: {
+                    xaxis: axisTemplate,
+                    yaxis: axisTemplate,
+                    zaxis: axisTemplate,
+                    camera: {
+                        eye: { x: 1.5, y: 1.5, z: 1.5 }
+                    },
+                    aspectratio: { x: 1, y: 1, z: 1 }
+                }
+            };
+
+            Plotly.newPlot('plot', data, layout, {responsive: true, displayModeBar: false});
+        }
+
+        // Initial draw
+        drawOrbital('s');
+    </script>
+</body>
+</html>
