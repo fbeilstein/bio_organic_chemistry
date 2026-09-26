@@ -19,7 +19,7 @@ Different values for $n$ divide orbitals into groups of similar energies called 
 ![](./lecture_01_this_quantum_world/images/slide_27_img_24.png){width=78}
 [[0,1]] 
 ![](./lecture_01_this_quantum_world/images/slide_26_img_21.png){width=75}
-![](./lecture_01_this_quantum_world/images/slide_26_img_23.png){width=85}
+![](./lecture_01_this_quantum_world/images/slide_26_img_23.png){width=84}
 :::
 
 ---
@@ -96,7 +96,7 @@ pies each with spins parallel until all orbitals are half-full
 [[3,0]]{text-align: center;}
 **Boron (5)**
 [[0,1]]
-![](./lecture_01_this_quantum_world/images/slide_32_img_36.png){width=55}
+![](./lecture_01_this_quantum_world/images/slide_32_img_36.png){width=54}
 [[1,1]]{text-align: center;}
 **Nitrogen (7) and Oxygen (8)**
 [[2,1]]

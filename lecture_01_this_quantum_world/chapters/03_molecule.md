@@ -57,9 +57,13 @@ There is an optimum distance between nuclei that leads to maximum stability. Cal
 ---
 # Inductive Effect
 
-:::matrix{cols=20/80}
+:::matrix{cols=30/70}
 [[0,0]]
 An **inductive effect** is simply the shifting of electrons in a $\sigma$ bond in response to the electronegativity of nearby atoms.
+:::molecule {width="100%" height=600px sidebar="collapsed" theme="auto"}
+Methanol: ./lecture_01_this_quantum_world/bundles/CH3OH.zip
+Methyllithium: ./lecture_01_this_quantum_world/bundles/LiCH3.zip
+::: 
 [[0,1]]
 ![](./lecture_01_this_quantum_world/images/slide_40_img_49.png){width=75}
 :::
@@ -137,7 +141,7 @@ Having similar energies is not the only criterion for good interaction between t
 [[0,0]] ![](./lecture_01_this_quantum_world/images/slide_48_img_60.png){width=100}
 [[0,1]] ![](./lecture_01_this_quantum_world/images/slide_49_img_61.png){width=100}
 :::molecule {width="100%" height="400px" sidebar="collapsed" theme="auto"}
-Methane: ./lecture_01_this_quantum_world/bundles/ch4.zip
+Methane: ./lecture_01_this_quantum_world/bundles/CH4.zip
 ::: 
 :::
 
