@@ -106,17 +106,12 @@ pies each with spins parallel until all orbitals are half-full
 :::
 
 ---
+# Periodic Table of Elements
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
-<div style="position: absolute; left: 21.30%; top: 4.70%; width: 62.78%; height: 85.81%;">
-
-<iframe src="./lecture_01_this_quantum_world/demos/periodic_table.html" width="100%" height="550px" style="border:1px solid #ccc; border-radius: 8px;"></iframe>
+<iframe src="./lecture_01_this_quantum_world/demos/periodic_table.html" width="100%" height="650px" style="border:1px solid #ccc; border-radius: 8px;"></iframe>
 
 
 **Valence electrons** are electrons in the outermost shell of an atom, and that can participate in the formation of a chemical bond if the outermost shell is not closed.
 
-</div>
-
-</div>
 

@@ -6,237 +6,137 @@ Where the Chemistry Starts
 :::
 
 ---
+# Keywords to Take a Note
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+* **Valence shell electron pair repulsion (VSEPR) theory** is a model used in chemistry to predict the geometry of individual molecules from the number of electron pairs surrounding their central atoms.
+The premise of VSEPR is that the valence electron pairs surrounding an atom tend to **repel** each other.
+The greater the repulsion, the higher in energy (less stable) the molecule is.
+**NOTE:** this is approximation as many other theories, don’t expect it to explain everything.
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
+* **A linear combination of atomic orbitals** or **LCAO** is a quantum superposition of atomic orbitals and a technique for calculating molecular orbitals in quantum chemistry.
 
-Keywords to take a note
-
-</div>
-
-<div style="position: absolute; left: 16.07%; top: 24.12%; width: 80.35%; height: 57.99%;">
-
-**Valence shell electron pair repulsion** (**VSEPR**) **theory**** **is a model used in chemistry to predict the geometry of individual molecules from the number of electron pairs surrounding their central atoms. The premise of VSEPR is that the valence electron pairs surrounding an atom tend to **repel** each other. The greater the repulsion, the higher in energy (less stable) the molecule is. NOTE: this is approximation as many other theories, don’t expect it to explain everything.
-**A linear combination of atomic orbitals** or **LCAO **is a quantum superposition of atomic orbitals and a technique for calculating molecular orbitals in quantum chemistry.
-
-</div>
-
-</div>
 
 ---
+# s-orbitals Interaction
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_36_img_38.png) {left=10.63 top=3.29 width=52.61 height=49.27}
-
-![](./lecture_01_this_quantum_world/images/slide_36_img_39.png) {left=64.62 top=-0.00 width=35.38 height=42.50}
-
-![](./lecture_01_this_quantum_world/images/slide_36_img_40.png) {left=12.78 top=56.61 width=44.62 height=41.52}
-
-![](./lecture_01_this_quantum_world/images/slide_36_img_41.png) {left=60.73 top=59.65 width=39.27 height=38.48}
-
-![](./lecture_01_this_quantum_world/images/slide_36_img_42.png) {left=65.30 top=40.67 width=27.88 height=18.66}
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]]
+![](./lecture_01_this_quantum_world/images/slide_36_img_38.png)
+![](./lecture_01_this_quantum_world/images/slide_36_img_40.png)
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_36_img_39.png){width=50}
+![](./lecture_01_this_quantum_world/images/slide_36_img_42.png){width=55}
+![](./lecture_01_this_quantum_world/images/slide_36_img_41.png){width=85}
+:::
 
 ---
+# Bond Length
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_37_img_43.png) {left=21.24 top=52.66 width=67.40 height=47.34}
-
-![](./lecture_01_this_quantum_world/images/slide_37_img_44.png) {left=18.77 top=3.27 width=34.60 height=46.73}
-
-<div style="position: absolute; left: 58.76%; top: 6.73%; width: 38.22%; height: 45.93%;">
-
-There is an optimum distance between nuclei that leads to maximum stability. Called the **bond length**, this distance is 74 pm in the H2 molecule. Every covalent bond has both a characteristic bond strength and bond length.
-
-</div>
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]]
+![](./lecture_01_this_quantum_world/images/slide_37_img_44.png){width=65}
+[[0,1]]
+There is an optimum distance between nuclei that leads to maximum stability. Called the **bond length**, this distance is 74 pm in the $\ce{H2}$ molecule. Every covalent bond has both a characteristic bond strength and bond length.
+:::
+![](./lecture_01_this_quantum_world/images/slide_37_img_43.png){width=70}
 
 ---
+# $\sigma$ and $\sigma^*$ orbitals from p orbitals
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_38_img_45.png) {left=16.57 top=0.00 width=46.25 height=29.29}
-
-![](./lecture_01_this_quantum_world/images/slide_38_img_46.png) {left=65.32 top=0.00 width=34.68 height=40.39}
-
-![](./lecture_01_this_quantum_world/images/slide_38_img_47.png) {left=17.23 top=42.80 width=81.52 height=53.69}
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_38_img_45.png){width=100}
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_38_img_46.png){width=70}
+:::
+![](./lecture_01_this_quantum_world/images/slide_38_img_47.png){width=80}
 
 ---
+# $\pi$ and $\pi^*$ orbitals from p orbitals
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_39_img_48.png) {left=18.54 top=3.15 width=81.46 height=93.70}
-
-</div>
+![](./lecture_01_this_quantum_world/images/slide_39_img_48.png){width=100}
 
 ---
+# Inductive Effect
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_40_img_49.png) {left=38.30 top=2.96 width=61.70 height=94.07}
-
-<div style="position: absolute; left: 18.07%; top: 9.20%; width: 17.88%; height: 87.84%;">
-
-An **inductive effect** is simply the shifting of electrons in a
-sigma bond in response to the electronegativity of nearby atoms.
-
-</div>
-
-</div>
+:::matrix{cols=20/80}
+[[0,0]]
+An **inductive effect** is simply the shifting of electrons in a $\sigma$ bond in response to the electronegativity of nearby atoms.
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_40_img_49.png){width=75}
+:::
 
 ---
+# Molecular Orbitals
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 30.98%;">
 
 Molecular orbitals are created from atomic orbitals. Think of them as a new coordinate system that allows expressing any quantum state. If you choose this system carefully, electrons would like to remain in a pure state (on coordinate axis),  not in a mixture of states.
 
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_41_img_50.png) {left=30.99 top=34.79 width=52.50 height=55.37}
-
-</div>
+![](./lecture_01_this_quantum_world/images/slide_41_img_50.png){width=100}
 
 ---
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
+# Mechanical Analogy (Resonance)
 
 Only orbitals with close energy levels can effectively interact.
 
-</div>
-
-
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-**Electronegativity.** The more electronegative an atom is, the more it
-attracts electrons. This can be understood in terms of energies of the AOs.
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_43_img_51.png) {left=16.07 top=21.91 width=51.47 height=60.45}
-
-![](./lecture_01_this_quantum_world/images/slide_43_img_52.png) {left=69.21 top=23.28 width=29.12 height=56.36}
-
-</div>
+:::matrix {cols="43/43" rows="100" height="80%" gap="14%"}
+[[0, 0]] ![gdrive](1qFuPLRLBP65DqDCrIX56OKuAHEdG3b3L){width=70% aspect="2/3"}
+[[0, 1]] ![gdrive](18zEr9m4eJdE0aSfYK2FVCZVEWJ2CTQoU){width=70% aspect="2/3"}
+:::
 
 ---
+# Electronegativity
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+The more electronegative an atom is, the more it attracts electrons. This can be understood in terms of energies of the AOs.
 
-![](./lecture_01_this_quantum_world/images/slide_44_img_53.png) {left=22.90 top=0.00 width=78.29 height=51.39}
+:::matrix{cols=60/40}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_43_img_51.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_43_img_52.png)
+:::
 
-<div style="position: absolute; left: 80.18%; top: 60.43%; width: 19.11%; height: 38.08%;">
+---
+# Electronegativity and Bonding
 
+:::matrix{cols=30/30/30 gap=50px}
+[[0,0:4]] ![](./lecture_01_this_quantum_world/images/slide_44_img_53.png){width=100}
+[[1,0]]
+Easiest to break into two radicals. Heterolytic fission also possible, can give $\ce{A+}$ and $\ce{B-}$, but also $\ce{A-}$ and $\ce{B+}$
+[[1,1]]
+Easiest to break in two ions $\ce{A+}$ and $\ce{B-}$,  but radicals are also possible
+[[1,2]]
 Compound exists as ions
-
-</div>
-
-<div style="position: absolute; left: 51.67%; top: 52.48%; width: 20.80%; height: 40.27%;">
-
-Easiest to break in two ions A+ and B-,  but radicals are also possible
-
-</div>
-
-<div style="position: absolute; left: 22.39%; top: 53.31%; width: 23.27%; height: 39.45%;">
-
-Easiest to break into two radicals. Heterolytic fission also possible, can give A+ and B-, but also A- and B+
-
-</div>
-
-</div>
+:::
 
 ---
+# Covalent and Ionic Bonds
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+The **continuum** in bonding from **covalent** to **ionic** is a result of an unequal distribution of bonding electrons between atoms. The symbol "lowercase Greek delta" means partial charge, either partial positive for the electron-poor atom or partial negative for the electron-rich atom.
 
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 36.89%;">
-
-The continuum in bonding from covalent to ionic is a result of an unequal distribution of bonding electrons between atoms. The symbol “lowercase Greek delta” means partial charge, either partial positive for the electron-poor atom or partial negative for the electron-rich atom.
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_45_img_54.png) {left=18.72 top=41.95 width=80.35 height=52.27}
-
-</div>
+![](./lecture_01_this_quantum_world/images/slide_45_img_54.png){width=100}
 
 ---
+# $\pi$ Bond and Electronegativity 
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=90/10}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_55.png){width=80}
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_56.png){width=80}
+[[1,1]] ![](./lecture_01_this_quantum_world/images/slide_46_img_57.png){width=100}
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_46_img_55.png) {left=19.05 top=4.84 width=63.50 height=25.69}
-
-![](./lecture_01_this_quantum_world/images/slide_46_img_56.png) {left=18.55 top=31.04 width=61.63 height=40.10}
-
-![](./lecture_01_this_quantum_world/images/slide_46_img_57.png) {left=84.88 top=42.70 width=10.77 height=14.61}
-
-<div style="position: absolute; left: 18.69%; top: 72.21%; width: 78.44%; height: 25.69%;">
-
-This C-O π bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a C=O double bond much stronger than a C=C double bond (bond strength for C=O, about 725–760 kJ/mol; for C=C, 600–625 kJ/mol: compare also a C–O single bond, 350–380 kJ/mol with a C–C single bond, 340–350 kJ/mol).
-
-</div>
-
-</div>
+This $\ce{C-O}$ $\pi$ bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a $\ce{C=O}$ double bond much stronger than a $\ce{C=C}$ double bond (bond strength for $\ce{C=O}$, about $725-760$ kJ/mol; for $\ce{C=C}$, $600-625$ kJ/mol: compare also a $\ce{C-O}$ single bond, $350-380$ kJ/mol with a $\ce{C-C}$ single bond, $340-350$ kJ/mol).
 
 ---
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
+# Orbitals Interaction
 
 Having similar energies is not the only criterion for good interaction between two atomic orbitals. It also matters how the orbitals overlap.
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_47_img_58.png) {left=35.21 top=21.39 width=42.07 height=35.32}
-
-![](./lecture_01_this_quantum_world/images/slide_47_img_59.png) {left=23.89 top=57.78 width=64.71 height=38.44}
-
-</div>
+![](./lecture_01_this_quantum_world/images/slide_47_img_58.png){width=45}
+![](./lecture_01_this_quantum_world/images/slide_47_img_59.png){width=85}
 
 ---
+# Hybridization of Atomic Orbitals
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Hybridization of atomic orbitals
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_48_img_60.png) {left=35.33 top=24.70 width=49.48 height=70.74}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 18.37%; top: 54.87%; width: 80.35%; height: 16.51%;">
-
-**Link:** <u>https://www.chemtube3d.com/orbitalshybrid/</u>
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_49_img_61.png) {left=16.62 top=3.19 width=80.57 height=50.00}
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_48_img_60.png){width=100}
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_49_img_61.png){width=100}
+:::
 
 ---
 
@@ -436,46 +336,27 @@ Blue or green polyenes are rare, and dyes of these colours rely on more elaborat
 </div>
 
 ---
+# Chlorogenic Acid Reaction
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_61_img_91.png) {left=-0.00 top=34.90 width=61.64 height=65.10}
-
-![](./lecture_01_this_quantum_world/images/slide_61_img_92.png) {left=63.23 top=0.00 width=36.77 height=52.99}
-
-<div style="position: absolute; left: 19.15%; top: 5.63%; width: 40.38%; height: 29.26%;">
-
-Source: Goro YABUTA et al, Structure of Green Pigment Formed by the Reaction of Caffeic Acid Esters (or Chlorogenic acid) with a Primary Amino Compound
-
-</div>
-
-<div style="position: absolute; left: 68.16%; top: 66.18%; width: 28.05%; height: 29.26%;">
-
-**Link:** https://www.tandfonline.com/doi/pdf/10.1271/bbb.65.2121
-
-</div>
-
-</div>
+:::matrix{cols=60/40}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_61_img_91.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_61_img_92.png)
+:::
+**Source:** [Goro YABUTA et al, Structure of Green Pigment Formed by the Reaction of Caffeic Acid Esters (or Chlorogenic acid) with a Primary Amino Compound](https://www.tandfonline.com/doi/pdf/10.1271/bbb.65.2121)
+![rect](82 22 8 5){fill=transparent color=red width=5}
 
 ---
+# Green Sunflower Seeds
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 70.10%; top: 83.81%; width: 29.90%; height: 13.33%;">
-
-Source: my FB account
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_62_img_93.png) {left=43.07 top=11.46 width=55.32 height=73.76}
-
-![](./lecture_01_this_quantum_world/images/slide_62_img_94.png) {left=17.57 top=1.98 width=20.25 height=38.72}
-
-![](./lecture_01_this_quantum_world/images/slide_62_img_95.png) {left=18.71 top=38.67 width=24.37 height=26.37}
-
-![](./lecture_01_this_quantum_world/images/slide_62_img_96.png) {left=26.48 top=65.05 width=7.04 height=34.05}
-
-</div>
+:::matrix{cols=30/70}
+[[0:4,1]] ![](./lecture_01_this_quantum_world/images/slide_62_img_93.png)
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_62_img_94.png)
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_62_img_95.png)
+[[2,0]] ![](./lecture_01_this_quantum_world/images/slide_62_img_96.png)
+:::
+![arrow](20 20 -> 40 50){width=4}
+![arrow](20 55 -> 40 55){width=4}
+![arrow](20 85 -> 40 60){width=4}
 
 ---
 
