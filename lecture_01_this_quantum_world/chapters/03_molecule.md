@@ -136,28 +136,28 @@ Having similar energies is not the only criterion for good interaction between t
 :::matrix{cols=50/50}
 [[0,0]] ![](./lecture_01_this_quantum_world/images/slide_48_img_60.png){width=100}
 [[0,1]] ![](./lecture_01_this_quantum_world/images/slide_49_img_61.png){width=100}
+:::molecule {width="100%" height="400px" sidebar="collapsed" theme="auto"}
+Methane: ./lecture_01_this_quantum_world/bundles/ch4.zip
+::: 
 :::
 
 ---
+# VSEPR
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_50_img_62.png) {left=48.83 top=0.00 width=51.17 height=100.00}
-
-![](./lecture_01_this_quantum_world/images/slide_50_img_63.png) {left=22.69 top=0.00 width=23.44 height=30.37}
-
-![](./lecture_01_this_quantum_world/images/slide_50_img_64.png) {left=22.32 top=31.93 width=24.17 height=30.00}
-
-![](./lecture_01_this_quantum_world/images/slide_50_img_65.png) {left=24.22 top=65.23 width=23.75 height=29.44}
-
-<div style="position: absolute; left: 72.46%; top: 14.95%; width: 27.54%; height: 15.42%;">
-
-**Build models here:**
- <u>https://app.molview.com/</u>
-
-</div>
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]]
+:::matrix{cols=33/33/33}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_50_img_63.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_50_img_64.png)
+[[0,2]] ![](./lecture_01_this_quantum_world/images/slide_50_img_65.png)
+:::
+:::molecule {width="100%" height=600px sidebar="collapsed" theme="auto"}
+Methane: ./lecture_01_this_quantum_world/bundles/CH4.zip
+Ammonia: ./lecture_01_this_quantum_world/bundles/NH3.zip
+Water:   ./lecture_01_this_quantum_world/bundles/H2O.zip
+::: 
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_50_img_62.png){width=95}
+:::
 
 ---
 
