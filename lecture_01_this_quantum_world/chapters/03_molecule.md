@@ -33,26 +33,53 @@ The greater the repulsion, the higher in energy (less stable) the molecule is.
 # Bond Length
 
 :::matrix{cols=50/50}
-[[0,0]]
-![](./lecture_01_this_quantum_world/images/slide_37_img_44.png){width=65}
-[[0,1]]
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_37_img_44.png){width=65}
+[[0:2,1]]
 There is an optimum distance between nuclei that leads to maximum stability. Called the **bond length**, this distance is 74 pm in the $\ce{H2}$ molecule. Every covalent bond has both a characteristic bond strength and bond length.
+:::molecule {width="100%" height=600px sidebar="collapsed" theme="auto"}
+Hydrogen: ./lecture_01_this_quantum_world/bundles/H2.zip
+::: 
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_37_img_43.png){width=100}
 :::
-![](./lecture_01_this_quantum_world/images/slide_37_img_43.png){width=70}
 
 ---
 # $\sigma$ and $\sigma^*$ orbitals from p orbitals
 
-:::matrix{cols=50/50}
+:::matrix{cols=55/45}
 [[0,0]] ![](./lecture_01_this_quantum_world/images/slide_38_img_45.png){width=100}
-[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_38_img_46.png){width=70}
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_38_img_46.png){width=65}
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_38_img_47.png){width=100}
+[[1,1]]
+:::molecule {width="100%" height=400px sidebar="collapsed" theme="auto"}
+Ethane: ./lecture_01_this_quantum_world/bundles/CH3-CH3.zip
+::: 
 :::
-![](./lecture_01_this_quantum_world/images/slide_38_img_47.png){width=80}
+
 
 ---
 # $\pi$ and $\pi^*$ orbitals from p orbitals
 
-![](./lecture_01_this_quantum_world/images/slide_39_img_48.png){width=100}
+:::matrix{cols=50/50}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_39_img_48.png){width=100}
+[[0,1]]
+:::molecule {width="100%" height=500px sidebar="collapsed" theme="auto"}
+Ethene: ./lecture_01_this_quantum_world/bundles/CH2=CH2.zip
+:::
+[[1,0]]
+**Molecular orbitals** are created from atomic orbitals. Think of them as a new coordinate system that allows expressing any quantum state. If you choose this system carefully, electrons would like to remain in a pure state (on coordinate axis),  not in a mixture of states.
+[[1,1]]
+![](./lecture_01_this_quantum_world/images/slide_41_img_50.png){width=65}
+:::
+
+---
+# Mechanical Analogy (Resonance)
+
+Only orbitals with close energy levels can effectively interact.
+
+:::matrix {cols="43/43" rows="100" height="80%" gap="14%"}
+[[0, 0]] ![gdrive](1qFuPLRLBP65DqDCrIX56OKuAHEdG3b3L){width=70% aspect="2/3"}
+[[0, 1]] ![gdrive](18zEr9m4eJdE0aSfYK2FVCZVEWJ2CTQoU){width=70% aspect="2/3"}
+:::
 
 ---
 # Inductive Effect
@@ -66,24 +93,6 @@ Methyllithium: ./lecture_01_this_quantum_world/bundles/LiCH3.zip
 ::: 
 [[0,1]]
 ![](./lecture_01_this_quantum_world/images/slide_40_img_49.png){width=75}
-:::
-
----
-# Molecular Orbitals
-
-
-Molecular orbitals are created from atomic orbitals. Think of them as a new coordinate system that allows expressing any quantum state. If you choose this system carefully, electrons would like to remain in a pure state (on coordinate axis),  not in a mixture of states.
-
-![](./lecture_01_this_quantum_world/images/slide_41_img_50.png){width=100}
-
----
-# Mechanical Analogy (Resonance)
-
-Only orbitals with close energy levels can effectively interact.
-
-:::matrix {cols="43/43" rows="100" height="80%" gap="14%"}
-[[0, 0]] ![gdrive](1qFuPLRLBP65DqDCrIX56OKuAHEdG3b3L){width=70% aspect="2/3"}
-[[0, 1]] ![gdrive](18zEr9m4eJdE0aSfYK2FVCZVEWJ2CTQoU){width=70% aspect="2/3"}
 :::
 
 ---
@@ -119,13 +128,27 @@ The **continuum** in bonding from **covalent** to **ionic** is a result of an un
 ---
 # $\pi$ Bond and Electronegativity 
 
-:::matrix{cols=90/10}
-[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_55.png){width=80}
-[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_56.png){width=80}
-[[1,1]] ![](./lecture_01_this_quantum_world/images/slide_46_img_57.png){width=100}
+:::matrix{cols=70/30}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_55.png){width=100}
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_56.png){width=100}
+[[0:2,1]] 
+:::molecule {width="100%" height=400px sidebar="collapsed" theme="auto"}
+Ethene: ./lecture_01_this_quantum_world/bundles/CH2=CH2.zip
+Formaldehyde: ./lecture_01_this_quantum_world/bundles/CH2=O.zip
+::: 
+:::matrix{cols=40/60}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_46_img_57.png){width=100 left=0}
+[[0,1]]{.smaller-table}
+bond|strength, kJ/mol
+---|---
+$\ce{C-O}$ | $350-380$
+$\ce{C-C}$ | $340-350$
+$\ce{C=O}$ | $725-760$
+$\ce{C=C}$ | $600-625$
+:::
 :::
 
-This $\ce{C-O}$ $\pi$ bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a $\ce{C=O}$ double bond much stronger than a $\ce{C=C}$ double bond (bond strength for $\ce{C=O}$, about $725-760$ kJ/mol; for $\ce{C=C}$, $600-625$ kJ/mol: compare also a $\ce{C-O}$ single bond, $350-380$ kJ/mol with a $\ce{C-C}$ single bond, $340-350$ kJ/mol).
+This $\ce{C-O}$ $\pi$ bond is covalent but there is also some electrostatic contribution to its bond strength. This electrostatic interaction actually makes a $\ce{C=O}$ double bond much stronger than a $\ce{C=C}$ double bond.
 
 ---
 # Orbitals Interaction
