@@ -185,40 +185,44 @@ Water:   ./lecture_01_this_quantum_world/bundles/H2O.zip
 ::: 
 [[0,1]] ![](./lecture_01_this_quantum_world/images/slide_50_img_62.png){width=95}
 :::
+![text](10 32 Differs from textbook! [see next slide] ){color=red}
 
 ---
+# Note on VSEPR
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+There is the ongoing debate:
 
-![](./lecture_01_this_quantum_world/images/slide_51_img_66.png) {left=17.08 top=1.87 width=53.02 height=59.63}
-
-![](./lecture_01_this_quantum_world/images/slide_51_img_67.png) {left=18.77 top=69.04 width=76.70 height=30.96}
-
-![](./lecture_01_this_quantum_world/images/slide_51_img_68.png) {left=71.15 top=1.87 width=26.15 height=30.19}
-
-<div style="position: absolute; left: 73.55%; top: 36.87%; width: 23.74%; height: 30.18%;">
-
-**Link: **<u>https://www.chemtube3d.com/orbitalsethene/</u>
-
-</div>
-
-</div>
+textbooks draw equivalent "rabbit-ear" hybrid orbitals (e.g. for $\ce{H2O}$), but calculated orbitals look different (though rabbit-ears can be obtained by linear transformation).
+Photoelectron spectroscopy detects distinct ionization energies.
+* Laing, M. (1987), "No Rabbit Ears on Water" https://doi.org/10.1021/ed064p124
+* Grushow, A. (2011), "Is It Time To Retire the Hybrid Atomic Orbital?" https://doi.org/10.1021/ed100155c
+* Landis & Weinhold (2012), "Comments on "Is It Time To Retire the Hybrid Atomic Orbital?"" https://doi.org/10.1021/ed200491q
 
 ---
+# sp$^2$ Hybridization
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=60/40}
+[[0,0]]
+![](./lecture_01_this_quantum_world/images/slide_51_img_66.png){width=90}
+![](./lecture_01_this_quantum_world/images/slide_51_img_67.png){width=100}
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_51_img_68.png){width=70}
+:::molecule {width="100%" height=450px sidebar="collapsed" theme="auto"}
+Ethene: ./lecture_01_this_quantum_world/bundles/CH2=CH2.zip
+:::
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_52_img_69.png) {left=19.54 top=40.60 width=41.07 height=61.36}
+---
+# sp$^3$ Hybridization
 
-![](./lecture_01_this_quantum_world/images/slide_52_img_70.png) {left=18.14 top=5.84 width=67.23 height=36.14}
-
-<div style="position: absolute; left: 66.16%; top: 48.37%; width: 28.36%; height: 47.12%;">
-
-**Link: **<u>https://www.chemtube3d.com/orbitalsacetylene/</u>
-
-</div>
-
-</div>
+![](./lecture_01_this_quantum_world/images/slide_52_img_70.png){width=60}
+:::matrix{cols=60/40}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_52_img_69.png){width=68}
+[[0,1]]
+:::molecule {width="100%" height=450px sidebar="collapsed" theme="auto"}
+Ethene: ./lecture_01_this_quantum_world/bundles/acetylene.zip
+:::
+:::
 
 ---
 
