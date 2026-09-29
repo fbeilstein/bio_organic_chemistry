@@ -225,34 +225,46 @@ Ethene: ./lecture_01_this_quantum_world/bundles/acetylene.zip
 :::
 
 ---
+# Hybridization Examples
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=50/50}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_53_img_71.png){width=70}
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_53_img_73.png){width=70}
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_53_img_72.png){width=70}
+[[1,1]] ![](./lecture_01_this_quantum_world/images/slide_53_img_74.png){width=70}
+[[2,0]] ![](./lecture_01_this_quantum_world/images/slide_53_img_75.png){width=60}
+[[2,1]] ![](./lecture_01_this_quantum_world/images/slide_53_img_76.png){width=70}
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_71.png) {left=16.60 top=1.14 width=45.79 height=30.58}
+:::react{7 13.3 36 24.1 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Formaldehyde": "./lecture_01_this_quantum_world/bundles/CH2=O.zip"});
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_72.png) {left=16.60 top=31.71 width=35.38 height=34.13}
+:::react{7 39.1 36 33.5 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Tetramethylethylene": "./lecture_01_this_quantum_world/bundles/tetramethylethylene.zip"});
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_73.png) {left=66.10 top=3.36 width=33.90 height=28.35}
+:::react{57 41.3 36 29.7 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Acetone": "./lecture_01_this_quantum_world/bundles/acetone.zip"});
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_74.png) {left=54.83 top=33.68 width=40.33 height=33.39}
+:::react{7 74.8 36 24.1 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Acetone": "./lecture_01_this_quantum_world/bundles/acetone.zip"});
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_75.png) {left=17.85 top=70.50 width=29.76 height=29.50}
+:::react{57 9.1 36 30.8 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"$N$-methylpropan-2-imine": "./lecture_01_this_quantum_world/bundles/acetone_methylimine.zip"});
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_53_img_76.png) {left=48.33 top=71.01 width=51.67 height=28.99}
-
-<div style="position: absolute; left: 20.61%; top: 73.69%; width: 4.92%; height: 6.59%;">
-
-2
-
-</div>
-
-<div style="position: absolute; left: 20.08%; top: 77.22%; width: 4.13%; height: 7.18%;">
-
-3
-
-</div>
-
-</div>
+:::react{57 75.9 36 23.3 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Acetaldehyde imine": "./lecture_01_this_quantum_world/bundles/acetaldimine.zip"});
+:::
 
 ---
 
