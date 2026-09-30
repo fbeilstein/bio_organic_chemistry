@@ -208,14 +208,13 @@ Outdated lock-and-key model of enzyme–substrate binding.
 :::
 
 ---
-
 # Additional Strategies
 
 In addition to the strategy involving binding energy, enzymes commonly employ one or more of the following four additional strategies to catalyze specific reactions:
 
 1. **Covalent Catalysis.** In covalent catalysis, the active site contains a reactive group, usually a powerful nucleophile, that becomes temporarily covalently attached to a part of the substrate in the course of catalysis.
 
-2. **General Acid–Base Catalysis.** In general acid–base catalysis, a molecule other than water plays the role of a proton donor or acceptor.
+2. **General Acid–Base Catalysis.** A molecule other than water plays the role of a proton donor or acceptor.
 
 3. **Catalysis by Approximation.** Many reactions have two distinct substrates, including four classes of hydrolases. In such cases, the reaction rate may be considerably enhanced by bringing the two substrates together along a single binding surface on an enzyme.
 

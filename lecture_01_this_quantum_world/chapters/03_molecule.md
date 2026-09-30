@@ -267,115 +267,86 @@ el.onclick = () => window.openMoleculePopup({
 :::
 
 ---
+# Which Bonds Are Interesting
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_54_img_77.png) {left=44.67 top=0.00 width=55.33 height=100.00}
-
-![](./lecture_01_this_quantum_world/images/slide_54_img_78.png) {left=22.32 top=43.24 width=14.37 height=13.52}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 1.62%; width: 80.35%; height: 16.51%;">
-
-Why do we care about orbitals?
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_55_img_79.png) {left=16.07 top=14.51 width=28.02 height=39.63}
-
-![](./lecture_01_this_quantum_world/images/slide_55_img_80.png) {left=41.96 top=68.29 width=58.04 height=31.71}
-
-<div style="position: absolute; left: 43.04%; top: 16.59%; width: 40.22%; height: 18.63%;">
-
-This collision creates a new bond
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_55_img_81.png) {left=61.65 top=27.00 width=36.77 height=34.34}
-
-<div style="position: absolute; left: 18.85%; top: 62.07%; width: 17.88%; height: 14.52%;">
-
-These collisions do not
-
-</div>
-
-</div>
+:::matrix{cols=50/50}
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_54_img_77.png){width=100}
+[[0,0]]
+<div style="text-align: center; font-size: 2em;">$\ce{N#N}$</div>
+:::molecule {width="100%" height=600px sidebar="collapsed" theme="auto"}
+$\ce{N#N}$: ./lecture_01_this_quantum_world/bundles/azote.zip
+:::
+:::
 
 ---
+# Why Do We Care About Orbitals?
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=30/70}
+[[0,0]]
+## For a reaction to take place, molecules must:
+* overcome their electronic repulsion by charge attraction and/or orbital overlap
+* have orbitals of appropriate energy to interact—a filled orbital on the nucleophile and an empty orbital on the electrophile
+* approach each other such that these orbitals can overlap to form a bonding interaction.
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_56_img_83.png)
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_56_img_82.png) {left=20.08 top=24.21 width=78.23 height=31.78}
-
-![](./lecture_01_this_quantum_world/images/slide_56_img_83.png) {left=22.98 top=61.98 width=75.32 height=38.02}
-
-<div style="position: absolute; left: 21.16%; top: 6.18%; width: 71.35%; height: 13.97%;">
-
-In the future we will study mechanisms of reactions
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_57_img_84.png) {left=18.14 top=12.69 width=41.73 height=87.31}
-
-![](./lecture_01_this_quantum_world/images/slide_57_img_85.png) {left=59.87 top=24.43 width=39.49 height=75.57}
-
-<div style="position: absolute; left: 16.22%; top: -0.00%; width: 80.35%; height: 12.69%;">
-
-Conjugated bonds
-
-</div>
-
-</div>
+:::matrix{cols=50/50}
+[[0,0]] ## This collision creates a new bond
+[[0,1]] ## These collisions do not
+[[1,0]]
+:::matrix{cols=30/70}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_55_img_79.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_55_img_81.png)
+:::
+[[1,1]] ![](./lecture_01_this_quantum_world/images/slide_55_img_80.png)
+:::
 
 ---
+# Conjugated Bonds
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=33/33/33}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_57_img_84.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/slide_57_img_85.png)
+[[0,2]] ![](./lecture_01_this_quantum_world/images/slide_58_img_86.png)
+:::
 
-![](./lecture_01_this_quantum_world/images/slide_58_img_86.png) {left=17.23 top=7.84 width=33.44 height=85.69}
-
-![](./lecture_01_this_quantum_world/images/slide_58_img_87.png) {left=52.61 top=0.00 width=36.78 height=99.98}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Natural Pigments (see what’s common?)
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_59_img_88.png) {left=17.23 top=20.96 width=65.13 height=74.57}
-
-</div>
+<button 
+  onclick="window.openMoleculePopup({
+    'Butadiene': './lecture_01_this_quantum_world/bundles/butadiene.zip',
+    'Ethene': './lecture_01_this_quantum_world/bundles/CH2=CH2.zip'
+  })" 
+  style="padding: 10px 20px; font-size: 0.8em; cursor: pointer; border-radius: 8px;">
+  Show 3D Structure
+</button>
 
 ---
+# Natural Pigments (see what’s common?)
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=50/50}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_59_img_88.png)
+[[0,1]]{.dense}
+**Approximate wavelengths for different colours**
 
-![](./lecture_01_this_quantum_world/images/slide_60_img_89.png) {left=18.26 top=36.32 width=60.86 height=58.55}
+| Absorbed frequency, nm | Colour absorbed | Colour transmitted | $\ce{R(CH=CH)}_n\text{R}, n =$ |
+| --- | --- | --- | --- |
+| 200–400 | ultraviolet | — | < 8 |
+| 400 | violet | yellow-green | 8 |
+| 425 | indigo-blue | yellow | 9 |
+| 450 | blue | orange | 10 |
+| 490 | blue-green | red | 11 |
+| 510 | green | purple |  |
+| 530 | yellow-green | violet |  |
+| 550 | yellow | indigo-blue |  |
+| 590 | orange | blue |  |
+| 640 | red | blue-green |  |
+| 730 | purple | green |  |
+:::
+![](./lecture_01_this_quantum_world/images/slide_60_img_90.png){width=90}
 
-![](./lecture_01_this_quantum_world/images/slide_60_img_90.png) {left=18.26 top=1.87 width=77.07 height=30.39}
-
-<div style="position: absolute; left: 63.23%; top: 70.57%; width: 32.10%; height: 19.45%;">
-
-Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.
-
-</div>
-
+<div style="position: absolute; width: 20%; left: 82%; top:42% ">
+  
+> **Blue or green polyenes are rare, and dyes of these colours rely on more elaborate conjugated systems.**
 </div>
 
 ---
