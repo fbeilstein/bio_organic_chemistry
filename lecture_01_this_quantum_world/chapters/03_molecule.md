@@ -373,80 +373,48 @@ $\ce{N#N}$: ./lecture_01_this_quantum_world/bundles/azote.zip
 ![arrow](20 85 -> 40 60){width=4}
 
 ---
+# Aromaticity
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Aromaticity
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_63_img_97.png) {left=20.47 top=18.25 width=61.41 height=78.51}
-
-<div style="position: absolute; left: 14.99%; top: 81.80%; width: 16.18%; height: 9.89%;">
-
-96 kJ/mol
-
-</div>
-
-<div style="position: absolute; left: 42.54%; top: 43.01%; width: 17.26%; height: 9.89%;">
-
-410 kJ/mol
-
-</div>
-
-<div style="position: absolute; left: 42.47%; top: 80.45%; width: 15.07%; height: 8.22%;">
-
-120 kJ/mol
-
-</div>
-
-<div style="position: absolute; left: 69.39%; top: 79.90%; width: 15.07%; height: 6.30%;">
-
-208 kJ/mol
-
-</div>
-
-<div style="position: absolute; left: 78.32%; top: 53.97%; width: 18.71%; height: 21.56%;">
-
-heat of hydrogenation
-
-</div>
-
-</div>
+:::matrix{cols=31/72}
+[[0,0]]
+* Difference in energy between saturated and unsaturated hydrocarbons characterize double bonds energy. 
+* Difference between cyclooctene and cyclooctane $96$ kJ/mol.
+* If we treat that energy as a double bond energy, we can expect cifference between cyclooctatetraene and cyclooctane $4 \times 96 = 384$ kJ/mol. It is $410$ kJ/mol, that is reasonably close.
+* Difference between cyclohexene and cyclohexane $120$ kJ/mol.
+* If we treat that energy as a double bond energy, we can expect cifference between cyclohexatriene and cyclohexane $3 \times 120 = 360$ kJ/mol. It is $208$ kJ/mol, that is not even close.
+* The difference $360\text{ kJ}/\text{mol} - 208\text{ kJ}/\text{mol} =$ $152\text{ kJ}/\text{mol}$ has to be explained.
+* It is stabilization energy of benzene.
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_63_img_97.png){width=100}
+![text](9 81 $96$ kJ/mol)
+![text](46 77 $120$ kJ/mol)
+![text](36 47 $410$ kJ/mol)
+![text](74 75 $208$ kJ/mol)
+:::
 
 ---
+# Benzene has six $\pi$ molecular orbitals
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+:::matrix{cols=21/79}
+[[0,0]]
+The $\pi$ molecular orbitals for benzene. 
+The dashed line represents the energy of an isolated p orbital all orbitals below this line are bonding, all above it are antibonding.
+Benzene has six electrons in its $\pi$ system so all the bonding MOs are fully occupied.
 
-![](./lecture_01_this_quantum_world/images/slide_64_img_98.png) {left=14.03 top=72.93 width=29.80 height=27.07}
-
-![](./lecture_01_this_quantum_world/images/slide_64_img_99.png) {left=42.97 top=51.66 width=51.59 height=25.71}
-
-![](./lecture_01_this_quantum_world/images/slide_64_img_100.png) {left=42.97 top=25.41 width=51.59 height=22.96}
-
-![](./lecture_01_this_quantum_world/images/slide_64_img_101.png) {left=15.20 top=1.39 width=40.55 height=25.71}
-
-![](./lecture_01_this_quantum_world/images/slide_64_img_102.png) {left=16.58 top=31.45 width=24.69 height=41.48}
-
-<div style="position: absolute; left: 61.19%; top: 3.70%; width: 31.36%; height: 13.74%;">
-
-Benzene has six π molecular orbitals
-
-</div>
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_65_img_103.png) {left=20.62 top=4.33 width=77.92 height=94.07}
-
-</div>
+<button 
+  onclick="window.openMoleculePopup({
+    'Benzene': './lecture_01_this_quantum_world/bundles/benzene.zip',
+    'Cyclooctatetraene': './lecture_01_this_quantum_world/bundles/cyclooctatetraene.zip'
+  })" 
+  style="padding: 10px 20px; font-size: 0.8em; cursor: pointer; border-radius: 8px;">
+  Show 3D Structure
+</button>
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_65_img_103.png){width=100}
+:::
 
 ---
+# Cyclic $\neq$ Aromatic
 
 <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
 
