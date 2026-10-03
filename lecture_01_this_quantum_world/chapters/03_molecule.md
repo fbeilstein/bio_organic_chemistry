@@ -458,6 +458,16 @@ all-cis-[10]annulene: ./lecture_01_this_quantum_world/bundles/all-cis-[10]annule
 ![](./lecture_01_this_quantum_world/images/slide_67_img_110.png){width=50}
 :::
 
+:::react{51.4 31.3 12.7 16.6 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Cyclopentadiene": "./lecture_01_this_quantum_world/bundles/cyclopentadiene.zip"});
+:::
+
+:::react{82 33 9 14 hover=yellow opacity=0.5}
+el.onclick = () => window.openMoleculePopup({
+"Cyclopentadiene": "./lecture_01_this_quantum_world/bundles/cyclopentadiene_ion.zip"});
+:::
+
 ---
 # Heterocyclic Aromatic Compounds (Drugs)
 
