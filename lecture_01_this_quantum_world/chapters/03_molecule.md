@@ -416,92 +416,55 @@ Benzene has six electrons in its $\pi$ system so all the bonding MOs are fully o
 ---
 # Cyclic $\neq$ Aromatic
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
+>## Hückel's rule
+>
+>* **Planar**, fully conjugated, monocyclic systems with $(4n + 2) \pi$ electrons have a closed shell of electrons all in bonding orbitals and are exceptionally stable. Such systems are said to be **aromatic**.
+>
+>* Analogous systems with $4n \pi$ electrons are described as anti-aromatic
 
-<div style="position: absolute; left: 17.09%; top: 33.49%; width: 80.35%; height: 16.51%;">
+:::matrix{cols=25/25/50}
+[[0,0]]
+![](./lecture_01_this_quantum_world/images/slide_66_img_105.png){width=100}
 
-**Note:** planarity matters. 10=2 x 4 +2, 18 = 2 x 8 + 2
+* **Electrons:** $10 = 2 \times 4 + 2$;
+* **Planarity:** non-planar! (in plane angles would be 144, not 120)
+* **Conclusion:** non-aromatic
+[[0,1]]
+![](./lecture_01_this_quantum_world/images/slide_66_img_106.png){width=100}
 
-</div>
+* **Electrons:** $18 = 4 \times 4 + 2$;
+* **Planarity:** planar
+* **Conclusion:** aromatic
 
-![](./lecture_01_this_quantum_world/images/slide_66_img_104.png) {left=16.23 top=-0.00 width=82.08 height=31.58}
-
-![](./lecture_01_this_quantum_world/images/slide_66_img_105.png) {left=23.40 top=50.00 width=15.94 height=30.00}
-
-![](./lecture_01_this_quantum_world/images/slide_66_img_106.png) {left=71.47 top=48.42 width=17.08 height=31.58}
-
-<div style="position: absolute; left: 20.39%; top: 79.88%; width: 41.61%; height: 20.12%;">
-
-Not planar -> not aromatic.
-Reason: in plane angles would be 144, not 120
-
-</div>
-
-<div style="position: absolute; left: 72.32%; top: 79.88%; width: 23.43%; height: 16.51%;">
-
-Planar, Aromatic
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_66_img_107.png) {left=39.33 top=51.92 width=17.08 height=19.55}
-
-</div>
+[[0,2]]
+:::molecule {width="100%" height=600px sidebar="collapsed" theme="auto"}
+all-cis-[10]annulene: ./lecture_01_this_quantum_world/bundles/all-cis-[10]annulene.zip
+[18]annulene: ./lecture_01_this_quantum_world/bundles/[18]annulene.zip
+:::
+:::
 
 ---
+# Aromaticity matters
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Aromaticity matters
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_67_img_108.png) {left=10.99 top=30.50 width=49.78 height=66.55}
-
-![](./lecture_01_this_quantum_world/images/slide_67_img_109.png) {left=59.68 top=21.93 width=40.32 height=30.54}
-
-![](./lecture_01_this_quantum_world/images/slide_67_img_110.png) {left=72.81 top=52.47 width=27.19 height=42.96}
-
-<div style="position: absolute; left: 48.42%; top: 22.42%; width: 22.62%; height: 5.97%;">
-
-2 electrons from H
-
-</div>
-
-</div>
+:::matrix{cols=50/50 gap=20px}
+[[0,0]]
+## Rections may differ for aromatic chemicals
+[[1,0]] ![](./lecture_01_this_quantum_world/images/slide_67_img_108.png){width=100}
+[[0,1]]
+## May influence stability of ions (acidity)
+[[1,1]]
+2 electrons from $\ce{H}$ conclude $4n + 2$ rule
+![](./lecture_01_this_quantum_world/images/slide_67_img_109.png){width=100}
+![](./lecture_01_this_quantum_world/images/slide_67_img_110.png){width=50}
+:::
 
 ---
+# Heterocyclic Aromatic Compounds (Drugs)
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Heterocyclic aromatic compounds
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_68_img_111.png) {left=17.08 top=16.99 width=72.19 height=33.01}
-
-![](./lecture_01_this_quantum_world/images/slide_68_img_112.png) {left=24.76 top=53.38 width=62.98 height=42.56}
-
-</div>
-
----
-
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-<div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
-
-Heterocyclic aromatic compounds
-
-</div>
-
-![](./lecture_01_this_quantum_world/images/slide_69_img_113.png) {left=18.47 top=16.66 width=75.55 height=46.10}
-
-![](./lecture_01_this_quantum_world/images/slide_69_img_114.png) {left=36.34 top=64.90 width=44.77 height=32.13}
-
-</div>
+|Chemical|Compounds|Chemical|Compounds|
+|---|---|---|---|
+![](./lecture_01_this_quantum_world/images/slide_69_img_113.png)**Omeprazole** --- Astra's best selling antiulcer drug | ![](/lecture_01_this_quantum_world/images/omeprazole_components.png) | ![](./lecture_01_this_quantum_world/images/slide_68_img_112.png)**LSD**, lysergic acid diethylamide, gives hallucinations | ![](/lecture_01_this_quantum_world/images/LSD_components.png)|
+![](./lecture_01_this_quantum_world/images/slide_68_img_111.png)**primicarb** --- selective insecticide<br> which kills aphids but not ladybirds | ![](/lecture_01_this_quantum_world/images/pyrimidine.png)<br> **pyrimidine** | ![](./lecture_01_this_quantum_world/images/slide_69_img_114.png){width=40}**Viagra**, Pfizer's treatment for male impotence | ![Pasted Image](/lecture_01_this_quantum_world/images/viagra_components.png){width=80% center}
 
 ---
 
