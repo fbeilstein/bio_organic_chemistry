@@ -53,7 +53,7 @@ Write hybridizations for all carbon atoms in vitamin C
 
 ## Solution
 
-![](/lecture_01_this_quantum_world/images/vitamin_c_hybridization.png)
+![](./lecture_01_this_quantum_world/images/vitamin_c_hybridization.png)
 
 ---
 # Problem 3
@@ -62,7 +62,7 @@ Fill in any nonbonding valence electrons that are missing in acetate ion
 
 ## Solution
 
-![](/lecture_01_this_quantum_world/images/acetate_ion.png)
+![](./lecture_01_this_quantum_world/images/acetate_ion.png)
 
 <!-- hidden:stop -->
 
