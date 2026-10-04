@@ -410,7 +410,7 @@ Benzene has six electrons in its $\pi$ system so all the bonding MOs are fully o
   Show 3D Structure
 </button>
 [[0,1]]
-![](./lecture_01_this_quantum_world/images/slide_65_img_103.png){width=100}
+![](./lecture_01_this_quantum_world/images/slide_65_img_103.png){width=99}
 :::
 
 ---
@@ -473,8 +473,8 @@ el.onclick = () => window.openMoleculePopup({
 
 |Chemical|Compounds|Chemical|Compounds|
 |---|---|---|---|
-![](./lecture_01_this_quantum_world/images/slide_69_img_113.png)**Omeprazole** --- Astra's best selling antiulcer drug | ![](/lecture_01_this_quantum_world/images/omeprazole_components.png) | ![](./lecture_01_this_quantum_world/images/slide_68_img_112.png)**LSD**, lysergic acid diethylamide, gives hallucinations | ![](/lecture_01_this_quantum_world/images/LSD_components.png)|
-![](./lecture_01_this_quantum_world/images/slide_68_img_111.png)**primicarb** --- selective insecticide<br> which kills aphids but not ladybirds | ![](/lecture_01_this_quantum_world/images/pyrimidine.png)<br> **pyrimidine** | ![](./lecture_01_this_quantum_world/images/slide_69_img_114.png){width=40}**Viagra**, Pfizer's treatment for male impotence | ![](/lecture_01_this_quantum_world/images/viagra_components.png)
+![](./lecture_01_this_quantum_world/images/slide_69_img_113.png)**Omeprazole** --- Astra's best selling antiulcer drug | ![](./lecture_01_this_quantum_world/images/omeprazole_components.png) | ![](./lecture_01_this_quantum_world/images/slide_68_img_112.png)**LSD**, lysergic acid diethylamide, gives hallucinations | ![](./lecture_01_this_quantum_world/images/LSD_components.png)|
+![](./lecture_01_this_quantum_world/images/slide_68_img_111.png)**primicarb** --- selective insecticide<br> which kills aphids but not ladybirds | ![](./lecture_01_this_quantum_world/images/pyrimidine.png)<br> **pyrimidine** | ![](./lecture_01_this_quantum_world/images/slide_69_img_114.png){width=40}**Viagra**, Pfizer's treatment for male impotence | ![](./lecture_01_this_quantum_world/images/viagra_components.png)
 
 ---
 # Heterocyclic Aromatic Compounds (In Nature)
@@ -482,19 +482,19 @@ el.onclick = () => window.openMoleculePopup({
 :::matrix{cols=25/25/25/25}
 [[0,0]] ![](./lecture_01_this_quantum_world/images/slide_70_img_115.png)
 <b>coumarin</b> -- the smell of new "mown hay" also found in lavender
-[[0,1]] ![](/lecture_01_this_quantum_world/images/coumarin_compounds.png)
+[[0,1]] ![](./lecture_01_this_quantum_world/images/coumarin_compounds.png)
 [[1,0:2]]{text-align: center; color:blue;} **Two furanocoumarin isomers**
-[[2,0]] ![](/lecture_01_this_quantum_world/images/psoralen.png){width=60}
+[[2,0]] ![](./lecture_01_this_quantum_world/images/psoralen.png){width=60}
 <b>psoralen</b>
-[[2,1]] ![](/lecture_01_this_quantum_world/images/angelicin.png){width=55}
+[[2,1]] ![](./lecture_01_this_quantum_world/images/angelicin.png){width=55}
 <b>angelicin</b>
-[[3,0]] ![](/lecture_01_this_quantum_world/images/purine.png){width=45}
+[[3,0]] ![](./lecture_01_this_quantum_world/images/purine.png){width=45}
 <b>purine</b>
-[[3,1]] ![](/lecture_01_this_quantum_world/images/purine_compounds.png){width=80}
+[[3,1]] ![](./lecture_01_this_quantum_world/images/purine_compounds.png){width=80}
 [[4,0:2]]{text-align: center; color:blue;} **Two purine bases**
-[[4,0]] ![](/lecture_01_this_quantum_world/images/adenine.png){width=35}
+[[4,0]] ![](./lecture_01_this_quantum_world/images/adenine.png){width=35}
 <b>adenine</b>
-[[4,1]] ![](/lecture_01_this_quantum_world/images/guanine.png){width=45}
+[[4,1]] ![](./lecture_01_this_quantum_world/images/guanine.png){width=45}
 <b>guanine</b>
 [[0:3,2]] ![](./lecture_01_this_quantum_world/images/slide_70_img_117.png){width=75}
 [[0,3]] 
