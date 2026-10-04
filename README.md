@@ -3,8 +3,7 @@
 
 ### 1. This Strange Quantum World
 * Lecture
-  - [Presentation (Google Slides)](https://docs.google.com/presentation/d/1bJ-XdrcQEoyBMzLhYU_bLlgh951WkFswGMt_4P1jogs/edit?usp=sharing)
-  - [UNDER DEVELOPMENT (my engine)](https://fbeilstein.github.io/bio_organic_chemistry/lecture_01_this_quantum_world.html)
+  - [Presentation](https://fbeilstein.github.io/bio_organic_chemistry/lecture_01_this_quantum_world.html)
 * Videos
   - [Part A](https://youtu.be/gEnC-plaWk4)
   - [Part B](https://youtu.be/ZRvMaur2JEE)
@@ -134,4 +133,5 @@
 
 
 ## Outdated Presentations (Google Slides) 
+  - [Lecture 1. This Strange Quantum World](https://docs.google.com/presentation/d/1bJ-XdrcQEoyBMzLhYU_bLlgh951WkFswGMt_4P1jogs/edit?usp=sharing)
   - [Lecture 3. Acids, Bases, Buffers, and pH in Biology](https://docs.google.com/presentation/d/1EYppIPuivRiutKh0c1DFGEoffgdORFrI1XIX63AWz7U/edit?usp=sharing)
