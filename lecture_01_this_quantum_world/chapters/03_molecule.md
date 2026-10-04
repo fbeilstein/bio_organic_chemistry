@@ -474,25 +474,35 @@ el.onclick = () => window.openMoleculePopup({
 |Chemical|Compounds|Chemical|Compounds|
 |---|---|---|---|
 ![](./lecture_01_this_quantum_world/images/slide_69_img_113.png)**Omeprazole** --- Astra's best selling antiulcer drug | ![](/lecture_01_this_quantum_world/images/omeprazole_components.png) | ![](./lecture_01_this_quantum_world/images/slide_68_img_112.png)**LSD**, lysergic acid diethylamide, gives hallucinations | ![](/lecture_01_this_quantum_world/images/LSD_components.png)|
-![](./lecture_01_this_quantum_world/images/slide_68_img_111.png)**primicarb** --- selective insecticide<br> which kills aphids but not ladybirds | ![](/lecture_01_this_quantum_world/images/pyrimidine.png)<br> **pyrimidine** | ![](./lecture_01_this_quantum_world/images/slide_69_img_114.png){width=40}**Viagra**, Pfizer's treatment for male impotence | ![Pasted Image](/lecture_01_this_quantum_world/images/viagra_components.png){width=80% center}
+![](./lecture_01_this_quantum_world/images/slide_68_img_111.png)**primicarb** --- selective insecticide<br> which kills aphids but not ladybirds | ![](/lecture_01_this_quantum_world/images/pyrimidine.png)<br> **pyrimidine** | ![](./lecture_01_this_quantum_world/images/slide_69_img_114.png){width=40}**Viagra**, Pfizer's treatment for male impotence | ![](/lecture_01_this_quantum_world/images/viagra_components.png)
 
 ---
+# Heterocyclic Aromatic Compounds (In Nature)
 
-<div style="position: relative; width: 100%; aspect-ratio: 16 / 9; margin: 0 auto;">
-
-![](./lecture_01_this_quantum_world/images/slide_70_img_115.png) {left=22.12 top=-0.00 width=70.10 height=22.59}
-
-![](./lecture_01_this_quantum_world/images/slide_70_img_116.png) {left=16.69 top=20.44 width=50.21 height=39.76}
-
-![](./lecture_01_this_quantum_world/images/slide_70_img_117.png) {left=68.57 top=25.56 width=27.88 height=71.48}
-
-![](./lecture_01_this_quantum_world/images/slide_70_img_118.png) {left=18.16 top=63.17 width=21.96 height=33.87}
-
-<div style="position: absolute; left: 43.66%; top: 60.70%; width: 18.19%; height: 35.07%;">
-
-Heracleum sosnowskyi, or Sosnowsky's hogweed. Invasive in Ukraine. May damage skin!
-
-</div>
-
-</div>
+:::matrix{cols=25/25/25/25}
+[[0,0]] ![](./lecture_01_this_quantum_world/images/slide_70_img_115.png)
+<b>coumarin</b> -- the smell of new "mown hay" also found in lavender
+[[0,1]] ![](/lecture_01_this_quantum_world/images/coumarin_compounds.png)
+[[1,0:2]]{text-align: center; color:blue;} **Two furanocoumarin isomers**
+[[2,0]] ![](/lecture_01_this_quantum_world/images/psoralen.png){width=60}
+<b>psoralen</b>
+[[2,1]] ![](/lecture_01_this_quantum_world/images/angelicin.png){width=55}
+<b>angelicin</b>
+[[3,0]] ![](/lecture_01_this_quantum_world/images/purine.png){width=45}
+<b>purine</b>
+[[3,1]] ![](/lecture_01_this_quantum_world/images/purine_compounds.png){width=80}
+[[4,0:2]]{text-align: center; color:blue;} **Two purine bases**
+[[4,0]] ![](/lecture_01_this_quantum_world/images/adenine.png){width=35}
+<b>adenine</b>
+[[4,1]] ![](/lecture_01_this_quantum_world/images/guanine.png){width=45}
+<b>guanine</b>
+[[0:3,2]] ![](./lecture_01_this_quantum_world/images/slide_70_img_117.png){width=75}
+[[0,3]] 
+**Heracleum sosnowskyi**, or Sosnowsky's hogweed. **Invasive in Ukraine.** May damage skin!
+[[1:3,3]] ![](./lecture_01_this_quantum_world/images/slide_70_img_118.png)
+[[3:5,2]] ![](./lecture_01_this_quantum_world/images/DNA_animation.gif)
+[[3:5,3]]
+**DNA Double Helix.**
+Adenine and guanine act as essential nucleobases. They encode genetic instructions across all living organisms in both DNA and RNA.
+:::
 

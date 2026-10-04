@@ -9,7 +9,7 @@ HOMEWORK
 
 <div style="position: absolute; left: 16.07%; top: 3.81%; width: 80.35%; height: 16.51%;">
 
-**Problem 1.** Draw the ground state electron configuration of the **oxygen. **I expect you to draw energy levels and populate them with electrons. Refer to Hund’s rule, aufbau principle, etc as needed.
+**Problem 1.** Draw the ground state electron configuration of the **oxygen.** I expect you to draw energy levels and populate them with electrons. Refer to Hund’s rule, aufbau principle, etc as needed.
 
 </div>
 
